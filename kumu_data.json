@@ -296,7 +296,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
         },
         {
-            "label": "[Unknown]",
+            "label": "Unknown",
             "Attribution to": [
                 "Clockwork Spider",
                 "Dextorous Spider",
@@ -2800,34 +2800,13 @@
             "Image": ""
         },
         {
-            "label": "[Middle East]",
+            "label": "Middle East",
             "Attribution to": [
                 "Bahamut",
                 "BlackOasis",
                 "Urpage",
                 "WIRTE Group"
             ],
-            "Targeted by": [],
-            "type": "country/organization"
-        },
-        {
-            "label": "Palestine",
-            "Attribution to": [],
-            "Targeted by": [
-                "Bahamut",
-                "The Big Bang",
-                "Desert Falcons",
-                "Equation Group",
-                "Molerats",
-                "Operation Parliament",
-                "Wild Neutron"
-            ],
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
-        },
-        {
-            "label": "Middle East",
-            "Attribution to": [],
             "Targeted by": [
                 "The Big Bang",
                 "Chafer",
@@ -2850,12 +2829,31 @@
             "Image": ""
         },
         {
-            "label": "[South Asia]",
+            "label": "Palestine",
+            "Attribution to": [],
+            "Targeted by": [
+                "Bahamut",
+                "The Big Bang",
+                "Desert Falcons",
+                "Equation Group",
+                "Molerats",
+                "Operation Parliament",
+                "Wild Neutron"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
+        },
+        {
+            "label": "South Asia",
             "Attribution to": [
                 "Bitter"
             ],
-            "Targeted by": [],
-            "type": "country/organization"
+            "Targeted by": [
+                "NineBlog",
+                "SideWinder"
+            ],
+            "type": "country/organization",
+            "Image": ""
         },
         {
             "label": "Pakistan",
@@ -3000,13 +2998,14 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
         },
         {
-            "label": "[Latin America]",
+            "label": "Latin America",
             "Attribution to": [
                 "Blind Eagle",
                 "Packrat"
             ],
             "Targeted by": [],
-            "type": "country/organization"
+            "type": "country/organization",
+            "Image": ""
         },
         {
             "label": "Colombia",
@@ -3176,6 +3175,7 @@
                 "Monty Spider",
                 "Mummy Spider",
                 "Narwhal Spider",
+                "Operation Windigo",
                 "Parinacota",
                 "Pinchy Spider",
                 "Salty Spider",
@@ -3323,12 +3323,13 @@
             "type": "country/organization"
         },
         {
-            "label": "[ISIS]",
+            "label": "ISIS",
             "Attribution to": [
                 "Cyber Caliphate Army (CCA)"
             ],
             "Targeted by": [],
-            "type": "country/organization"
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/2/28/AQMI_Flag_asymmetric.svg"
         },
         {
             "label": "Syria",
@@ -3432,7 +3433,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
         },
         {
-            "label": "[Gaza]",
+            "label": "Gaza",
             "Attribution to": [
                 "Desert Falcons",
                 "Molerats"
@@ -3906,16 +3907,6 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg"
         },
         {
-            "label": "South Asia",
-            "Attribution to": [],
-            "Targeted by": [
-                "NineBlog",
-                "SideWinder"
-            ],
-            "type": "country/organization",
-            "Image": ""
-        },
-        {
             "label": "Mauritius",
             "Attribution to": [],
             "Targeted by": [
@@ -4093,15 +4084,6 @@
             "Image": "https://www.apec.org/-/media/Files/AboutUs/LogoUse/APEC-Logo_jpg_vertical300dpi.jpg"
         },
         {
-            "label": "OSCE",
-            "Attribution to": [],
-            "Targeted by": [
-                "Sofacy"
-            ],
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/9/94/OSCE_flag.svg"
-        },
-        {
             "label": "Rwanda",
             "Attribution to": [],
             "Targeted by": [
@@ -4267,19 +4249,11 @@
             "type": "country/organization"
         },
         {
-            "label": "[Various]",
+            "label": "Various",
             "Attribution to": [
                 "Infraud Organization"
             ],
             "Targeted by": [],
-            "type": "country/organization"
-        },
-        {
-            "label": "Worlwide",
-            "Attribution to": [],
-            "Targeted by": [
-                "Operation Windigo"
-            ],
             "type": "country/organization"
         },
         {
@@ -4322,7 +4296,7 @@
                 "Clockwork Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "uuid": "93000251-ee2f-4865-9972-3ffe37bc62dd",
@@ -4356,7 +4330,7 @@
                 "Dextorous Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4425,7 +4399,7 @@
                 "Flyfox (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4461,7 +4435,7 @@
                 "Ghost Jackal (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4497,7 +4471,7 @@
                 "HolyWater (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "Not much is known about this actor yet.",
             "information": [
@@ -4567,7 +4541,7 @@
                 "Magnetic Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4621,7 +4595,7 @@
                 "Overlord Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "uuid": "7dba1c17-e639-4bc7-a420-ce6160d95619",
@@ -4654,7 +4628,7 @@
                 "ParkingBear (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4726,7 +4700,7 @@
                 "Singing Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4816,7 +4790,7 @@
                 "Union Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "information": [
@@ -4835,7 +4809,7 @@
                 "Vikingdom (?)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "description": "A threat actor mentioned in a summary report only, so we don't know who they are yet.",
             "uuid": "d4c3a0a1-57cd-4206-b3d5-046eaa89a44e",
@@ -4868,7 +4842,7 @@
                 "Aggah (Palo Alto)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -4934,7 +4908,7 @@
                 "Palmetto Fusion (DHS)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -6815,7 +6789,7 @@
                 "Bahamut (Bellingcat)"
             ],
             "country": [
-                "[Middle East]"
+                "Middle East"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -7020,7 +6994,7 @@
                 "The Big Bang (Check Point)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -7055,7 +7029,7 @@
                 "T-APT-17 (Tencent)"
             ],
             "country": [
-                "[South Asia]"
+                "South Asia"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -7327,7 +7301,7 @@
                 "BlackOasis (Kaspersky)"
             ],
             "country": [
-                "[Middle East]"
+                "Middle East"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -7433,7 +7407,7 @@
                 "APT-C-36 (Qihoo 360)"
             ],
             "country": [
-                "[Latin America]"
+                "Latin America"
             ],
             "sponsor": "State-sponsored",
             "motivation": [
@@ -7772,7 +7746,7 @@
                 "Callisto Group (F-Secure)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -8013,7 +7987,7 @@
                 "Ugly Face (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "sponsor": "State-sponsored",
             "motivation": [
@@ -8231,7 +8205,7 @@
                 "Chimera (CyCraft)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -8514,7 +8488,7 @@
                 "Nahr Elbard (transliteration)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -11140,7 +11114,7 @@
                 "TAG-CT6 (?)"
             ],
             "country": [
-                "[ISIS]"
+                "ISIS"
             ],
             "motivation": [
                 "Sabotage and destruction"
@@ -11465,7 +11439,7 @@
                 "DarkUniverse (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -11514,7 +11488,7 @@
                 "TAG-CT1 (?)"
             ],
             "country": [
-                "[Gaza]"
+                "Gaza"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -11712,7 +11686,7 @@
                 "SectorE02 (ThreatRecon)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -11925,7 +11899,7 @@
                 "TAG-NS1 (?)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -12220,7 +12194,7 @@
                 "Anthropoid Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -12600,7 +12574,7 @@
                 "Evilnum (Palo Alto)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -12701,7 +12675,7 @@
                 "FIN5 (FireEye)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -12741,7 +12715,7 @@
                 "TAG-CR2 (?)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime",
@@ -13667,7 +13641,7 @@
                 "ATK 113 (Thales)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -13740,7 +13714,7 @@
                 "FIN10 (FireEye)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -13777,7 +13751,7 @@
                 "Fishing Elephant (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -13919,7 +13893,7 @@
                 "Gallmaker (Symantec)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -14008,7 +13982,7 @@
                 "Gangnam Industrial Style (CyberX)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -14385,7 +14359,7 @@
                 "ATK 120 (Thales)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -14503,7 +14477,7 @@
                 "Honeybee (McAfee)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -16022,7 +15996,7 @@
                 "TA410 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -16785,7 +16759,7 @@
                 "TAG-CT5 (?)"
             ],
             "country": [
-                "[Gaza]"
+                "Gaza"
             ],
             "sponsor": "Hamas",
             "motivation": [
@@ -18043,7 +18017,7 @@
                 "Operation Black Atlas (Trend Micro)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -18126,7 +18100,7 @@
                 "Operation Comando (Palo Alto)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -18209,7 +18183,7 @@
                 "Operation Ghoul (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -18413,7 +18387,7 @@
                 "Operation Parliament (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -18543,7 +18517,7 @@
                 "Operation Potao Express (ESET)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -18688,7 +18662,7 @@
                 "Operation ViceLeaker (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -18746,7 +18720,7 @@
                 "Orangeworm (Symantec)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -18807,7 +18781,7 @@
                 "Packrat (Citizen Lab)"
             ],
             "country": [
-                "[Latin America]"
+                "Latin America"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -19505,7 +19479,7 @@
                 "PowerPool (ESET)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -19664,7 +19638,7 @@
                 "Pusikurac (Morphisec)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -19816,7 +19790,7 @@
                 "RATicate (Sophos)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -20082,7 +20056,7 @@
                 "RevengeHotels (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -20947,7 +20921,7 @@
                 "TAG-CR8 (?)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -21140,7 +21114,7 @@
                 "Slingshot (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -21397,19 +21371,18 @@
                 "Turkey",
                 "Ukraine",
                 "APEC",
-                "Australia",
-                "Croatia",
-                "Iraq",
-                "Montenegro",
-                "South Korea",
-                "UAE",
-                "OSCE",
-                "Germany",
-                "Poland",
-                "Uzbekistan",
-                "Latvia",
                 "Bulgaria",
-                "Tajikistan"
+                "Germany",
+                "Latvia",
+                "Poland",
+                "Tajikistan",
+                "Uzbekistan",
+                "Croatia",
+                "Montenegro",
+                "UAE",
+                "Iraq",
+                "Australia",
+                "South Korea"
             ],
             "targeted sectors": [
                 "Automotive",
@@ -23053,7 +23026,7 @@
                 "Sowbug (Symantec)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -23094,7 +23067,7 @@
                 "APT-C-15 (Qihoo 360)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -25067,7 +25040,7 @@
                 "Sweed (Talos)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -25272,7 +25245,7 @@
                 "Maze Team (self given)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime",
@@ -26464,7 +26437,7 @@
                 "TA530 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -26523,7 +26496,7 @@
                 "TA555 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -26996,7 +26969,7 @@
                 "Terbium (Microsoft)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Sabotage and destruction"
@@ -27586,7 +27559,7 @@
                 "Urpage (Trend Micro)"
             ],
             "country": [
-                "[Middle East]"
+                "Middle East"
             ],
             "sponsor": "State-sponsored",
             "motivation": [
@@ -27815,7 +27788,7 @@
                 "The White Company (Cylance)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "sponsor": "State-sponsored",
             "motivation": [
@@ -27854,7 +27827,7 @@
                 "Superman (?)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -27953,7 +27926,7 @@
                 "The Postal Group (CERT Polska)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28007,7 +27980,7 @@
                 "WilePressure (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28038,7 +28011,7 @@
                 "WindShift (DarkMatter)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28139,7 +28112,7 @@
                 "WIRTE Group (LAB52)"
             ],
             "country": [
-                "[Middle East]"
+                "Middle East"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28179,7 +28152,7 @@
                 "SectorD01 (ThreatRecon)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28219,7 +28192,7 @@
                 "APT-C-38 (Qihoo 360)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -28322,7 +28295,7 @@
                 "Achilles (AdvIntel)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -28426,7 +28399,7 @@
                 "TA544 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -28479,7 +28452,7 @@
                 "Boson Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -28944,7 +28917,7 @@
                 "Infraud Organization (real name)"
             ],
             "country": [
-                "[Various]"
+                "Various"
             ],
             "motivation": [
                 "Financial crime",
@@ -29044,7 +29017,7 @@
                 "Mealybug (Symantec)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -29092,7 +29065,7 @@
                 "Narwhal Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial gain"
@@ -29178,7 +29151,7 @@
             "label": "Operation Windigo",
             "id": "(apt)Operation Windigo",
             "targeted countries": [
-                "Worlwide"
+                "Worldwide"
             ],
             "first seen": "2011",
             "counter operations": "**2017-03**: Russian Citizen Pleads Guilty for Involvement in Global Botnet Conspiracy\nhttps://www.justice.gov/opa/pr/russian-citizen-pleads-guilty-involvement-global-botnet-conspiracy\r\n",
@@ -29220,7 +29193,7 @@
                 "Parinacota (Microsoft)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial gain"
@@ -29334,7 +29307,7 @@
                 "Roaming Mantis Group (Kaspersky)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -35103,7 +35076,7 @@
                 "TA547 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime",
@@ -35175,7 +35148,7 @@
                 "ShinyHunters (self given)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial gain"
@@ -35235,7 +35208,7 @@
                 "Smoky Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial gain"
@@ -35269,7 +35242,7 @@
                 "TA516 (Proofpoint)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime",
@@ -35303,7 +35276,7 @@
                 "TH-163 (Yoroi)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -35346,7 +35319,7 @@
                 "Tiny Spider (CrowdStrike)"
             ],
             "country": [
-                "[Unknown]"
+                "Unknown"
             ],
             "motivation": [
                 "Financial crime"
@@ -37387,440 +37360,440 @@
             "direction": "directed"
         },
         {
-            "id": "[Unknown]-Clockwork Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Clockwork Spider",
+            "from": "Unknown",
             "to": "Clockwork Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Dextorous Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Dextorous Spider",
+            "from": "Unknown",
             "to": "Dextorous Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Flyfox",
-            "from": "[Unknown]",
+            "id": "Unknown-Flyfox",
+            "from": "Unknown",
             "to": "Flyfox",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Ghost Jackal",
-            "from": "[Unknown]",
+            "id": "Unknown-Ghost Jackal",
+            "from": "Unknown",
             "to": "Ghost Jackal",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-HolyWater",
-            "from": "[Unknown]",
+            "id": "Unknown-HolyWater",
+            "from": "Unknown",
             "to": "HolyWater",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Magnetic Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Magnetic Spider",
+            "from": "Unknown",
             "to": "Magnetic Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Overlord Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Overlord Spider",
+            "from": "Unknown",
             "to": "Overlord Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-ParkingBear",
-            "from": "[Unknown]",
+            "id": "Unknown-ParkingBear",
+            "from": "Unknown",
             "to": "ParkingBear",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Singing Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Singing Spider",
+            "from": "Unknown",
             "to": "Singing Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Union Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Union Spider",
+            "from": "Unknown",
             "to": "Union Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Viking Jackal",
-            "from": "[Unknown]",
+            "id": "Unknown-Viking Jackal",
+            "from": "Unknown",
             "to": "Viking Jackal",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Aggah",
-            "from": "[Unknown]",
+            "id": "Unknown-Aggah",
+            "from": "Unknown",
             "to": "Aggah",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Allanite",
-            "from": "[Unknown]",
+            "id": "Unknown-Allanite",
+            "from": "Unknown",
             "to": "Allanite",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-The Big Bang",
-            "from": "[Unknown]",
+            "id": "Unknown-The Big Bang",
+            "from": "Unknown",
             "to": "The Big Bang",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Callisto Group",
-            "from": "[Unknown]",
+            "id": "Unknown-Callisto Group",
+            "from": "Unknown",
             "to": "Callisto Group",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Careto",
-            "from": "[Unknown]",
+            "id": "Unknown-Careto",
+            "from": "Unknown",
             "to": "Careto",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Chimera",
-            "from": "[Unknown]",
+            "id": "Unknown-Chimera",
+            "from": "Unknown",
             "to": "Chimera",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Cold River",
-            "from": "[Unknown]",
+            "id": "Unknown-Cold River",
+            "from": "Unknown",
             "to": "Cold River",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-DarkUniverse",
-            "from": "[Unknown]",
+            "id": "Unknown-DarkUniverse",
+            "from": "Unknown",
             "to": "DarkUniverse",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Donot Team",
-            "from": "[Unknown]",
+            "id": "Unknown-Donot Team",
+            "from": "Unknown",
             "to": "Donot Team",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-El Machete",
-            "from": "[Unknown]",
+            "id": "Unknown-El Machete",
+            "from": "Unknown",
             "to": "El Machete",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-EmpireMonkey",
-            "from": "[Unknown]",
+            "id": "Unknown-EmpireMonkey",
+            "from": "Unknown",
             "to": "EmpireMonkey",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Evilnum",
-            "from": "[Unknown]",
+            "id": "Unknown-Evilnum",
+            "from": "Unknown",
             "to": "Evilnum",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-FIN5",
-            "from": "[Unknown]",
+            "id": "Unknown-FIN5",
+            "from": "Unknown",
             "to": "FIN5",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-FIN6",
-            "from": "[Unknown]",
+            "id": "Unknown-FIN6",
+            "from": "Unknown",
             "to": "FIN6",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-FIN8",
-            "from": "[Unknown]",
+            "id": "Unknown-FIN8",
+            "from": "Unknown",
             "to": "FIN8",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-FIN10",
-            "from": "[Unknown]",
+            "id": "Unknown-FIN10",
+            "from": "Unknown",
             "to": "FIN10",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Fishing Elephant",
-            "from": "[Unknown]",
+            "id": "Unknown-Fishing Elephant",
+            "from": "Unknown",
             "to": "Fishing Elephant",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Gallmaker",
-            "from": "[Unknown]",
+            "id": "Unknown-Gallmaker",
+            "from": "Unknown",
             "to": "Gallmaker",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Gangnam Industrial Style",
-            "from": "[Unknown]",
+            "id": "Unknown-Gangnam Industrial Style",
+            "from": "Unknown",
             "to": "Gangnam Industrial Style",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Hexane",
-            "from": "[Unknown]",
+            "id": "Unknown-Hexane",
+            "from": "Unknown",
             "to": "Hexane",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Honeybee",
-            "from": "[Unknown]",
+            "id": "Unknown-Honeybee",
+            "from": "Unknown",
             "to": "Honeybee",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-LookBack",
-            "from": "[Unknown]",
+            "id": "Unknown-LookBack",
+            "from": "Unknown",
             "to": "LookBack",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation Black Atlas",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation Black Atlas",
+            "from": "Unknown",
             "to": "Operation Black Atlas",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation Comando",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation Comando",
+            "from": "Unknown",
             "to": "Operation Comando",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation Ghoul",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation Ghoul",
+            "from": "Unknown",
             "to": "Operation Ghoul",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation Parliament",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation Parliament",
+            "from": "Unknown",
             "to": "Operation Parliament",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation Potao Express",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation Potao Express",
+            "from": "Unknown",
             "to": "Operation Potao Express",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Operation ViceLeaker",
-            "from": "[Unknown]",
+            "id": "Unknown-Operation ViceLeaker",
+            "from": "Unknown",
             "to": "Operation ViceLeaker",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Orangeworm",
-            "from": "[Unknown]",
+            "id": "Unknown-Orangeworm",
+            "from": "Unknown",
             "to": "Orangeworm",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-PowerPool",
-            "from": "[Unknown]",
+            "id": "Unknown-PowerPool",
+            "from": "Unknown",
             "to": "PowerPool",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Pusikurac",
-            "from": "[Unknown]",
+            "id": "Unknown-Pusikurac",
+            "from": "Unknown",
             "to": "Pusikurac",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-RATicate",
-            "from": "[Unknown]",
+            "id": "Unknown-RATicate",
+            "from": "Unknown",
             "to": "RATicate",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-RevengeHotels",
-            "from": "[Unknown]",
+            "id": "Unknown-RevengeHotels",
+            "from": "Unknown",
             "to": "RevengeHotels",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Silence",
-            "from": "[Unknown]",
+            "id": "Unknown-Silence",
+            "from": "Unknown",
             "to": "Silence",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Slingshot",
-            "from": "[Unknown]",
+            "id": "Unknown-Slingshot",
+            "from": "Unknown",
             "to": "Slingshot",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Sowbug",
-            "from": "[Unknown]",
+            "id": "Unknown-Sowbug",
+            "from": "Unknown",
             "to": "Sowbug",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Sphinx",
-            "from": "[Unknown]",
+            "id": "Unknown-Sphinx",
+            "from": "Unknown",
             "to": "Sphinx",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Sweed",
-            "from": "[Unknown]",
+            "id": "Unknown-Sweed",
+            "from": "Unknown",
             "to": "Sweed",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-TA2101",
-            "from": "[Unknown]",
+            "id": "Unknown-TA2101",
+            "from": "Unknown",
             "to": "TA2101",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-TA530",
-            "from": "[Unknown]",
+            "id": "Unknown-TA530",
+            "from": "Unknown",
             "to": "TA530",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-TA555",
-            "from": "[Unknown]",
+            "id": "Unknown-TA555",
+            "from": "Unknown",
             "to": "TA555",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Terbium",
-            "from": "[Unknown]",
+            "id": "Unknown-Terbium",
+            "from": "Unknown",
             "to": "Terbium",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-The White Company",
-            "from": "[Unknown]",
+            "id": "Unknown-The White Company",
+            "from": "Unknown",
             "to": "The White Company",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Whitefly",
-            "from": "[Unknown]",
+            "id": "Unknown-Whitefly",
+            "from": "Unknown",
             "to": "Whitefly",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Wild Neutron",
-            "from": "[Unknown]",
+            "id": "Unknown-Wild Neutron",
+            "from": "Unknown",
             "to": "Wild Neutron",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-WilePressure",
-            "from": "[Unknown]",
+            "id": "Unknown-WilePressure",
+            "from": "Unknown",
             "to": "WilePressure",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-WindShift",
-            "from": "[Unknown]",
+            "id": "Unknown-WindShift",
+            "from": "Unknown",
             "to": "WindShift",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-xHunt",
-            "from": "[Unknown]",
+            "id": "Unknown-xHunt",
+            "from": "Unknown",
             "to": "xHunt",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-ZooPark",
-            "from": "[Unknown]",
+            "id": "Unknown-ZooPark",
+            "from": "Unknown",
             "to": "ZooPark",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Achilles",
-            "from": "[Unknown]",
+            "id": "Unknown-Achilles",
+            "from": "Unknown",
             "to": "Achilles",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Bamboo Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Bamboo Spider",
+            "from": "Unknown",
             "to": "Bamboo Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Boson Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Boson Spider",
+            "from": "Unknown",
             "to": "Boson Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Mummy Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Mummy Spider",
+            "from": "Unknown",
             "to": "Mummy Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Narwhal Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Narwhal Spider",
+            "from": "Unknown",
             "to": "Narwhal Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Parinacota",
-            "from": "[Unknown]",
+            "id": "Unknown-Parinacota",
+            "from": "Unknown",
             "to": "Parinacota",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Roaming Mantis",
-            "from": "[Unknown]",
+            "id": "Unknown-Roaming Mantis",
+            "from": "Unknown",
             "to": "Roaming Mantis",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Scully Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Scully Spider",
+            "from": "Unknown",
             "to": "Scully Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-ShinyHunters",
-            "from": "[Unknown]",
+            "id": "Unknown-ShinyHunters",
+            "from": "Unknown",
             "to": "ShinyHunters",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Smoky Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Smoky Spider",
+            "from": "Unknown",
             "to": "Smoky Spider",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-TA516",
-            "from": "[Unknown]",
+            "id": "Unknown-TA516",
+            "from": "Unknown",
             "to": "TA516",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-TA554",
-            "from": "[Unknown]",
+            "id": "Unknown-TA554",
+            "from": "Unknown",
             "to": "TA554",
             "type": "attribution"
         },
         {
-            "id": "[Unknown]-Tiny Spider",
-            "from": "[Unknown]",
+            "id": "Unknown-Tiny Spider",
+            "from": "Unknown",
             "to": "Tiny Spider",
             "type": "attribution"
         },
@@ -50278,77 +50251,28 @@
             "direction": "directed"
         },
         {
-            "id": "[Middle East]-Bahamut",
-            "from": "[Middle East]",
+            "id": "Middle East-Bahamut",
+            "from": "Middle East",
             "to": "Bahamut",
             "type": "attribution"
         },
         {
-            "id": "[Middle East]-BlackOasis",
-            "from": "[Middle East]",
+            "id": "Middle East-BlackOasis",
+            "from": "Middle East",
             "to": "BlackOasis",
             "type": "attribution"
         },
         {
-            "id": "[Middle East]-Urpage",
-            "from": "[Middle East]",
+            "id": "Middle East-Urpage",
+            "from": "Middle East",
             "to": "Urpage",
             "type": "attribution"
         },
         {
-            "id": "[Middle East]-WIRTE Group",
-            "from": "[Middle East]",
+            "id": "Middle East-WIRTE Group",
+            "from": "Middle East",
             "to": "WIRTE Group",
             "type": "attribution"
-        },
-        {
-            "id": "Bahamut-Palestine",
-            "from": "Bahamut",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "The Big Bang-Palestine",
-            "from": "The Big Bang",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Desert Falcons-Palestine",
-            "from": "Desert Falcons",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Equation Group-Palestine",
-            "from": "Equation Group",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Molerats-Palestine",
-            "from": "Molerats",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Operation Parliament-Palestine",
-            "from": "Operation Parliament",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Wild Neutron-Palestine",
-            "from": "Wild Neutron",
-            "to": "Palestine",
-            "type": "target",
-            "direction": "directed"
         },
         {
             "id": "The Big Bang-Middle East",
@@ -50463,10 +50387,73 @@
             "direction": "directed"
         },
         {
-            "id": "[South Asia]-Bitter",
-            "from": "[South Asia]",
+            "id": "Bahamut-Palestine",
+            "from": "Bahamut",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "The Big Bang-Palestine",
+            "from": "The Big Bang",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Desert Falcons-Palestine",
+            "from": "Desert Falcons",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Equation Group-Palestine",
+            "from": "Equation Group",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Molerats-Palestine",
+            "from": "Molerats",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation Parliament-Palestine",
+            "from": "Operation Parliament",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Wild Neutron-Palestine",
+            "from": "Wild Neutron",
+            "to": "Palestine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "South Asia-Bitter",
+            "from": "South Asia",
             "to": "Bitter",
             "type": "attribution"
+        },
+        {
+            "id": "NineBlog-South Asia",
+            "from": "NineBlog",
+            "to": "South Asia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "SideWinder-South Asia",
+            "from": "SideWinder",
+            "to": "South Asia",
+            "type": "target",
+            "direction": "directed"
         },
         {
             "id": "Pakistan-Gorgon Group",
@@ -51109,14 +51096,14 @@
             "direction": "directed"
         },
         {
-            "id": "[Latin America]-Blind Eagle",
-            "from": "[Latin America]",
+            "id": "Latin America-Blind Eagle",
+            "from": "Latin America",
             "to": "Blind Eagle",
             "type": "attribution"
         },
         {
-            "id": "[Latin America]-Packrat",
-            "from": "[Latin America]",
+            "id": "Latin America-Packrat",
+            "from": "Latin America",
             "to": "Packrat",
             "type": "attribution"
         },
@@ -51772,6 +51759,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation Windigo-Worldwide",
+            "from": "Operation Windigo",
+            "to": "Worldwide",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Parinacota-Worldwide",
             "from": "Parinacota",
             "to": "Worldwide",
@@ -52163,8 +52157,8 @@
             "direction": "directed"
         },
         {
-            "id": "[ISIS]-Cyber Caliphate Army (CCA)",
-            "from": "[ISIS]",
+            "id": "ISIS-Cyber Caliphate Army (CCA)",
+            "from": "ISIS",
             "to": "Cyber Caliphate Army (CCA)",
             "type": "attribution"
         },
@@ -52530,14 +52524,14 @@
             "direction": "directed"
         },
         {
-            "id": "[Gaza]-Desert Falcons",
-            "from": "[Gaza]",
+            "id": "Gaza-Desert Falcons",
+            "from": "Gaza",
             "to": "Desert Falcons",
             "type": "attribution"
         },
         {
-            "id": "[Gaza]-Molerats",
-            "from": "[Gaza]",
+            "id": "Gaza-Molerats",
+            "from": "Gaza",
             "to": "Molerats",
             "type": "attribution"
         },
@@ -53501,20 +53495,6 @@
             "direction": "directed"
         },
         {
-            "id": "NineBlog-South Asia",
-            "from": "NineBlog",
-            "to": "South Asia",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "SideWinder-South Asia",
-            "from": "SideWinder",
-            "to": "South Asia",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
             "id": "OilRig-Mauritius",
             "from": "OilRig",
             "to": "Mauritius",
@@ -53732,13 +53712,6 @@
             "direction": "directed"
         },
         {
-            "id": "Sofacy-OSCE",
-            "from": "Sofacy",
-            "to": "OSCE",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
             "id": "Strider-Rwanda",
             "from": "Strider",
             "to": "Rwanda",
@@ -53872,17 +53845,10 @@
             "direction": "directed"
         },
         {
-            "id": "[Various]-Infraud Organization",
-            "from": "[Various]",
+            "id": "Various-Infraud Organization",
+            "from": "Various",
             "to": "Infraud Organization",
             "type": "attribution"
-        },
-        {
-            "id": "Operation Windigo-Worlwide",
-            "from": "Operation Windigo",
-            "to": "Worlwide",
-            "type": "target",
-            "direction": "directed"
         }
     ]
 }
