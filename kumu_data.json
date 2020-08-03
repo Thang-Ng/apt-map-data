@@ -1493,7 +1493,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
         },
         {
-            "label": "others",
+            "label": "Others",
             "Attribution to": [],
             "Targeted by": [
                 "Anchor Panda",
@@ -3271,7 +3271,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
         },
         {
-            "label": "most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
+            "label": "Most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
             "Attribution to": [],
             "Targeted by": [
                 "Confucius"
@@ -3883,7 +3883,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Macedonia.svg"
         },
         {
-            "label": "the BBC and the Office of the Quartet Representative",
+            "label": "The BBC and the Office of the Quartet Representative",
             "Attribution to": [],
             "Targeted by": [
                 "Molerats"
@@ -4222,7 +4222,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
         },
         {
-            "label": "elsewhere",
+            "label": "Elsewhere",
             "Attribution to": [],
             "Targeted by": [
                 "Wicked Spider"
@@ -4256,7 +4256,7 @@
             "Image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
         },
         {
-            "label": "other",
+            "label": "Other",
             "Attribution to": [],
             "Targeted by": [
                 "Bamboo Spider"
@@ -4994,7 +4994,7 @@
                 "Sweden",
                 "UK",
                 "USA",
-                "others"
+                "Others"
             ],
             "targeted sectors": [
                 "Aerospace",
@@ -5407,7 +5407,7 @@
                 "Media",
                 "Mining",
                 "NGOs",
-                "lawyers"
+                "Lawyers"
             ],
             "first seen": "2009",
             "mitre attack": [
@@ -5538,7 +5538,7 @@
                 "Pharmaceutical",
                 "Telecommunications",
                 "Think Tanks",
-                "political dissidents and Forbes"
+                "Political dissidents and Forbes"
             ],
             "first seen": "2013",
             "counter operations": "**2017-08**: US Arrests Chinese Man Involved With Sakula Malware Used in OPM and Anthem Hacks\nhttps://www.bleepingcomputer.com/news/security/us-arrests-chinese-man-involved-with-sakula-malware-used-in-opm-and-anthem-hacks/\r\n**2018-10**: U.S. Indicts Chinese Hacker-Spies in Conspiracy to Steal Aerospace Secrets\nhttps://gizmodo.com/u-s-indicts-chinese-hacker-spies-in-conspiracy-to-stea-1830111695\r\n**2019-05**: Chinese national indicted for 2015 Anthem breach\nhttps://www.cyberscoop.com/anthem-breach-indictment-chinese-national/\r\n",
@@ -6460,7 +6460,7 @@
                 "Manufacturing",
                 "Media",
                 "Petrochemical",
-                "others"
+                "Others"
             ],
             "first seen": "2013",
             "mitre attack": [
@@ -7039,7 +7039,7 @@
             ],
             "targeted sectors": [
                 "Law enforcement",
-                "others"
+                "Others"
             ],
             "first seen": "2017",
             "last card change": "2020-04-15"
@@ -7357,7 +7357,7 @@
             "targeted sectors": [
                 "Media",
                 "Think Tanks",
-                "activists and the UN"
+                "Activists and the UN"
             ],
             "first seen": "2015",
             "mitre attack": [
@@ -7453,7 +7453,7 @@
             "targeted sectors": [
                 "Financial",
                 "Government",
-                "large domestic companies and multinational corporation branches"
+                "Large domestic companies and multinational corporation branches"
             ],
             "first seen": "2018",
             "last card change": "2020-04-14",
@@ -7791,7 +7791,7 @@
                 "Defense",
                 "Government",
                 "Think Tanks",
-                "journalists"
+                "Journalists"
             ],
             "first seen": "2013",
             "last card change": "2020-04-14"
@@ -10828,7 +10828,7 @@
                 "Pakistan",
                 "Trinidad and Tobago",
                 "Ukraine",
-                "most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries"
+                "Most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries"
             ],
             "first seen": "2013",
             "last card change": "2020-04-15"
@@ -11224,7 +11224,7 @@
                 "Manufacturing",
                 "Media",
                 "Utilities",
-                "activists, lawyers and journalists"
+                "Activists, lawyers and journalists"
             ],
             "first seen": "2007",
             "mitre attack": [
@@ -11317,7 +11317,7 @@
                 "UK",
                 "USA",
                 "Vietnam",
-                "others"
+                "Others"
             ],
             "targeted sectors": [
                 "Defense",
@@ -11491,11 +11491,11 @@
                 "Syria",
                 "Tanzania",
                 "UAE",
-                "others"
+                "Others"
             ],
             "targeted sectors": [
                 "Defense",
-                "civilian"
+                "Civilian"
             ],
             "first seen": "2017",
             "last card change": "2020-04-14"
@@ -11848,7 +11848,7 @@
                 "Defense",
                 "Government",
                 "Media",
-                "diplomats and dissidents"
+                "Diplomats and dissidents"
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
@@ -11965,7 +11965,7 @@
                 "Ukraine",
                 "USA",
                 "Venezuela",
-                "others"
+                "Others"
             ],
             "targeted sectors": [
                 "Defense",
@@ -13833,7 +13833,7 @@
             ],
             "targeted sectors": [
                 "Defense",
-                "dissidents"
+                "Dissidents"
             ],
             "first seen": "2010",
             "last card change": "2020-04-14"
@@ -13989,7 +13989,7 @@
                 "Government",
                 "Law enforcement",
                 "NGOs",
-                "diplomats and journalists"
+                "Diplomats and journalists"
             ],
             "first seen": "2013",
             "mitre attack": [
@@ -14486,7 +14486,7 @@
                 "Non-profit organizations",
                 "Pharmaceutical",
                 "Retail",
-                "lawyers"
+                "Lawyers"
             ],
             "first seen": "2009",
             "counter operations": "**2014**: Operation \u201cSMN\u201d\nSecurity vendors take action against Hidden Lynx malware\nhttps://www.symantec.com/connect/blogs/security-vendors-take-action-against-hidden-lynx-malware\r\n",
@@ -14642,7 +14642,7 @@
                 "Media",
                 "Telecommunications",
                 "Utilities",
-                "others"
+                "Others"
             ],
             "first seen": "2011",
             "last card change": "2020-04-15",
@@ -14857,7 +14857,7 @@
             ],
             "targeted sectors": [
                 "Government",
-                "private sectors"
+                "Private sectors"
             ],
             "first seen": "2013",
             "counter operations": "**2016-06**: Prince of Persia \u2013 Game Over\nhttps://unit42.paloaltonetworks.com/unit42-prince-of-persia-game-over/\r\n",
@@ -15943,7 +15943,7 @@
                 "Research",
                 "Shipping and Logistics",
                 "Transportation",
-                "other Maritime-related targets across multiple verticals"
+                "Other Maritime-related targets across multiple verticals"
             ],
             "first seen": "2013",
             "mitre attack": [
@@ -16664,7 +16664,7 @@
                 "Oil and gas",
                 "Technology",
                 "Telecommunications",
-                "that are either based or have business interests in Saudi Arabia, and ClearSky, HBO, civil and human rights activists and journalists"
+                "That are either based or have business interests in Saudi Arabia, and ClearSky, HBO, civil and human rights activists and journalists"
             ],
             "first seen": "2013",
             "counter operations": "**2019-02**: Former U.S. Counterintelligence Agent Charged With Espionage on Behalf of Iran; Four Iranians Charged With a Cyber Campaign Targeting Her Former Colleagues\nhttps://www.justice.gov/opa/pr/former-us-counterintelligence-agent-charged-espionage-behalf-iran-four-iranians-charged-cyber\r\n**2019-03**: Microsoft slaps down 99 APT35/Charming Kitten domains\nhttps://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/\r\n",
@@ -16843,7 +16843,7 @@
                 "UK",
                 "USA",
                 "Yemen",
-                "the BBC and the Office of the Quartet Representative"
+                "The BBC and the Office of the Quartet Representative"
             ],
             "targeted sectors": [
                 "Aerospace",
@@ -16856,7 +16856,7 @@
                 "Media",
                 "Oil and gas",
                 "Telecommunications",
-                "journalists and software developers"
+                "Journalists and software developers"
             ],
             "first seen": "2012",
             "mitre attack": [
@@ -18145,7 +18145,7 @@
             ],
             "targeted sectors": [
                 "Hospitality",
-                "specifically on hotel reservations"
+                "Specifically on hotel reservations"
             ],
             "first seen": "2018",
             "last card change": "2020-04-14"
@@ -18282,7 +18282,7 @@
             ],
             "targeted sectors": [
                 "Government",
-                "politicians and journalists"
+                "Politicians and journalists"
             ],
             "first seen": "2008",
             "last card change": "2020-04-15"
@@ -18827,7 +18827,7 @@
             "targeted sectors": [
                 "Government",
                 "Media",
-                "high profile political figures, journalists, and others"
+                "High profile political figures, journalists, and others"
             ],
             "first seen": "2008",
             "last card change": "2020-04-22",
@@ -19528,7 +19528,7 @@
                 "UK",
                 "Ukraine",
                 "USA",
-                "others"
+                "Others"
             ],
             "first seen": "2018",
             "last card change": "2020-04-14",
@@ -19766,7 +19766,7 @@
             ],
             "targeted sectors": [
                 "Government",
-                "political entities"
+                "Political entities"
             ],
             "first seen": "2017",
             "mitre attack": [
@@ -20020,7 +20020,7 @@
             ],
             "targeted sectors": [
                 "Government",
-                "the Tibetan and Uyghur communities and Falun Gong supporters"
+                "The Tibetan and Uyghur communities and Falun Gong supporters"
             ],
             "first seen": "2015",
             "last card change": "2020-04-15"
@@ -20705,7 +20705,7 @@
             "targeted sectors": [
                 "Education",
                 "Government",
-                "others"
+                "Others"
             ],
             "first seen": "2010",
             "counter operations": "**2010**: Taken down by the Shadowserver Foundation.\r\n",
@@ -21263,7 +21263,7 @@
                 "Defense",
                 "Government",
                 "Media",
-                "private sectors"
+                "Private sectors"
             ],
             "first seen": "2011",
             "last card change": "2020-04-24"
@@ -25157,7 +25157,7 @@
                 "Media",
                 "Retail",
                 "Telecommunications",
-                "dissidents"
+                "Dissidents"
             ],
             "first seen": "2011",
             "counter operations": "**2018-05**: Two Members of Syrian Electronic Army Indicted for Conspiracy\nhttps://www.justice.gov/usao-edva/pr/two-members-syrian-electronic-army-indicted-conspiracy\r\n",
@@ -26966,7 +26966,7 @@
             "targeted countries": [
                 "Saudi Arabia",
                 "USA",
-                "others"
+                "Others"
             ],
             "targeted sectors": [
                 "Critical infrastructure",
@@ -27885,7 +27885,7 @@
                 "Healthcare",
                 "Media",
                 "Telecommunications",
-                "weapon industries"
+                "Weapon industries"
             ],
             "first seen": "2012",
             "last card change": "2020-04-14"
@@ -27925,7 +27925,7 @@
                 "Thailand",
                 "Turkey",
                 "USA",
-                "elsewhere"
+                "Elsewhere"
             ],
             "targeted sectors": [
                 "Technology"
@@ -28154,7 +28154,7 @@
             "targeted sectors": [
                 "Defense",
                 "Government",
-                "diplomats"
+                "Diplomats"
             ],
             "first seen": "2018",
             "mitre attack": [
@@ -28338,7 +28338,7 @@
             "targeted sectors": [
                 "Defense",
                 "Government",
-                "private sectors"
+                "Private sectors"
             ],
             "first seen": "2018",
             "last card change": "2020-04-15"
@@ -28449,7 +28449,7 @@
                 "Spain",
                 "UK",
                 "USA",
-                "other"
+                "Other"
             ],
             "targeted sectors": [
                 "Financial",
@@ -35547,7 +35547,7 @@
                 "Ukraine",
                 "USA",
                 "Vietnam",
-                "others"
+                "Others"
             ],
             "first seen": "2016",
             "last card change": "2020-04-14"
@@ -44211,51 +44211,51 @@
             "direction": "directed"
         },
         {
-            "id": "Anchor Panda-others",
+            "id": "Anchor Panda-Others",
             "from": "Anchor Panda",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "DarkHotel-others",
+            "id": "DarkHotel-Others",
             "from": "DarkHotel",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "DarkUniverse-others",
+            "id": "DarkUniverse-Others",
             "from": "DarkUniverse",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "El Machete-others",
+            "id": "El Machete-Others",
             "from": "El Machete",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "PowerPool-others",
+            "id": "PowerPool-Others",
             "from": "PowerPool",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "TEMP.Veles-others",
+            "id": "TEMP.Veles-Others",
             "from": "TEMP.Veles",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
         {
-            "id": "Yingmob-others",
+            "id": "Yingmob-Others",
             "from": "Yingmob",
-            "to": "others",
+            "to": "Others",
             "type": "target",
             "direction": "directed"
         },
@@ -52028,9 +52028,9 @@
             "direction": "directed"
         },
         {
-            "id": "Confucius-most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
+            "id": "Confucius-Most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
             "from": "Confucius",
-            "to": "most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
+            "to": "Most of the South and Southeast Asian countries, most of the Middle Eastern countries and most of the African countries",
             "type": "target",
             "direction": "directed"
         },
@@ -53436,9 +53436,9 @@
             "direction": "directed"
         },
         {
-            "id": "Molerats-the BBC and the Office of the Quartet Representative",
+            "id": "Molerats-The BBC and the Office of the Quartet Representative",
             "from": "Molerats",
-            "to": "the BBC and the Office of the Quartet Representative",
+            "to": "The BBC and the Office of the Quartet Representative",
             "type": "target",
             "direction": "directed"
         },
@@ -53786,9 +53786,9 @@
             "direction": "directed"
         },
         {
-            "id": "Wicked Spider-elsewhere",
+            "id": "Wicked Spider-Elsewhere",
             "from": "Wicked Spider",
-            "to": "elsewhere",
+            "to": "Elsewhere",
             "type": "target",
             "direction": "directed"
         },
@@ -53814,9 +53814,9 @@
             "direction": "directed"
         },
         {
-            "id": "Bamboo Spider-other",
+            "id": "Bamboo Spider-Other",
             "from": "Bamboo Spider",
-            "to": "other",
+            "to": "Other",
             "type": "target",
             "direction": "directed"
         },
