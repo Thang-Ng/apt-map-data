@@ -4062,6 +4062,15 @@
             "type": "country/organization"
         },
         {
+            "label": "OSCE",
+            "Attribution to": [],
+            "Targeted by": [
+                "Sofacy"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/9/94/OSCE_flag.svg"
+        },
+        {
             "label": "Rwanda",
             "Attribution to": [],
             "Targeted by": [
@@ -21317,7 +21326,6 @@
             "label": "Sofacy",
             "id": "(apt)Sofacy",
             "targeted countries": [
-                "Afghanistan",
                 "Armenia",
                 "Australia",
                 "Belarus",
@@ -21365,7 +21373,9 @@
                 "USA",
                 "Uzbekistan",
                 "NATO",
-                "APEC"
+                "APEC",
+                "OSCE",
+                "Afghanistan"
             ],
             "targeted sectors": [
                 "Automotive",
@@ -53726,6 +53736,13 @@
             "id": "Sima-This group targets Iranians in diaspora",
             "from": "Sima",
             "to": "This group targets Iranians in diaspora",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Sofacy-OSCE",
+            "from": "Sofacy",
+            "to": "OSCE",
             "type": "target",
             "direction": "directed"
         },
