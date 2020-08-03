@@ -5074,16 +5074,7 @@
                 "Transportation"
             ],
             "first seen": "2007",
-            "counter operations": [
-                {
-                    "date": "2017-11",
-                    "activity": "DOJ reveals indictment against Chinese cyber spies that stole U.S. business secrets\nhttps://www.cyberscoop.com/boyusec-china-doj-indictment/"
-                },
-                {
-                    "date": "2017-11",
-                    "activity": "U.S. Charges Three Chinese Hackers Who Work at Internet Security Firm for Hacking Three Corporations for Commercial Advantage\nhttps://www.justice.gov/opa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three-corporations"
-                }
-            ],
+            "counter operations": "**2017-11**:DOJ reveals indictment against Chinese cyber spies that stole U.S. business secrets\nhttps://www.cyberscoop.com/boyusec-china-doj-indictment/\r\n**2017-11**:U.S. Charges Three Chinese Hackers Who Work at Internet Security Firm for Hacking Three Corporations for Commercial Advantage\nhttps://www.justice.gov/opa/pr/us-charges-three-chinese-hackers-who-work-internet-security-firm-hacking-three-corporations\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0022/>"
             ],
@@ -5550,20 +5541,7 @@
                 "political dissidents and Forbes"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2017-08",
-                    "activity": "US Arrests Chinese Man Involved With Sakula Malware Used in OPM and Anthem Hacks\nhttps://www.bleepingcomputer.com/news/security/us-arrests-chinese-man-involved-with-sakula-malware-used-in-opm-and-anthem-hacks/"
-                },
-                {
-                    "date": "2018-10",
-                    "activity": "U.S. Indicts Chinese Hacker-Spies in Conspiracy to Steal Aerospace Secrets\nhttps://gizmodo.com/u-s-indicts-chinese-hacker-spies-in-conspiracy-to-stea-1830111695"
-                },
-                {
-                    "date": "2019-05",
-                    "activity": "Chinese national indicted for 2015 Anthem breach\nhttps://www.cyberscoop.com/anthem-breach-indictment-chinese-national/"
-                }
-            ],
+            "counter operations": "**2017-08**:US Arrests Chinese Man Involved With Sakula Malware Used in OPM and Anthem Hacks\nhttps://www.bleepingcomputer.com/news/security/us-arrests-chinese-man-involved-with-sakula-malware-used-in-opm-and-anthem-hacks/\r\n**2018-10**:U.S. Indicts Chinese Hacker-Spies in Conspiracy to Steal Aerospace Secrets\nhttps://gizmodo.com/u-s-indicts-chinese-hacker-spies-in-conspiracy-to-stea-1830111695\r\n**2019-05**:Chinese national indicted for 2015 Anthem breach\nhttps://www.cyberscoop.com/anthem-breach-indictment-chinese-national/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0009/>",
                 "<https://attack.mitre.org/groups/G0073/>"
@@ -5811,16 +5789,7 @@
                 "Imagery"
             ],
             "first seen": "2008",
-            "counter operations": [
-                {
-                    "date": "2014-08",
-                    "activity": "Dutch agencies provide crucial intel about Russia\u2019s interference in US-elections\nhttps://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/"
-                },
-                {
-                    "date": "2018-07",
-                    "activity": "Mueller indicts 12 Russians for DNC hacking as Trump-Putin summit looms\nhttps://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805"
-                }
-            ],
+            "counter operations": "**2014-08**:Dutch agencies provide crucial intel about Russia\u2019s interference in US-elections\nhttps://www.volkskrant.nl/wetenschap/dutch-agencies-provide-crucial-intel-about-russia-s-interference-in-us-elections~b4f8111b/\r\n**2018-07**:Mueller indicts 12 Russians for DNC hacking as Trump-Putin summit looms\nhttps://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0016/>"
             ],
@@ -6924,12 +6893,7 @@
                 "Technology"
             ],
             "first seen": "2016",
-            "counter operations": [
-                {
-                    "date": "2017-11",
-                    "activity": "Microsoft Asks Judge to Take Down Barium Hackers\nhttps://www.courthousenews.com/wp-content/uploads/2017/11/barium.pdf"
-                }
-            ],
+            "counter operations": "**2017-11**:Microsoft Asks Judge to Take Down Barium Hackers\nhttps://www.courthousenews.com/wp-content/uploads/2017/11/barium.pdf\r\n",
             "last card change": "2020-04-15",
             "ioc_ip": [
                 "103.19.3.17:443",
@@ -7999,16 +7963,7 @@
                 "Hospitality"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2018-03",
-                    "activity": "Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
-                },
-                {
-                    "date": "2018-08",
-                    "activity": "Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested"
-                }
-            ],
+            "counter operations": "**2018-03**:Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain\r\n**2018-08**:Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0008/>"
             ],
@@ -8095,12 +8050,7 @@
                 "Diplomatic missions"
             ],
             "first seen": "2007",
-            "counter operations": [
-                {
-                    "date": "2014-02",
-                    "activity": "At the moment, all known Careto C&C servers are offline. The attackers began taking them offline in January 2014. We were also able to sinkhole several C&C servers, which allowed us to gather statistics on the operation.\nhttps://securelist.com/the-caretomask-apt-frequently-asked-questions/58254/"
-                }
-            ],
+            "counter operations": "**2014-02**:At the moment, all known Careto C&C servers are offline. The attackers began taking them offline in January 2014. We were also able to sinkhole several C&C servers, which allowed us to gather statistics on the operation.\nhttps://securelist.com/the-caretomask-apt-frequently-asked-questions/58254/\r\n",
             "last card change": "2020-05-16",
             "ioc_domain": [
                 "nthost.shacknet.nu",
@@ -8332,12 +8282,7 @@
                 "Worldwide"
             ],
             "first seen": "1947",
-            "counter operations": [
-                {
-                    "date": "2014-07",
-                    "activity": "Germany expels CIA official in US spy row\nhttps://www.bbc.com/news/world-europe-28243933"
-                }
-            ],
+            "counter operations": "**2014-07**:Germany expels CIA official in US spy row\nhttps://www.bbc.com/news/world-europe-28243933\r\n",
             "last card change": "2020-07-19"
         },
         {
@@ -8551,16 +8496,7 @@
                 "Retail"
             ],
             "first seen": "2016",
-            "counter operations": [
-                {
-                    "date": "2018-03",
-                    "activity": "Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain"
-                },
-                {
-                    "date": "2018-08",
-                    "activity": "Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested"
-                }
-            ],
+            "counter operations": "**2018-03**:Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain\r\n**2018-08**:Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0080/>"
             ],
@@ -8717,12 +8653,7 @@
                 "Navigation and lawyers"
             ],
             "first seen": "2006",
-            "counter operations": [
-                {
-                    "date": "2014-05",
-                    "activity": "5 in China Army Face U.S. Charges of Cyberattacks\nhttps://www.nytimes.com/2014/05/20/us/us-to-charge-chinese-workers-with-cyberspying.html"
-                }
-            ],
+            "counter operations": "**2014-05**:5 in China Army Face U.S. Charges of Cyberattacks\nhttps://www.nytimes.com/2014/05/20/us/us-to-charge-chinese-workers-with-cyberspying.html\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0006/>"
             ],
@@ -11151,12 +11082,7 @@
                 "(banks: Bank of America, US Bancorp, Fifth Third Bank, Citigroup, PNC, BB&T, Wells Fargo, Capital One and HSBC)"
             ],
             "first seen": "2012",
-            "counter operations": [
-                {
-                    "date": "2016-03",
-                    "activity": "U.S. indicts Iranians for hacking dozens of banks, New York dam\nhttps://www.reuters.com/article/us-usa-iran-cyber/u-s-indicts-iranians-for-hacking-dozens-of-banks-new-york-dam-idUSKCN0WQ1JF"
-                }
-            ],
+            "counter operations": "**2016-03**:U.S. indicts Iranians for hacking dozens of banks, New York dam\nhttps://www.reuters.com/article/us-usa-iran-cyber/u-s-indicts-iranians-for-hacking-dozens-of-banks-new-york-dam-idUSKCN0WQ1JF\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0003/>"
             ],
@@ -12310,12 +12236,7 @@
                 "Financial"
             ],
             "first seen": "2018",
-            "counter operations": [
-                {
-                    "date": "2020-01",
-                    "activity": "6 Suspects Arrested in Maltese Bank Hacking Heist\nhttps://www.bankinfosecurity.com/6-suspects-arrested-in-maltese-bank-hacking-heist-a-13674"
-                }
-            ],
+            "counter operations": "**2020-01**:6 Suspects Arrested in Maltese Bank Hacking Heist\nhttps://www.bankinfosecurity.com/6-suspects-arrested-in-maltese-bank-hacking-heist-a-13674\r\n",
             "last card change": "2020-04-15"
         },
         {
@@ -12515,12 +12436,7 @@
                 "Nanotechnology, Nuclear research, Islamic activists and scholars, and companies developing cryptographic technologies"
             ],
             "first seen": "2001",
-            "counter operations": [
-                {
-                    "date": "2016-08",
-                    "activity": "Their arsenal of 0-day cyber weapons was stolen by an actor {{Shadow Brokers}}, who leaked a large section on the internet and tried to sell the rest afterward.\nMost notable among the dumps were 0-days such as ETERNALBLUE and ETERNALROMANCE that were used by other groups for the creation of infamous ransomware explosions such as WannaCry and NotPetya."
-                }
-            ],
+            "counter operations": "**2016-08**:Their arsenal of 0-day cyber weapons was stolen by an actor {{Shadow Brokers}}, who leaked a large section on the internet and tried to sell the rest afterward.\nMost notable among the dumps were 0-days such as ETERNALBLUE and ETERNALROMANCE that were used by other groups for the creation of infamous ransomware explosions such as WannaCry and NotPetya.\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0020/>"
             ],
@@ -13008,16 +12924,7 @@
                 "Transportation"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2018-08",
-                    "activity": "Three Members of Notorious International Cybercrime Group \u201cFin7\u201d In Custody for Role in Attacking Over 100 U.S. companies\nhttps://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
-                },
-                {
-                    "date": "2020-05",
-                    "activity": "Another Alleged FIN7 Cybercrime Gang Member Arrested\nhttps://www.bankinfosecurity.com/another-alleged-fin7-cybercrime-gang-member-arrested-a-14345"
-                }
-            ],
+            "counter operations": "**2018-08**:Three Members of Notorious International Cybercrime Group \u201cFin7\u201d In Custody for Role in Attacking Over 100 U.S. companies\nhttps://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100\r\n**2020-05**:Another Alleged FIN7 Cybercrime Gang Member Arrested\nhttps://www.bankinfosecurity.com/another-alleged-fin7-cybercrime-gang-member-arrested-a-14345\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0046/>"
             ],
@@ -14268,12 +14175,7 @@
                 "NGOs"
             ],
             "first seen": "2009",
-            "counter operations": [
-                {
-                    "date": "2010",
-                    "activity": "Taken down by the Shadowserver Foundation."
-                }
-            ],
+            "counter operations": "**2010**:Taken down by the Shadowserver Foundation.\r\n",
             "last card change": "2020-04-15"
         },
         {
@@ -14587,12 +14489,7 @@
                 "lawyers"
             ],
             "first seen": "2009",
-            "counter operations": [
-                {
-                    "date": "2014",
-                    "activity": "Operation \u201cSMN\u201d\nSecurity vendors take action against Hidden Lynx malware\nhttps://www.symantec.com/connect/blogs/security-vendors-take-action-against-hidden-lynx-malware"
-                }
-            ],
+            "counter operations": "**2014**:Operation \u201cSMN\u201d\nSecurity vendors take action against Hidden Lynx malware\nhttps://www.symantec.com/connect/blogs/security-vendors-take-action-against-hidden-lynx-malware\r\n",
             "last card change": "2020-05-16"
         },
         {
@@ -14963,12 +14860,7 @@
                 "private sectors"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2016-06",
-                    "activity": "Prince of Persia \u2013 Game Over\nhttps://unit42.paloaltonetworks.com/unit42-prince-of-persia-game-over/"
-                }
-            ],
+            "counter operations": "**2016-06**:Prince of Persia \u2013 Game Over\nhttps://unit42.paloaltonetworks.com/unit42-prince-of-persia-game-over/\r\n",
             "last card change": "2020-04-29"
         },
         {
@@ -15334,12 +15226,7 @@
                 "Ministry of Unification, Sejong Institute and Korea Institute for Defense Analyses"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2019-12",
-                    "activity": "Microsoft takes court action against fourth nation-state cybercrime group\nhttps://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/"
-                }
-            ],
+            "counter operations": "**2019-12**:Microsoft takes court action against fourth nation-state cybercrime group\nhttps://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0094/>",
                 "<https://attack.mitre.org/groups/G0086/>"
@@ -15785,28 +15672,7 @@
                 "BitCoin exchanges"
             ],
             "first seen": "2007",
-            "counter operations": [
-                {
-                    "date": "2017-12",
-                    "activity": "Microsoft and Facebook disrupt ZINC malware attack to protect customers and the internet from ongoing cyberthreats\nhttps://blogs.microsoft.com/on-the-issues/2017/12/19/microsoft-facebook-disrupt-zinc-malware-attack-protect-customers-internet-ongoing-cyberthreats/"
-                },
-                {
-                    "date": "2018-09",
-                    "activity": "North Korean Regime-Backed Programmer Charged With Conspiracy to Conduct Multiple Cyber Attacks and Intrusions\nhttps://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and"
-                },
-                {
-                    "date": "2019-09",
-                    "activity": "Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups\nhttps://home.treasury.gov/index.php/news/press-releases/sm774"
-                },
-                {
-                    "date": "2020-03",
-                    "activity": "Treasury Sanctions Individuals Laundering Cryptocurrency for Lazarus Group\nhttps://home.treasury.gov/news/press-releases/sm924"
-                },
-                {
-                    "date": "2020-07",
-                    "activity": "EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/"
-                }
-            ],
+            "counter operations": "**2017-12**:Microsoft and Facebook disrupt ZINC malware attack to protect customers and the internet from ongoing cyberthreats\nhttps://blogs.microsoft.com/on-the-issues/2017/12/19/microsoft-facebook-disrupt-zinc-malware-attack-protect-customers-internet-ongoing-cyberthreats/\r\n**2018-09**:North Korean Regime-Backed Programmer Charged With Conspiracy to Conduct Multiple Cyber Attacks and Intrusions\nhttps://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and\r\n**2019-09**:Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups\nhttps://home.treasury.gov/index.php/news/press-releases/sm774\r\n**2020-03**:Treasury Sanctions Individuals Laundering Cryptocurrency for Lazarus Group\nhttps://home.treasury.gov/news/press-releases/sm924\r\n**2020-07**:EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0032/>"
             ],
@@ -16425,12 +16291,7 @@
                 "Media"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2016-06",
-                    "activity": "Russia arrests 50, shuts down 5-year, $25m cyber bank robbery\nhttps://nakedsecurity.sophos.com/2016/06/06/russia-arrests-50-shuts-down-5-year-25m-cyber-bank-robbery/"
-                }
-            ],
+            "counter operations": "**2016-06**:Russia arrests 50, shuts down 5-year, $25m cyber bank robbery\nhttps://nakedsecurity.sophos.com/2016/06/06/russia-arrests-50-shuts-down-5-year-25m-cyber-bank-robbery/\r\n",
             "last card change": "2020-04-14"
         },
         {
@@ -16474,12 +16335,7 @@
                 "Education"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2018-03",
-                    "activity": "Nine Iranians Charged With Conducting Massive Cyber Theft Campaign on Behalf of the Islamic Revolutionary Guard Corps\nhttps://www.justice.gov/opa/pr/nine-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary"
-                }
-            ],
+            "counter operations": "**2018-03**:Nine Iranians Charged With Conducting Massive Cyber Theft Campaign on Behalf of the Islamic Revolutionary Guard Corps\nhttps://www.justice.gov/opa/pr/nine-iranians-charged-conducting-massive-cyber-theft-campaign-behalf-islamic-revolutionary\r\n",
             "last card change": "2020-04-14",
             "ioc_domain": [
                 "1edu.in",
@@ -16728,12 +16584,7 @@
                 "Think Tanks"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "",
-                    "activity": "The C&C servers have been sinkholed by Kaspersky and Seculert."
-                }
-            ],
+            "counter operations": "****:The C&C servers have been sinkholed by Kaspersky and Seculert.\r\n",
             "last card change": "2020-04-14"
         },
         {
@@ -16816,16 +16667,7 @@
                 "that are either based or have business interests in Saudi Arabia, and ClearSky, HBO, civil and human rights activists and journalists"
             ],
             "first seen": "2013",
-            "counter operations": [
-                {
-                    "date": "2019-02",
-                    "activity": "Former U.S. Counterintelligence Agent Charged With Espionage on Behalf of Iran; Four Iranians Charged With a Cyber Campaign Targeting Her Former Colleagues\nhttps://www.justice.gov/opa/pr/former-us-counterintelligence-agent-charged-espionage-behalf-iran-four-iranians-charged-cyber"
-                },
-                {
-                    "date": "2019-03",
-                    "activity": "Microsoft slaps down 99 APT35/Charming Kitten domains\nhttps://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/"
-                }
-            ],
+            "counter operations": "**2019-02**:Former U.S. Counterintelligence Agent Charged With Espionage on Behalf of Iran; Four Iranians Charged With a Cyber Campaign Targeting Her Former Colleagues\nhttps://www.justice.gov/opa/pr/former-us-counterintelligence-agent-charged-espionage-behalf-iran-four-iranians-charged-cyber\r\n**2019-03**:Microsoft slaps down 99 APT35/Charming Kitten domains\nhttps://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0058/>",
                 "<https://attack.mitre.org/groups/G0059/>"
@@ -17162,12 +17004,7 @@
                 "Transportation"
             ],
             "first seen": "2017",
-            "counter operations": [
-                {
-                    "date": "2019-05",
-                    "activity": "New leaks of Iranian cyber-espionage operations hit Telegram and the Dark Web\nhttps://www.zdnet.com/article/new-leaks-of-iranian-cyber-espionage-operations-hit-telegram-and-the-dark-web/\nUpdate: this leak may have been the work of the {{CIA}}."
-                }
-            ],
+            "counter operations": "**2019-05**:New leaks of Iranian cyber-espionage operations hit Telegram and the Dark Web\nhttps://www.zdnet.com/article/new-leaks-of-iranian-cyber-espionage-operations-hit-telegram-and-the-dark-web/\nUpdate: this leak may have been the work of the {{CIA}}.\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0069/>"
             ],
@@ -18027,16 +17864,7 @@
                 "Telecommunications"
             ],
             "first seen": "2014",
-            "counter operations": [
-                {
-                    "date": "2019-03",
-                    "activity": "In an incident reminiscent of the {{Shadow Brokers}} leak that exposed the NSA\u2019s hacking tools, someone has now published similar hacking tools belonging to one of Iran\u2019s elite cyber-espionage units, known as APT34, Oilrig, or HelixKitten.\nhttps://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/\nUpdate: this leak may have been the work of the {{CIA}}."
-                },
-                {
-                    "date": "2019-06",
-                    "activity": "A new hacking tool believed to have been in the arsenal of Iranian state hackers has been published today online, in a Telegram channel.\nThis new tool is named Jason and was published online earlier today in the same Telegram channel where the leaker \u2013 going by the name of Lab Dookhtegan \u2013 dumped the six other previous hacking tools.\nhttps://www.zdnet.com/article/new-iranian-hacking-tool-leaked-on-telegram/\nUpdate: this leak may have been the work of the {{CIA}}."
-                }
-            ],
+            "counter operations": "**2019-03**:In an incident reminiscent of the {{Shadow Brokers}} leak that exposed the NSA\u2019s hacking tools, someone has now published similar hacking tools belonging to one of Iran\u2019s elite cyber-espionage units, known as APT34, Oilrig, or HelixKitten.\nhttps://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/\nUpdate: this leak may have been the work of the {{CIA}}.\r\n**2019-06**:A new hacking tool believed to have been in the arsenal of Iranian state hackers has been published today online, in a Telegram channel.\nThis new tool is named Jason and was published online earlier today in the same Telegram channel where the leaker \u2013 going by the name of Lab Dookhtegan \u2013 dumped the six other previous hacking tools.\nhttps://www.zdnet.com/article/new-iranian-hacking-tool-leaked-on-telegram/\nUpdate: this leak may have been the work of the {{CIA}}.\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0049/>"
             ],
@@ -19657,12 +19485,7 @@
                 "Utilities"
             ],
             "first seen": "2005",
-            "counter operations": [
-                {
-                    "date": "2016-02",
-                    "activity": "The C2 servers have been sinkholed by Kaspersky.\nhttps://securelist.com/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/73673/"
-                }
-            ],
+            "counter operations": "**2016-02**:The C2 servers have been sinkholed by Kaspersky.\nhttps://securelist.com/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/73673/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0033/>"
             ],
@@ -20141,12 +19964,7 @@
                 "Transportation"
             ],
             "first seen": "2012",
-            "counter operations": [
-                {
-                    "date": "2019-12",
-                    "activity": "On December 27, a U.S. district court unsealed documents detailing work Microsoft has performed to disrupt cyberattacks from a threat group we call Thallium, which is believed to operate from North Korea. Our court case against Thallium, filed in the U.S. District Court for the Eastern District of Virginia, resulted in a court order enabling Microsoft to take control of 50 domains that the group uses to conduct its operations.\nhttps://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/"
-                }
-            ],
+            "counter operations": "**2019-12**:On December 27, a U.S. district court unsealed documents detailing work Microsoft has performed to disrupt cyberattacks from a threat group we call Thallium, which is believed to operate from North Korea. Our court case against Thallium, filed in the U.S. District Court for the Eastern District of Virginia, resulted in a court order enabling Microsoft to take control of 50 domains that the group uses to conduct its operations.\nhttps://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
@@ -20890,12 +20708,7 @@
                 "others"
             ],
             "first seen": "2010",
-            "counter operations": [
-                {
-                    "date": "2010",
-                    "activity": "Taken down by the Shadowserver Foundation."
-                }
-            ],
+            "counter operations": "**2010**:Taken down by the Shadowserver Foundation.\r\n",
             "last card change": "2020-04-15"
         },
         {
@@ -21610,28 +21423,7 @@
                 "Intelligence organizations"
             ],
             "first seen": "2004",
-            "counter operations": [
-                {
-                    "date": "2018-05",
-                    "activity": "Justice Department Announces Actions to Disrupt Advanced Persistent Threat 28 Botnet of Infected Routers and Network Storage Devices\nhttps://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-advanced-persistent-threat-28-botnet-infected"
-                },
-                {
-                    "date": "2018-07",
-                    "activity": "Mueller indicts 12 Russians for DNC hacking as Trump-Putin summit looms\nhttps://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805"
-                },
-                {
-                    "date": "2018-08",
-                    "activity": "Microsoft\u2019s Digital Crimes Unit (DCU) successfully executed a court order to disrupt and transfer control of six internet domains\nhttps://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/"
-                },
-                {
-                    "date": "2018-10",
-                    "activity": "US charges Russian military officers over international hacking and disinformation campaigns\nhttps://www.zdnet.com/article/us-charges-russian-military-officers-over-international-hacking-and-disinformation-campaigns/"
-                },
-                {
-                    "date": "2020-05",
-                    "activity": "German authorities charge Russian hacker for 2015 Bundestag hack\nhttps://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/"
-                }
-            ],
+            "counter operations": "**2018-05**:Justice Department Announces Actions to Disrupt Advanced Persistent Threat 28 Botnet of Infected Routers and Network Storage Devices\nhttps://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-advanced-persistent-threat-28-botnet-infected\r\n**2018-07**:Mueller indicts 12 Russians for DNC hacking as Trump-Putin summit looms\nhttps://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805\r\n**2018-08**:Microsoft\u2019s Digital Crimes Unit (DCU) successfully executed a court order to disrupt and transfer control of six internet domains\nhttps://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/\r\n**2018-10**:US charges Russian military officers over international hacking and disinformation campaigns\nhttps://www.zdnet.com/article/us-charges-russian-military-officers-over-international-hacking-and-disinformation-campaigns/\r\n**2020-05**:German authorities charge Russian hacker for 2015 Bundestag hack\nhttps://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0007/>"
             ],
@@ -23560,16 +23352,7 @@
                 "MSPs"
             ],
             "first seen": "2006",
-            "counter operations": [
-                {
-                    "date": "2018-12",
-                    "activity": "Chinese Hackers Indicted\nhttps://www.fbi.gov/news/stories/chinese-hackers-indicted-122018\nhttps://www.justice.gov/opa/speech/deputy-attorney-general-rod-j-rosenstein-announces-charges-against-chinese-hackers"
-                },
-                {
-                    "date": "2020-07",
-                    "activity": "EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/"
-                }
-            ],
+            "counter operations": "**2018-12**:Chinese Hackers Indicted\nhttps://www.fbi.gov/news/stories/chinese-hackers-indicted-122018\nhttps://www.justice.gov/opa/speech/deputy-attorney-general-rod-j-rosenstein-announces-charges-against-chinese-hackers\r\n**2020-07**:EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0045/>",
                 "<https://attack.mitre.org/groups/G0093/>"
@@ -25377,12 +25160,7 @@
                 "dissidents"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2018-05",
-                    "activity": "Two Members of Syrian Electronic Army Indicted for Conspiracy\nhttps://www.justice.gov/usao-edva/pr/two-members-syrian-electronic-army-indicted-conspiracy"
-                }
-            ],
+            "counter operations": "**2018-05**:Two Members of Syrian Electronic Army Indicted for Conspiracy\nhttps://www.justice.gov/usao-edva/pr/two-members-syrian-electronic-army-indicted-conspiracy\r\n",
             "last card change": "2020-04-20"
         },
         {
@@ -25729,28 +25507,7 @@
                 "Retail"
             ],
             "first seen": "2006",
-            "counter operations": [
-                {
-                    "date": "2010-03",
-                    "activity": "Zeus botnet dealt a blow as ISP Troyak knocked out\nhttps://www.itworld.com/article/2762789/zeus-botnet-dealt-a-blow-as-isp-troyak-knocked-out.html"
-                },
-                {
-                    "date": "2010-10",
-                    "activity": "Operation \u201cTrident Breach\u201d\nFBI announces arrests in $70 million cyber-theft\nhttp://edition.cnn.com/2010/CRIME/10/01/cyber.theft/"
-                },
-                {
-                    "date": "2012-03",
-                    "activity": "John Doe lawsuit against the Zeus operator\nhttp://www.zeuslegalnotice.com/images/Debenham_Decl_Part_1.pdf"
-                },
-                {
-                    "date": "2014-06",
-                    "activity": "Operation \u201cTovar\u201d\nDell SecureWorks Contributes to Efforts Targeting Gameover Zeus and CryptoLocker\nhttps://www.secureworks.com/blog/operation-tovar-dell-secureworks-contributes-to-efforts-targeting-gameover-zeus-and-cryptolocker\nhttps://www.justice.gov/opa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware"
-                },
-                {
-                    "date": "2016-12",
-                    "activity": "FACT SHEET: Actions in Response to Russian Malicious Cyber Activity and Harassment\nhttps://obamawhitehouse.archives.gov/the-press-office/2016/12/29/fact-sheet-actions-response-russian-malicious-cyber-activity-and"
-                }
-            ],
+            "counter operations": "**2010-03**:Zeus botnet dealt a blow as ISP Troyak knocked out\nhttps://www.itworld.com/article/2762789/zeus-botnet-dealt-a-blow-as-isp-troyak-knocked-out.html\r\n**2010-10**:Operation \u201cTrident Breach\u201d\nFBI announces arrests in $70 million cyber-theft\nhttp://edition.cnn.com/2010/CRIME/10/01/cyber.theft/\r\n**2012-03**:John Doe lawsuit against the Zeus operator\nhttp://www.zeuslegalnotice.com/images/Debenham_Decl_Part_1.pdf\r\n**2014-06**:Operation \u201cTovar\u201d\nDell SecureWorks Contributes to Efforts Targeting Gameover Zeus and CryptoLocker\nhttps://www.secureworks.com/blog/operation-tovar-dell-secureworks-contributes-to-efforts-targeting-gameover-zeus-and-cryptolocker\nhttps://www.justice.gov/opa/pr/us-leads-multi-national-action-against-gameover-zeus-botnet-and-cryptolocker-ransomware\r\n**2016-12**:FACT SHEET: Actions in Response to Russian Malicious Cyber Activity and Harassment\nhttps://obamawhitehouse.archives.gov/the-press-office/2016/12/29/fact-sheet-actions-response-russian-malicious-cyber-activity-and\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0092/>"
             ],
@@ -27085,12 +26842,7 @@
                 "Software companies"
             ],
             "first seen": "2015",
-            "counter operations": [
-                {
-                    "date": "2020-07",
-                    "activity": "EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/"
-                }
-            ],
+            "counter operations": "**2020-07**:EU imposes the first ever sanctions against cyber-attacks\nhttps://www.consilium.europa.eu/en/press/press-releases/2020/07/30/eu-imposes-the-first-ever-sanctions-against-cyber-attacks/\r\n",
             "last card change": "2020-07-31",
             "ioc_domain": [
                 "um10eset.net",
@@ -27619,12 +27371,7 @@
                 "Think Tanks"
             ],
             "first seen": "2010",
-            "counter operations": [
-                {
-                    "date": "2018-10",
-                    "activity": "Chinese Intelligence Officers and Their Recruited Hackers and Insiders Conspired to Steal Sensitive Commercial Aviation and Technological Data for Years\nhttps://www.justice.gov/opa/pr/chinese-intelligence-officers-and-their-recruited-hackers-and-insiders-conspired-steal"
-                }
-            ],
+            "counter operations": "**2018-10**:Chinese Intelligence Officers and Their Recruited Hackers and Insiders Conspired to Steal Sensitive Commercial Aviation and Technological Data for Years\nhttps://www.justice.gov/opa/pr/chinese-intelligence-officers-and-their-recruited-hackers-and-insiders-conspired-steal\r\n",
             "last card change": "2020-04-21"
         },
         {
@@ -28556,12 +28303,7 @@
                 "Telecommunications"
             ],
             "first seen": "2019",
-            "counter operations": [
-                {
-                    "date": "2019-05",
-                    "activity": "On Friday May 5th, dozens of confidential documents labeled as \u201csecret\u201d were leaked on Telegram.\nhttps://www.clearskysec.com/wp-content/uploads/2019/05/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf"
-                }
-            ],
+            "counter operations": "**2019-05**:On Friday May 5th, dozens of confidential documents labeled as \u201csecret\u201d were leaked on Telegram.\nhttps://www.clearskysec.com/wp-content/uploads/2019/05/Iranian-Nation-State-APT-Leak-Analysis-and-Overview.pdf\r\n",
             "last card change": "2020-07-19"
         },
         {
@@ -28628,12 +28370,7 @@
                 "Worldwide"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2017-11",
-                    "activity": "Andromeda botnet dismantled in international cyber operation\nhttps://www.europol.europa.eu/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation"
-                }
-            ],
+            "counter operations": "**2017-11**:Andromeda botnet dismantled in international cyber operation\nhttps://www.europol.europa.eu/newsroom/news/andromeda-botnet-dismantled-in-international-cyber-operation\r\n",
             "last card change": "2020-04-15"
         },
         {
@@ -28664,12 +28401,7 @@
                 "Worldwide"
             ],
             "first seen": "2006",
-            "counter operations": [
-                {
-                    "date": "2016-12",
-                    "activity": "\u2018Avalanche\u2019 network dismantled in international cyber operation\nhttps://www.europol.europa.eu/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation"
-                }
-            ],
+            "counter operations": "**2016-12**:\u2018Avalanche\u2019 network dismantled in international cyber operation\nhttps://www.europol.europa.eu/newsroom/news/%E2%80%98avalanche%E2%80%99-network-dismantled-in-international-cyber-operation\r\n",
             "last card change": "2020-05-15",
             "ioc_domain": [
                 "www.melio823mn.com",
@@ -28728,12 +28460,7 @@
                 "Technology"
             ],
             "first seen": "2016",
-            "counter operations": [
-                {
-                    "date": "2019-05",
-                    "activity": "GozNym Malware: Cybercriminal Network Dismantled in International Operation\nhttps://www.europol.europa.eu/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation"
-                }
-            ],
+            "counter operations": "**2019-05**:GozNym Malware: Cybercriminal Network Dismantled in International Operation\nhttps://www.europol.europa.eu/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation\r\n",
             "last card change": "2020-05-13"
         },
         {
@@ -28805,12 +28532,7 @@
                 "Healthcare"
             ],
             "first seen": "2015",
-            "counter operations": [
-                {
-                    "date": "2018-11",
-                    "activity": "Two Iranian Men Indicted for Deploying Ransomware to Extort Hospitals, Municipalities, and Public Institutions, Causing Over $30 Million in Losses\nhttps://www.justice.gov/opa/pr/two-iranian-men-indicted-deploying-ransomware-extort-hospitals-municipalities-and-public"
-                }
-            ],
+            "counter operations": "**2018-11**:Two Iranian Men Indicted for Deploying Ransomware to Extort Hospitals, Municipalities, and Public Institutions, Causing Over $30 Million in Losses\nhttps://www.justice.gov/opa/pr/two-iranian-men-indicted-deploying-ransomware-extort-hospitals-municipalities-and-public\r\n",
             "last card change": "2020-04-14"
         },
         {
@@ -28853,12 +28575,7 @@
                 "Financial"
             ],
             "first seen": "2015",
-            "counter operations": [
-                {
-                    "date": "2017-05",
-                    "activity": "The Russian Interior Ministry announced on Monday the arrest of 20 individuals from a major cybercriminal gang that had stolen nearly $900,000 from bank accounts after infecting over one million Android smartphones with a mobile Trojan called 'CronBot.'\nhttps://thehackernews.com/2017/05/cron-mobile-banking-malware.html"
-                }
-            ],
+            "counter operations": "**2017-05**:The Russian Interior Ministry announced on Monday the arrest of 20 individuals from a major cybercriminal gang that had stolen nearly $900,000 from bank accounts after infecting over one million Android smartphones with a mobile Trojan called 'CronBot.'\nhttps://thehackernews.com/2017/05/cron-mobile-banking-malware.html\r\n",
             "last card change": "2020-05-22"
         },
         {
@@ -28894,12 +28611,7 @@
                 "Financial"
             ],
             "first seen": "2012",
-            "counter operations": [
-                {
-                    "date": "2016-05",
-                    "activity": "U.S. Accuses 7 Iranians Of Cyberattacks On Banks And Dam\nhttps://www.forbes.com/sites/thomasbrewster/2016/03/24/iran-hackers-charged-bank-ddos-attacks-banks/"
-                }
-            ],
+            "counter operations": "**2016-05**:U.S. Accuses 7 Iranians Of Cyberattacks On Banks And Dam\nhttps://www.forbes.com/sites/thomasbrewster/2016/03/24/iran-hackers-charged-bank-ddos-attacks-banks/\r\n",
             "last card change": "2020-04-19"
         },
         {
@@ -29052,12 +28764,7 @@
                 "Transportation"
             ],
             "first seen": "2016",
-            "counter operations": [
-                {
-                    "date": "2020-07",
-                    "activity": "Feds indict 'fxmsp' in connection with million-dollar hacking operation\nhttps://www.cyberscoop.com/fxmsp-andrey-turchin-indictment-fraud-stolen-data/"
-                }
-            ],
+            "counter operations": "**2020-07**:Feds indict 'fxmsp' in connection with million-dollar hacking operation\nhttps://www.cyberscoop.com/fxmsp-andrey-turchin-indictment-fraud-stolen-data/\r\n",
             "last card change": "2020-07-08"
         },
         {
@@ -29218,20 +28925,7 @@
                 "Healthcare"
             ],
             "first seen": "2014",
-            "counter operations": [
-                {
-                    "date": "2015-10",
-                    "activity": "In the fall of 2015, the Dell SecureWorks Counter Threat Unit (CTU) research team collaborated with the UK National Crime Agency (NCA), the U.S. Federal Bureau of Investigation (FBI), and the Shadowserver Foundation to take over the Dridex banking trojan.\nhttps://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation"
-                },
-                {
-                    "date": "2019-12",
-                    "activity": "Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of \u201cBugat\u201d Malware\nhttps://www.justice.gov/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens"
-                },
-                {
-                    "date": "2019-12",
-                    "activity": "Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware\nhttps://home.treasury.gov/news/press-releases/sm845"
-                }
-            ],
+            "counter operations": "**2015-10**:In the fall of 2015, the Dell SecureWorks Counter Threat Unit (CTU) research team collaborated with the UK National Crime Agency (NCA), the U.S. Federal Bureau of Investigation (FBI), and the Shadowserver Foundation to take over the Dridex banking trojan.\nhttps://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation\r\n**2019-12**:Russian National Charged with Decade-Long Series of Hacking and Bank Fraud Offenses Resulting in Tens of Millions in Losses and Second Russian National Charged with Involvement in Deployment of \u201cBugat\u201d Malware\nhttps://www.justice.gov/opa/pr/russian-national-charged-decade-long-series-hacking-and-bank-fraud-offenses-resulting-tens\r\n**2019-12**:Treasury Sanctions Evil Corp, the Russia-Based Cybercriminal Group Behind Dridex Malware\nhttps://home.treasury.gov/news/press-releases/sm845\r\n",
             "last card change": "2020-07-30"
         },
         {
@@ -29262,20 +28956,7 @@
                 "Worldwide"
             ],
             "first seen": "2010",
-            "counter operations": [
-                {
-                    "date": "2018-02",
-                    "activity": "Operation \u201cShadow Web\u201d\nThirty-six Defendants Indicted for Alleged Roles in Transnational Criminal Organization Responsible for More than $530 Million in Losses from Cybercrimes\nhttps://www.justice.gov/opa/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization-responsible"
-                },
-                {
-                    "date": "2020-06",
-                    "activity": "Russian National Pleads Guilty for Role in Transnational Cybercrime Organization Responsible for more than $568 Million in Losses\nhttps://www.justice.gov/opa/pr/russian-national-pleads-guilty-role-transnational-cybercrime-organization-responsible-more"
-                },
-                {
-                    "date": "2020-07",
-                    "activity": "Malware Author Pleads Guilty for Role in Transnational Cybercrime Organization Responsible for more than $568 Million in Losses\nhttps://www.justice.gov/opa/pr/malware-author-pleads-guilty-role-transnational-cybercrime-organization-responsible-more-568"
-                }
-            ],
+            "counter operations": "**2018-02**:Operation \u201cShadow Web\u201d\nThirty-six Defendants Indicted for Alleged Roles in Transnational Criminal Organization Responsible for More than $530 Million in Losses from Cybercrimes\nhttps://www.justice.gov/opa/pr/thirty-six-defendants-indicted-alleged-roles-transnational-criminal-organization-responsible\r\n**2020-06**:Russian National Pleads Guilty for Role in Transnational Cybercrime Organization Responsible for more than $568 Million in Losses\nhttps://www.justice.gov/opa/pr/russian-national-pleads-guilty-role-transnational-cybercrime-organization-responsible-more\r\n**2020-07**:Malware Author Pleads Guilty for Role in Transnational Cybercrime Organization Responsible for more than $568 Million in Losses\nhttps://www.justice.gov/opa/pr/malware-author-pleads-guilty-role-transnational-cybercrime-organization-responsible-more-568\r\n",
             "last card change": "2020-08-02"
         },
         {
@@ -29341,12 +29022,7 @@
                 "Worldwide"
             ],
             "first seen": "2012",
-            "counter operations": [
-                {
-                    "date": "2020-03",
-                    "activity": "Today, Microsoft and partners across 35 countries took coordinated legal and technical steps to disrupt one of the world\u2019s most prolific botnets, called Necurs, which has infected more than nine million computers globally.\nhttps://blogs.microsoft.com/on-the-issues/2020/03/10/necurs-botnet-cyber-crime-disrupt/"
-                }
-            ],
+            "counter operations": "**2020-03**:Today, Microsoft and partners across 35 countries took coordinated legal and technical steps to disrupt one of the world\u2019s most prolific botnets, called Necurs, which has infected more than nine million computers globally.\nhttps://blogs.microsoft.com/on-the-issues/2020/03/10/necurs-botnet-cyber-crime-disrupt/\r\n",
             "last card change": "2020-05-15"
         },
         {
@@ -29397,12 +29073,7 @@
                 "Technology"
             ],
             "first seen": "2014",
-            "counter operations": [
-                {
-                    "date": "2020-07",
-                    "activity": "A vigilante is sabotaging the Emotet botnet by replacing malware payloads with GIFs\nhttps://www.zdnet.com/article/a-vigilante-is-sabotaging-the-emotet-botnet-by-replacing-malware-payloads-with-gifs/"
-                }
-            ],
+            "counter operations": "**2020-07**:A vigilante is sabotaging the Emotet botnet by replacing malware payloads with GIFs\nhttps://www.zdnet.com/article/a-vigilante-is-sabotaging-the-emotet-botnet-by-replacing-malware-payloads-with-gifs/\r\n",
             "last card change": "2020-07-30"
         },
         {
@@ -29434,12 +29105,7 @@
                 "Worldwide"
             ],
             "first seen": "2007",
-            "counter operations": [
-                {
-                    "date": "2010-08",
-                    "activity": "Security researchers have dealt a mighty blow to a spam botnet known as Pushdo, a massive grouping of hacked PCs that until recently was responsible for sending more than 10 percent of all junk e-mail worldwide.\nhttps://krebsonsecurity.com/2010/08/researchers-kneecap-pushdo-spam-botnet/"
-                }
-            ],
+            "counter operations": "**2010-08**:Security researchers have dealt a mighty blow to a spam botnet known as Pushdo, a massive grouping of hacked PCs that until recently was responsible for sending more than 10 percent of all junk e-mail worldwide.\nhttps://krebsonsecurity.com/2010/08/researchers-kneecap-pushdo-spam-botnet/\r\n",
             "last card change": "2020-05-15"
         },
         {
@@ -29506,12 +29172,7 @@
                 "Worlwide"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2017-03",
-                    "activity": "Russian Citizen Pleads Guilty for Involvement in Global Botnet Conspiracy\nhttps://www.justice.gov/opa/pr/russian-citizen-pleads-guilty-involvement-global-botnet-conspiracy"
-                }
-            ],
+            "counter operations": "**2017-03**:Russian Citizen Pleads Guilty for Involvement in Global Botnet Conspiracy\nhttps://www.justice.gov/opa/pr/russian-citizen-pleads-guilty-involvement-global-botnet-conspiracy\r\n",
             "last card change": "2020-05-13"
         },
         {
@@ -29610,12 +29271,7 @@
                 "Worldwide"
             ],
             "first seen": "2018",
-            "counter operations": [
-                {
-                    "date": "2020-07",
-                    "activity": "GandCrab ransomware operator arrested in Belarus\nhttps://www.bleepingcomputer.com/news/security/gandcrab-ransomware-operator-arrested-in-belarus/"
-                }
-            ],
+            "counter operations": "**2020-07**:GandCrab ransomware operator arrested in Belarus\nhttps://www.bleepingcomputer.com/news/security/gandcrab-ransomware-operator-arrested-in-belarus/\r\n",
             "last card change": "2020-08-02"
         },
         {
@@ -35500,12 +35156,7 @@
             "label": "Shadow Brokers",
             "id": "(apt)Shadow Brokers",
             "first seen": "2016",
-            "counter operations": [
-                {
-                    "date": "2017-11",
-                    "activity": "Who Was the NSA Contractor Arrested for Leaking the \u2018Shadow Brokers\u2019 Hacking Tools?\nhttps://blacklakesecurity.com/who-was-the-nsa-contractor-arrested-for-leaking-the-shadow-brokers-hacking-tools/"
-                }
-            ],
+            "counter operations": "**2017-11**:Who Was the NSA Contractor Arrested for Leaking the \u2018Shadow Brokers\u2019 Hacking Tools?\nhttps://blacklakesecurity.com/who-was-the-nsa-contractor-arrested-for-leaking-the-shadow-brokers-hacking-tools/\r\n",
             "last card change": "2020-05-21"
         },
         {
@@ -35565,12 +35216,7 @@
                 "Financial"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2014-07",
-                    "activity": "Global action targeting Shylock malware\nhttps://www.europol.europa.eu/newsroom/news/global-action-targeting-shylock-malware"
-                }
-            ],
+            "counter operations": "**2014-07**:Global action targeting Shylock malware\nhttps://www.europol.europa.eu/newsroom/news/global-action-targeting-shylock-malware\r\n",
             "last card change": "2020-04-14"
         },
         {
@@ -35604,12 +35250,7 @@
                 "Worldwide"
             ],
             "first seen": "2011",
-            "counter operations": [
-                {
-                    "date": "2018-03",
-                    "activity": "Behavior monitoring combined with machine learning spoils a massive Dofoil coin mining campaign\nhttps://www.microsoft.com/security/blog/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/"
-                }
-            ],
+            "counter operations": "**2018-03**:Behavior monitoring combined with machine learning spoils a massive Dofoil coin mining campaign\nhttps://www.microsoft.com/security/blog/2018/03/07/behavior-monitoring-combined-with-machine-learning-spoils-a-massive-dofoil-coin-mining-campaign/\r\n",
             "last card change": "2020-04-15"
         },
         {
@@ -35746,16 +35387,7 @@
             "label": "[Vault 7/8]",
             "id": "(apt)[Vault 7/8]",
             "first seen": "2017",
-            "counter operations": [
-                {
-                    "date": "2018-06",
-                    "activity": "Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency\nhttps://www.justice.gov/opa/pr/joshua-adam-schulte-charged-unauthorized-disclosure-classified-information-and-other-offenses"
-                },
-                {
-                    "date": "2020-03",
-                    "activity": "Vault 7 court case ends in mistrial on most serious charges\nhttps://www.cyberscoop.com/vault-7-mistrial-cia-joshua-schulte/"
-                }
-            ],
+            "counter operations": "**2018-06**:Joshua Adam Schulte Charged with the Unauthorized Disclosure of Classified Information and Other Offenses Relating to the Theft of Classified Material from the Central Intelligence Agency\nhttps://www.justice.gov/opa/pr/joshua-adam-schulte-charged-unauthorized-disclosure-classified-information-and-other-offenses\r\n**2020-03**:Vault 7 court case ends in mistrial on most serious charges\nhttps://www.cyberscoop.com/vault-7-mistrial-cia-joshua-schulte/\r\n",
             "last card change": "2020-07-17"
         },
         {
@@ -35863,12 +35495,7 @@
                 "Telecommunications"
             ],
             "first seen": "2014",
-            "counter operations": [
-                {
-                    "date": "2015-11",
-                    "activity": "Russia\u2019s FSB quietly led an operation to take down the world\u2019s most active cybercriminal groups, the operators of the banking malware Dyre\nhttps://www.forbes.com/sites/thomasbrewster/2016/02/08/russia-arrests-dyre-malware-masterminds/"
-                }
-            ],
+            "counter operations": "**2015-11**:Russia\u2019s FSB quietly led an operation to take down the world\u2019s most active cybercriminal groups, the operators of the banking malware Dyre\nhttps://www.forbes.com/sites/thomasbrewster/2016/02/08/russia-arrests-dyre-malware-masterminds/\r\n",
             "last card change": "2020-07-03"
         },
         {
@@ -35954,16 +35581,7 @@
                 "Worldwide"
             ],
             "first seen": "2010",
-            "counter operations": [
-                {
-                    "date": "2012-03",
-                    "activity": "On Wednesday, March 21, 2012, security experts from Dell SecureWorks, CrowdStrike, Kaspersky, and the Honeynet Project initiated efforts to detect and disrupt the operations of a botnet known as Waledac/Kelihos (also known as Hlux).\nhttps://www.secureworks.com/research/waledac-kelihos-botnet-takeover"
-                },
-                {
-                    "date": "2017-04",
-                    "activity": "Justice Department Announces Actions to Dismantle Kelihos Botnet\nhttps://www.justice.gov/opa/pr/justice-department-announces-actions-dismantle-kelihos-botnet-0"
-                }
-            ],
+            "counter operations": "**2012-03**:On Wednesday, March 21, 2012, security experts from Dell SecureWorks, CrowdStrike, Kaspersky, and the Honeynet Project initiated efforts to detect and disrupt the operations of a botnet known as Waledac/Kelihos (also known as Hlux).\nhttps://www.secureworks.com/research/waledac-kelihos-botnet-takeover\r\n**2017-04**:Justice Department Announces Actions to Dismantle Kelihos Botnet\nhttps://www.justice.gov/opa/pr/justice-department-announces-actions-dismantle-kelihos-botnet-0\r\n",
             "last card change": "2020-04-15"
         }
     ],
