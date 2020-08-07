@@ -5046,7 +5046,7 @@
             ],
             "uuid": "19517715-8aad-4c96-8514-814d74e27830",
             "label": "Aggah",
-            "operation_dates": [
+            "operation dates": [
                 "2018-12",
                 "2019-06",
                 "2019-09",
@@ -5222,7 +5222,7 @@
             ],
             "uuid": "92ced576-2522-4b79-8645-baa5e84ffee3",
             "label": "APT 3",
-            "operation_dates": [
+            "operation dates": [
                 "2007",
                 "2014-04",
                 "2014-06",
@@ -5300,7 +5300,7 @@
             ],
             "uuid": "37543431-9ac9-488b-ad5a-eded5a6ff964",
             "label": "APT 4",
-            "operation_dates": [
+            "operation dates": [
                 "2011-12",
                 "2012-01",
                 "2012-07",
@@ -5347,7 +5347,7 @@
             ],
             "uuid": "ac14c97f-10ba-4b03-8a27-073682b83780",
             "label": "APT 5",
-            "operation_dates": [
+            "operation dates": [
                 "2019-08"
             ],
             "targeted countries": [
@@ -5435,7 +5435,7 @@
             ],
             "uuid": "a85ba864-0a13-4337-bd57-8df380b7b4fa",
             "label": "APT 12",
-            "operation_dates": [
+            "operation dates": [
                 "2009-07",
                 "2011-05",
                 "2011",
@@ -5586,7 +5586,7 @@
             ],
             "uuid": "58f101e3-5fe8-43d4-8d92-f09987604385",
             "label": "APT 17",
-            "operation_dates": [
+            "operation dates": [
                 "2009",
                 "2010-03",
                 "2010-11",
@@ -5666,7 +5666,7 @@
             "operations": "**2014-04**: Community Health Systems data breach\nhttps://threatpost.com/apt-gang-branches-out-to-medical-espionage-in-community-health-breach/107828/\nhttps://www.venafi.com/blog/infographic-how-an-attack-by-a-cyber-espionage-operator-bypassed-security-controls\r\n**2015-06**: Attacks using DNS Requests as Command and Control Mechanism\nMethod: Phishing with obfuscated variants of the HTTPBrowser tool.\nhttps://www.anomali.com/blog/evasive-maneuvers-the-wekby-group-attempts-to-evade-analysis-via-custom-rop\nhttps://www.fireeye.com/blog/threat-research/2015/07/demonstrating_hustle.html\r\n**2016-05**: Attacks using DNS Requests as Command and Control Mechanism\nTarget: Organizations in the USA.\nMethod: Phishing with Pisloader dropper.\nhttps://unit42.paloaltonetworks.com/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/\r\n",
             "uuid": "aa2f3420-e239-4b0c-9066-c6f5804de6a8",
             "label": "APT 18",
-            "operation_dates": [
+            "operation dates": [
                 "2014-04",
                 "2015-06",
                 "2016-05"
@@ -5743,7 +5743,7 @@
             "operations": "**2013-03**: Breach of the US Department of Labor website\nOn April 30, 2013, CrowdStrike was alerted to a strategic web compromise on a US Department of Labor website that was redirecting visitors to an attacker\u2019s infrastructure. Eight other compromised sites were also reported to be similarly compromised with the data suggesting that this campaign began in mid-March.\nhttps://www.crowdstrike.com/blog/department-labor-strategic-web-compromise/\r\n**2014 Early**: Breaches of National Security Think Tanks\nThis actor, who was engaged in targeting and collection of Southeast Asia policy information, suddenly began targeting individuals with a tie to Iraq/Middle East issues. This is undoubtedly related to the recent Islamic State of Iraq and the Levant (ISIS) takeover of major parts of Iraq and the potential disruption for major Chinese oil interests in that country. In fact, Iraq happens to be the fifth-largest source of crude oil imports for China and the country is the largest foreign investor in Iraq\u2019s oil sector.\nhttps://www.crowdstrike.com/blog/deep-thought-chinese-targeting-national-security-think-tanks/\r\n**2014-03**: Breach of the US Office of Personnel Management\nOPM investigates a breach of its computer networks dating back to March 2014. Authorities trace the intrusion to China. OPM offers employees free credit monitoring and assures employees that no personal data appears to have been stolen.\nhttps://krebsonsecurity.com/2015/06/catching-up-on-the-opm-breach/\r\n**2014-03**: Breach of USIS\nIt emerges that USIS, a background check provider for the U.S. Department of Homeland Security, was hacked. USIS offers 27,000 DHS employees credit monitoring through AllClearID (full disclosure: AllClear is an advertiser on this blog). Investigators say Chinese are hackers responsible, and that the attackers broke in by exploiting a vulnerability in an enterprise management software product from SAP.\nhttps://www.nextgov.com/cybersecurity/2015/05/third-party-software-was-entry-point-background-check-system-hack/112354/\r\n**2014-04**: Breach of health insurance company Anthem\nhttps://krebsonsecurity.com/2015/02/anthem-breach-may-have-started-in-april-2014/\r\n**2014-07**: Sakula Malware to Target Organizations in Multiple Sectors\nOver the last few months, the CrowdStrike Intelligence team has been tracking a campaign of highly targeted events focused on entities in the U.S. Defense Industrial Base (DIB), healthcare, government, and technology sectors. This campaign infected victims with Sakula malware variants that were signed with stolen certificates.\nhttps://www.crowdstrike.com/blog/ironman-deep-panda-uses-sakula-malware-target-organizations-multiple-sectors/\r\n**2014-11**: Breaches of Australian media organizations ahead of G20\n\u201cWe started to see activity over the last couple of weeks targeting Australian media organizations and we believe that\u2019s related to the G20,\u201d Dmitri Alperovitch, co-founder of US computer security company CrowdStrike, told the ABC\u2019s 7.30 program.\nhttps://www.abc.net.au/news/2014-11-13/g20-china-affliliated-hackers-breaches-australian-media/5889442\r\n**2014-12**: Breach of KeyPoint Government Solutions\nKeyPoint Government Solutions, which took over the bulk of federal background checks after one of its competitors was hacked, also recently suffered a computer network breach, officials said Thursday.\nhttps://www.washingtonpost.com/business/economy/keypoint-suffers-network-breach-thousands-of-fed-workers-could-be-affected/2014/12/18/e6c7146c-86e1-11e4-a702-fa31ff4ae98e_story.html\r\n**2015-02**: Attack using Forbes.com as Watering Hole\nMethod: Compromise of Forbes.com, in which the site was used to compromise selected targets via a watering hole to a zero-day Adobe Flash exploit.\nhttps://www.darkreading.com/attacks-breaches/chinese-hacking-group-codoso-team-uses-forbescom-as-watering-hole-/d/d-id/1319059\r\n**2015-04**: Operation \u201cKingslayer\u201d\nRSA Research investigated the source of suspicious, observed beaconing thought to be associated with targeted malware. In the course of this tac-tical hunt for unidentified code, RSA discovered a sophisticated attack on a software supply-chain involving a Trojan inserted in otherwise legitimate software; software that is typically used by enterprise system administrators.\nhttps://www.rsa.com/content/dam/premium/en/white-paper/kingslayer-a-supply-chain-attack.pdf\r\n**2015-05**: Breach of health insurance company Premera Blue Cross\nPremera Blue Cross, one of the insurance carriers that participates in the Federal Employees Health Benefits Program, discloses a breach affecting 11 million customers. Federal auditors at OPM warned Premera three weeks prior to the breach that its network security procedures were inadequate.\nhttps://www.seattletimes.com/business/local-business/feds-warned-premera-about-security-flaws-before-breach/\r\n**2015-05**: Breach of health insurance company Carefirst Blue Cross\nCareFirst BlueCross BlueShield on Wednesday said it had been hit with a data breach that compromised the personal information on approximately 1.1 million customers. There are indications that the same attack methods may have been used in this intrusion as with breaches at Anthem and Premera, incidents that collectively involved data on more than 90 million Americans.\nhttps://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/\r\n**2016-01**: Several Watering Hole Attacks\nhttps://unit42.paloaltonetworks.com/new-attacks-linked-to-c0d0s0-group/\r\n**2017-05**: Phishing campaign targeting at least seven global law and investment firms.\nMethod: In early May, the phishing lures leveraged RTF attachments that exploited the Microsoft Windows vulnerability described in CVE 2017-0199. Toward the end of May, APT19 switched to using macro-enabled Microsoft Excel (XLSM) documents. In the most recent versions, APT19 added an application whitelisting bypass to the XLSM documents. At least one observed phishing lure delivered a Cobalt Strike payload.\nhttps://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html\r\n**2017-06**: Attacks on Australian law firms and research body\nhttps://www.abc.net.au/news/2017-12-01/chinese-hackers-targeting-australian-law-firms/9213520\r\n",
             "uuid": "58c7e347-341c-4446-bf03-81fc1f7d9254",
             "label": "APT 19",
-            "operation_dates": [
+            "operation dates": [
                 "2013-03",
                 "2014 Early",
                 "2014-03",
@@ -5875,7 +5875,7 @@
             ],
             "uuid": "73a85c37-08ef-4df4-ac98-7cb07b58715b",
             "label": "APT 20",
-            "operation_dates": [
+            "operation dates": [
                 "2017"
             ],
             "targeted countries": [
@@ -5977,7 +5977,7 @@
             ],
             "uuid": "93ba9804-335e-4782-855d-40af22b93201",
             "label": "APT 29",
-            "operation_dates": [
+            "operation dates": [
                 "2013-02",
                 "2013",
                 "2013",
@@ -6245,7 +6245,7 @@
             ],
             "uuid": "b79f69a4-18a3-4d4f-b6e5-5ad3e01c984b",
             "label": "APT 32",
-            "operation_dates": [
+            "operation dates": [
                 "2014-04",
                 "2014-12",
                 "2015-08",
@@ -6726,7 +6726,7 @@
             ],
             "uuid": "958e1f46-a2b6-4beb-8cb0-ddc90c08368e",
             "label": "APT 33",
-            "operation_dates": [
+            "operation dates": [
                 "2019-03",
                 "2019-07",
                 "2019-11"
@@ -6950,7 +6950,7 @@
             ],
             "uuid": "2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
             "label": "APT 41",
-            "operation_dates": [
+            "operation dates": [
                 "2016 Autumn",
                 "2017-07",
                 "2018-06",
@@ -7090,7 +7090,7 @@
             ],
             "uuid": "6fa5b25b-276e-4f24-a54a-86e6c05fb27f",
             "label": "Axiom",
-            "operation_dates": [
+            "operation dates": [
                 "2008/2014"
             ],
             "targeted countries": [
@@ -7136,7 +7136,7 @@
             ],
             "uuid": "90fb0276-a977-4d3e-a148-85a95778aebe",
             "label": "Bahamut",
-            "operation_dates": [
+            "operation dates": [
                 "2016-12",
                 "2017-10",
                 "2018-06",
@@ -7297,7 +7297,7 @@
             ],
             "uuid": "3a78595b-3d41-401f-8e8c-ac527a854d08",
             "label": "Berserk Bear",
-            "operation_dates": [
+            "operation dates": [
                 "2015-12",
                 "2017-05",
                 "2017-05"
@@ -7387,7 +7387,7 @@
             ],
             "uuid": "3566178c-4075-46be-bd5c-d4eccf7fa8c0",
             "label": "Bitter",
-            "operation_dates": [
+            "operation dates": [
                 "2013-11",
                 "2016-06",
                 "2018-09",
@@ -7511,7 +7511,7 @@
             ],
             "uuid": "9d6a918f-c75c-41c4-842d-3ad79c5a6642",
             "label": "Blackgear",
-            "operation_dates": [
+            "operation dates": [
                 "2018-07"
             ],
             "targeted countries": [
@@ -7666,7 +7666,7 @@
             "operations": "**2015-06**: Leveraging data from Kaspersky Security Network, we identified two other similar exploit chains used by BlackOasis in June 2015 which were zero days at the time. Those include CVE-2015-5119 and CVE-2016-0984, which were patched in July 2015 and February 2016 respectively.  These exploit chains also delivered FinSpy installation packages.\nhttps://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/\r\n**2016-05**: We first became aware of BlackOasis\u2019 activities in May 2016, while investigating another Adobe Flash zero day. On May 10, 2016, Adobe warned of a vulnerability (CVE-2016-4117) affecting Flash Player 21.0.0.226 and earlier versions for Windows, Macintosh, Linux, and Chrome OS. The vulnerability was actively being exploited in the wild.\r\n**2017-09**: FireEye recently detected a malicious Microsoft Office RTF document that leveraged CVE-2017-8759, a SOAP WSDL parser code injection vulnerability. This vulnerability allows a malicious actor to inject arbitrary code during the parsing of SOAP WSDL definition contents.\nhttps://www.fireeye.com/blog/threat-research/2017/09/zero-day-used-to-distribute-finspy.html\r\n**2017-10**: On October 10, 2017, Kaspersky Lab\u2019s advanced exploit prevention systems identified a new Adobe Flash zero day exploit used in the wild against our customers. The exploit was delivered through a Microsoft Office document and the final payload was the latest version of FinSpy malware.\nhttps://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/\r\n",
             "uuid": "7db7cd4f-ca76-4176-9d94-80429033ef49",
             "label": "BlackOasis",
-            "operation_dates": [
+            "operation dates": [
                 "2015-06",
                 "2016-05",
                 "2017-09",
@@ -7730,7 +7730,7 @@
             ],
             "uuid": "8914b19b-9d8a-469f-8b95-37db9894e070",
             "label": "BlackTech",
-            "operation_dates": [
+            "operation dates": [
                 "2010",
                 "2012",
                 "2014",
@@ -7957,7 +7957,7 @@
             ],
             "uuid": "334d9e0e-dab2-4bc5-8db2-5ab016f36947",
             "label": "Bronze Butler",
-            "operation_dates": [
+            "operation dates": [
                 "2015-07",
                 "2017-04",
                 "2017-11",
@@ -8038,7 +8038,7 @@
             ],
             "uuid": "30df5485-c9bd-4d36-a685-4f202162e323",
             "label": "Buhtrap",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2015-10",
                 "2015-12",
@@ -8493,7 +8493,7 @@
             ],
             "uuid": "d7f937b7-b50b-4022-bca1-9e403ffefe45",
             "label": "Chafer",
-            "operation_dates": [
+            "operation dates": [
                 "2017",
                 "2018-02",
                 "2018 Autumn",
@@ -8608,7 +8608,7 @@
             ],
             "uuid": "1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
             "label": "Chimera",
-            "operation_dates": [
+            "operation dates": [
                 "2018 Late"
             ],
             "targeted countries": [
@@ -8644,7 +8644,7 @@
             ],
             "uuid": "a3785768-7d9e-4cf7-9fed-77a2267a90d5",
             "label": "CIA",
-            "operation_dates": [
+            "operation dates": [
                 "2018-09"
             ],
             "targeted countries": [
@@ -8736,7 +8736,7 @@
             ],
             "uuid": "d4ccac4c-06b7-4b12-af53-7b96e160055a",
             "label": "[Unnamed group USA]",
-            "operation_dates": [
+            "operation dates": [
                 "2019-07",
                 "2020-03"
             ],
@@ -8829,7 +8829,7 @@
             ],
             "uuid": "d8339e9a-c946-4304-aac4-722d8652d273",
             "label": "Cobalt Group",
-            "operation_dates": [
+            "operation dates": [
                 "2016-06",
                 "2016-07",
                 "2016-08",
@@ -8997,7 +8997,7 @@
             ],
             "uuid": "b99367ed-e483-40a3-98d0-8d3a2102a4ab",
             "label": "Comment Crew",
-            "operation_dates": [
+            "operation dates": [
                 "2006/2010",
                 "2011/2012",
                 "2014-02",
@@ -11215,7 +11215,7 @@
             ],
             "uuid": "5cfcb0a9-c819-4cc2-ad43-36fe47aca3d4",
             "label": "Confucius",
-            "operation_dates": [
+            "operation dates": [
                 "2017-10",
                 "2017 Late",
                 "2018-05"
@@ -11256,7 +11256,7 @@
             "operations": "**2013**: Operation \u201cWilted Tulip\u201d\nIn this report, Trend Micro and ClearSky expose a vast espionage apparatus spanning the entire time the group has been active. It includes recent incidents as well as older ones that have not been publicly reported; new malware; exploitation, delivery and command and control infrastructure; and the group\u2019s modus operandi. We dubbed this activity Operation Wilted Tulip.\nhttps://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf\r\n**2015**: CopyKittens has conducted at least three waves of cyber-attacks in the past year. In each of the attacks the infection method was almost identical and included an extraordinary number of stages used to avoid detection. As with other common threat actors, the group relies on social engineering methods to deceive its targets prior to infection.\nhttps://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf\r\n**2017-01**: Breach of the Israeli newspaper Jerusalem Post\nAs part of our monitoring of Iranian threat agents activities, we have detected that since October 2016 and until the end of January 2017, the Jerusalem Post, as well as multiple other Israeli websites and one website in the Palestinian Authority were compromised by Iranian threat agent CopyKittens.\nhttps://www.clearskysec.com/copykitten-jpost/\r\n",
             "uuid": "a674fc23-26e8-4f6e-ba55-1a6ef4029878",
             "label": "CopyKittens",
-            "operation_dates": [
+            "operation dates": [
                 "2013",
                 "2015",
                 "2017-01"
@@ -11448,7 +11448,7 @@
             "operations": "**2012**: Operation \u201cCleaver\u201d\nOperation Cleaver has, over the past several years, conducted a significant global surveillance and infiltration campaign. To date it has successfully evaded detection by existing security technologies. The group is believed to work from Tehran, Iran, although auxiliary team members were identified in other locations including the Netherlands, Canada, and the UK. The group successfully leveraged both publicly available, and customized tools to attack and compromise targets around the globe. The targets include military, oil and gas, energy and utilities, transportation, airlines, airports, hospitals, telecommunications, technology, education, aerospace, Defense Industrial Base (DIB), chemical companies, and governments.\nhttps://www.cylance.com/content/dam/cylance/pages/operation-cleaver/Cylance_Operation_Cleaver_Report.pdf\r\n**2013**: Attack on the Bowman Avenue Dam\nIranian hackers infiltrated the control system of a small dam less than 20 miles from New York City two years ago, sparking concerns that reached to the White House, according to former and current U.S. officials and experts familiar with the previously undisclosed incident.\nhttps://www.wsj.com/articles/iranian-hackers-infiltrated-new-york-dam-in-2013-1450662559\r\n**2015**: Network of Fake LinkedIn Profiles\nWhile tracking a suspected Iran-based threat group known as Threat Group-2889 (TG-2889), Dell SecureWorks Counter Threat Unit (CTU) researchers uncovered a network of fake LinkedIn profiles. These convincing profiles form a self-referenced network of seemingly established LinkedIn users. CTU researchers assess with high confidence the purpose of this network is to target potential victims through social engineering.\nhttps://www.secureworks.com/research/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles\r\n",
             "uuid": "4622bc44-8c01-4807-8d12-b22352472c29",
             "label": "Cutting Kitten",
-            "operation_dates": [
+            "operation dates": [
                 "2012",
                 "2013",
                 "2015"
@@ -11519,7 +11519,7 @@
             ],
             "uuid": "c375b720-a3ec-464a-a81d-891c24f3e325",
             "label": "Cyber Berkut",
-            "operation_dates": [
+            "operation dates": [
                 "2014-03",
                 "2014-07",
                 "2015-01",
@@ -11564,7 +11564,7 @@
             ],
             "uuid": "82cebb46-cbb7-49b5-8405-1f04b46f1b5c",
             "label": "Cyber Caliphate Army (CCA)",
-            "operation_dates": [
+            "operation dates": [
                 "2015-02",
                 "2015-04",
                 "2015-04",
@@ -11701,7 +11701,7 @@
             ],
             "uuid": "142dc639-1360-4a2d-a839-11e62ca724e4",
             "label": "DarkHotel",
-            "operation_dates": [
+            "operation dates": [
                 "2010",
                 "2015",
                 "2015-12",
@@ -12120,7 +12120,7 @@
             ],
             "uuid": "2849cc26-d6c8-4484-821e-cb0f7006bddc",
             "label": "DarkHydrus",
-            "operation_dates": [
+            "operation dates": [
                 "2018-06",
                 "2018-07",
                 "2019-01"
@@ -12280,7 +12280,7 @@
             ],
             "uuid": "d337940e-7ef9-4b4e-8c04-c6472d6b8972",
             "label": "Desert Falcons",
-            "operation_dates": [
+            "operation dates": [
                 "2015-01",
                 "2015-09",
                 "2016-07",
@@ -12379,7 +12379,7 @@
             ],
             "uuid": "bada63ae-9429-4f84-b141-2970799ac9d5",
             "label": "DNSpionage",
-            "operation_dates": [
+            "operation dates": [
                 "2019-04"
             ],
             "targeted countries": [
@@ -12488,7 +12488,7 @@
             ],
             "uuid": "15dd32b1-f4c1-4a96-bf89-02ff532b1540",
             "label": "Donot Team",
-            "operation_dates": [
+            "operation dates": [
                 "2019-03",
                 "2019-04"
             ],
@@ -12546,7 +12546,7 @@
             ],
             "uuid": "6823d807-dfa8-42f3-84d5-986a7ef60c56",
             "label": "DragonOK",
-            "operation_dates": [
+            "operation dates": [
                 "2015-01",
                 "2016",
                 "2017-01"
@@ -12708,7 +12708,7 @@
             ],
             "uuid": "833458a9-a8a0-4efb-be06-d5ef87b6b842",
             "label": "El Machete",
-            "operation_dates": [
+            "operation dates": [
                 "2017-03",
                 "2019-03"
             ],
@@ -12809,7 +12809,7 @@
             ],
             "uuid": "e67091ab-cbea-4d73-984d-e4b29f6c48a9",
             "label": "Emissary Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2010",
                 "2015",
                 "2017-07",
@@ -13080,7 +13080,7 @@
             ],
             "uuid": "a1492ea6-162c-46a9-a2d5-9618641b5ab2",
             "label": "Energetic Bear",
-            "operation_dates": [
+            "operation dates": [
                 "2013-02",
                 "2013-06",
                 "2013-09",
@@ -13379,7 +13379,7 @@
             ],
             "uuid": "438f216f-2ba2-40d1-ae92-0a3919689bae",
             "label": "Evil Eye",
-            "operation_dates": [
+            "operation dates": [
                 "2020-01"
             ],
             "targeted sectors": [
@@ -13424,7 +13424,7 @@
             ],
             "uuid": "e5ad7790-80c8-4319-a52e-469e20c95573",
             "label": "Evilnum",
-            "operation_dates": [
+            "operation dates": [
                 "2020-05"
             ],
             "targeted countries": [
@@ -13574,7 +13574,7 @@
             ],
             "uuid": "61c8ecd4-e4e1-4f36-b209-ca55106ec22f",
             "label": "FIN6",
-            "operation_dates": [
+            "operation dates": [
                 "2018",
                 "2019-01",
                 "2019-01",
@@ -13713,7 +13713,7 @@
             ],
             "uuid": "c3f1f1ff-7d79-4385-bb5b-340c252c5a77",
             "label": "FIN7",
-            "operation_dates": [
+            "operation dates": [
                 "2017-02",
                 "2017-03",
                 "2017-04",
@@ -14507,7 +14507,7 @@
             "operations": "**2016-03**: Tailored spear-phishing campaigns\nIn March 2016, a financially motivated threat actor launched several tailored spear phishing campaigns primarily targeting the retail, restaurant, and hospitality industries. The emails contained variations of Microsoft Word documents with embedded macros that, when enabled, downloaded and executed a malicious downloader that we refer to as PUNCHBUGGY.\nhttps://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html\r\n**2017**: In early 2017, FIN8 began using environment variables paired with PowerShell\u2019s ability to receive commands via stdin (standard input) to evade detection based on process command line arguments. In the February 2017 phishing document \u201cCOMPLAINT Homer Glynn.doc\u201d\nhttps://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html\r\n**2019-03**: During the period of March to May 2019, Morphisec Labs observed a new, highly sophisticated variant of the ShellTea / PunchBuggy backdoor malware that attempted to infiltrate a number of machines within the network of a customer in the hotel-entertainment industry. It is believed that the malware was deployed as a result of several phishing attempts.\nhttp://blog.morphisec.com/security-alert-fin8-is-back\r\n**2019-07**: This blog will introduce a new reverse shell from FIN8, dubbed BADHATCH and compare publicly reported versions of ShellTea and PoSlurp to variants observed by Gigamon Applied Threat Research (ATR).\nhttps://atr-blog.gigamon.com/2019/07/23/abadbabe-8badf00d:-discovering-badhatch-and-a-detailed-look-at-fin8\u2019s-tooling/\r\n",
             "uuid": "92691488-ff3b-4ff0-92f1-1c732bce88d2",
             "label": "FIN8",
-            "operation_dates": [
+            "operation dates": [
                 "2016-03",
                 "2017",
                 "2019-03",
@@ -14662,7 +14662,7 @@
             ],
             "uuid": "9d17cae3-0777-428b-b9b7-fcbdf52af5ba",
             "label": "Flying Kitten",
-            "operation_dates": [
+            "operation dates": [
                 "2013"
             ],
             "targeted countries": [
@@ -14821,7 +14821,7 @@
             ],
             "uuid": "a48ab06b-092a-481d-ae0b-c4050ed281f7",
             "label": "Gamaredon Group",
-            "operation_dates": [
+            "operation dates": [
                 "2019-04",
                 "2019-05",
                 "2019-07",
@@ -14918,7 +14918,7 @@
             ],
             "uuid": "9d92be76-3493-4c22-a22c-73e34bb2bb66",
             "label": "GCHQ",
-            "operation_dates": [
+            "operation dates": [
                 "2009",
                 "2010"
             ],
@@ -15075,7 +15075,7 @@
             ],
             "uuid": "54b1fa22-3aa4-4cdd-9c24-e6f1ce0e907d",
             "label": "Goblin Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2016-07",
                 "2017-09",
                 "2018"
@@ -15134,7 +15134,7 @@
             ],
             "uuid": "7d44d2cd-98a0-4bcf-8ad3-02e3c382cbad",
             "label": "Gorgon Group",
-            "operation_dates": [
+            "operation dates": [
                 "2017-07",
                 "2018-02"
             ],
@@ -15221,7 +15221,7 @@
             ],
             "uuid": "74367856-09d1-44d6-bff1-cb72a9514e11",
             "label": "Hades",
-            "operation_dates": [
+            "operation dates": [
                 "2019-06",
                 "2020-02"
             ],
@@ -15324,7 +15324,7 @@
             ],
             "uuid": "27c06342-0000-4ed3-8c57-9041c64d8230",
             "label": "Hidden Lynx",
-            "operation_dates": [
+            "operation dates": [
                 "2012-06",
                 "2012-07"
             ],
@@ -15438,7 +15438,7 @@
             ],
             "uuid": "14545b70-34d1-4034-a41e-5533fa30be7f",
             "label": "Hurricane Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2014-03"
             ],
             "targeted sectors": [
@@ -15479,7 +15479,7 @@
             ],
             "uuid": "d311b620-e98f-4210-b136-cd24749584b0",
             "label": "Icefog",
-            "operation_dates": [
+            "operation dates": [
                 "2014-01",
                 "2015",
                 "2016",
@@ -15620,7 +15620,7 @@
             ],
             "uuid": "7849ff33-1be0-4715-89b1-3adcb182561a",
             "label": "Inception Framework",
-            "operation_dates": [
+            "operation dates": [
                 "2012-10",
                 "2014-05",
                 "2014-08",
@@ -15730,7 +15730,7 @@
             ],
             "uuid": "bd37587a-e905-44dd-8844-0b2dcfb96c8e",
             "label": "Infy",
-            "operation_dates": [
+            "operation dates": [
                 "2015-05",
                 "2017-02"
             ],
@@ -15782,7 +15782,7 @@
             ],
             "uuid": "21785caa-d383-454d-a0cb-4242e57d0f8e",
             "label": "InvisiMole",
-            "operation_dates": [
+            "operation dates": [
                 "2019 Late"
             ],
             "targeted countries": [
@@ -15840,7 +15840,7 @@
             ],
             "uuid": "529edb3c-a5dc-4438-a3ec-a078bc590adc",
             "label": "Iridium",
-            "operation_dates": [
+            "operation dates": [
                 "2018-12",
                 "2018-12"
             ],
@@ -15908,7 +15908,7 @@
             ],
             "uuid": "71c32867-673e-424e-b38c-7d930b54cf4e",
             "label": "ITG18",
-            "operation_dates": [
+            "operation dates": [
                 "2020-05"
             ],
             "targeted countries": [
@@ -15978,7 +15978,7 @@
             ],
             "uuid": "110ed515-11db-4bf1-af41-a66f513ecf70",
             "label": "Ke3chang",
-            "operation_dates": [
+            "operation dates": [
                 "2010",
                 "2014-08",
                 "2015",
@@ -16157,7 +16157,7 @@
             ],
             "uuid": "5e3544bf-98ad-4e9f-b65e-85f05c36486f",
             "label": "Kimsuky",
-            "operation_dates": [
+            "operation dates": [
                 "2013",
                 "2014",
                 "2018-03",
@@ -16592,7 +16592,7 @@
             ],
             "uuid": "41dcfaff-d5f0-484d-8649-ef8c61588eec",
             "label": "Lazarus Group",
-            "operation_dates": [
+            "operation dates": [
                 "2007",
                 "2009-07",
                 "2011-03",
@@ -16688,7 +16688,7 @@
             "operations": "**2014**: Operation \u201cBLACKMINE\u201d\nTarget: South Korean organizations.\nMethod: Information theft and espionage.\r\n**2014**: Operation \u201cGHOSTRAT\u201d\nTarget: Defense industry.\nMethod: Information theft and espionage.\r\n**2014**: Operation \u201cXEDA\u201d\nTarget: Foreign defense industries.\nMethod: Information theft and espionage.\r\n**2015**: Operation \u201cINITROY\u201d/Phase 1\nTarget: South Korean organizations.\nMethod: Information theft/early phase operation.\r\n**2015**: Operation \u201cDESERTWOLF\u201d/Phase 3\nTarget: South Korean defense industry.\nMethod: Information theft and espionage.\r\n**2015**: Operation \u201cBLACKSHEEP\u201d/Phase 3.\nTarget: Defense industry.\nMethod: Information theft and espionage.\r\n**2016**: Operation \u201cINITROY\u201d/Phase 2\nTarget: South Korean organizations.\nMethod: Information theft/early phase operation.\r\n**2016**: Operation \u201cVANXATM\u201d\nTarget: ATM companies.\nMethod: Financial theft/BPC.\r\n**2017**: Operation \u201cMayday\u201d\nTarget: South Koran Financial Company.\nMethod: Information theft and espionage.\r\n**2018-06**: Operation \u201cGoldenAxe\u201d\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-andariel-reconnaissance-tactics-hint-at-next-targets/\r\n",
             "uuid": "00089621-cabc-421a-b2ce-3fd18f6bfa9c",
             "label": "Andariel",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2014",
                 "2014",
@@ -16726,7 +16726,7 @@
             ],
             "uuid": "a979f6ac-99b3-4810-9362-94187db06784",
             "label": "Bluenoroff",
-            "operation_dates": [
+            "operation dates": [
                 "2015-10",
                 "2015",
                 "2015-12",
@@ -16941,7 +16941,7 @@
             ],
             "uuid": "b106313a-d204-4d9f-866b-e750a98d0e06",
             "label": "Leviathan",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2017-05",
                 "2017",
@@ -17063,7 +17063,7 @@
             ],
             "uuid": "0cd75659-1c39-4647-8781-3e65d79f2cd5",
             "label": "LookBack",
-            "operation_dates": [
+            "operation dates": [
                 "2019-07",
                 "2019-08"
             ],
@@ -17127,7 +17127,7 @@
             "operations": "**2015-06**: Operation \u201cLotus Blossom\u201d\nToday Unit 42 published new research identifying a persistent cyber espionage campaign targeting government and military organizations in Southeast Asia. The adversary group responsible for the campaign, which we named \u201cLotus Blossom,\u201d is well organized and likely state-sponsored, with support from a country that has interests in Southeast Asia. The campaign has been in operation for some time; we have identified over 50 different attacks taking place over the past three years.\nhttps://unit42.paloaltonetworks.com/operation-lotus-blossom/\r\n**2015-11**: Attack on French Diplomat\nWe observed a targeted attack in November directed at an individual working for the French Ministry of Foreign Affairs. The attack involved a spear-phishing email sent to a single French diplomat based in Taipei, Taiwan and contained an invitation to a Science and Technology support group event.\nhttps://unit42.paloaltonetworks.com/attack-on-french-diplomat-linked-to-operation-lotus-blossom/\r\n**2017 Early**: In the beginning of 2017, Kaspersky Lab became aware of new activities by an APT actor we have been tracking for several years called Spring Dragon (also known as LotusBlossom).\nInformation about the new attacks arrived from a research partner in Taiwan and we decided to review the actor\u2019s tools, techniques and activities.\nUsing Kaspersky Lab telemetry data we detected the malware in attacks against some high-profile organizations around the South China Sea.\nhttps://securelist.com/spring-dragon-updated-activity/79067/\r\n**2018-01**: Attacks on Association of South East Asian Nations (ASEAN) countries\nDuring the last weeks of January (2018), nation state actors from Lotus Blossom conducted a targeted malware spam campaign against the Association of South East Asian Nations (ASEAN) countries.\nhttps://community.rsa.com/community/products/netwitness/blog/2018/02/13/lotus-blossom-continues-asean-targeting\nhttps://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf\r\n**2018-01**: Back in January 2018, TAA triggered an alert at a large telecoms operator in Southeast Asia.\nhttps://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets\r\n**2018-06**: Since Symantec first exposed the Thrip group in 2018, the stealthy China-based espionage group has continued to mount attacks in South East Asia, hitting military organizations, satellite communications operators, and a diverse range of other targets in the region.\nhttps://www.symantec.com/blogs/threat-intelligence/thrip-apt-south-east-asia\r\n",
             "uuid": "3b0d3a5d-1858-4be6-b23e-c2620e6e1065",
             "label": "Lotus Blossom",
-            "operation_dates": [
+            "operation dates": [
                 "2015-06",
                 "2015-11",
                 "2017 Early",
@@ -17358,7 +17358,7 @@
             ],
             "uuid": "dfa23dfc-0cb8-4621-bde5-1583e1e7bfa4",
             "label": "Mabna Institute",
-            "operation_dates": [
+            "operation dates": [
                 "2018-08",
                 "2019-07"
             ],
@@ -17603,7 +17603,7 @@
             ],
             "uuid": "2afc9634-8895-4535-bb80-8843d4830e04",
             "label": "Madi",
-            "operation_dates": [
+            "operation dates": [
                 "2012-07"
             ],
             "targeted countries": [
@@ -17680,7 +17680,7 @@
             ],
             "uuid": "bb9b25ed-9ddc-4f65-bd01-ab8d6efc34ac",
             "label": "Magic Hound",
-            "operation_dates": [
+            "operation dates": [
                 "2014 Mid",
                 "2016",
                 "2017-01",
@@ -18388,7 +18388,7 @@
             "operations": "**2012-01**: Defacement of Israel fire service website\nHackers claiming to be from the Gaza Strip defaced the website of the Israel Fire and Rescue services, posting a message saying \u201cDeath to Israel,\u201d a spokesman said on Friday.\nhttps://middle-east-online.com/en/cyber-war-gaza-hackers-deface-israel-fire-service-website\r\n**2012-10**: Operation \u201cMolerats\u201d\nIn October 2012, malware attacks against Israeli government targets grabbed media attention as officials temporarily cut off Internet access for its entire police force and banned the use of USB memory sticks. Security researchers subsequently linked these attacks to a broader, yearlong campaign that targeted not just Israelis but Palestinians as well \u2014 and as discovered later, even the U.S. and UK governments.\nhttps://www.fireeye.com/blog/threat-research/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html\r\n**2013-06**: We observed several attacks in June and July 2013 against targets in the Middle East and the U.S. that dropped a PIVY payload that connected to command-and-control (CnC) infrastructure used by the Molerats attackers.\nhttps://www.fireeye.com/blog/threat-research/2013/08/operation-molerats-middle-east-cyber-attacks-using-poison-ivy.html\r\n**2014-04**: Between 29 April and 27 May, FireEye Labs identified several new Molerats attacks targeting at least one major U.S. financial institution and multiple, European government organizations.\nhttps://www.fireeye.com/blog/threat-research/2014/06/molerats-here-for-spring.html\r\n**2014 Summer**: Attacks against Israeli & Palestinian interests\nThe decoy documents and filenames used in the attacks suggest the intended targets include organizations with political interests or influence in Israel and Palestine.\nhttps://pwc.blogs.com/cyber_security_updates/2015/04/attacks-against-israeli-palestinian-interests.html\r\n**2014**: Operation \u201cMoonlight\u201d\nVectra Threat Labs researchers have uncovered the activities of a group of individuals currently engaged in targeted attacks against entities in the Middle East. We identified over 200 samples of malware generated by the group over the last two years. These attacks are themed around Middle Eastern political issues and the motivation appears to relate to espionage, as opposed to opportunistic or criminal intentions.\nhttps://blog.vectra.ai/blog/moonlight-middle-east-targeted-attacks\r\n**2015-05**: One interesting new fact about Gaza Cybergang activities is that they are actively sending malware files to IT (Information Technology) and IR (Incident Response) staff; this is also obvious from the file names they are sending to victims, which reflect the IT functions or IR tools used in cyberattack investigations.\nhttps://securelist.com/gaza-cybergang-wheres-your-ir-team/72283/\r\n**2015-09**: Operation \u201cDustySky\u201d\nThese attacks are targeted, but not spear-phished. I.e., malicious email messages are sent to selected targets rather than random mass distribution, but are not tailored specifically to each and every target. Dozens of targets may receive the exact same message. The email message and the lure document are written in Hebrew, Arabic or English \u2013depending on the target audience. Targeted sectors include governmental and diplomatic institutions, including embassies; companies from the aerospace and defense Industries; financial institutions; journalists; software developers. The attackers have been targeting software developers in general, using a fake website pretending to be a legitimate iOS management software, and linking to it in an online freelancing marketplace.\nhttps://www.clearskysec.com/wp-content/uploads/2016/01/Operation%20DustySky_TLP_WHITE.pdf\r\n**2015-12**: Palo Alto Networks Traps Advanced Endpoint Protection recently prevented recent attacks that we believe are part of a campaign linked to DustySky.\nhttps://unit42.paloaltonetworks.com/unit42-downeks-and-quasar-rat-used-in-recent-targeted-attacks-against-governments/\r\n**2016-04**: Operation \u201cDustySky\u201d Part 2\nAttacks against all targets in the Middle East stopped at once, after we published our first report. However, the attacks against targets in the Middle East (except Israel) were renewed in less than 20 days. In the beginning of April 2016, we found evidence that the attacks against Israel have been renewed as well. Based on the type of targets, on Gaza being the source of the attacks, and on the type of information the attackers are after \u2013we estimate with medium-high certainty that the Hamas terrorist organization is behind these attacks.\nhttps://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf\nhttps://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/26000/PD26760/en_US/McAfee_Labs_Threat_Advisory_GazaCybergang.pdf\r\n**2016-11**: PwC analysts have been tracking the same malware campaign, which has seen a noticeable spike since at least April 2016. The attackers have targeted Arabic news websites, political figures and other targets that possess influence in the Palestinian territories and other neighbouring Arab countries.\nOur investigation began by  nalyzing around 20 executable files associated with the attacks. Several of these files opened decoy documents and audio files, which were exclusively in Arabic-language.\nhttps://pwc.blogs.com/cyber_security_updates/2016/11/molerats-theres-more-to-the-naked-eye.html\r\n**2017 Mid**: New targets, use of MS Access Macros and CVE 2017-0199, and possible mobile espionage\nOne of the interesting new facts, uncovered in mid-2017, is its discovery inside an oil and gas organization in the MENA region, infiltrating systems and pilfering data, apparently for more than a year.\nAnother interesting finding is the use of the recently discovered CVE 2017-0199 vulnerability, and Microsoft Access files into which the download scripts were embedded to reduce the likelihood of their detection. Traces of mobile malware that started to appear from late April 2017, are also being investigated.\nhttps://securelist.com/gaza-cybergang-updated-2017-activity/82765/\r\n**2017-09**: Operation \u201cTopHat\u201d\nIn recent months, Palo Alto Networks Unit 42 observed a wave of attacks leveraging popular third-party services Google+, Pastebin, and bit.ly.\nThe attacks we found within the TopHat campaign began in early September 2017. In a few instances, original filenames of the identified samples were written in Arabic.\nhttps://unit42.paloaltonetworks.com/unit42-the-tophat-campaign-attacks-within-the-middle-east-region-using-popular-third-party-services/\r\n**2019-01**: \u201cSpark\u201d Campaign\nThis campaign uses social engineering to infect victims, mainly from the Palestinian territories, with the Spark backdoor. This backdoor first emerged in January 2019 and has been continuously active since then. The campaign\u2019s lure content revolves around recent geopolitical events, espeically the Israeli-Palestinian conflict, the assassination of Qasem Soleimani, and the ongoing conflict between Hamas and Fatah Palestinian movements.\nhttps://www.cybereason.com/blog/new-cyber-espionage-campaigns-targeting-palestinians-part-one\r\n**2019-02**: New Attack in the Middle East\nRecently, 360 Threat Intelligence Center captured a bait document designed specifically for Arabic users. It is an Office Word document with malicious macros embedded to drop and execute a backdoor packed by Enigma Virtual Box. The backdoor program has a built-in keyword list containing names of people or opera movies to communicate with C2, distributes control commands to further control the victim\u2019s computer device. After investigation, we suspect this attack is carried out by Molerats.\nhttps://ti.360.net/blog/articles/suspected-molerats-new-attack-in-the-middle-east-en/\r\n**2019-04**: Operation \u201cSneakyPastes\u201d\nThe campaign is multistage. It begins with phishing, using letters from one-time addresses and one-time domains. Sometimes the letters contain links to malware or infected attachments. If the victim executes the attached file (or follows the link), their device receives Stage One malware programmed to activate the infection chain.\nhttps://www.kaspersky.com/blog/gaza-cybergang/26363/\r\n**2019-10**: Between October 2019 through the beginning of December 2019, Unit 42 observed multiple instances of phishing attacks likely related to a threat group known as Molerats (AKA Gaza Hackers Team and Gaza Cybergang) targeting eight organizations in six different countries in the government, telecommunications, insurance and retail industries, of which the latter two were quite peculiar.\nhttps://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/\r\n**2019-12**: \u201cPierogi\u201d Campaign\nThis campaign uses social engineering attacks to infect victims with a new, undocumented backdoor dubbed Pierogi. This backdoor first emerged in December 2019, and was discovered by Cybereason. In this campaign, the attackers use different TTPs and decoy documents reminiscent of previous campaigns by MoleRATs involving the Micropsia and Kaperagent malware.\nhttps://www.cybereason.com/blog/new-cyber-espionage-campaigns-targeting-palestinians-part-one\r\n**2020-03**: Molerats Delivers Spark Backdoor to Government and Telecommunications Organizations\nhttps://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/\nhttps://www.bleepingcomputer.com/news/security/hackers-hide-malware-c2-communication-by-faking-news-site-traffic/\r\n",
             "uuid": "6a9903bb-0925-4715-83cf-f058c03a003b",
             "label": "Molerats",
-            "operation_dates": [
+            "operation dates": [
                 "2012-01",
                 "2012-10",
                 "2013-06",
@@ -18560,7 +18560,7 @@
             ],
             "uuid": "0d5af1f9-fa2e-4ce9-a4ce-0c6fade938e9",
             "label": "MuddyWater",
-            "operation_dates": [
+            "operation dates": [
                 "2017-02",
                 "2018-01",
                 "2018-03",
@@ -18742,7 +18742,7 @@
             ],
             "uuid": "d8fa62d2-de5c-4c13-8cdf-6428d02bc4d6",
             "label": "Mustang Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2019-08",
                 "2020-01",
@@ -18861,7 +18861,7 @@
             ],
             "uuid": "c62ba18b-436f-4db5-b25d-053daea89259",
             "label": "Naikon",
-            "operation_dates": [
+            "operation dates": [
                 "2012",
                 "2013",
                 "2013-02",
@@ -19113,7 +19113,7 @@
             ],
             "uuid": "8650e8c5-55a5-4441-8903-0f2bf5753ef1",
             "label": "NetTraveler",
-            "operation_dates": [
+            "operation dates": [
                 "2014-08",
                 "2015-12"
             ],
@@ -19290,7 +19290,7 @@
             "operations": "**2015-05**: Operation \u201cSeven Pointed Dagger\u201d\nDuring that campaign, the threat actor identified as Group 27 used watering hole attacks on official Myanmar government websites to infect unsuspecting users with the PlugX malware (an RAT) when accessing information on the upcoming Myanmar elections.\nhttps://news.softpedia.com/news/trochilus-rat-evades-antivirus-detection-used-for-cyber-espionage-in-south-east-asia-498776.shtml\nhttps://unit42.paloaltonetworks.com/evilgrab-delivered-by-watering-hole-attack-on-president-of-myanmars-website/\nhttp://pages.arbornetworks.com/rs/082-KNA-087/images/ASERT%20Threat%20Intelligence%20Brief%202015-05%20PlugX%20Threat%20Activity%20in%20Myanmar.pdf\r\n**2015-05**: Chinese Actors Use \u20183102\u2019 Malware in Attacks on US Government and EU Media\nhttps://unit42.paloaltonetworks.com/chinese-actors-use-3102-malware-in-attacks-on-us-government-and-eu-media/\r\n**2016-09**: From September 2016 through late November 2016, a threat actor group used both the Trochilus RAT and a newly idenfied RAT we\u2019ve named MoonWind to target organizations in Thailand, including a utility organization. We chose the name \u2018MoonWind\u2019 based on debugging strings we saw within the samples, as well as the compiler used to generate the samples. The attackers compromised two legitimate Thai websites to host the malware, which is a tactic this group has used in the past.\nhttps://unit42.paloaltonetworks.com/unit42-trochilus-rat-new-moonwind-rat-used-attack-thai-utility-organizations/\r\n",
             "uuid": "8a0bdb6e-8aff-478b-a9bc-29732ec3e99c",
             "label": "Nightshade Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2015-05",
                 "2015-05",
                 "2016-09"
@@ -19372,7 +19372,7 @@
             ],
             "uuid": "86c30d93-a2e8-4d04-9881-884cc59d7e19",
             "label": "Nitro",
-            "operation_dates": [
+            "operation dates": [
                 "2014-07"
             ],
             "targeted countries": [
@@ -19481,7 +19481,7 @@
             ],
             "uuid": "eeb31f97-edcf-4836-b621-a1865305b91e",
             "label": "OilRig",
-            "operation_dates": [
+            "operation dates": [
                 "2012-08",
                 "2016-05",
                 "2016-06",
@@ -19660,7 +19660,7 @@
             "operations": "**2016-11**: Greenbug cyberespionage group targeting Middle East, possible links to Shamoon\nhttps://www.symantec.com/connect/blogs/greenbug-cyberespionage-group-targeting-middle-east-possible-links-shamoon\r\n**2017-05**: Researchers have identified a possible new collaborator in the continued Shamoon attacks against Saudi organizations. Called Greenbug, this group is believed to be instrumental in helping Shamoon steal user credentials of targets ahead of Shamoon\u2019s destructive attacks.\nhttps://threatpost.com/shamoon-collaborator-greenbug-adopts-new-communication-tool/125383/\r\n**2017-07**: OilRig Uses ISMDoor Variant; Possibly Linked to Greenbug Threat Group\nIn July 2017, we observed an attack on a Middle Eastern technology organization that was also targeted by the OilRig campaign in August 2016. Initial inspection of this attack suggested this was again the OilRig campaign using their existing toolset, but further examination revealed not only new variants of the delivery document we named Clayslide, but also a different payload embedded inside it.\nhttps://unit42.paloaltonetworks.com/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/\r\n**2017-10**: Iranian Threat Agent Greenbug has been registering domains similar to those of Israeli High-Tech and Cyber Security Companies.\nOn 15 October 2017 a sample of ISMdoor was submitted to VirusTotal from Iraq.\nhttps://www.clearskysec.com/greenbug/\r\n",
             "uuid": "1839228a-7fb6-4d8b-a7cd-486e728ba9b1",
             "label": "Greenbug",
-            "operation_dates": [
+            "operation dates": [
                 "2016-11",
                 "2017-05",
                 "2017-07",
@@ -20001,7 +20001,7 @@
             ],
             "uuid": "af67327e-b4c9-443b-bcc9-3fb2efd41401",
             "label": "Operation HangOver",
-            "operation_dates": [
+            "operation dates": [
                 "2020-01"
             ],
             "targeted countries": [
@@ -20435,7 +20435,7 @@
             ],
             "uuid": "571b223a-c3cd-4c5c-a4fb-7fa7f3ce4502",
             "label": "Orangeworm",
-            "operation_dates": [
+            "operation dates": [
                 "2020-01"
             ],
             "targeted countries": [
@@ -20563,7 +20563,7 @@
             ],
             "uuid": "9d13d133-e25a-4de0-8952-6b0cbdb92899",
             "label": "Parisite",
-            "operation_dates": [
+            "operation dates": [
                 "2019 Late"
             ],
             "targeted countries": [
@@ -20685,7 +20685,7 @@
             ],
             "uuid": "5ead2470-4d43-44e9-9306-de226d2477e1",
             "label": "Patchwork",
-            "operation_dates": [
+            "operation dates": [
                 "2015",
                 "2018-01",
                 "2018-03"
@@ -20913,7 +20913,7 @@
             "operations": "**2011**: Operation \u201cThe Eye of the Tiger\u201d\nhttps://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.07.11.Pitty_Tiger/Pitty_Tiger_Final_Report.pdf\r\n**2014-06**: We discovered this malware sample in June 2014, leading to a command & control (c&c) server still in activity.\nOur researches around the malware family revealed the \u201cPitty Tiger\u201d group has been active since 2011, yet we found traces which makes us believe the group is active since 2010.\nhttp://blog.cassidiancybersecurity.com/post/2014/07/The-Eye-of-the-Tiger2\r\n**2014-07**: During the last month, McAfee Labs researchers have uncovered targeted attacks carried out via spear phishing email against a French company. We have seen email sent to a large group of individuals in the organization.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/targeted-attacks-on-french-company-exploit-multiple-word-vulnerabilities/\r\n**2014**: In a recent attack against a French company, the attackers sent simple, straightforward messages in English and French from free email addresses using names of actual employees of the targeted company.\nhttps://www.fireeye.com/blog/threat-research/2014/07/spy-of-the-tiger.html\r\n",
             "uuid": "26627515-afdb-421b-b59e-3a5300210001",
             "label": "PittyTiger",
-            "operation_dates": [
+            "operation dates": [
                 "2011",
                 "2014-06",
                 "2014-07",
@@ -21073,7 +21073,7 @@
             ],
             "uuid": "69d35f6f-9bd8-4d36-b120-2b563ef06841",
             "label": "Platinum",
-            "operation_dates": [
+            "operation dates": [
                 "2017",
                 "2017 Mid",
                 "2019-11"
@@ -21140,7 +21140,7 @@
             ],
             "uuid": "c542e618-93f6-4990-b109-c267835d0762",
             "label": "Poison Carp",
-            "operation_dates": [
+            "operation dates": [
                 "2020-01",
                 "2020 Early"
             ],
@@ -21277,7 +21277,7 @@
             ],
             "uuid": "c33e0a3e-f5b9-46e2-9fab-f19869292c11",
             "label": "Promethium",
-            "operation_dates": [
+            "operation dates": [
                 "2018-03",
                 "2018-03",
                 "2019-07",
@@ -21651,7 +21651,7 @@
             ],
             "uuid": "be6e7cee-7c2c-4298-941d-01b2106284e6",
             "label": "Reaper",
-            "operation_dates": [
+            "operation dates": [
                 "2012",
                 "2016",
                 "2016-03",
@@ -21870,7 +21870,7 @@
             ],
             "uuid": "e049d10f-81fd-4cc0-bb61-46f75594a1b9",
             "label": "RedAlpha",
-            "operation_dates": [
+            "operation dates": [
                 "2017"
             ],
             "targeted countries": [
@@ -22001,7 +22001,7 @@
             ],
             "uuid": "ee5e9d82-26c3-4f35-bee4-457ab5e20119",
             "label": "Roaming Tiger",
-            "operation_dates": [
+            "operation dates": [
                 "2015-08"
             ],
             "targeted countries": [
@@ -22048,7 +22048,7 @@
             ],
             "uuid": "5fea3af9-45a6-4cfd-b1dd-1411f19f34c3",
             "label": "Rocket Kitten",
-            "operation_dates": [
+            "operation dates": [
                 "2011",
                 "2015-02",
                 "2016-02",
@@ -22313,7 +22313,7 @@
             ],
             "uuid": "7f0a4e84-4c28-4f8c-a70a-3cac308bca90",
             "label": "Sandworm Team",
-            "operation_dates": [
+            "operation dates": [
                 "2014-10",
                 "2015-12",
                 "2019-08"
@@ -22493,7 +22493,7 @@
             ],
             "uuid": "4227fdb4-8b95-410d-9b06-3697c5edd064",
             "label": "Sea Turtle",
-            "operation_dates": [
+            "operation dates": [
                 "2018-01",
                 "2019-04"
             ],
@@ -22658,7 +22658,7 @@
             ],
             "uuid": "4e925967-099e-4708-9bca-ade4890d847b",
             "label": "SideWinder",
-            "operation_dates": [
+            "operation dates": [
                 "2019-03"
             ],
             "targeted countries": [
@@ -22858,7 +22858,7 @@
             ],
             "uuid": "743a5e7c-a08f-47e1-861c-8789ea1189f9",
             "label": "Silence",
-            "operation_dates": [
+            "operation dates": [
                 "2016-06",
                 "2018-05",
                 "2019-05",
@@ -23243,7 +23243,7 @@
             ],
             "uuid": "e6037735-ed1b-4ae3-a45b-45d66e2c80f1",
             "label": "Sofacy",
-            "operation_dates": [
+            "operation dates": [
                 "2011/2012",
                 "2013",
                 "2014-10",
@@ -25096,7 +25096,7 @@
             ],
             "uuid": "6d2ff349-ad5d-4237-9cb3-3d8891c35fbf",
             "label": "Stealth Falcon",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2016-10",
                 "2018-10",
@@ -25283,7 +25283,7 @@
             ],
             "uuid": "2aa9ca75-fa1b-422e-9677-02983934f983",
             "label": "Stone Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2016-09",
                 "2016",
                 "2016/2017",
@@ -27019,7 +27019,7 @@
             "operations": "**2014-04**: The first known Suckfly campaign began in April of 2014. During our investigation of the campaign, we identified a number of global targets across several industries who were attacked in 2015. Many of the targets we identified were well known commercial organizations located in India.\nhttps://www.symantec.com/connect/blogs/indian-organizations-targeted-suckfly-attacks\r\n**2015 Late**: We discovered Suckfly, an advanced threat group, conducting targeted attacks using multiple stolen certificates, as well as hacktools and custom malware. The group had obtained the certificates through pre-attack operations before commencing targeted attacks against a number of government and commercial organizations spread across multiple continents over a two-year period. This type of activity and the malicious use of stolen certificates emphasizes the importance of safeguarding certificates to prevent them from being used maliciously.\nhttps://www.symantec.com/connect/blogs/suckfly-revealing-secret-life-your-code-signing-certificates\r\n",
             "uuid": "155b1a73-17ac-449e-bdcd-54a79119b397",
             "label": "Suckfly",
-            "operation_dates": [
+            "operation dates": [
                 "2014-04",
                 "2015 Late"
             ],
@@ -27067,7 +27067,7 @@
             ],
             "uuid": "ad9624e1-ffa9-42ca-abba-59c371e1ed53",
             "label": "Sweed",
-            "operation_dates": [
+            "operation dates": [
                 "2017",
                 "2018-01",
                 "2018-04",
@@ -27140,7 +27140,7 @@
             ],
             "uuid": "0f16cba0-5b7f-449b-95a6-0ca000e9a63e",
             "label": "Syrian Electronic Army",
-            "operation_dates": [
+            "operation dates": [
                 "2016 Mid",
                 "2018-01"
             ],
@@ -27292,7 +27292,7 @@
             ],
             "uuid": "046da342-795f-491e-b6d1-b61cd6c1f2d9",
             "label": "TA2101",
-            "operation_dates": [
+            "operation dates": [
                 "2019-11",
                 "2019-12",
                 "2020-01",
@@ -27388,7 +27388,7 @@
             ],
             "uuid": "55f64f67-e6f0-4a22-8ba8-110c22f6c9c5",
             "label": "TA428",
-            "operation_dates": [
+            "operation dates": [
                 "2019-03"
             ],
             "targeted countries": [
@@ -27522,7 +27522,7 @@
             ],
             "uuid": "0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
             "label": "TA505",
-            "operation_dates": [
+            "operation dates": [
                 "2017-10",
                 "2018-06",
                 "2018-11",
@@ -28536,7 +28536,7 @@
             ],
             "uuid": "dc4db7a7-996d-4e90-8468-4ab4393b490d",
             "label": "TA530",
-            "operation_dates": [
+            "operation dates": [
                 "2016-11"
             ],
             "targeted countries": [
@@ -28796,7 +28796,7 @@
             ],
             "uuid": "3a019998-686b-4a43-81fe-043e79da0948",
             "label": "TeamSpy Crew",
-            "operation_dates": [
+            "operation dates": [
                 "2017-02"
             ],
             "targeted countries": [
@@ -28905,7 +28905,7 @@
             ],
             "uuid": "e84ec224-5c5f-4d2c-a3e6-0ee398ba1136",
             "label": "TeleBots",
-            "operation_dates": [
+            "operation dates": [
                 "2016-12",
                 "2017-03",
                 "2017-05",
@@ -29043,7 +29043,7 @@
             ],
             "uuid": "ea108a02-eb3a-4e08-be7b-bd164fc5c220",
             "label": "TEMP.Veles",
-            "operation_dates": [
+            "operation dates": [
                 "2014",
                 "2017",
                 "2019-02"
@@ -29131,7 +29131,7 @@
             ],
             "uuid": "85b77804-7780-4bd9-9332-f250525122a8",
             "label": "Tonto Team",
-            "operation_dates": [
+            "operation dates": [
                 "2009-11",
                 "2017-02",
                 "2019 Late",
@@ -29183,7 +29183,7 @@
             ],
             "uuid": "8e5c68c0-c16a-4d8f-8829-14d27ab8cd32",
             "label": "Tortoiseshell",
-            "operation_dates": [
+            "operation dates": [
                 "2019-09"
             ],
             "targeted countries": [
@@ -29249,7 +29249,7 @@
             ],
             "uuid": "be967aec-2b55-45f2-86e8-7f22cc66db85",
             "label": "Transparent Tribe",
-            "operation_dates": [
+            "operation dates": [
                 "2016-02",
                 "2016-03",
                 "2016-03",
@@ -29371,7 +29371,7 @@
             ],
             "uuid": "dcba8f16-98e2-4d31-b7db-f4f1bdbfdb56",
             "label": "Tropic Trooper",
-            "operation_dates": [
+            "operation dates": [
                 "2012",
                 "2013-06",
                 "2014",
@@ -29745,7 +29745,7 @@
             ],
             "uuid": "442f4919-150b-4e0f-9867-1ebd78f54a9c",
             "label": "Turbine Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2012-12",
                 "2012-12",
                 "2015-05"
@@ -29876,7 +29876,7 @@
             ],
             "uuid": "ebff5365-ae36-4e47-a310-28c1f3be0b3a",
             "label": "Turla",
-            "operation_dates": [
+            "operation dates": [
                 "1996",
                 "2008-11",
                 "2013",
@@ -30377,7 +30377,7 @@
             ],
             "uuid": "61552e4f-08e1-402c-a482-2d278b33806d",
             "label": "Vicious Panda",
-            "operation_dates": [
+            "operation dates": [
                 "2015-08",
                 "2017-06",
                 "2020-03"
@@ -30452,7 +30452,7 @@
             ],
             "uuid": "238acb51-8489-43d7-83b2-9ea4db18ddb6",
             "label": "Volatile Cedar",
-            "operation_dates": [
+            "operation dates": [
                 "2015-06"
             ],
             "targeted countries": [
@@ -30505,7 +30505,7 @@
             ],
             "uuid": "7ff50a06-a05b-4871-b2d5-1a49dcab389b",
             "label": "Wassonite",
-            "operation_dates": [
+            "operation dates": [
                 "2019-10"
             ],
             "targeted countries": [
@@ -30543,7 +30543,7 @@
             ],
             "uuid": "7f575804-406b-4dde-b2ce-563eca80c703",
             "label": "The White Company",
-            "operation_dates": [
+            "operation dates": [
                 "2017-11"
             ],
             "targeted countries": [
@@ -30593,7 +30593,7 @@
             ],
             "uuid": "59308a4a-3c7b-4589-87e5-0c4d0d19274e",
             "label": "Whitefly",
-            "operation_dates": [
+            "operation dates": [
                 "2018-07"
             ],
             "targeted countries": [
@@ -30693,7 +30693,7 @@
             ],
             "uuid": "00884ba1-39b4-4b67-bc3c-21167524f868",
             "label": "Wild Neutron",
-            "operation_dates": [
+            "operation dates": [
                 "2013-01",
                 "2013-02",
                 "2013-02",
@@ -30826,7 +30826,7 @@
             ],
             "uuid": "55d0e323-bb26-4779-b09f-cae04740b0bd",
             "label": "Winnti Group",
-            "operation_dates": [
+            "operation dates": [
                 "2010",
                 "2011",
                 "2011",
@@ -31086,7 +31086,7 @@
             ],
             "uuid": "8881870a-4b54-4525-b455-45bb7c045fb5",
             "label": "Achilles",
-            "operation_dates": [
+            "operation dates": [
                 "2018-10"
             ],
             "targeted countries": [
@@ -31156,7 +31156,7 @@
             ],
             "uuid": "a38d7eda-65d6-4b6e-902f-9091bc4fb2e9",
             "label": "Avalanche",
-            "operation_dates": [
+            "operation dates": [
                 "2010-05"
             ],
             "targeted countries": [
@@ -31200,7 +31200,7 @@
             "operations": "**2016-04**: Attacks against more than 24 U.S. and Canadian banks\nhttps://securityintelligence.com/meet-goznym-the-banking-malware-offspring-of-gozi-isfb-and-nymaim/\r\n**2016-04**: Attacks on banks in Poland\nhttps://threatpost.com/attackers-behind-goznym-trojan-set-sights-on-europe/117647/\r\n**2016-06**: Attacks on banks in the USA\nhttps://www.computerworld.com/article/3088102/goznym-trojan-targets-business-accounts-at-major-us-banks.html\r\n**2016-06**: LinkedIn information used to spread banking malware in the Netherlands\nhttps://blog.fox-it.com/2016/06/07/linkedin-information-used-to-spread-banking-malware-in-the-netherlands/\r\n**2016-07**: Zeus Panda Delivered By Sundown - Targets UK Banks\nhttps://www.forcepoint.com/tr/blog/x-labs/zeus-panda-delivered-sundown-targets-uk-banks\r\n**2016-08**: Banking Trojan Zeus Panda shambles into Brazil ahead of Olympics\nhttps://techcrunch.com/2016/08/04/banking-trojan-zeus-panda-shambles-into-brazil-ahead-of-olympics/\r\n**2016-08**: Attacks on banks in Germany\nhttps://threatpost.com/goznym-banking-trojan-targeting-german-banks/120075/\r\n**2017-10**: Poisoning the Well: Banking Trojan Targets Google Search Results\nhttps://blog.talosintelligence.com/2017/11/zeus-panda-campaign.html\r\n**2017-12**: Zeus Panda Banking Trojan Targets Online Holiday Shoppers\nhttps://www.proofpoint.com/us/threat-insight/post/zeus-panda-banking-trojan-targets-online-holiday-shoppers\nhttps://blog.fox-it.com/2017/12/12/criminals-in-a-festive-mood/\r\n**2018-03**: Panda Banker Zeros in on Japanese Targets\nhttps://www.netscout.com/blog/asert/panda-banker-zeros-japanese-targets\r\n**2018-06**: Zeus Panda Advanced Banking Trojan Gets Creative to Scam Affluent Victims in Italy\nhttps://cofense.com/zeus-panda-advanced-banking-trojan-gets-creative-scam-affluent-victims-italy/\r\n**2018-07**: Emotet infection traffic with Zeus Panda Banker\nhttps://www.malware-traffic-analysis.net/2018/07/19/index.html\r\n**2018-08**: For the past weeks our Threat Intelligence team has been following an enxtesive campaign, possibly operated by the same group, targeting a large amount of financial institutions, cyptocurrency wallets and the occasional Google and Apple accounts.\nhttps://reaqta.com/2018/09/global-malware-campaign-using-zeus-panda/\r\n**2020-03**: Zeus Sphinx Trojan Awakens Amidst Coronavirus Spam Frenzy\nhttps://securityintelligence.com/posts/zeus-sphinx-trojan-awakens-amidst-coronavirus-spam-frenzy/\r\n**2020-05**: Zeus Sphinx Back in Business: Some Core Modifications Arise\nhttps://securityintelligence.com/posts/zeus-sphinx-back-in-business-some-core-modifications-arise/\r\n",
             "uuid": "ea10af8f-5a02-415e-aa8f-3e1b62bcaccf",
             "label": "Bamboo Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2016-04",
                 "2016-04",
                 "2016-06",
@@ -31266,7 +31266,7 @@
             ],
             "uuid": "165f23ac-4e69-433d-bc3a-5e8acd384c16",
             "label": "Boson Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2017-11"
             ],
             "targeted countries": [
@@ -31343,7 +31343,7 @@
             ],
             "uuid": "f7dde02d-7652-4c04-8782-cf56b07b667a",
             "label": "Cron",
-            "operation_dates": [
+            "operation dates": [
                 "2017-12"
             ],
             "targeted countries": [
@@ -31426,7 +31426,7 @@
             ],
             "uuid": "9e088fdc-e4b7-4ab2-b7b5-8b85b4f7b8b8",
             "label": "Doppel Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2020-02",
                 "2020-03",
                 "2020-06"
@@ -31467,7 +31467,7 @@
             ],
             "uuid": "32791f72-1874-4af1-bd3a-82dfc544b436",
             "label": "Dungeon Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2016-02",
                 "2016-02",
                 "2016-04",
@@ -31514,7 +31514,7 @@
             ],
             "uuid": "9d6819bf-0b1d-45a8-9042-f0873e2e5227",
             "label": "Fxmsp",
-            "operation_dates": [
+            "operation dates": [
                 "2019-05"
             ],
             "targeted countries": [
@@ -31591,7 +31591,7 @@
             "operations": "**2019-02**: 620 million accounts stolen from 16 hacked websites now for sale on dark web, seller boasts\nhttps://www.theregister.co.uk/2019/02/11/620_million_hacked_accounts_dark_web/\r\n**2019-02**: 127 million user records from 8 companies put up for sale on the dark web\nhttps://www.zdnet.com/article/127-million-user-records-from-8-companies-put-up-for-sale-on-the-dark-web/\r\n**2019-02**: Hacker is selling 93 million user records from eight companies, including GfyCat.\nhttps://www.zdnet.com/article/hacker-puts-up-for-sale-third-round-of-hacked-databases-on-the-dark-web/\r\n**2019-03**: Round 4: Hacker returns and puts 26Mil user records for sale on the Dark Web\nhttps://www.zdnet.com/article/round-4-hacker-returns-and-puts-26mil-user-records-for-sale-on-the-dark-web/\r\n**2019-04**: Hacker Gnosticplayers has stolen over 932 million user records from 44 companies\nhttps://www.zdnet.com/article/a-hacker-has-dumped-nearly-one-billion-user-records-over-the-past-two-months/\r\n**2019-05**: Australian tech unicorn Canva suffers security breach\nhttps://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/\r\n**2019-09**: Going by the online alias Gnosticplayers, the serial hacker told The Hacker News that this time, he managed to breach \u201cWords With Friends,\u201d a popular Zynga-developed word puzzle game, and unauthorisedly access a massive database of more than 218 million users.\nhttps://thehackernews.com/2019/09/zynga-game-hacking.html\r\n",
             "uuid": "6ed50889-4505-4545-bc40-2866c0a9ac5b",
             "label": "Gnosticplayers",
-            "operation_dates": [
+            "operation dates": [
                 "2019-02",
                 "2019-02",
                 "2019-02",
@@ -31631,7 +31631,7 @@
             ],
             "uuid": "37981739-ee01-4d4f-aa5f-aa1c76d23b0d",
             "label": "Guru Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2016-09",
                 "2018-03",
                 "2018-03"
@@ -31737,7 +31737,7 @@
             ],
             "uuid": "a13e6ede-eb86-499f-837e-820845da04a6",
             "label": "Indrik Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2017-08",
                 "2018-07",
                 "2019-01",
@@ -31850,7 +31850,7 @@
             ],
             "uuid": "bc90e2ed-dafb-40e4-9a38-36c245625c7e",
             "label": "Monty Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2016-02",
                 "2017-01",
                 "2017-03",
@@ -31902,7 +31902,7 @@
             ],
             "uuid": "64df4c69-c290-4579-b9de-ca5bdb786ec4",
             "label": "Mummy Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2017-08",
                 "2018-10",
                 "2018-11",
@@ -31965,7 +31965,7 @@
             ],
             "uuid": "2b42c978-bc85-4aff-910d-b72e077b330f",
             "label": "Narwhal Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2011-08",
                 "2013-10",
                 "2018-10"
@@ -32000,7 +32000,7 @@
             ],
             "uuid": "cb1c375a-56b6-433e-98d5-cbc7f57fe71e",
             "label": "OurMine",
-            "operation_dates": [
+            "operation dates": [
                 "2016-10",
                 "2016-12",
                 "2016-12",
@@ -32085,7 +32085,7 @@
             ],
             "uuid": "4ca48576-dcc1-42dc-84c9-5201977aa56b",
             "label": "Pacha Group",
-            "operation_dates": [
+            "operation dates": [
                 "2018-09",
                 "2019-05"
             ],
@@ -32155,7 +32155,7 @@
             ],
             "uuid": "bdd28842-178b-4258-a37f-5c1c1bb71bb2",
             "label": "Pinchy Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2019-04",
                 "2019-06",
                 "2019-08",
@@ -32254,7 +32254,7 @@
             ],
             "uuid": "d8f07834-98d8-473b-a247-9b54aa4571a1",
             "label": "Roaming Mantis",
-            "operation_dates": [
+            "operation dates": [
                 "2018-02",
                 "2018-05",
                 "2018-09",
@@ -44302,7 +44302,7 @@
             ],
             "uuid": "bacc587d-719b-4555-bc37-db7a9455dc6a",
             "label": "Rocke",
-            "operation_dates": [
+            "operation dates": [
                 "2018-04",
                 "2018-12",
                 "2019-01",
@@ -44337,7 +44337,7 @@
             ],
             "uuid": "f1ea7365-0f0a-44c5-afc4-13fdf0d874b7",
             "label": "Salty Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2014-04",
                 "2018-12"
             ],
@@ -44374,7 +44374,7 @@
             ],
             "uuid": "23122dca-5529-4f8f-b69d-d4a31a00c20a",
             "label": "Scully Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2018-09",
                 "2018-11",
                 "2019-01",
@@ -44423,7 +44423,7 @@
             ],
             "uuid": "4c7e8be4-5f97-4ca9-a4bd-eaa1709661c1",
             "label": "Shadow Brokers",
-            "operation_dates": [
+            "operation dates": [
                 "2016-08",
                 "2016-10",
                 "2016-10",
@@ -44462,7 +44462,7 @@
             ],
             "uuid": "92cc31c7-3c18-4ae2-9f9b-649b6cb029e1",
             "label": "ShinyHunters",
-            "operation_dates": [
+            "operation dates": [
                 "2020-01",
                 "2020-01",
                 "2020-03",
@@ -44500,7 +44500,7 @@
             ],
             "uuid": "c967a0bb-d7ec-4955-83ca-8b90172ef9af",
             "label": "Shark Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2013-01"
             ],
             "targeted countries": [
@@ -44540,7 +44540,7 @@
             ],
             "uuid": "a74110c6-af39-4e20-a9fa-85a90cb44c62",
             "label": "Smoky Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2015",
                 "2018-04",
                 "2018-06",
@@ -44582,7 +44582,7 @@
             ],
             "uuid": "24184e42-b04f-4878-8fd3-e53acf7526f2",
             "label": "TA516",
-            "operation_dates": [
+            "operation dates": [
                 "2016-07",
                 "2018-07",
                 "2019-11",
@@ -44665,7 +44665,7 @@
             ],
             "uuid": "ca6c6c94-9ef8-4aa4-8d9e-ad943b9fbe23",
             "label": "Tiny Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2017"
             ],
             "targeted countries": [
@@ -44740,7 +44740,7 @@
             ],
             "uuid": "b7504991-61c8-41dc-9a22-664ece91c20f",
             "label": "Venom Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2019-02"
             ],
             "targeted countries": [
@@ -44800,7 +44800,7 @@
             ],
             "uuid": "480940e0-47b0-4295-9067-c2500ccfdaec",
             "label": "Wizard Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2019-04",
                 "2019-06",
                 "2019-08",
@@ -44871,7 +44871,7 @@
             ],
             "uuid": "e97f9ec0-b69d-408b-aa78-049e67d50c93",
             "label": "Yingmob",
-            "operation_dates": [
+            "operation dates": [
                 "2017-01"
             ],
             "targeted countries": [
@@ -44925,7 +44925,7 @@
             ],
             "uuid": "2c1d1677-f2d9-44e1-ac9a-4f7f4047e2d5",
             "label": "Zombie Spider",
-            "operation_dates": [
+            "operation dates": [
                 "2017-02"
             ],
             "targeted countries": [
