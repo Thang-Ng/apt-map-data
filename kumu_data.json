@@ -1664,9 +1664,7 @@
         {
             "id": "country-Vietnam",
             "label": "Vietnam",
-            "Attribution to": [
-                "APT 32"
-            ],
+            "Attribution to": [],
             "Targeted by": [
                 "APT 3",
                 "APT 30",
@@ -54252,12 +54250,6 @@
             "to": "Philippines",
             "type": "target",
             "direction": "directed"
-        },
-        {
-            "id": "Vietnam-to-APT-32",
-            "from": "Vietnam",
-            "to": "APT 32",
-            "type": "attribution"
         },
         {
             "id": "APT-3-to-Vietnam",
