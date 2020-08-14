@@ -269,6 +269,7 @@
                 "Poseidon Group",
                 "PowerPool",
                 "Reaper",
+                "RedCurl",
                 "Roaming Tiger",
                 "Rocket Kitten",
                 "RTM",
@@ -345,6 +346,7 @@
                 "PowerPool",
                 "Pusikurac",
                 "RATicate",
+                "RedCurl",
                 "RevengeHotels",
                 "Silence",
                 "Slingshot",
@@ -590,6 +592,7 @@
                 "Operation Shady RAT",
                 "Orangeworm",
                 "Promethium",
+                "RedCurl",
                 "Safe",
                 "Shadow Network",
                 "Silence",
@@ -745,6 +748,7 @@
                 "Parisite",
                 "PowerPool",
                 "Promethium",
+                "RedCurl",
                 "Rocket Kitten",
                 "RTM",
                 "Shadow Network",
@@ -1027,6 +1031,7 @@
                 "Nitro",
                 "Operation HangOver",
                 "Orangeworm",
+                "RedCurl",
                 "Silence",
                 "Snowglobe",
                 "Sofacy",
@@ -1250,6 +1255,7 @@
                 "PowerPool",
                 "RATicate",
                 "Reaper",
+                "RedCurl",
                 "Rocket Kitten",
                 "Samurai Panda",
                 "Shadow Network",
@@ -2481,6 +2487,7 @@
                 "Operation Groundbait",
                 "Operation Potao Express",
                 "PowerPool",
+                "RedCurl",
                 "Roaming Tiger",
                 "Rocket Kitten",
                 "RTM",
@@ -3807,7 +3814,8 @@
             "Attribution to": [],
             "Targeted by": [
                 "Gallmaker",
-                "InvisiMole"
+                "InvisiMole",
+                "Tonto Team"
             ],
             "type": "country/organization",
             "Image": ""
@@ -5782,19 +5790,7 @@
                 "<https://attack.mitre.org/groups/G0073/>"
             ],
             "last card change": "2020-04-22",
-            "ioc_url": [
-                "http://104.236.77.169",
-                "http://138.68.45.9",
-                "http://162.243.143.145"
-            ],
             "ioc_domain": [
-                "autodiscover.2bunny.com",
-                "lyncdiscover.2bunny.com",
-                "tk-in-f156.2bunny.com",
-                "sfo02s01-in-f2.cloudsend.net",
-                "microsoft-cache.com",
-                "supermanbox.org",
-                "jbossas.org",
                 "ameteksen.com",
                 "asconline.we11point.com",
                 "assso.net",
@@ -5832,7 +5828,19 @@
                 "we11point.com",
                 "ysims.com",
                 "images.googlewebcache.com",
-                "smtp.outlookssl.com"
+                "smtp.outlookssl.com",
+                "autodiscover.2bunny.com",
+                "lyncdiscover.2bunny.com",
+                "tk-in-f156.2bunny.com",
+                "sfo02s01-in-f2.cloudsend.net",
+                "microsoft-cache.com",
+                "supermanbox.org",
+                "jbossas.org"
+            ],
+            "ioc_url": [
+                "http://104.236.77.169",
+                "http://138.68.45.9",
+                "http://162.243.143.145"
             ]
         },
         {
@@ -11692,7 +11700,7 @@
                 "Tapaoux",
                 "various 0-days from the {{Hacking Team}} breach"
             ],
-            "operations": "**2010**: Operation \u201cDarkHotel\u201d\nTarget: The travelers are often top executives from a variety of industries doing business and outsourcing in the APAC region. Targets have included CEOs, senior vice presidents, sales and marketing directors and top R&D staff.\nMethod: spear-phishing targets with highly advanced Flash zero-day exploits that effectively evade the latest Windows and Adobe defenses, and yet they also imprecisely spread among large numbers of vague targets with peer-to-peer spreading tactics. Moreover, this crew\u2019s most unusual characteristic is that for several years the Darkhotel APT has maintained a capability to use hotel networks to follow and hit selected targets as they travel around the world.\nhttps://securelist.com/the-darkhotel-apt/66779/\nhttps://www.recordedfuture.com/dark-hotel-malware/\r\n**2015**: Darkhotel\u2019s attacks in 2015\nhttps://securelist.com/darkhotels-attacks-in-2015/71713/\r\n**2015-12**: Operation \u201cDaybreak\u201d\nMethod: Uses Flash zero-day exploit for CVE-2015-8651.\nNote: not the same operation as {{Reaper, APT 37, Ricochet Chollima, ScarCruft}}\u2019s Operation \u201cDaybreak\u201d.\r\n**2016-09**: Operation \u201cInexsmar\u201d\nTarget: seems to be used in a campaign that targets political figures rather than the usual corporate research and development personnel, CEOs and other senior corporate officials.\nMethod: This attack uses a new payload delivery mechanism rather than the consecrated zero-day exploitation techniques, blending social engineering with a relatively complex Trojan to infect its selected pool of victims.\nhttps://labs.bitdefender.com/2017/07/inexsmar-an-unusual-darkhotel-campaign/\r\n**2018-04**: Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted attack\nhttps://blog.360totalsecurity.com/en/analysis-cve-2018-8174-vbscript-0day-apt-actor-related-office-targeted-attack/\r\n**2018-08**: Darkhotel APT is back: Zero-day vulnerability in Microsoft VBScript is exploited\nhttps://blog.360totalsecurity.com/en/darkhotel-apt-is-back-zero-day-vulnerability-in-microsoft-vbscript-is-exploited/\r\n**2020-01**: Darkhotel uses a new Zero-day vulnerability in the Internet Explorer scripting engine\nhttp://www.geekpark.net/news/254734\r\n**2020-03**: On March 15, 2020, ATR identified a malicious .lnk file that utilizes an infection chain similar to other known APT groups. This campaign was found to use C2 infrastructure that overlaps with the Korea-based APT group, Higaisia. The lure document, dropped by the .lnk file, was downloaded from the World Health Organization website, and is likely being used to target English-speaking individuals and entities.\nhttps://www.anomali.com/blog/covid-19-themes-are-being-utilized-by-threat-actors-of-varying-sophistication#When:14:00:00Z\r\n**2020-03**: Since March this year, more than 200 VPN servers have been compromised and many Chinese institutions abroad were under attack. In early April, the attack spread to government agencies in Beijing and Shanghai.\nhttp://blogs.360.cn/post/APT_Darkhotel_attacks_during_coronavirus_pandemic.html\r\n**2020-05**: Ramsay: A cyber-spionage toolkit tailored for air-apped networks\nhttps://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/\r\n**2020-05**: In this latest incident, Higaisa used a malicious shortcut file ultimately responsible for creating a multi-stage attack that consists of several malicious scripts, payloads and decoy PDF documents.\nhttps://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/\r\n**2020-05**: Operation \u201cThe Gh0st Remains the Same\u201d\nIn this engagement, the victims received a compressed RAR folder that contained trojanized files. If the malicious files were engaged, they displayed decoy web pages associated with the software company \u201cZeplin\u201d.\nhttps://blog.prevailion.com/2020/06/the-gh0st-remains-same8.html\r\n",
+            "operations": "**2010**: Operation \u201cDarkHotel\u201d\nTarget: The travelers are often top executives from a variety of industries doing business and outsourcing in the APAC region. Targets have included CEOs, senior vice presidents, sales and marketing directors and top R&D staff.\nMethod: spear-phishing targets with highly advanced Flash zero-day exploits that effectively evade the latest Windows and Adobe defenses, and yet they also imprecisely spread among large numbers of vague targets with peer-to-peer spreading tactics. Moreover, this crew\u2019s most unusual characteristic is that for several years the Darkhotel APT has maintained a capability to use hotel networks to follow and hit selected targets as they travel around the world.\nhttps://securelist.com/the-darkhotel-apt/66779/\nhttps://www.recordedfuture.com/dark-hotel-malware/\r\n**2015**: Darkhotel\u2019s attacks in 2015\nhttps://securelist.com/darkhotels-attacks-in-2015/71713/\r\n**2015-12**: Operation \u201cDaybreak\u201d\nMethod: Uses Flash zero-day exploit for CVE-2015-8651.\nNote: not the same operation as {{Reaper, APT 37, Ricochet Chollima, ScarCruft}}\u2019s Operation \u201cDaybreak\u201d.\r\n**2016-09**: Operation \u201cInexsmar\u201d\nTarget: seems to be used in a campaign that targets political figures rather than the usual corporate research and development personnel, CEOs and other senior corporate officials.\nMethod: This attack uses a new payload delivery mechanism rather than the consecrated zero-day exploitation techniques, blending social engineering with a relatively complex Trojan to infect its selected pool of victims.\nhttps://labs.bitdefender.com/2017/07/inexsmar-an-unusual-darkhotel-campaign/\r\n**2018-04**: Analysis of CVE-2018-8174 VBScript 0day and APT actor related to Office targeted attack\nhttps://blog.360totalsecurity.com/en/analysis-cve-2018-8174-vbscript-0day-apt-actor-related-office-targeted-attack/\r\n**2018-08**: Darkhotel APT is back: Zero-day vulnerability in Microsoft VBScript is exploited\nhttps://blog.360totalsecurity.com/en/darkhotel-apt-is-back-zero-day-vulnerability-in-microsoft-vbscript-is-exploited/\r\n**2020-01**: Darkhotel uses a new Zero-day vulnerability in the Internet Explorer scripting engine\nhttp://www.geekpark.net/news/254734\r\n**2020-03**: On March 15, 2020, ATR identified a malicious .lnk file that utilizes an infection chain similar to other known APT groups. This campaign was found to use C2 infrastructure that overlaps with the Korea-based APT group, Higaisia. The lure document, dropped by the .lnk file, was downloaded from the World Health Organization website, and is likely being used to target English-speaking individuals and entities.\nhttps://www.anomali.com/blog/covid-19-themes-are-being-utilized-by-threat-actors-of-varying-sophistication#When:14:00:00Z\r\n**2020-03**: Since March this year, more than 200 VPN servers have been compromised and many Chinese institutions abroad were under attack. In early April, the attack spread to government agencies in Beijing and Shanghai.\nhttp://blogs.360.cn/post/APT_Darkhotel_attacks_during_coronavirus_pandemic.html\r\n**2020-05**: Ramsay: A cyber-spionage toolkit tailored for air-apped networks\nhttps://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/\r\n**2020-05**: In this latest incident, Higaisa used a malicious shortcut file ultimately responsible for creating a multi-stage attack that consists of several malicious scripts, payloads and decoy PDF documents.\nhttps://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/\r\n**2020-05**: Operation \u201cThe Gh0st Remains the Same\u201d\nIn this engagement, the victims received a compressed RAR folder that contained trojanized files. If the malicious files were engaged, they displayed decoy web pages associated with the software company \u201cZeplin\u201d.\nhttps://blog.prevailion.com/2020/06/the-gh0st-remains-same8.html\r\n**2020-05**: Operation \u201cPowerFall\u201d\nIn May 2020, Kaspersky technologies prevented an attack on a South Korean company by a malicious script for Internet Explorer. Closer analysis revealed that the attack used a previously unknown full chain that consisted of two zero-day exploits: a remote code execution exploit for Internet Explorer and an elevation of privilege exploit for Windows.\nhttps://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/\r\n",
             "information": [
                 "<https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070903/darkhotel_kl_07.11.pdf>",
                 "<https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08070901/darkhotelappendixindicators_kl.pdf>",
@@ -11710,6 +11718,7 @@
                 "2020-01",
                 "2020-03",
                 "2020-03",
+                "2020-05",
                 "2020-05",
                 "2020-05",
                 "2020-05"
@@ -11771,14 +11780,18 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0012/>"
             ],
-            "last card change": "2020-07-15",
+            "last card change": "2020-08-13",
             "ioc_ip": [
+                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782",
-                "45.76.6.149:443"
+                "91.235.116.147:9782"
             ],
             "ioc_domain": [
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -12081,11 +12094,7 @@
                 "find-image.com",
                 "service-security-manager.com",
                 "win-api-essentials.com",
-                "static-cdn1.com",
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com"
+                "static-cdn1.com"
             ]
         },
         {
@@ -15119,6 +15128,7 @@
             ],
             "description": "Gorgon Group is a threat group consisting of members who are suspected to be Pakistan-based or have other connections to Pakistan. The group has performed a mix of criminal and targeted attacks, including campaigns against government organizations in the United Kingdom, Spain, Russia, and the United States.\n\nGorgon Group may be related to {{Transparent Tribe, APT 36}} and may be responsible for the {{Aggah}} activity.",
             "tools": [
+                "Agent Tesla",
                 "Crimson RAT",
                 "LokiBot",
                 "NanoCore RAT",
@@ -15126,9 +15136,10 @@
                 "njRAT",
                 "QuasarRAT",
                 "RemcosRAT",
-                "RevengeRAT"
+                "RevengeRAT",
+                "Living off the Land"
             ],
-            "operations": "**2017-07**: Small wave of phishing emails targeting a US-based government organization.\nWithin the 43 emails we observed, we found that three unique files were delivered, which consisted of two RTFs and a Microsoft Excel file. Both RTFs exploited CVE-2012-0158 and acted as downloaders to ultimately deliver the QuasarRAT malware family. The downloaders made use of the same shellcode, with minor variances witnessed between them. Additionally, the RTFs made use of heavy obfuscation within the documents themselves, making it more difficult to extract the embedded shellcode.\nhttps://unit42.paloaltonetworks.com/unit42-tracking-subaat-targeted-phishing-attacks-point-leader-threat-actors-repository/\r\n**2018-02**: In addition to the numerous targeted attacks, Unit 42 discovered that the group also performed a litany of attacks and operations around the globe, involving both criminal as well as targeted attacks.\nStarting in February 2018, Palo Alto Networks Unit 42 identified a campaign of attacks performed by members of Gorgon Group targeting governmental organizations in the United Kingdom, Spain, Russia, and the United States. Additionally, during that time, members of Gorgon Group were also performing criminal operations against targets across the globe, often using shared infrastructure with their targeted attack operations.\nhttps://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/\r\n",
+            "operations": "**2017-07**: Small wave of phishing emails targeting a US-based government organization.\nWithin the 43 emails we observed, we found that three unique files were delivered, which consisted of two RTFs and a Microsoft Excel file. Both RTFs exploited CVE-2012-0158 and acted as downloaders to ultimately deliver the QuasarRAT malware family. The downloaders made use of the same shellcode, with minor variances witnessed between them. Additionally, the RTFs made use of heavy obfuscation within the documents themselves, making it more difficult to extract the embedded shellcode.\nhttps://unit42.paloaltonetworks.com/unit42-tracking-subaat-targeted-phishing-attacks-point-leader-threat-actors-repository/\r\n**2018-02**: In addition to the numerous targeted attacks, Unit 42 discovered that the group also performed a litany of attacks and operations around the globe, involving both criminal as well as targeted attacks.\nStarting in February 2018, Palo Alto Networks Unit 42 identified a campaign of attacks performed by members of Gorgon Group targeting governmental organizations in the United Kingdom, Spain, Russia, and the United States. Additionally, during that time, members of Gorgon Group were also performing criminal operations against targets across the globe, often using shared infrastructure with their targeted attack operations.\nhttps://unit42.paloaltonetworks.com/unit42-gorgon-group-slithering-nation-state-cybercrime/\r\n**2020-04**: Gorgon APT targeting MSME sector in India\nhttps://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/\r\n**2020-07**: Advance Campaign Targeting Manufacturing and Export Sectors in India\nhttps://www.seqrite.com/blog/advance-campaign-targeting-manufacturing-and-export-sectors-in-india/>\r\n",
             "playbook": [
                 "<https://pan-unit42.github.io/playbook_viewer/?pb=gorgongroup>"
             ],
@@ -15136,7 +15147,9 @@
             "label": "Gorgon Group",
             "operation dates": [
                 "2017-07",
-                "2018-02"
+                "2018-02",
+                "2020-04",
+                "2020-07"
             ],
             "targeted countries": [
                 "Russia",
@@ -15146,13 +15159,14 @@
                 "USA"
             ],
             "targeted sectors": [
-                "Government"
+                "Government",
+                "Manufacturing"
             ],
             "first seen": "2017",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0078/>"
             ],
-            "last card change": "2020-06-09"
+            "last card change": "2020-08-13"
         },
         {
             "type": "apt_group",
@@ -16576,7 +16590,7 @@
                 "Wormhole",
                 "Yort"
             ],
-            "operations": "**2007**: Operation \u201cFlame\u201d\nTarget: South Korean government.\nMethod: Disruption and sabotage.\r\n**2009-07**: Operation \u201cTroy\u201d\nNorth Korean hackers are suspected of launching a cyber-attack on some of the most important government offices in the US and South Korea in recent days, including the White House, the Pentagon, the New York Stock Exchange and the presidential Blue House in Seoul.\nThe attack took out some of South Korea\u2019s most important websites, including those of the Blue House, the defense ministry, the national assembly, Shinhan bank, Korea Exchange bank and the top internet portal Naver.\nTarget: Government, financial and media institutions in South Korea and USA.\nMethod: DdoS attacks.\nhttps://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack\r\n**2011-03**: Attack on South Korean banks and media\nRecent Distributed Denial of Service (DdoS) attacks on a number South Korean websites have been in news for the past week. The threat responsible for carrying out these attacks is Trojan.Koredos.\nTarget: South Korean organizations.\nMethod: DdoS attacks and destruction of infected machines.\nhttps://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise\r\n**2013-03**: Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d\nComputer networks running three major South Korean banks and the country\u2019s two largest broadcasters were paralyzed Wednesday in attacks that some experts suspected originated in North Korea, which has consistently threatened to cripple its far richer neighbor.\nThe attacks, which left many South Koreans unable to withdraw money from A.T.M.\u2019s and news broadcasting crews staring at blank computer screens, came as the North\u2019s official Korean Central News Agency quoted the country\u2019s leader, Kim Jong-un, as threatening to destroy government installations in the South, along with American bases in the Pacific.\nTarget: Three broadcasting stations and a bank in South Korea.\nMethod: Infecting with viruses, stealing and wiping information.\nhttps://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html\r\n**2013-05**: South Korean Financial Companies Targeted by Castov\nIn the past few months we have been actively monitoring an exploit kit, called Gongda, which is mainly targeting South Korea. Interestingly, we have come across a piece of malware, known as Castov, being delivered by this exploit kit that targets specific South Korean financial companies and their customers. The cybercriminals in this case have done their research on the South Korean online financial landscape.\nhttps://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov\r\n**2013-06**: DarkSeoul Cyberattacks Against South Korea Continue on Anniversary of Korean War\nYesterday, June 25, the Korean peninsula observed a series of cyberattacks coinciding with the 63rd anniversary of the start of the Korean War. While multiple attacks were conducted by multiple perpetrators, one of the distributed denial-of-service (DdoS) attacks observed yesterday against South Korean government websites can be directly linked to the DarkSeoul gang and Trojan.Castov.\nhttps://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war\r\n**2014-11**: Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment\nThe attack on Sony Pictures became public knowledge on November 24, 2014, when Sony employees turned on their computers to be greeted with the sight of a neon red skeleton and the words \u201cHacked by GOP\u201d, which stood for \u201cGuardians of the Peace\u201d. The message also threatened to release data later that day if an unspecified request was not met. Over the following weeks, huge swathes of information stolen from Sony were released, including: personal information about employees and their families; email correspondence between employees at the company; information about company salaries, unreleased Sony films, and other information.\nTarget: Sony Pictures Entertainment (released the \u201cInterview\u201d movie, ridiculing the North Korean leader).\nMethod: Infecting with malware, stealing and wiping data of the company\u2019s employees, correspondence, copies of unreleased films.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know\nhttps://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf\r\n**2015-06**: Using the Palo Alto Networks AutoFocus threat intelligence platform, we identified several samples of malicious code with behavior similar to the aforementioned Operation Troy campaign dating back to June 2015, over two years after the original attacks in South Korea. Session data revealed a live attack targeting the transportation and logistics sector in Europe.\nhttps://unit42.paloaltonetworks.com/tdrop2-attacks-suggest-dark-seoul-attackers-return/\r\n**2017-03**: The Blockbuster Sequel\nThis recently identified activity is targeting Korean speaking individuals, while the threat actors behind the attack likely speak both Korean and English. This blog will detail the recently discovered samples, their functionality, and their ties to the threat group behind Operation Blockbuster.\nhttps://unit42.paloaltonetworks.com/unit42-the-blockbuster-sequel/\r\n**2017-05**: WannaCry ransomware\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/hpr9fas9xbzo2uz/Whitepaper WannaCry Ransomware.pdf?dl=0\r\n**2017-06**: We analyzed a new RATANKBA variant (BKDR_RATANKBA.ZAEL\u2013A), discovered in June 2017, that uses a PowerShell script instead of its more traditional PE executable form\u2014a version that other researchers also recently identified.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-campaign-targeting-cryptocurrencies-reveals-remote-controller-tool-evolved-ratankba/\r\n**2017-08**: The Blockbuster Saga Continues\nUnit 42 researchers at Palo Alto Networks have discovered new attack activity targeting individuals involved with United States defense contractors.\nhttps://unit42.paloaltonetworks.com/unit42-blockbuster-saga-continues/\r\n**2017 Late**: Several financial sector and a casino breaches using KillDisk wiping malware in Latin America and USA.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/\nhttps://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/\r\n**2017/2018**: Cryptocurrency attacks on South Korean exchanges.\nhttps://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/\r\n**2018-03**: APT attack on Turkish Financial Sector.\nTarget: Turkish Financial Sector.\nMethod: Spear-phishing with Bankshot implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/\r\n**2018-04**: Operation \u201cGhostSecret\u201d\nTarget: The impacted organizations are in industries such as telecommunications, health, finance, critical infrastructure, and entertainment.\nMethod: Spear-phishing with Destover-like implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/\r\n**2018-04**: The first artefacts we found relating to MATA were used around April 2018. After that, the actor behind this advanced malware framework used it aggressively to infiltrate corporate entities around the world.\nhttps://securelist.com/mata-multi-platform-targeted-malware-framework/97746/\r\n**2018-08**: Operation \u201cAppleJeus\u201d\nTarget: Cryptocurrency exchange.\nMethod: Fake installer and macOS malware.\nhttps://securelist.com/operation-applejeus/87553/\r\n**2018 Summer**: Our investigation into the Dtrack RAT actually began with a different activity. In the late summer of 2018, we discovered ATMDtrack, a piece of banking malware targeting Indian banks. Further analysis showed that the malware was designed to be planted on the victim\u2019s ATMs, where it could read and store the data of cards that were inserted into the machines.\nhttps://securelist.com/my-name-is-dtrack/93338/\r\n**2018-10**: Operation \u201cSharpshooter\u201d\nTarget: 87 organizations in many different sectors (majority Government and Defense) across the globe, predominantly in the United States.\nMethod: Rising Sun implant to gather intelligence.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/\r\n**2018-11**: More Attacks on Cryptocurrency Businesses\nTarget: Some of the documents (for instance one entitled \u201csample document for business plan evaluation of venture company\u201d) were prepared in Korean, presumably to target South Korean businesses. Another contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ (\u201cwe couldn\u2019t confirm if it\u2019s a legitimate business or another fake company made up by Lazarus,\u201d Kaspersky Lab researchers said). Yet another provided information for coin listings with a translation in Korean, researchers said.\nMethod: Documents containing weaponized macros, \u201ccarefully prepared to attract the attention of cryptocurrency professionals.\u201d It utilizes PowerShell to control Windows systems and macOS malware for Apple users.\nhttps://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/\r\n**2019-03**: The infamous Lazarus threat actor group has been found targeting an Israeli defense company, according to new research outlined by a cybersecurity firm ClearSky. The campaign is carried out with an intention to steal military and commercial secrets.\nhttps://cyware.com/news/lazarus-hacking-group-expand-their-attack-horizon-by-targeting-an-israeli-defense-company-02e2ec77\r\n**2019-03**: Operation \u201cAppleJeus sequel\u201d\nAs a result of our ongoing efforts, we identified significant changes to the group\u2019s attack methodology.\nhttps://securelist.com/operation-applejeus-sequel/95596/\r\n**2019-04**: \u201cHoplight\u201d Malware Campaign\nKnown as \u201cHoplight,\u201d the malware is a collection of nine files, though most of those are designed to work as obfuscation layers to keep admins and security software from spotting the attack.\nhttps://www.theregister.co.uk/2019/04/10/lazarus_group_malware/\r\n**2019-05**: North Korean Tunneling Tool: ELECTRICFISH\nThis report provides analysis of one malicious 32-bit Windows executable file. The malware implements a custom protocol that allows traffic to be funneled between a source and a destination Internet Protocol (IP) address. The malware continuously attempts to reach out to the source and the designation system, which allows either side to initiate a funneling session. The malware can be configured with a proxy server/port and proxy username and password. This feature allows connectivity to a system sitting inside of a proxy server, which allows the actor to bypass the compromised system\u2019s required authentication to reach outside of the network.\nhttps://www.us-cert.gov/ncas/analysis-reports/AR19-129A\r\n**2019-05**: Hackers associated with the APT Lazarus/HIDDEN COBRA group were found to be breaking into online stores of large US retailers and planting payment skimmers as early as May 2019.\nhttps://sansec.io/research/north-korea-magecart\r\n**2019-09**: Operation \u201cIn(ter)caption\u201d\nAt the end of last year, we discovered targeted attacks against aerospace and military companies in Europe and the Middle East, active from September to December 2019. A collaborative investigation with two of the affected European companies allowed us to gain insight into the operation and uncover previously undocumented malware.\nhttps://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_Operation_Interception.pdf\r\n**2019-10**: Dacls, the Dual platform RAT\nhttps://blog.netlab.360.com/dacls-the-dual-platform-rat-en/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2020**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n**2020-03**: Lazarus on the hunt for big game\nhttps://securelist.com/lazarus-on-the-hunt-for-big-game/97757/\r\n**2020-04**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n**2020-06**: Covid-19 Relief: North Korea Hackers Lazarus Planning Massive Attack on US, UK, Japan, Singapore, India, South Korea?\nhttps://www.ibtimes.sg/covid-19-relief-north-korea-hackers-lazarus-planning-massive-attack-us-uk-japan-singapore-47072\r\n",
+            "operations": "**2007**: Operation \u201cFlame\u201d\nTarget: South Korean government.\nMethod: Disruption and sabotage.\r\n**2009-07**: Operation \u201cTroy\u201d\nNorth Korean hackers are suspected of launching a cyber-attack on some of the most important government offices in the US and South Korea in recent days, including the White House, the Pentagon, the New York Stock Exchange and the presidential Blue House in Seoul.\nThe attack took out some of South Korea\u2019s most important websites, including those of the Blue House, the defense ministry, the national assembly, Shinhan bank, Korea Exchange bank and the top internet portal Naver.\nTarget: Government, financial and media institutions in South Korea and USA.\nMethod: DdoS attacks.\nhttps://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack\r\n**2011-03**: Attack on South Korean banks and media\nRecent Distributed Denial of Service (DdoS) attacks on a number South Korean websites have been in news for the past week. The threat responsible for carrying out these attacks is Trojan.Koredos.\nTarget: South Korean organizations.\nMethod: DdoS attacks and destruction of infected machines.\nhttps://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise\r\n**2013-03**: Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d\nComputer networks running three major South Korean banks and the country\u2019s two largest broadcasters were paralyzed Wednesday in attacks that some experts suspected originated in North Korea, which has consistently threatened to cripple its far richer neighbor.\nThe attacks, which left many South Koreans unable to withdraw money from A.T.M.\u2019s and news broadcasting crews staring at blank computer screens, came as the North\u2019s official Korean Central News Agency quoted the country\u2019s leader, Kim Jong-un, as threatening to destroy government installations in the South, along with American bases in the Pacific.\nTarget: Three broadcasting stations and a bank in South Korea.\nMethod: Infecting with viruses, stealing and wiping information.\nhttps://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html\r\n**2013-05**: South Korean Financial Companies Targeted by Castov\nIn the past few months we have been actively monitoring an exploit kit, called Gongda, which is mainly targeting South Korea. Interestingly, we have come across a piece of malware, known as Castov, being delivered by this exploit kit that targets specific South Korean financial companies and their customers. The cybercriminals in this case have done their research on the South Korean online financial landscape.\nhttps://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov\r\n**2013-06**: DarkSeoul Cyberattacks Against South Korea Continue on Anniversary of Korean War\nYesterday, June 25, the Korean peninsula observed a series of cyberattacks coinciding with the 63rd anniversary of the start of the Korean War. While multiple attacks were conducted by multiple perpetrators, one of the distributed denial-of-service (DdoS) attacks observed yesterday against South Korean government websites can be directly linked to the DarkSeoul gang and Trojan.Castov.\nhttps://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war\r\n**2014-11**: Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment\nThe attack on Sony Pictures became public knowledge on November 24, 2014, when Sony employees turned on their computers to be greeted with the sight of a neon red skeleton and the words \u201cHacked by GOP\u201d, which stood for \u201cGuardians of the Peace\u201d. The message also threatened to release data later that day if an unspecified request was not met. Over the following weeks, huge swathes of information stolen from Sony were released, including: personal information about employees and their families; email correspondence between employees at the company; information about company salaries, unreleased Sony films, and other information.\nTarget: Sony Pictures Entertainment (released the \u201cInterview\u201d movie, ridiculing the North Korean leader).\nMethod: Infecting with malware, stealing and wiping data of the company\u2019s employees, correspondence, copies of unreleased films.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know\nhttps://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf\r\n**2015-06**: Using the Palo Alto Networks AutoFocus threat intelligence platform, we identified several samples of malicious code with behavior similar to the aforementioned Operation Troy campaign dating back to June 2015, over two years after the original attacks in South Korea. Session data revealed a live attack targeting the transportation and logistics sector in Europe.\nhttps://unit42.paloaltonetworks.com/tdrop2-attacks-suggest-dark-seoul-attackers-return/\r\n**2017-03**: The Blockbuster Sequel\nThis recently identified activity is targeting Korean speaking individuals, while the threat actors behind the attack likely speak both Korean and English. This blog will detail the recently discovered samples, their functionality, and their ties to the threat group behind Operation Blockbuster.\nhttps://unit42.paloaltonetworks.com/unit42-the-blockbuster-sequel/\r\n**2017-05**: WannaCry ransomware\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/hpr9fas9xbzo2uz/Whitepaper WannaCry Ransomware.pdf?dl=0\r\n**2017-06**: We analyzed a new RATANKBA variant (BKDR_RATANKBA.ZAEL\u2013A), discovered in June 2017, that uses a PowerShell script instead of its more traditional PE executable form\u2014a version that other researchers also recently identified.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-campaign-targeting-cryptocurrencies-reveals-remote-controller-tool-evolved-ratankba/\r\n**2017-08**: The Blockbuster Saga Continues\nUnit 42 researchers at Palo Alto Networks have discovered new attack activity targeting individuals involved with United States defense contractors.\nhttps://unit42.paloaltonetworks.com/unit42-blockbuster-saga-continues/\r\n**2017 Late**: Several financial sector and a casino breaches using KillDisk wiping malware in Latin America and USA.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/\nhttps://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/\r\n**2017/2018**: Cryptocurrency attacks on South Korean exchanges.\nhttps://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/\r\n**2018-03**: APT attack on Turkish Financial Sector.\nTarget: Turkish Financial Sector.\nMethod: Spear-phishing with Bankshot implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/\r\n**2018-04**: Operation \u201cGhostSecret\u201d\nTarget: The impacted organizations are in industries such as telecommunications, health, finance, critical infrastructure, and entertainment.\nMethod: Spear-phishing with Destover-like implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/\r\n**2018-04**: The first artefacts we found relating to MATA were used around April 2018. After that, the actor behind this advanced malware framework used it aggressively to infiltrate corporate entities around the world.\nhttps://securelist.com/mata-multi-platform-targeted-malware-framework/97746/\r\n**2018-08**: Operation \u201cAppleJeus\u201d\nTarget: Cryptocurrency exchange.\nMethod: Fake installer and macOS malware.\nhttps://securelist.com/operation-applejeus/87553/\r\n**2018 Summer**: Our investigation into the Dtrack RAT actually began with a different activity. In the late summer of 2018, we discovered ATMDtrack, a piece of banking malware targeting Indian banks. Further analysis showed that the malware was designed to be planted on the victim\u2019s ATMs, where it could read and store the data of cards that were inserted into the machines.\nhttps://securelist.com/my-name-is-dtrack/93338/\r\n**2018-10**: Operation \u201cSharpshooter\u201d\nTarget: 87 organizations in many different sectors (majority Government and Defense) across the globe, predominantly in the United States.\nMethod: Rising Sun implant to gather intelligence.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/\r\n**2018-11**: More Attacks on Cryptocurrency Businesses\nTarget: Some of the documents (for instance one entitled \u201csample document for business plan evaluation of venture company\u201d) were prepared in Korean, presumably to target South Korean businesses. Another contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ (\u201cwe couldn\u2019t confirm if it\u2019s a legitimate business or another fake company made up by Lazarus,\u201d Kaspersky Lab researchers said). Yet another provided information for coin listings with a translation in Korean, researchers said.\nMethod: Documents containing weaponized macros, \u201ccarefully prepared to attract the attention of cryptocurrency professionals.\u201d It utilizes PowerShell to control Windows systems and macOS malware for Apple users.\nhttps://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/\r\n**2019-03**: The infamous Lazarus threat actor group has been found targeting an Israeli defense company, according to new research outlined by a cybersecurity firm ClearSky. The campaign is carried out with an intention to steal military and commercial secrets.\nhttps://cyware.com/news/lazarus-hacking-group-expand-their-attack-horizon-by-targeting-an-israeli-defense-company-02e2ec77\r\n**2019-03**: Operation \u201cAppleJeus sequel\u201d\nAs a result of our ongoing efforts, we identified significant changes to the group\u2019s attack methodology.\nhttps://securelist.com/operation-applejeus-sequel/95596/\r\n**2019-04**: \u201cHoplight\u201d Malware Campaign\nKnown as \u201cHoplight,\u201d the malware is a collection of nine files, though most of those are designed to work as obfuscation layers to keep admins and security software from spotting the attack.\nhttps://www.theregister.co.uk/2019/04/10/lazarus_group_malware/\r\n**2019-05**: North Korean Tunneling Tool: ELECTRICFISH\nThis report provides analysis of one malicious 32-bit Windows executable file. The malware implements a custom protocol that allows traffic to be funneled between a source and a destination Internet Protocol (IP) address. The malware continuously attempts to reach out to the source and the designation system, which allows either side to initiate a funneling session. The malware can be configured with a proxy server/port and proxy username and password. This feature allows connectivity to a system sitting inside of a proxy server, which allows the actor to bypass the compromised system\u2019s required authentication to reach outside of the network.\nhttps://www.us-cert.gov/ncas/analysis-reports/AR19-129A\r\n**2019-05**: Hackers associated with the APT Lazarus/HIDDEN COBRA group were found to be breaking into online stores of large US retailers and planting payment skimmers as early as May 2019.\nhttps://sansec.io/research/north-korea-magecart\r\n**2019-09**: Operation \u201cIn(ter)caption\u201d\nAt the end of last year, we discovered targeted attacks against aerospace and military companies in Europe and the Middle East, active from September to December 2019. A collaborative investigation with two of the affected European companies allowed us to gain insight into the operation and uncover previously undocumented malware.\nhttps://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_Operation_Interception.pdf\r\n**2019-10**: Dacls, the Dual platform RAT\nhttps://blog.netlab.360.com/dacls-the-dual-platform-rat-en/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2020**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n**2020**: Operation \u201cDream Job\u201d\nUpon infection, the attackers collected intelligence regarding the company\u2019s activity, and also its financial affairs, probably in order to try and steal some money from it.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf\r\n**2020-03**: Lazarus on the hunt for big game\nhttps://securelist.com/lazarus-on-the-hunt-for-big-game/97757/\r\n**2020-04**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n**2020-06**: Covid-19 Relief: North Korea Hackers Lazarus Planning Massive Attack on US, UK, Japan, Singapore, India, South Korea?\nhttps://www.ibtimes.sg/covid-19-relief-north-korea-hackers-lazarus-planning-massive-attack-us-uk-japan-singapore-47072\r\n**2020-08**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
             "information": [
                 "<https://blog.malwarebytes.com/threat-analysis/2019/03/the-advanced-persistent-threat-files-lazarus-group/>",
                 "<https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations>",
@@ -16623,9 +16637,11 @@
                 "2019-10",
                 "2019-12",
                 "2020",
+                "2020",
                 "2020-03",
                 "2020-04",
-                "2020-06"
+                "2020-06",
+                "2020-08"
             ],
             "targeted countries": [
                 "Australia",
@@ -16668,7 +16684,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0032/>"
             ],
-            "last card change": "2020-07-31"
+            "last card change": "2020-08-14"
         },
         {
             "type": "apt_group",
@@ -19535,21 +19551,11 @@
                 "<https://attack.mitre.org/groups/G0049/>"
             ],
             "last card change": "2020-07-30",
-            "ioc_ip": [
-                "185.32.178.176:80",
-                "93.177.75.180:80",
-                "95.211.210.55:80",
-                "95.211.213.177:80",
-                "95.211.213.168:80",
-                "95.211.215.225:80",
-                "95.211.104.253:80",
-                "95.211.104.253:443",
-                "95.211.104.253:2255"
-            ],
-            "ioc_url": [
-                "http://185.15.247.154"
-            ],
             "ioc_domain": [
+                "coldflys.com",
+                "shoterup.com",
+                "barsupport.org",
+                "forskys.com",
                 "defender-update.com",
                 "windowspatch.com",
                 "herkhabar.com",
@@ -19635,11 +19641,21 @@
                 "rdmsi.com",
                 "sharjatv.com",
                 "tprs-servers.eu",
-                "wwmal.com",
-                "coldflys.com",
-                "shoterup.com",
-                "barsupport.org",
-                "forskys.com"
+                "wwmal.com"
+            ],
+            "ioc_ip": [
+                "185.32.178.176:80",
+                "93.177.75.180:80",
+                "95.211.210.55:80",
+                "95.211.213.177:80",
+                "95.211.213.168:80",
+                "95.211.215.225:80",
+                "95.211.104.253:80",
+                "95.211.104.253:443",
+                "95.211.104.253:2255"
+            ],
+            "ioc_url": [
+                "http://185.15.247.154"
             ]
         },
         {
@@ -21708,20 +21724,24 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2020-07-18",
+            "ioc_ip": [
+                "5.252.198.93:7337",
+                "103.249.31.159:7777"
+            ],
             "ioc_domain": [
-                "mumbai-m.site",
-                "dns-update.club",
-                "proxycheker.pro",
-                "hpserver.online",
-                "anyportals.com",
-                "pmoae.com",
-                "cgalim.com",
-                "hakproperty.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org",
+                "charley-online.com",
+                "fighiting1013.org",
+                "a7788.1apps.com",
+                "alabamaok0515.1apps.com",
+                "attach10132.1apps.com",
+                "clean.1apps.com",
+                "s8877.1apps.com",
+                "tgbabcrfv.1apps.com",
+                "071790.000webhostapp.com",
+                "881.000webhostapp.com",
+                "hanbosston.000webhostapp.com",
+                "filer1.1apps.com",
+                "filer2.1apps.com",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -21818,27 +21838,23 @@
                 "files-downloader.net",
                 "webmail-googie.com",
                 "webmail-gooqle.com",
-                "charley-online.com",
-                "fighiting1013.org",
-                "a7788.1apps.com",
-                "alabamaok0515.1apps.com",
-                "attach10132.1apps.com",
-                "clean.1apps.com",
-                "s8877.1apps.com",
-                "tgbabcrfv.1apps.com",
-                "071790.000webhostapp.com",
-                "881.000webhostapp.com",
-                "hanbosston.000webhostapp.com",
-                "filer1.1apps.com",
-                "filer2.1apps.com",
-                "sync.appchecks.rr.nu"
+                "sync.appchecks.rr.nu",
+                "mumbai-m.site",
+                "dns-update.club",
+                "proxycheker.pro",
+                "hpserver.online",
+                "anyportals.com",
+                "pmoae.com",
+                "cgalim.com",
+                "hakproperty.com",
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org"
             ],
             "ioc_url": [
                 "http://72.21.245.117"
-            ],
-            "ioc_ip": [
-                "5.252.198.93:7337",
-                "103.249.31.159:7777"
             ]
         },
         {
@@ -21888,6 +21904,46 @@
             ],
             "first seen": "2015",
             "last card change": "2020-04-15"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-RedCurl",
+            "actor": "RedCurl",
+            "names": [
+                "RedCurl (Group-IB)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(ZDNet) Security researchers have uncovered a new Russian-speaking hacking group that they claim has been focusing on the past three years on corporate espionage, targeting companies across the world to steal documents that contain commercial secrets and employee personal data.\n\nNamed RedCurl, the activities of this new group have been detailed in a 57-page report released today by cyber-security firm Group-IB.\n\nThe company has been tracking the group since the summer of 2019 when it was first called to investigate a security breach at a company hacked by the group.\n\nSince then, Group-IB said it identified 26 other RedCurl attacks, carried out against 14 organizations, going as far back as 2018.",
+            "tools": [
+                "LaZagne"
+            ],
+            "information": [
+                "<https://www.zdnet.com/article/redcurl-cybercrime-group-has-hacked-companies-for-three-years/>",
+                "<https://www.group-ib.com/resources/threat-research/red-curl.html>"
+            ],
+            "uuid": "318f02e3-9165-43fb-b08b-fbf646f4dcf1",
+            "label": "RedCurl",
+            "targeted countries": [
+                "Canada",
+                "Germany",
+                "Norway",
+                "Russia",
+                "UK",
+                "Ukraine"
+            ],
+            "targeted sectors": [
+                "Construction",
+                "Financial",
+                "Retail",
+                "Travel agencies and law and consulting firms"
+            ],
+            "first seen": "2018",
+            "last card change": "2020-08-14"
         },
         {
             "type": "apt_group",
@@ -23201,6 +23257,7 @@
                 "CORESHELL",
                 "DealersChoice",
                 "Downdelph",
+                "Drovorub",
                 "Foozer",
                 "HIDEDRV",
                 "JHUHUGIT",
@@ -23374,14 +23431,8 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0007/>"
             ],
-            "last card change": "2020-07-18",
+            "last card change": "2020-08-14",
             "ioc_ip": [
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -23395,7 +23446,13 @@
                 "109.169.15.73",
                 "178.32.251.98",
                 "145.249.106.198:443",
-                "185.236.203.53:443"
+                "185.236.203.53:443",
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -25343,7 +25400,6 @@
             ],
             "last card change": "2020-07-31",
             "ioc_ip": [
-                "185.117.88.80:8088",
                 "93.171.216.129",
                 "144.168.45.116",
                 "109.248.222.85",
@@ -25358,9 +25414,14 @@
                 "185.117.88.77",
                 "185.117.88.82",
                 "109.237.111.175",
-                "83.217.26.203"
+                "83.217.26.203",
+                "185.117.88.80:8088"
             ],
             "ioc_domain": [
+                "firefoxcomt.arkouowi.com",
+                "update.arkouowi.com",
+                "friendlysupport.giize.com",
+                "algorithm.ddnsgeek.com",
                 "dick.ccfchrist.com",
                 "trout.belowto.com",
                 "sakai.unhamj.com",
@@ -26946,11 +27007,7 @@
                 "g00gle_jp.dynamic-dns.net",
                 "oseupdate.dns-dns.com",
                 "yandex2unitedstated.dns05.com",
-                "yandex2unitedstated.dynamic-dns.net",
-                "firefoxcomt.arkouowi.com",
-                "update.arkouowi.com",
-                "friendlysupport.giize.com",
-                "algorithm.ddnsgeek.com"
+                "yandex2unitedstated.dynamic-dns.net"
             ]
         },
         {
@@ -27288,7 +27345,7 @@
                 "SharpHound",
                 "WinSCP"
             ],
-            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n",
+            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n**2020-07**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n",
             "information": [
                 "<https://www.proofpoint.com/us/threat-insight/post/ta2101-plays-government-imposter-distribute-malware-german-italian-and-us>",
                 "<https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html>"
@@ -27315,7 +27372,8 @@
                 "2020-06",
                 "2020-06",
                 "2020-06",
-                "2020-06"
+                "2020-06",
+                "2020-07"
             ],
             "targeted countries": [
                 "Canada",
@@ -27349,7 +27407,7 @@
                 "Real estate"
             ],
             "first seen": "2019",
-            "last card change": "2020-07-11",
+            "last card change": "2020-08-06",
             "ioc_url": [
                 "http://104.168.174.32",
                 "http://104.168.198.208",
@@ -29133,7 +29191,7 @@
                 "Mimikatz",
                 "Living off the Land"
             ],
-            "operations": "**2009-11**: Operation \u201cBitter Biscuit\u201d\nhttps://asec.ahnlab.com/1078\r\n**2017-02**: FireEye's director of cyber-espionage analysis John Hultquist told the Wall Street Journal that FireEye had detected a surge in attacks against South Korean targets from China since February, when South Korea announced it would deploy THAAD in response to North Korean missile tests.\nhttps://arstechnica.com/information-technology/2017/04/researchers-claim-china-trying-to-hack-south-korea-missile-defense-efforts/\r\n**2019 Late**: At the end of 2019 the group seemed to shift towards a heavier focus on Mongolian and Russian organizations.\nhttps://securelist.com/apt-trends-report-q1-2020/96826/\r\n**2019-12**: In this campaign, the CactusPete threat actor used a new method to drop an updated version of the DoubleT backdoor onto the computers.\nhttps://securelist.com/apt-trends-report-q2-2020/97937/\r\n",
+            "operations": "**2009-11**: Operation \u201cBitter Biscuit\u201d\nhttps://asec.ahnlab.com/1078\r\n**2017-02**: FireEye's director of cyber-espionage analysis John Hultquist told the Wall Street Journal that FireEye had detected a surge in attacks against South Korean targets from China since February, when South Korea announced it would deploy THAAD in response to North Korean missile tests.\nhttps://arstechnica.com/information-technology/2017/04/researchers-claim-china-trying-to-hack-south-korea-missile-defense-efforts/\r\n**2019-03**: CactusPete APT group\u2019s updated Bisonal backdoor\nThe backdoor was used to target financial and military organizations in Eastern Europe\nhttps://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/\r\n**2019 Late**: At the end of 2019 the group seemed to shift towards a heavier focus on Mongolian and Russian organizations.\nhttps://securelist.com/apt-trends-report-q1-2020/96826/\r\n**2019-12**: In this campaign, the CactusPete threat actor used a new method to drop an updated version of the DoubleT backdoor onto the computers.\nhttps://securelist.com/apt-trends-report-q2-2020/97937/\r\n",
             "information": [
                 "<https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the-heartbeat-apt-campaign.pdf>",
                 "<https://securelist.com/apt-trends-report-q1-2019/90643/>",
@@ -29145,6 +29203,7 @@
             "operation dates": [
                 "2009-11",
                 "2017-02",
+                "2019-03",
                 "2019 Late",
                 "2019-12"
             ],
@@ -29155,16 +29214,18 @@
                 "Russia",
                 "South Korea",
                 "Taiwan",
-                "USA"
+                "USA",
+                "Eastern Europe"
             ],
             "targeted sectors": [
                 "Defense",
+                "Financial",
                 "Government",
                 "IT",
                 "Media"
             ],
             "first seen": "2009",
-            "last card change": "2020-07-30"
+            "last card change": "2020-08-14"
         },
         {
             "type": "apt_group",
@@ -29415,8 +29476,16 @@
                 "<https://attack.mitre.org/groups/G0081/>"
             ],
             "last card change": "2020-05-15",
+            "ioc_ip": [
+                "68.65.121.44:1883",
+                "68.65.121.44:443",
+                "198.54.117.211:1883",
+                "198.54.117.217:1883",
+                "198.54.117.215:1883",
+                "198.54.117.212:1883",
+                "198.54.117.218:1883"
+            ],
             "ioc_domain": [
-                "y5mogzal2w25p6bn.ml",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -29688,6 +29757,7 @@
                 "linda-callaghan.icu",
                 "nicoledotson.icu",
                 "catchansee.com",
+                "y5mogzal2w25p6bn.ml",
                 "tibetvoices.com",
                 "about.jkub.com",
                 "eleven.mypop3.org",
@@ -29701,15 +29771,6 @@
                 "myzinfo.myz.info",
                 "oldape.25u.com",
                 "oldape.4dq.com"
-            ],
-            "ioc_ip": [
-                "68.65.121.44:1883",
-                "68.65.121.44:443",
-                "198.54.117.211:1883",
-                "198.54.117.217:1883",
-                "198.54.117.215:1883",
-                "198.54.117.212:1883",
-                "198.54.117.218:1883"
             ]
         },
         {
@@ -29998,22 +30059,8 @@
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
             "last card change": "2020-07-31",
-            "ioc_ip": [
-                "203.117.122.51",
-                "178.219.68.239",
-                "104.223.89.145",
-                "212.21.40.220",
-                "134.209.222.206:15363",
-                "85.222.235.156:8000"
-            ],
-            "ioc_url": [
-                "http://169.255.137.203/rss_0.php",
-                "http://217.171.86.137/config.php",
-                "http://217.171.86.137/rss_0.php",
-                "http://185.141.62.32",
-                "http://37.59.60.199"
-            ],
             "ioc_domain": [
+                "news-bbc.podzone.org",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -30289,8 +30336,22 @@
                 "wekanda.tk",
                 "newshealthsport.com",
                 "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru",
-                "news-bbc.podzone.org"
+                "orl05511cn.temp.swtest.ru"
+            ],
+            "ioc_ip": [
+                "134.209.222.206:15363",
+                "85.222.235.156:8000",
+                "203.117.122.51",
+                "178.219.68.239",
+                "104.223.89.145",
+                "212.21.40.220"
+            ],
+            "ioc_url": [
+                "http://169.255.137.203/rss_0.php",
+                "http://217.171.86.137/config.php",
+                "http://217.171.86.137/rss_0.php",
+                "http://185.141.62.32",
+                "http://37.59.60.199"
             ]
         },
         {
@@ -45462,6 +45523,7 @@
             "activities": [
                 "**Aggah**: Upgraded Aggah malspam campaign delivers multiple RATs\nhttps://blog.talosintelligence.com/2020/04/upgraded-aggah-malspam-campaign.html\r\n",
                 "**Gamaredon Group**: The attacks we found all arrived through targeted emails (MITRE ATT&CK framework ID T1193). One of them even had the subject \u201cCoronavirus (2019-nCoV).\u201d\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/gamaredon-apt-group-use-covid-19-lure-in-campaigns/\r\n",
+                "**Gorgon Group**: Gorgon APT targeting MSME sector in India\nhttps://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/\r\n",
                 "**Lazarus Group**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n",
                 "**OilRig**: While analyzing an attack against a Middle Eastern telecommunications organization, we discovered a variant of an OilRig-associated tool we call RDAT using a novel email-based command and control (C2) channel that relied on a technique known as steganography to hide commands and data within bitmap images attached to emails.\nhttps://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/\r\n",
                 "**TA2101**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n",
@@ -45490,6 +45552,7 @@
                 "**DarkHotel**: Ramsay: A cyber-spionage toolkit tailored for air-apped networks\nhttps://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/\r\n",
                 "**DarkHotel**: In this latest incident, Higaisa used a malicious shortcut file ultimately responsible for creating a multi-stage attack that consists of several malicious scripts, payloads and decoy PDF documents.\nhttps://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/\r\n",
                 "**DarkHotel**: Operation \u201cThe Gh0st Remains the Same\u201d\nIn this engagement, the victims received a compressed RAR folder that contained trojanized files. If the malicious files were engaged, they displayed decoy web pages associated with the software company \u201cZeplin\u201d.\nhttps://blog.prevailion.com/2020/06/the-gh0st-remains-same8.html\r\n",
+                "**DarkHotel**: Operation \u201cPowerFall\u201d\nIn May 2020, Kaspersky technologies prevented an attack on a South Korean company by a malicious script for Internet Explorer. Closer analysis revealed that the attack used a previously unknown full chain that consisted of two zero-day exploits: a remote code execution exploit for Internet Explorer and an elevation of privilege exploit for Windows.\nhttps://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/\r\n",
                 "**Evilnum**: Operation \u201cPhantom in the [Command] Shell\u201d\nPrevailion\u2019s Tailored Intelligence Team has detected two new criminal campaigns targeting the global financial industry with the EVILNUM malware, one of which became active on May 3rd 2020.\nhttps://blog.prevailion.com/2020/05/phantom-in-command-shell5.html\r\n",
                 "**ITG18**: During a three-day period in May 2020, IBM X-Force IRIS discovered the 40 GBs of video and data files being uploaded to a server that hosted numerous ITG18 domains used in earlier 2020 activity. Some of the videos showed the operator managing adversary-created accounts while others showed the operator testing access and exfiltrating data from previously compromised accounts.\nhttps://securityintelligence.com/posts/new-research-exposes-iranian-threat-group-operations/\r\n",
                 "**Ke3chang**: In mid May, we identified three recently uploaded samples from VirusTotal that share code with older APT15 implants. We named this new family of samples, \u201cKetrum\u201d, due to the merger of features in the documented backdoor families \u201cKetrican\u201d and \u201cOkrum\u201d.\nhttps://www.intezer.com/blog/research/the-evolution-of-apt15s-codebase-2020/\r\n",
@@ -46308,7 +46371,8 @@
             "type": "operation_dates",
             "activities": [
                 "**APT 29**: Throughout 2020, APT29 has targeted various organisations involved in COVID-19 vaccine development in Canada, the United States and the United Kingdom, highly likely with the intention of stealing information and intellectual property relating to the development and testing of COVID-19 vaccines.\nhttps://www.ncsc.gov.uk/files/Advisory-APT29-targets-COVID-19-vaccine-development.pdf\r\n",
-                "**Lazarus Group**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n"
+                "**Lazarus Group**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n",
+                "**Lazarus Group**: Operation \u201cDream Job\u201d\nUpon infection, the attackers collected intelligence regarding the company\u2019s activity, and also its financial affairs, probably in order to try and steal some money from it.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf\r\n"
             ]
         },
         {
@@ -46530,6 +46594,7 @@
                 "**Reaper**: Operation \u201cHigh Expert\u201d\nhttps://brica.de/alerts/alert/public/1252896/venus-121-apt-organization-operation-high-expert/\r\n",
                 "**SideWinder**: First Active Attack Exploiting CVE-2019-2215 Found on Google Play, Linked to SideWinder APT Group\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/\r\n",
                 "**TA428**: Operation \u201cLagTime IT\u201d\nAttackers relied on Microsoft Equation Editor exploit CVE-2018-0798 to deliver a custom malware that Proofpoint researchers have dubbed Cotx RAT.\nAdditionally, this APT group utilizes Poison Ivy payloads that share overlapping command and control (C&C) infrastructure with the newly identified Cotx campaigns.\nhttps://www.proofpoint.com/us/threat-insight/post/chinese-apt-operation-lagtime-it-targets-government-information-technology\r\n",
+                "**Tonto Team**: CactusPete APT group\u2019s updated Bisonal backdoor\nThe backdoor was used to target financial and military organizations in Eastern Europe\nhttps://securelist.com/cactuspete-apt-groups-updated-bisonal-backdoor/97962/\r\n",
                 "**Gnosticplayers**: Round 4: Hacker returns and puts 26Mil user records for sale on the Dark Web\nhttps://www.zdnet.com/article/round-4-hacker-returns-and-puts-26mil-user-records-for-sale-on-the-dark-web/\r\n"
             ]
         },
@@ -47270,6 +47335,27 @@
             ]
         },
         {
+            "id": "date-2020-07",
+            "label": "2020-07",
+            "operation dates": [
+                "2020-07"
+            ],
+            "type": "operation_dates",
+            "activities": [
+                "**Gorgon Group**: Advance Campaign Targeting Manufacturing and Export Sectors in India\nhttps://www.seqrite.com/blog/advance-campaign-targeting-manufacturing-and-export-sectors-in-india/>\r\n",
+                "**TA2101**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n",
+                "**Indrik Spider**: Garmin services and production go down after ransomware attack\nhttps://www.zdnet.com/article/garmin-services-and-production-go-down-after-ransomware-attack/\r\n",
+                "**Mummy Spider**: It was never a question of \u201cif\u201d but \u201cwhen\u201d. After five months of absence, the dreaded Emotet has returned. Following several false alarms over the last few weeks, a spam campaign was first spotted on July 13 showing signs of a likely comeback.\nhttps://blog.malwarebytes.com/trojans/2020/07/long-dreaded-emotet-has-returned/\r\n",
+                "**Mummy Spider**: Researchers tracking Emotet botnet noticed that the malware started to push QakBot banking trojan at an unusually high rate, replacing the longtime TrickBot payload.\nhttps://www.bleepingcomputer.com/news/security/emotet-botnet-is-now-heavily-spreading-qakbot-malware/\r\n",
+                "**Pinchy Spider**: A ransomware gang has infected the internal network of Telecom Argentina, one of the country's largest internet service providers, and is now asking for a $7.5 million ransom demand to unlock encrypted files.\nhttps://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/\r\n",
+                "**Pinchy Spider**: Administrador de Infraestructuras Ferroviarias (ADIF), a Spanish state-owned railway infrastructure manager was hit by REVil ransomware operators.\nhttps://securityaffairs.co/wordpress/106304/cyber-crime/adif-revil-ransomware-attack.html\r\n",
+                "**ShinyHunters**: An allegedly stolen Wattpad database containing 270 million records were being sold in private sales for over $100,000. Now it is being offered for free on hacker forums.\nhttps://www.bleepingcomputer.com/news/security/wattpad-data-breach-exposes-account-info-for-millions-of-users/\r\n",
+                "**ShinyHunters**: Tech unicorn Dave admits to security breach impacting 7.5 million users\nhttps://www.zdnet.com/article/tech-unicorn-dave-admits-to-security-breach-impacting-7-5-million-users/\r\n",
+                "**ShinyHunters**: Promo.com discloses data breach after 22M user records leaked online\nhttps://www.bleepingcomputer.com/news/security/promocom-discloses-data-breach-after-22m-user-records-leaked-online/\r\n",
+                "**Wizard Spider**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n"
+            ]
+        },
+        {
             "id": "date-2012-06",
             "label": "2012-06",
             "operation dates": [
@@ -47384,6 +47470,17 @@
                 "**Pinchy Spider**: The threat actor behind the Sodinokibi (REvil) ransomware is demanding a $14 million ransom from Brazilian-based electrical energy company Light S.A.\nhttps://www.securityweek.com/ransomware-operators-demand-14-million-power-company\r\n",
                 "**Roaming Mantis**: The RoamingMantis Group\u2019s Expansion to European Apple Accounts and Android Devices\nhttps://medium.com/csis-techblog/the-roamingmantis-groups-expansion-to-european-apple-accounts-and-android-devices-e6381723c681\r\n",
                 "**ShinyHunters**: Havenly discloses data breach after 1.3M accounts leaked online\nhttps://www.bleepingcomputer.com/news/security/havenly-discloses-data-breach-after-13m-accounts-leaked-online/\r\n"
+            ]
+        },
+        {
+            "id": "date-2020-08",
+            "label": "2020-08",
+            "operation dates": [
+                "2020-08"
+            ],
+            "type": "operation_dates",
+            "activities": [
+                "**Lazarus Group**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n"
             ]
         },
         {
@@ -47694,25 +47791,6 @@
             "type": "operation_dates",
             "activities": [
                 "**Avalanche**: Worst Phishing Pest May be Revving Up\nhttps://www.pcworld.com/article/196304/worst_phishing_pest_may_be_revving_up.html\r\n"
-            ]
-        },
-        {
-            "id": "date-2020-07",
-            "label": "2020-07",
-            "operation dates": [
-                "2020-07"
-            ],
-            "type": "operation_dates",
-            "activities": [
-                "**Indrik Spider**: Garmin services and production go down after ransomware attack\nhttps://www.zdnet.com/article/garmin-services-and-production-go-down-after-ransomware-attack/\r\n",
-                "**Mummy Spider**: It was never a question of \u201cif\u201d but \u201cwhen\u201d. After five months of absence, the dreaded Emotet has returned. Following several false alarms over the last few weeks, a spam campaign was first spotted on July 13 showing signs of a likely comeback.\nhttps://blog.malwarebytes.com/trojans/2020/07/long-dreaded-emotet-has-returned/\r\n",
-                "**Mummy Spider**: Researchers tracking Emotet botnet noticed that the malware started to push QakBot banking trojan at an unusually high rate, replacing the longtime TrickBot payload.\nhttps://www.bleepingcomputer.com/news/security/emotet-botnet-is-now-heavily-spreading-qakbot-malware/\r\n",
-                "**Pinchy Spider**: A ransomware gang has infected the internal network of Telecom Argentina, one of the country's largest internet service providers, and is now asking for a $7.5 million ransom demand to unlock encrypted files.\nhttps://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/\r\n",
-                "**Pinchy Spider**: Administrador de Infraestructuras Ferroviarias (ADIF), a Spanish state-owned railway infrastructure manager was hit by REVil ransomware operators.\nhttps://securityaffairs.co/wordpress/106304/cyber-crime/adif-revil-ransomware-attack.html\r\n",
-                "**ShinyHunters**: An allegedly stolen Wattpad database containing 270 million records were being sold in private sales for over $100,000. Now it is being offered for free on hacker forums.\nhttps://www.bleepingcomputer.com/news/security/wattpad-data-breach-exposes-account-info-for-millions-of-users/\r\n",
-                "**ShinyHunters**: Tech unicorn Dave admits to security breach impacting 7.5 million users\nhttps://www.zdnet.com/article/tech-unicorn-dave-admits-to-security-breach-impacting-7-5-million-users/\r\n",
-                "**ShinyHunters**: Promo.com discloses data breach after 22M user records leaked online\nhttps://www.bleepingcomputer.com/news/security/promocom-discloses-data-breach-after-22m-user-records-leaked-online/\r\n",
-                "**Wizard Spider**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n"
             ]
         },
         {
@@ -49373,6 +49451,13 @@
             "direction": "directed"
         },
         {
+            "id": "RedCurl-to-Russia",
+            "from": "RedCurl",
+            "to": "Russia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Roaming-Tiger-to-Russia",
             "from": "Roaming Tiger",
             "to": "Russia",
@@ -49803,6 +49888,12 @@
             "id": "Unknown-to-RATicate",
             "from": "Unknown",
             "to": "RATicate",
+            "type": "attribution"
+        },
+        {
+            "id": "Unknown-to-RedCurl",
+            "from": "Unknown",
+            "to": "RedCurl",
             "type": "attribution"
         },
         {
@@ -51059,6 +51150,13 @@
             "direction": "directed"
         },
         {
+            "id": "RedCurl-to-Canada",
+            "from": "RedCurl",
+            "to": "Canada",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Safe-to-Canada",
             "from": "Safe",
             "to": "Canada",
@@ -51942,6 +52040,13 @@
         {
             "id": "Promethium-to-Germany",
             "from": "Promethium",
+            "to": "Germany",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "RedCurl-to-Germany",
+            "from": "RedCurl",
             "to": "Germany",
             "type": "target",
             "direction": "directed"
@@ -53516,6 +53621,13 @@
             "direction": "directed"
         },
         {
+            "id": "RedCurl-to-Norway",
+            "from": "RedCurl",
+            "to": "Norway",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Silence-to-Norway",
             "from": "Silence",
             "to": "Norway",
@@ -54733,6 +54845,13 @@
         {
             "id": "Reaper-to-UK",
             "from": "Reaper",
+            "to": "UK",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "RedCurl-to-UK",
+            "from": "RedCurl",
             "to": "UK",
             "type": "target",
             "direction": "directed"
@@ -60825,6 +60944,13 @@
             "direction": "directed"
         },
         {
+            "id": "RedCurl-to-Ukraine",
+            "from": "RedCurl",
+            "to": "Ukraine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Roaming-Tiger-to-Ukraine",
             "from": "Roaming Tiger",
             "to": "Ukraine",
@@ -65288,6 +65414,13 @@
         {
             "id": "InvisiMole-to-Eastern-Europe",
             "from": "InvisiMole",
+            "to": "Eastern Europe",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Tonto-Team-to-Eastern-Europe",
+            "from": "Tonto Team",
             "to": "Eastern Europe",
             "type": "target",
             "direction": "directed"
