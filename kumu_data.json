@@ -6319,9 +6319,9 @@
             ],
             "last card change": "2020-07-08",
             "ioc_ip": [
-                "85.206.175.252",
                 "139.59.30.109:8090",
-                "195.12.50.172:46405"
+                "195.12.50.172:46405",
+                "85.206.175.252"
             ],
             "ioc_url": [
                 "http://167.88.180.198"
@@ -11787,16 +11787,12 @@
             ],
             "last card change": "2020-08-13",
             "ioc_ip": [
-                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782"
+                "91.235.116.147:9782",
+                "45.76.6.149:443"
             ],
             "ioc_domain": [
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -12099,7 +12095,11 @@
                 "find-image.com",
                 "service-security-manager.com",
                 "win-api-essentials.com",
-                "static-cdn1.com"
+                "static-cdn1.com",
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com"
             ]
         },
         {
@@ -17753,12 +17753,6 @@
             ],
             "last card change": "2020-07-17",
             "ioc_domain": [
-                "servicesystem.serveirc.com",
-                "chrome-up.date",
-                "timezone.live",
-                "analytics-google.org",
-                "microsoftsubsystem.com-adm.in",
-                "microsoftexplorerservices.cloud",
                 "jewishjournal.us",
                 "deutcshewelle.org",
                 "deutcshewelle.com",
@@ -18281,7 +18275,13 @@
                 "recovery-option.site",
                 "safe-solution.site",
                 "scribdinc.site",
-                "travel-airbnb.site"
+                "travel-airbnb.site",
+                "servicesystem.serveirc.com",
+                "chrome-up.date",
+                "timezone.live",
+                "analytics-google.org",
+                "microsoftsubsystem.com-adm.in",
+                "microsoftexplorerservices.cloud"
             ]
         },
         {
@@ -21736,6 +21736,14 @@
                 "kmbr1.nitesbr1.org",
                 "planar-progress.000webhostapp.com",
                 "stjohns-burscough.org",
+                "mumbai-m.site",
+                "dns-update.club",
+                "proxycheker.pro",
+                "hpserver.online",
+                "anyportals.com",
+                "pmoae.com",
+                "cgalim.com",
+                "hakproperty.com",
                 "charley-online.com",
                 "fighiting1013.org",
                 "a7788.1apps.com",
@@ -21845,15 +21853,7 @@
                 "blockochain.info",
                 "files-downloader.net",
                 "webmail-googie.com",
-                "webmail-gooqle.com",
-                "mumbai-m.site",
-                "dns-update.club",
-                "proxycheker.pro",
-                "hpserver.online",
-                "anyportals.com",
-                "pmoae.com",
-                "cgalim.com",
-                "hakproperty.com"
+                "webmail-gooqle.com"
             ],
             "ioc_ip": [
                 "5.252.198.93:7337",
@@ -27267,6 +27267,13 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
+            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -27274,13 +27281,6 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
-            ],
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
             ]
         },
         {
@@ -30070,21 +30070,17 @@
             ],
             "last card change": "2020-07-31",
             "ioc_ip": [
-                "134.209.222.206:15363",
-                "85.222.235.156:8000",
                 "203.117.122.51",
                 "178.219.68.239",
                 "104.223.89.145",
-                "212.21.40.220"
-            ],
-            "ioc_url": [
-                "http://169.255.137.203/rss_0.php",
-                "http://217.171.86.137/config.php",
-                "http://217.171.86.137/rss_0.php",
-                "http://185.141.62.32",
-                "http://37.59.60.199"
+                "212.21.40.220",
+                "134.209.222.206:15363",
+                "85.222.235.156:8000"
             ],
             "ioc_domain": [
+                "tapok121.jhfree.net",
+                "orl05511cn.temp.swtest.ru",
+                "news-bbc.podzone.org",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -30358,10 +30354,14 @@
                 "vefogy.cf",
                 "vylys.com",
                 "wekanda.tk",
-                "newshealthsport.com",
-                "news-bbc.podzone.org",
-                "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru"
+                "newshealthsport.com"
+            ],
+            "ioc_url": [
+                "http://169.255.137.203/rss_0.php",
+                "http://217.171.86.137/config.php",
+                "http://217.171.86.137/rss_0.php",
+                "http://185.141.62.32",
+                "http://37.59.60.199"
             ]
         },
         {
