@@ -167,6 +167,7 @@
                 "Turla",
                 "Vendetta",
                 "Winnti Group",
+                "Deceptikons",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Yingmob"
@@ -293,6 +294,8 @@
                 "Wild Neutron",
                 "Winnti Group",
                 "Cron",
+                "Dark Basin",
+                "Deceptikons",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Yingmob"
@@ -368,6 +371,7 @@
                 "Achilles",
                 "Bamboo Spider",
                 "Boson Spider",
+                "Deceptikons",
                 "Mummy Spider",
                 "Narwhal Spider",
                 "Parinacota",
@@ -498,6 +502,7 @@
                 "Turla",
                 "Vendetta",
                 "Wild Neutron",
+                "Dark Basin",
                 "Retefe Gang",
                 "Scully Spider"
             ],
@@ -537,6 +542,7 @@
                 "Inception Framework",
                 "Ke3chang",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Operation Comando",
                 "Orangeworm",
                 "Packrat",
@@ -551,6 +557,7 @@
                 "Turla",
                 "Winnti Group",
                 "Bamboo Spider",
+                "Dark Basin",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Scully Spider",
@@ -612,6 +619,7 @@
                 "Wild Neutron",
                 "Bamboo Spider",
                 "Boson Spider",
+                "Dark Basin",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Scully Spider",
@@ -700,6 +708,7 @@
                 "Turla",
                 "Wild Neutron",
                 "Cron",
+                "Dark Basin",
                 "Roaming Mantis"
             ],
             "type": "country/organization",
@@ -773,6 +782,7 @@
                 "Winnti Group",
                 "Bamboo Spider",
                 "Cron",
+                "Dark Basin",
                 "Fxmsp",
                 "Retefe Gang",
                 "Roaming Mantis",
@@ -788,7 +798,8 @@
                 "Confucius",
                 "Operation HangOver",
                 "Patchwork",
-                "SideWinder"
+                "SideWinder",
+                "Dark Basin"
             ],
             "Targeted by": [
                 "Aggah",
@@ -814,6 +825,7 @@
                 "Inception Framework",
                 "Ke3chang",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Lucky Cat",
                 "Molerats",
                 "MuddyWater",
@@ -852,6 +864,8 @@
                 "Whitefly",
                 "Winnti Group",
                 "[Unnamed group Iran]",
+                "Dark Basin",
+                "Deceptikons",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Yingmob"
@@ -915,7 +929,9 @@
                 "Pat Bear",
                 "Tempting Cedar Spyware",
                 "Volatile Cedar",
-                "[Unnamed group Iran]"
+                "[Unnamed group Iran]",
+                "Dark Basin",
+                "Deceptikons"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
@@ -955,6 +971,7 @@
                 "Turbine Panda",
                 "Turla",
                 "Bamboo Spider",
+                "Dark Basin",
                 "Fxmsp",
                 "Roaming Mantis",
                 "Scully Spider",
@@ -992,6 +1009,7 @@
                 "Honeybee",
                 "Icefog",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Lead",
                 "Lotus Blossom",
                 "Lucky Cat",
@@ -1042,7 +1060,8 @@
                 "Snowglobe",
                 "Sofacy",
                 "Stone Panda",
-                "TeamSpy Crew"
+                "TeamSpy Crew",
+                "Dark Basin"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
@@ -1149,6 +1168,7 @@
                 "Emissary Panda",
                 "Energetic Bear",
                 "Gorgon Group",
+                "BeagleBoyz",
                 "Magic Hound",
                 "NetTraveler",
                 "Operation Ghoul",
@@ -1193,6 +1213,7 @@
                 "Transparent Tribe",
                 "Turla",
                 "Wicked Spider",
+                "Dark Basin",
                 "Retefe Gang",
                 "Roaming Mantis"
             ],
@@ -1287,6 +1308,8 @@
                 "Bamboo Spider",
                 "Boson Spider",
                 "Cron",
+                "Dark Basin",
+                "Deceptikons",
                 "Fxmsp",
                 "OurMine",
                 "Retefe Gang",
@@ -1339,6 +1362,7 @@
                 "Transparent Tribe",
                 "Wild Neutron",
                 "[Unnamed group Iran]",
+                "Deceptikons",
                 "Fxmsp"
             ],
             "type": "country/organization",
@@ -1478,6 +1502,7 @@
                 "Boson Spider",
                 "Cron",
                 "Cyber fighters of Izz Ad-Din Al Qassam",
+                "Dark Basin",
                 "Doppel Spider",
                 "Fxmsp",
                 "OurMine",
@@ -1581,7 +1606,8 @@
                 "Strider",
                 "TeamSpy Crew",
                 "Transparent Tribe",
-                "Turla"
+                "Turla",
+                "Dark Basin"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
@@ -1662,6 +1688,7 @@
                 "Goblin Panda",
                 "Icefog",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Leviathan",
                 "Lotus Blossom",
                 "Naikon",
@@ -1697,6 +1724,7 @@
                 "Honeybee",
                 "Inception Framework",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Lotus Blossom",
                 "Madi",
                 "Mustang Panda",
@@ -1759,6 +1787,7 @@
                 "Hidden Lynx",
                 "Icefog",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Lotus Blossom",
                 "Mustang Panda",
                 "Night Dragon",
@@ -1777,7 +1806,8 @@
                 "Taidoor",
                 "Tonto Team",
                 "Tropic Trooper",
-                "Winnti Group"
+                "Winnti Group",
+                "Deceptikons"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
@@ -1862,6 +1892,7 @@
                 "Honeybee",
                 "Inception Framework",
                 "Ke3chang",
+                "BeagleBoyz",
                 "Lotus Blossom",
                 "Naikon",
                 "NetTraveler",
@@ -1952,6 +1983,8 @@
                 "TeamSpy Crew",
                 "Turla",
                 "Wild Neutron",
+                "Dark Basin",
+                "Deceptikons",
                 "Retefe Gang",
                 "Roaming Mantis"
             ],
@@ -1975,6 +2008,7 @@
                 "El Machete",
                 "Equation Group",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "leetMX",
                 "RevengeHotels",
                 "Shadow Network",
@@ -1982,6 +2016,7 @@
                 "Sofacy",
                 "Turla",
                 "Vendetta",
+                "Dark Basin",
                 "Fxmsp",
                 "Yingmob"
             ],
@@ -2066,6 +2101,7 @@
                 "APT 29",
                 "Carbanak",
                 "Cobalt Group",
+                "BeagleBoyz",
                 "Safe",
                 "Silence",
                 "Sofacy",
@@ -2097,6 +2133,8 @@
                 "Sea Turtle",
                 "Silence",
                 "Sofacy",
+                "Dark Basin",
+                "Deceptikons",
                 "Fxmsp"
             ],
             "type": "country/organization",
@@ -2113,7 +2151,8 @@
                 "Nitro",
                 "RTM",
                 "Silence",
-                "Transparent Tribe"
+                "Transparent Tribe",
+                "Dark Basin"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
@@ -2250,7 +2289,8 @@
                 "Sea Turtle",
                 "Volatile Cedar",
                 "ZooPark",
-                "[Unnamed group Iran]"
+                "[Unnamed group Iran]",
+                "Deceptikons"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
@@ -2369,6 +2409,7 @@
                 "Icefog",
                 "Kimsuky",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Molerats",
                 "Mustang Panda",
                 "Naikon",
@@ -2396,6 +2437,7 @@
                 "Whitefly",
                 "Wicked Spider",
                 "Winnti Group",
+                "Dark Basin",
                 "Fxmsp",
                 "Roaming Mantis"
             ],
@@ -2432,6 +2474,7 @@
                 "Icefog",
                 "Inception Framework",
                 "Ke3chang",
+                "BeagleBoyz",
                 "Mabna Institute",
                 "Magic Hound",
                 "Molerats",
@@ -2455,6 +2498,7 @@
                 "Wicked Spider",
                 "[Unnamed group Iran]",
                 "Cron",
+                "Deceptikons",
                 "Retefe Gang",
                 "Yingmob"
             ],
@@ -2468,6 +2512,7 @@
             "Targeted by": [
                 "APT 29",
                 "Inception Framework",
+                "BeagleBoyz",
                 "Sofacy"
             ],
             "type": "country/organization",
@@ -2519,6 +2564,7 @@
                 "TeleBots",
                 "Turla",
                 "Vicious Panda",
+                "Dark Basin",
                 "Scully Spider",
                 "Yingmob"
             ],
@@ -2651,6 +2697,7 @@
                 "Icefog",
                 "Inception Framework",
                 "Ke3chang",
+                "BeagleBoyz",
                 "Leviathan",
                 "Lotus Blossom",
                 "Lucky Cat",
@@ -2704,6 +2751,7 @@
                 "APT 32",
                 "Carbanak",
                 "Dark Caracal",
+                "BeagleBoyz",
                 "Mustang Panda",
                 "Naikon",
                 "NetTraveler",
@@ -2734,6 +2782,7 @@
                 "Hidden Lynx",
                 "Honeybee",
                 "Icefog",
+                "BeagleBoyz",
                 "Lotus Blossom",
                 "Mustang Panda",
                 "Naikon",
@@ -2763,6 +2812,7 @@
                 "Fishing Elephant",
                 "GhostNet",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Mustang Panda",
                 "NetTraveler",
                 "Nitro",
@@ -2879,6 +2929,7 @@
                 "Comment Crew",
                 "Equation Group",
                 "Inception Framework",
+                "BeagleBoyz",
                 "Promethium",
                 "Sofacy",
                 "Stone Panda",
@@ -2996,6 +3047,7 @@
                 "Icefog",
                 "Inception Framework",
                 "Ke3chang",
+                "BeagleBoyz",
                 "Madi",
                 "Magic Hound",
                 "MuddyWater",
@@ -3073,6 +3125,7 @@
                 "Desert Falcons",
                 "DNSpionage",
                 "Inception Framework",
+                "BeagleBoyz",
                 "Magic Hound",
                 "Molerats",
                 "MuddyWater",
@@ -3084,7 +3137,8 @@
                 "Slingshot",
                 "Sofacy",
                 "Turla",
-                "ZooPark"
+                "ZooPark",
+                "Deceptikons"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
@@ -3116,6 +3170,8 @@
             "Targeted by": [
                 "BlackOasis",
                 "Equation Group",
+                "BeagleBoyz",
+                "Dark Basin",
                 "Fxmsp"
             ],
             "type": "country/organization",
@@ -3222,7 +3278,8 @@
             "label": "Iceland",
             "Attribution to": [],
             "Targeted by": [
-                "Carbanak"
+                "Carbanak",
+                "Dark Basin"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
@@ -3277,6 +3334,7 @@
                 "DNSpionage",
                 "Hexane",
                 "Ke3chang",
+                "BeagleBoyz",
                 "Leafminer",
                 "Magic Hound",
                 "Molerats",
@@ -3341,6 +3399,7 @@
                 "Kimsuky",
                 "Lazarus Group",
                 "Andariel",
+                "BeagleBoyz",
                 "Bluenoroff",
                 "Operation WizardOpium",
                 "Reaper",
@@ -3363,11 +3422,13 @@
                 "Donot Team",
                 "El Machete",
                 "Honeybee",
+                "BeagleBoyz",
                 "leetMX",
                 "Nitro",
                 "Packrat",
                 "RevengeHotels",
-                "Sowbug"
+                "Sowbug",
+                "Deceptikons"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
@@ -3453,6 +3514,7 @@
             "Targeted by": [
                 "Corkow",
                 "El Machete",
+                "BeagleBoyz",
                 "Sowbug",
                 "TeamSpy Crew",
                 "Winnti Group"
@@ -3543,6 +3605,7 @@
             "Targeted by": [
                 "DarkHotel",
                 "Inception Framework",
+                "BeagleBoyz",
                 "Madi"
             ],
             "type": "country/organization",
@@ -3571,6 +3634,7 @@
             "Targeted by": [
                 "DarkUniverse",
                 "Inception Framework",
+                "BeagleBoyz",
                 "Slingshot",
                 "TeamSpy Crew"
             ],
@@ -3625,6 +3689,7 @@
             "Attribution to": [],
             "Targeted by": [
                 "Desert Falcons",
+                "BeagleBoyz",
                 "Sweed"
             ],
             "type": "country/organization",
@@ -3775,6 +3840,7 @@
                 "Equation Group",
                 "Gangnam Industrial Style",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Madi",
                 "Packrat",
                 "Sowbug",
@@ -3802,7 +3868,8 @@
             "label": "Nicaragua",
             "Attribution to": [],
             "Targeted by": [
-                "El Machete"
+                "El Machete",
+                "BeagleBoyz"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
@@ -3814,7 +3881,8 @@
             "Targeted by": [
                 "EmpireMonkey",
                 "FIN7",
-                "GhostNet"
+                "GhostNet",
+                "BeagleBoyz"
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
@@ -3903,11 +3971,13 @@
             "Attribution to": [],
             "Targeted by": [
                 "Inception Framework",
+                "BeagleBoyz",
                 "Silence",
                 "Slingshot",
                 "TeamSpy Crew",
                 "Transparent Tribe",
                 "[Unnamed group Iran]",
+                "Dark Basin",
                 "Fxmsp"
             ],
             "type": "country/organization",
@@ -3971,6 +4041,7 @@
             "Targeted by": [
                 "Ke3chang",
                 "Lazarus Group",
+                "BeagleBoyz",
                 "Molerats",
                 "NetTraveler",
                 "Operation Black Atlas",
@@ -4013,6 +4084,7 @@
             "label": "Costa Rica",
             "Attribution to": [],
             "Targeted by": [
+                "BeagleBoyz",
                 "leetMX",
                 "RevengeHotels",
                 "Silence",
@@ -4021,6 +4093,61 @@
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
+        },
+        {
+            "id": "country-Ghana",
+            "label": "Ghana",
+            "Attribution to": [],
+            "Targeted by": [
+                "BeagleBoyz",
+                "Silence",
+                "Fxmsp"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+        },
+        {
+            "id": "country-Panama",
+            "label": "Panama",
+            "Attribution to": [],
+            "Targeted by": [
+                "BeagleBoyz",
+                "Operation HangOver",
+                "Silence"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+        },
+        {
+            "id": "country-Togo",
+            "label": "Togo",
+            "Attribution to": [],
+            "Targeted by": [
+                "BeagleBoyz"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
+        },
+        {
+            "id": "country-Uruguay",
+            "label": "Uruguay",
+            "Attribution to": [],
+            "Targeted by": [
+                "BeagleBoyz",
+                "Turla"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+        },
+        {
+            "id": "country-Zambia",
+            "label": "Zambia",
+            "Attribution to": [],
+            "Targeted by": [
+                "BeagleBoyz"
+            ],
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
         },
         {
             "id": "country-El-Salvador",
@@ -4113,17 +4240,6 @@
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg"
-        },
-        {
-            "id": "country-Panama",
-            "label": "Panama",
-            "Attribution to": [],
-            "Targeted by": [
-                "Operation HangOver",
-                "Silence"
-            ],
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
         },
         {
             "id": "country-Africa-and-Far-East",
@@ -4226,17 +4342,6 @@
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
-        },
-        {
-            "id": "country-Ghana",
-            "label": "Ghana",
-            "Attribution to": [],
-            "Targeted by": [
-                "Silence",
-                "Fxmsp"
-            ],
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
         },
         {
             "id": "country-Jamaica",
@@ -4406,16 +4511,6 @@
             ],
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
-        },
-        {
-            "id": "country-Uruguay",
-            "label": "Uruguay",
-            "Attribution to": [],
-            "Targeted by": [
-                "Turla"
-            ],
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
         },
         {
             "id": "country-Elsewhere",
@@ -11816,16 +11911,16 @@
             ],
             "last card change": "2020-08-13",
             "ioc_ip": [
-                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782"
+                "91.235.116.147:9782",
+                "45.76.6.149:443"
+            ],
+            "ioc_url": [
+                "http://134.119.220.118",
+                "http://185.198.56.191"
             ],
             "ioc_domain": [
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -12131,11 +12226,11 @@
                 "static-cdn1.com",
                 "account163-mail.com",
                 "apple-onlineservice.com",
-                "onlineservice.bounceme.net"
-            ],
-            "ioc_url": [
-                "http://134.119.220.118",
-                "http://185.198.56.191"
+                "onlineservice.bounceme.net",
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com"
             ]
         },
         {
@@ -15758,16 +15853,16 @@
             ],
             "first seen": "2012",
             "last card change": "2020-04-22",
-            "ioc_url": [
-                "http://144.217.174.57",
-                "http://176.31.59.232"
-            ],
             "ioc_domain": [
-                "newoffice-template.com",
                 "haarmannsi.cz",
                 "sanygroup.co.uk",
                 "ecolines.es",
-                "blackberry-support.herokuapp.com"
+                "blackberry-support.herokuapp.com",
+                "newoffice-template.com"
+            ],
+            "ioc_url": [
+                "http://144.217.174.57",
+                "http://176.31.59.232"
             ]
         },
         {
@@ -16100,6 +16195,32 @@
             ],
             "last card change": "2020-07-02",
             "ioc_domain": [
+                "allshell.net",
+                "attoo1s.com",
+                "kasparsky.net",
+                "kocrmicrosoft.com",
+                "microsoft.org.tw",
+                "microsoftdomainadmin.com",
+                "microsoftsp3.com",
+                "playncs.com",
+                "softwareupdatevmware.com",
+                "windowsnine.net",
+                "cdngoogle.com",
+                "cisco-inc.net",
+                "mremote.biz",
+                "officescan.biz",
+                "oprea.biz",
+                "battle.com.tw",
+                "diablo-iii.mobi",
+                "microsoftupdate.ws",
+                "msftncsl.com",
+                "square-enix.us",
+                "updatamicrosoft.com",
+                "powershell.com.tw",
+                "gefacebook.com",
+                "attoo1s.com",
+                "msnupdate.bz",
+                "googlemapsoftware.com",
                 "memozilla.org",
                 "news.memozilla.org",
                 "video.memozilla.org",
@@ -16150,33 +16271,7 @@
                 "goback.strangled.net",
                 "centrozhlan.com",
                 "thehuguardian.com",
-                "menu.thehuguardian.com",
-                "allshell.net",
-                "attoo1s.com",
-                "kasparsky.net",
-                "kocrmicrosoft.com",
-                "microsoft.org.tw",
-                "microsoftdomainadmin.com",
-                "microsoftsp3.com",
-                "playncs.com",
-                "softwareupdatevmware.com",
-                "windowsnine.net",
-                "cdngoogle.com",
-                "cisco-inc.net",
-                "mremote.biz",
-                "officescan.biz",
-                "oprea.biz",
-                "battle.com.tw",
-                "diablo-iii.mobi",
-                "microsoftupdate.ws",
-                "msftncsl.com",
-                "square-enix.us",
-                "updatamicrosoft.com",
-                "powershell.com.tw",
-                "gefacebook.com",
-                "attoo1s.com",
-                "msnupdate.bz",
-                "googlemapsoftware.com"
+                "menu.thehuguardian.com"
             ]
         },
         {
@@ -16532,7 +16627,7 @@
                 "Sabotage and destruction",
                 "Financial crime"
             ],
-            "description": "(Malwarebytes) Lazarus Group is commonly believed to be run by the North Korean government, motivated primarily by financial gain as a method of circumventing long-standing sanctions against the regime. They first came to substantial media notice in 2013 with a series of coordinated attacks against an assortment of South Korean broadcasters and financial institutions using DarkSeoul, a wiper program that overwrites sections of the victims\u2019 master boot record.\n\nIn November 2014, a large scale breach of Sony Pictures was attributed to Lazarus. The attack was notable due to its substantial penetration across Sony networks, the extensive amount of data exfiltrated and leaked, as well of use of a wiper in a possible attempt to erase forensic evidence. Attribution on the attacks was largely hazy, but the FBI released a statement tying the Sony breach to the earlier DarkSeoul attack, and officially attributed both incidents to North Korea.\n\nFast forward to May 2017 with the widespread outbreak of WannaCry, a piece of ransomware that used an SMB exploit as an attack vector. Attribution to North Korea rested largely on code reuse between WannaCry and previous North Korean attacks, but this was considered to be thin grounds given the common practice of tool sharing between regional threat groups. Western intelligence agencies released official statements to the public reaffirming the attribution, and on September 6, 2018, the US Department of Justice charged a North Korean national with involvement in both WannaCry and the Sony breach.\n\nLazarus Group has 2 subgroups:\n1. {{Subgroup: Andariel, Silent Chollima}}\n2. {{Subgroup: Bluenoroff, APT 38, Stardust Chollima}}\n\nThe following groups may be associated with the Lazarus Group: {{Covellite}}, {{Reaper, APT 37, Ricochet Chollima, ScarCruft}} and {{Wassonite}}.",
+            "description": "(Malwarebytes) Lazarus Group is commonly believed to be run by the North Korean government, motivated primarily by financial gain as a method of circumventing long-standing sanctions against the regime. They first came to substantial media notice in 2013 with a series of coordinated attacks against an assortment of South Korean broadcasters and financial institutions using DarkSeoul, a wiper program that overwrites sections of the victims\u2019 master boot record.\n\nIn November 2014, a large scale breach of Sony Pictures was attributed to Lazarus. The attack was notable due to its substantial penetration across Sony networks, the extensive amount of data exfiltrated and leaked, as well of use of a wiper in a possible attempt to erase forensic evidence. Attribution on the attacks was largely hazy, but the FBI released a statement tying the Sony breach to the earlier DarkSeoul attack, and officially attributed both incidents to North Korea.\n\nFast forward to May 2017 with the widespread outbreak of WannaCry, a piece of ransomware that used an SMB exploit as an attack vector. Attribution to North Korea rested largely on code reuse between WannaCry and previous North Korean attacks, but this was considered to be thin grounds given the common practice of tool sharing between regional threat groups. Western intelligence agencies released official statements to the public reaffirming the attribution, and on September 6, 2018, the US Department of Justice charged a North Korean national with involvement in both WannaCry and the Sony breach.\n\nLazarus Group has 3 subgroups:\n1. {{Subgroup: Andariel, Silent Chollima}}\n2. {{Subgroup: BeagleBoyz}}\n3. {{Subgroup: Bluenoroff, APT 38, Stardust Chollima}}\n\nThe following groups may be associated with the Lazarus Group: {{Covellite}}, {{Reaper, APT 37, Ricochet Chollima, ScarCruft}} and {{Wassonite}}.",
             "tools": [
                 "3Rat Client",
                 "Andaratm",
@@ -16571,7 +16666,6 @@
                 "ELECTRICFISH",
                 "EternalBlue",
                 "FALLCHILL",
-                "FASTCash",
                 "Fimlis",
                 "Gh0st RAT",
                 "HARDRAIN",
@@ -16645,7 +16739,7 @@
                 "Wormhole",
                 "Yort"
             ],
-            "operations": "**2007**: Operation \u201cFlame\u201d\nTarget: South Korean government.\nMethod: Disruption and sabotage.\r\n**2009-07**: Operation \u201cTroy\u201d\nNorth Korean hackers are suspected of launching a cyber-attack on some of the most important government offices in the US and South Korea in recent days, including the White House, the Pentagon, the New York Stock Exchange and the presidential Blue House in Seoul.\nThe attack took out some of South Korea\u2019s most important websites, including those of the Blue House, the defense ministry, the national assembly, Shinhan bank, Korea Exchange bank and the top internet portal Naver.\nTarget: Government, financial and media institutions in South Korea and USA.\nMethod: DdoS attacks.\nhttps://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack\r\n**2011-03**: Attack on South Korean banks and media\nRecent Distributed Denial of Service (DdoS) attacks on a number South Korean websites have been in news for the past week. The threat responsible for carrying out these attacks is Trojan.Koredos.\nTarget: South Korean organizations.\nMethod: DdoS attacks and destruction of infected machines.\nhttps://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise\r\n**2013-03**: Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d\nComputer networks running three major South Korean banks and the country\u2019s two largest broadcasters were paralyzed Wednesday in attacks that some experts suspected originated in North Korea, which has consistently threatened to cripple its far richer neighbor.\nThe attacks, which left many South Koreans unable to withdraw money from A.T.M.\u2019s and news broadcasting crews staring at blank computer screens, came as the North\u2019s official Korean Central News Agency quoted the country\u2019s leader, Kim Jong-un, as threatening to destroy government installations in the South, along with American bases in the Pacific.\nTarget: Three broadcasting stations and a bank in South Korea.\nMethod: Infecting with viruses, stealing and wiping information.\nhttps://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html\r\n**2013-05**: South Korean Financial Companies Targeted by Castov\nIn the past few months we have been actively monitoring an exploit kit, called Gongda, which is mainly targeting South Korea. Interestingly, we have come across a piece of malware, known as Castov, being delivered by this exploit kit that targets specific South Korean financial companies and their customers. The cybercriminals in this case have done their research on the South Korean online financial landscape.\nhttps://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov\r\n**2013-06**: DarkSeoul Cyberattacks Against South Korea Continue on Anniversary of Korean War\nYesterday, June 25, the Korean peninsula observed a series of cyberattacks coinciding with the 63rd anniversary of the start of the Korean War. While multiple attacks were conducted by multiple perpetrators, one of the distributed denial-of-service (DdoS) attacks observed yesterday against South Korean government websites can be directly linked to the DarkSeoul gang and Trojan.Castov.\nhttps://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war\r\n**2014-11**: Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment\nThe attack on Sony Pictures became public knowledge on November 24, 2014, when Sony employees turned on their computers to be greeted with the sight of a neon red skeleton and the words \u201cHacked by GOP\u201d, which stood for \u201cGuardians of the Peace\u201d. The message also threatened to release data later that day if an unspecified request was not met. Over the following weeks, huge swathes of information stolen from Sony were released, including: personal information about employees and their families; email correspondence between employees at the company; information about company salaries, unreleased Sony films, and other information.\nTarget: Sony Pictures Entertainment (released the \u201cInterview\u201d movie, ridiculing the North Korean leader).\nMethod: Infecting with malware, stealing and wiping data of the company\u2019s employees, correspondence, copies of unreleased films.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know\nhttps://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf\r\n**2015-06**: Using the Palo Alto Networks AutoFocus threat intelligence platform, we identified several samples of malicious code with behavior similar to the aforementioned Operation Troy campaign dating back to June 2015, over two years after the original attacks in South Korea. Session data revealed a live attack targeting the transportation and logistics sector in Europe.\nhttps://unit42.paloaltonetworks.com/tdrop2-attacks-suggest-dark-seoul-attackers-return/\r\n**2017-03**: The Blockbuster Sequel\nThis recently identified activity is targeting Korean speaking individuals, while the threat actors behind the attack likely speak both Korean and English. This blog will detail the recently discovered samples, their functionality, and their ties to the threat group behind Operation Blockbuster.\nhttps://unit42.paloaltonetworks.com/unit42-the-blockbuster-sequel/\r\n**2017-05**: WannaCry ransomware\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/hpr9fas9xbzo2uz/Whitepaper WannaCry Ransomware.pdf?dl=0\r\n**2017-06**: We analyzed a new RATANKBA variant (BKDR_RATANKBA.ZAEL\u2013A), discovered in June 2017, that uses a PowerShell script instead of its more traditional PE executable form\u2014a version that other researchers also recently identified.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-campaign-targeting-cryptocurrencies-reveals-remote-controller-tool-evolved-ratankba/\r\n**2017-08**: The Blockbuster Saga Continues\nUnit 42 researchers at Palo Alto Networks have discovered new attack activity targeting individuals involved with United States defense contractors.\nhttps://unit42.paloaltonetworks.com/unit42-blockbuster-saga-continues/\r\n**2017 Late**: Several financial sector and a casino breaches using KillDisk wiping malware in Latin America and USA.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/\nhttps://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/\r\n**2017/2018**: Cryptocurrency attacks on South Korean exchanges.\nhttps://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/\r\n**2018-03**: APT attack on Turkish Financial Sector.\nTarget: Turkish Financial Sector.\nMethod: Spear-phishing with Bankshot implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/\r\n**2018-04**: Operation \u201cGhostSecret\u201d\nTarget: The impacted organizations are in industries such as telecommunications, health, finance, critical infrastructure, and entertainment.\nMethod: Spear-phishing with Destover-like implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/\r\n**2018-04**: The first artefacts we found relating to MATA were used around April 2018. After that, the actor behind this advanced malware framework used it aggressively to infiltrate corporate entities around the world.\nhttps://securelist.com/mata-multi-platform-targeted-malware-framework/97746/\r\n**2018-08**: Operation \u201cAppleJeus\u201d\nTarget: Cryptocurrency exchange.\nMethod: Fake installer and macOS malware.\nhttps://securelist.com/operation-applejeus/87553/\r\n**2018 Summer**: Our investigation into the Dtrack RAT actually began with a different activity. In the late summer of 2018, we discovered ATMDtrack, a piece of banking malware targeting Indian banks. Further analysis showed that the malware was designed to be planted on the victim\u2019s ATMs, where it could read and store the data of cards that were inserted into the machines.\nhttps://securelist.com/my-name-is-dtrack/93338/\r\n**2018-10**: Operation \u201cSharpshooter\u201d\nTarget: 87 organizations in many different sectors (majority Government and Defense) across the globe, predominantly in the United States.\nMethod: Rising Sun implant to gather intelligence.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/\r\n**2018-11**: More Attacks on Cryptocurrency Businesses\nTarget: Some of the documents (for instance one entitled \u201csample document for business plan evaluation of venture company\u201d) were prepared in Korean, presumably to target South Korean businesses. Another contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ (\u201cwe couldn\u2019t confirm if it\u2019s a legitimate business or another fake company made up by Lazarus,\u201d Kaspersky Lab researchers said). Yet another provided information for coin listings with a translation in Korean, researchers said.\nMethod: Documents containing weaponized macros, \u201ccarefully prepared to attract the attention of cryptocurrency professionals.\u201d It utilizes PowerShell to control Windows systems and macOS malware for Apple users.\nhttps://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/\r\n**2019-03**: The infamous Lazarus threat actor group has been found targeting an Israeli defense company, according to new research outlined by a cybersecurity firm ClearSky. The campaign is carried out with an intention to steal military and commercial secrets.\nhttps://cyware.com/news/lazarus-hacking-group-expand-their-attack-horizon-by-targeting-an-israeli-defense-company-02e2ec77\r\n**2019-03**: Operation \u201cAppleJeus sequel\u201d\nAs a result of our ongoing efforts, we identified significant changes to the group\u2019s attack methodology.\nhttps://securelist.com/operation-applejeus-sequel/95596/\r\n**2019-04**: \u201cHoplight\u201d Malware Campaign\nKnown as \u201cHoplight,\u201d the malware is a collection of nine files, though most of those are designed to work as obfuscation layers to keep admins and security software from spotting the attack.\nhttps://www.theregister.co.uk/2019/04/10/lazarus_group_malware/\r\n**2019-05**: North Korean Tunneling Tool: ELECTRICFISH\nThis report provides analysis of one malicious 32-bit Windows executable file. The malware implements a custom protocol that allows traffic to be funneled between a source and a destination Internet Protocol (IP) address. The malware continuously attempts to reach out to the source and the designation system, which allows either side to initiate a funneling session. The malware can be configured with a proxy server/port and proxy username and password. This feature allows connectivity to a system sitting inside of a proxy server, which allows the actor to bypass the compromised system\u2019s required authentication to reach outside of the network.\nhttps://www.us-cert.gov/ncas/analysis-reports/AR19-129A\r\n**2019-05**: Hackers associated with the APT Lazarus/HIDDEN COBRA group were found to be breaking into online stores of large US retailers and planting payment skimmers as early as May 2019.\nhttps://sansec.io/research/north-korea-magecart\r\n**2019-09**: Operation \u201cIn(ter)caption\u201d\nAt the end of last year, we discovered targeted attacks against aerospace and military companies in Europe and the Middle East, active from September to December 2019. A collaborative investigation with two of the affected European companies allowed us to gain insight into the operation and uncover previously undocumented malware.\nhttps://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_Operation_Interception.pdf\r\n**2019-10**: Dacls, the Dual platform RAT\nhttps://blog.netlab.360.com/dacls-the-dual-platform-rat-en/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2020**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n**2020**: Operation \u201cDream Job\u201d\nUpon infection, the attackers collected intelligence regarding the company\u2019s activity, and also its financial affairs, probably in order to try and steal some money from it.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf\r\n**2020-03**: Lazarus on the hunt for big game\nhttps://securelist.com/lazarus-on-the-hunt-for-big-game/97757/\r\n**2020-04**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n**2020-06**: Covid-19 Relief: North Korea Hackers Lazarus Planning Massive Attack on US, UK, Japan, Singapore, India, South Korea?\nhttps://www.ibtimes.sg/covid-19-relief-north-korea-hackers-lazarus-planning-massive-attack-us-uk-japan-singapore-47072\r\n**2020-08**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
+            "operations": "**2007**: Operation \u201cFlame\u201d\nTarget: South Korean government.\nMethod: Disruption and sabotage.\r\n**2009-07**: Operation \u201cTroy\u201d\nNorth Korean hackers are suspected of launching a cyber-attack on some of the most important government offices in the US and South Korea in recent days, including the White House, the Pentagon, the New York Stock Exchange and the presidential Blue House in Seoul.\nThe attack took out some of South Korea\u2019s most important websites, including those of the Blue House, the defense ministry, the national assembly, Shinhan bank, Korea Exchange bank and the top internet portal Naver.\nTarget: Government, financial and media institutions in South Korea and USA.\nMethod: DdoS attacks.\nhttps://www.theguardian.com/world/2009/jul/08/south-korea-cyber-attack\r\n**2011-03**: Attack on South Korean banks and media\nRecent Distributed Denial of Service (DdoS) attacks on a number South Korean websites have been in news for the past week. The threat responsible for carrying out these attacks is Trojan.Koredos.\nTarget: South Korean organizations.\nMethod: DdoS attacks and destruction of infected machines.\nhttps://www.symantec.com/connect/blogs/trojankoredos-comes-unwelcomed-surprise\r\n**2013-03**: Operation \u201cTen Days of Rain\u201d / \u201dDarkSeoul\u201d\nComputer networks running three major South Korean banks and the country\u2019s two largest broadcasters were paralyzed Wednesday in attacks that some experts suspected originated in North Korea, which has consistently threatened to cripple its far richer neighbor.\nThe attacks, which left many South Koreans unable to withdraw money from A.T.M.\u2019s and news broadcasting crews staring at blank computer screens, came as the North\u2019s official Korean Central News Agency quoted the country\u2019s leader, Kim Jong-un, as threatening to destroy government installations in the South, along with American bases in the Pacific.\nTarget: Three broadcasting stations and a bank in South Korea.\nMethod: Infecting with viruses, stealing and wiping information.\nhttps://www.nytimes.com/2013/03/21/world/asia/south-korea-computer-network-crashes.html\r\n**2013-05**: South Korean Financial Companies Targeted by Castov\nIn the past few months we have been actively monitoring an exploit kit, called Gongda, which is mainly targeting South Korea. Interestingly, we have come across a piece of malware, known as Castov, being delivered by this exploit kit that targets specific South Korean financial companies and their customers. The cybercriminals in this case have done their research on the South Korean online financial landscape.\nhttps://www.symantec.com/connect/blogs/south-korean-financial-companies-targeted-castov\r\n**2013-06**: DarkSeoul Cyberattacks Against South Korea Continue on Anniversary of Korean War\nYesterday, June 25, the Korean peninsula observed a series of cyberattacks coinciding with the 63rd anniversary of the start of the Korean War. While multiple attacks were conducted by multiple perpetrators, one of the distributed denial-of-service (DdoS) attacks observed yesterday against South Korean government websites can be directly linked to the DarkSeoul gang and Trojan.Castov.\nhttps://www.symantec.com/connect/blogs/four-years-darkseoul-cyberattacks-against-south-korea-continue-anniversary-korean-war\r\n**2014-11**: Operation \u201cBlockbuster\u201d: Breach of Sony Pictures Entertainment\nThe attack on Sony Pictures became public knowledge on November 24, 2014, when Sony employees turned on their computers to be greeted with the sight of a neon red skeleton and the words \u201cHacked by GOP\u201d, which stood for \u201cGuardians of the Peace\u201d. The message also threatened to release data later that day if an unspecified request was not met. Over the following weeks, huge swathes of information stolen from Sony were released, including: personal information about employees and their families; email correspondence between employees at the company; information about company salaries, unreleased Sony films, and other information.\nTarget: Sony Pictures Entertainment (released the \u201cInterview\u201d movie, ridiculing the North Korean leader).\nMethod: Infecting with malware, stealing and wiping data of the company\u2019s employees, correspondence, copies of unreleased films.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/the-hack-of-sony-pictures-what-you-need-to-know\nhttps://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf\r\n**2015-06**: Using the Palo Alto Networks AutoFocus threat intelligence platform, we identified several samples of malicious code with behavior similar to the aforementioned Operation Troy campaign dating back to June 2015, over two years after the original attacks in South Korea. Session data revealed a live attack targeting the transportation and logistics sector in Europe.\nhttps://unit42.paloaltonetworks.com/tdrop2-attacks-suggest-dark-seoul-attackers-return/\r\n**2017-03**: The Blockbuster Sequel\nThis recently identified activity is targeting Korean speaking individuals, while the threat actors behind the attack likely speak both Korean and English. This blog will detail the recently discovered samples, their functionality, and their ties to the threat group behind Operation Blockbuster.\nhttps://unit42.paloaltonetworks.com/unit42-the-blockbuster-sequel/\r\n**2017-05**: WannaCry ransomware\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/hpr9fas9xbzo2uz/Whitepaper WannaCry Ransomware.pdf?dl=0\r\n**2017-06**: We analyzed a new RATANKBA variant (BKDR_RATANKBA.ZAEL\u2013A), discovered in June 2017, that uses a PowerShell script instead of its more traditional PE executable form\u2014a version that other researchers also recently identified.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/lazarus-campaign-targeting-cryptocurrencies-reveals-remote-controller-tool-evolved-ratankba/\r\n**2017-08**: The Blockbuster Saga Continues\nUnit 42 researchers at Palo Alto Networks have discovered new attack activity targeting individuals involved with United States defense contractors.\nhttps://unit42.paloaltonetworks.com/unit42-blockbuster-saga-continues/\r\n**2017 Late**: Several financial sector and a casino breaches using KillDisk wiping malware in Latin America and USA.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-killdisk-variant-hits-financial-organizations-in-latin-america/\nhttps://www.welivesecurity.com/2018/04/03/lazarus-killdisk-central-american-casino/\r\n**2017/2018**: Cryptocurrency attacks on South Korean exchanges.\nhttps://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/\r\n**2018-01**: F-Secure\u2019s investigation revealed that a system administrator from the target organization received a phishing document via their personal LinkedIn account. The document masqueraded as a legitimate job advert for a role in a blockchain technology company that matched the employee\u2019s skills.\nhttps://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf\r\n**2018-03**: APT attack on Turkish Financial Sector.\nTarget: Turkish Financial Sector.\nMethod: Spear-phishing with Bankshot implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/hidden-cobra-targets-turkish-financial-sector-new-bankshot-implant/\r\n**2018-04**: Operation \u201cGhostSecret\u201d\nTarget: The impacted organizations are in industries such as telecommunications, health, finance, critical infrastructure, and entertainment.\nMethod: Spear-phishing with Destover-like implant.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/\r\n**2018-04**: The first artefacts we found relating to MATA were used around April 2018. After that, the actor behind this advanced malware framework used it aggressively to infiltrate corporate entities around the world.\nhttps://securelist.com/mata-multi-platform-targeted-malware-framework/97746/\r\n**2018-08**: Operation \u201cAppleJeus\u201d\nTarget: Cryptocurrency exchange.\nMethod: Fake installer and macOS malware.\nhttps://securelist.com/operation-applejeus/87553/\r\n**2018 Summer**: Our investigation into the Dtrack RAT actually began with a different activity. In the late summer of 2018, we discovered ATMDtrack, a piece of banking malware targeting Indian banks. Further analysis showed that the malware was designed to be planted on the victim\u2019s ATMs, where it could read and store the data of cards that were inserted into the machines.\nhttps://securelist.com/my-name-is-dtrack/93338/\r\n**2018-10**: Operation \u201cSharpshooter\u201d\nTarget: 87 organizations in many different sectors (majority Government and Defense) across the globe, predominantly in the United States.\nMethod: Rising Sun implant to gather intelligence.\nhttps://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/\r\n**2018-11**: More Attacks on Cryptocurrency Businesses\nTarget: Some of the documents (for instance one entitled \u201csample document for business plan evaluation of venture company\u201d) were prepared in Korean, presumably to target South Korean businesses. Another contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ (\u201cwe couldn\u2019t confirm if it\u2019s a legitimate business or another fake company made up by Lazarus,\u201d Kaspersky Lab researchers said). Yet another provided information for coin listings with a translation in Korean, researchers said.\nMethod: Documents containing weaponized macros, \u201ccarefully prepared to attract the attention of cryptocurrency professionals.\u201d It utilizes PowerShell to control Windows systems and macOS malware for Apple users.\nhttps://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/\r\n**2019-03**: The infamous Lazarus threat actor group has been found targeting an Israeli defense company, according to new research outlined by a cybersecurity firm ClearSky. The campaign is carried out with an intention to steal military and commercial secrets.\nhttps://cyware.com/news/lazarus-hacking-group-expand-their-attack-horizon-by-targeting-an-israeli-defense-company-02e2ec77\r\n**2019-03**: Operation \u201cAppleJeus sequel\u201d\nAs a result of our ongoing efforts, we identified significant changes to the group\u2019s attack methodology.\nhttps://securelist.com/operation-applejeus-sequel/95596/\r\n**2019-04**: \u201cHoplight\u201d Malware Campaign\nKnown as \u201cHoplight,\u201d the malware is a collection of nine files, though most of those are designed to work as obfuscation layers to keep admins and security software from spotting the attack.\nhttps://www.theregister.co.uk/2019/04/10/lazarus_group_malware/\r\n**2019-05**: North Korean Tunneling Tool: ELECTRICFISH\nThis report provides analysis of one malicious 32-bit Windows executable file. The malware implements a custom protocol that allows traffic to be funneled between a source and a destination Internet Protocol (IP) address. The malware continuously attempts to reach out to the source and the designation system, which allows either side to initiate a funneling session. The malware can be configured with a proxy server/port and proxy username and password. This feature allows connectivity to a system sitting inside of a proxy server, which allows the actor to bypass the compromised system\u2019s required authentication to reach outside of the network.\nhttps://www.us-cert.gov/ncas/analysis-reports/AR19-129A\r\n**2019-05**: Hackers associated with the APT Lazarus/HIDDEN COBRA group were found to be breaking into online stores of large US retailers and planting payment skimmers as early as May 2019.\nhttps://sansec.io/research/north-korea-magecart\r\n**2019-09**: Operation \u201cIn(ter)caption\u201d\nAt the end of last year, we discovered targeted attacks against aerospace and military companies in Europe and the Middle East, active from September to December 2019. A collaborative investigation with two of the affected European companies allowed us to gain insight into the operation and uncover previously undocumented malware.\nhttps://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_Operation_Interception.pdf\r\n**2019-10**: Dacls, the Dual platform RAT\nhttps://blog.netlab.360.com/dacls-the-dual-platform-rat-en/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2020**: Operation \u201cNorth Star\u201d\nIn this 2020 campaign McAfee ATR discovered a series of malicious documents containing job postings taken from leading defense contractors to be used as lures, in a very targeted fashion.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/\r\n**2020**: Operation \u201cDream Job\u201d\nUpon infection, the attackers collected intelligence regarding the company\u2019s activity, and also its financial affairs, probably in order to try and steal some money from it.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf\r\n**2020-03**: Lazarus on the hunt for big game\nhttps://securelist.com/lazarus-on-the-hunt-for-big-game/97757/\r\n**2020-04**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n**2020-06**: Covid-19 Relief: North Korea Hackers Lazarus Planning Massive Attack on US, UK, Japan, Singapore, India, South Korea?\nhttps://www.ibtimes.sg/covid-19-relief-north-korea-hackers-lazarus-planning-massive-attack-us-uk-japan-singapore-47072\r\n**2020-08**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
             "information": [
                 "<https://blog.malwarebytes.com/threat-analysis/2019/03/the-advanced-persistent-threat-files-lazarus-group/>",
                 "<https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/a-look-into-the-lazarus-groups-operations>",
@@ -16677,6 +16771,7 @@
                 "2017-08",
                 "2017 Late",
                 "2017/2018",
+                "2018-01",
                 "2018-03",
                 "2018-04",
                 "2018-04",
@@ -16740,7 +16835,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0032/>"
             ],
-            "last card change": "2020-08-20"
+            "last card change": "2020-08-27"
         },
         {
             "type": "apt_group",
@@ -16777,6 +16872,81 @@
         },
         {
             "type": "apt_group",
+            "id": "apt-BeagleBoyz",
+            "actor": "BeagleBoyz",
+            "names": [
+                "BeagleBoyz (US Government)"
+            ],
+            "country": [
+                "North Korea"
+            ],
+            "motivation": [
+                "Financial crime"
+            ],
+            "description": "(US CERT) The BeagleBoyz, an element of the North Korean government\u2019s Reconnaissance General Bureau, have likely been active since at least 2014. As opposed to typical cybercrime, the group likely conducts well-planned, disciplined, and methodical cyber operations more akin to careful espionage activities. Their malicious cyber operations have netted hundreds of millions of U.S. dollars and are likely a major source of funding for the North Korean regime. The group has always used a calculated approach, which allows them to sharpen their tactics, techniques, and procedures while evading detection. Over time, their operations have become increasingly complex and destructive. The tools and implants employed by this group are consistently complex and demonstrate a strong focus on effectiveness and operational security.\n\nNorth Korea's intelligence apparatus controls a hacking team dedicated to robbing banks through remote internet access. To differentiate methods from other North Korean malicious cyber activity, the U.S. Government refers to this team as BeagleBoyz, who represent a subset of HIDDEN COBRA activity. The BeagleBoyz overlap to varying degrees with groups tracked by the cybersecurity industry as {{Lazarus Group, Hidden Cobra, Labyrinth Chollima}} and {{Subgroup: Bluenoroff, APT 38, Stardust Chollima}} and are responsible for the FASTCash ATM cash outs reported in October 2018, fraudulent abuse of compromised bank-operated SWIFT system endpoints since at least 2015, and lucrative cryptocurrency thefts. This illicit behavior has been identified by the United Nations (UN) DPRK Panel of Experts as evasion of UN Security Council resolutions, as it generates substantial revenue for North Korea. North Korea can use these funds for its UN-prohibited nuclear weapons and ballistic missile programs. Additionally, this activity poses significant operational risk to the Financial Services sector and erodes the integrity of the financial system.",
+            "tools": [
+                "ECCENTRICBANDWAGON",
+                "FASTCash",
+                "VIVACIOUSGIFT"
+            ],
+            "operations": "**2016/2018**: Operation \u201cFASTCash\u201d\nOn October 2, 2018, an alert was issued by US-CERT, the Department of Homeland Security, the Department of the Treasury, and the FBI. According to this new alert, Hidden Cobra (the U.S. government\u2019s code name for Lazarus) has been conducting \u201cFASTCash\u201d attacks, stealing money from Automated Teller Machines (ATMs) from banks in Asia and Africa since at least 2016.\nhttps://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware\r\n**2016-02**: Bangladeshi Bank Attack\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/what-we-can-learn-from-the-bangladesh-central-bank-cyber-heist/\r\n",
+            "information": [
+                "<https://us-cert.cisa.gov/ncas/alerts/aa20-239a>"
+            ],
+            "uuid": "32d0e917-c901-4101-9f00-7b16dcfb5868",
+            "label": "BeagleBoyz",
+            "operation dates": [
+                "2016/2018",
+                "2016-02"
+            ],
+            "targeted countries": [
+                "Argentina",
+                "Brazil",
+                "Bangladesh",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Chile",
+                "Costa Rica",
+                "Ecuador",
+                "Ghana",
+                "India",
+                "Indonesia",
+                "Japan",
+                "Jordan",
+                "Kenya",
+                "Kuwait",
+                "Malaysia",
+                "Malta",
+                "Mexico",
+                "Mozambique",
+                "Nepal",
+                "Nicaragua",
+                "Nigeria",
+                "Pakistan",
+                "Panama",
+                "Peru",
+                "Philippines",
+                "Singapore",
+                "South Africa",
+                "South Korea",
+                "Spain",
+                "Taiwan",
+                "Tanzania",
+                "Togo",
+                "Turkey",
+                "Uganda",
+                "Uruguay",
+                "Vietnam",
+                "Zambia"
+            ],
+            "targeted sectors": [
+                "Financial"
+            ],
+            "first seen": "2014",
+            "last card change": "2020-08-27"
+        },
+        {
+            "type": "apt_group",
             "id": "apt-Bluenoroff",
             "actor": "Bluenoroff, APT 38, Stardust Chollima",
             "names": [
@@ -16791,8 +16961,8 @@
             "motivation": [
                 "Financial crime"
             ],
-            "description": "A subgroup of {{Lazarus Group, Hidden Cobra, Labyrinth Chollima}}.\n\n(Kaspersky) The Lazarus Group, a nation-state level of attacker tied to the 2014 attacks on Sony Pictures Entertainment, has splintered off a portion of its operation to concentrate on stealing money to fund itself.\n\nThe group, widely believed to be North Korean, has been linked to a February 2016 attack against the Bangladesh Central bank that resulted in more than $850 million in fraudulent SWIFT network transactions, $80 million of which still has not been recovered.",
-            "operations": "**2015-10**: Duuzer backdoor Trojan targets South Korea to take over computers\nSymantec has found that South Korea is being impacted by an active back door Trojan, detected as Backdoor.Duuzer. While the malware attack has not been exclusively targeting the region, it has been focusing on the South Korean manufacturing industry. Duuzer is a well-designed threat that gives attackers remote access to the compromised computer, downloads additional files, and steals data. It\u2019s clearly the work of skilled attackers looking to obtain valuable information.\nhttps://www.symantec.com/connect/blogs/duuzer-back-door-trojan-targets-south-korea-take-over-computers\r\n**2015**: SWIFT Attack on a bank in the Philippines\nhttps://www.symantec.com/connect/blogs/swift-attackers-malware-linked-more-financial-attacks\r\n**2015-12**: Attempted Vietnamese TPBank SWIFT Attack\nhttps://www.bankinfosecurity.com/vietnamese-bank-blocks-1-million-online-heist-a-9105\r\n**2016-05**: SWIFT Attack on Banco del Austro in Ecuador\nhttps://www.reuters.com/article/us-cyber-heist-swift-specialreport-idUSKCN0YB0DD\r\n**2016/2018**: Operation \u201cFASTCash\u201d\nOn October 2, 2018, an alert was issued by US-CERT, the Department of Homeland Security, the Department of the Treasury, and the FBI. According to this new alert, Hidden Cobra (the U.S. government\u2019s code name for Lazarus) has been conducting \u201cFASTCash\u201d attacks, stealing money from Automated Teller Machines (ATMs) from banks in Asia and Africa since at least 2016.\nhttps://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware\r\n**2016-02**: Bangladeshi Bank Attack\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/what-we-can-learn-from-the-bangladesh-central-bank-cyber-heist/\r\n**2016-10**: Mexican and Polish Financial Attack\nOrganizations in 31 countries have been targeted in a new wave of attacks which has been underway since at least October 2016. The attackers used compromised websites or \u201cwatering holes\u201d to infect pre-selected targets with previously unknown malware. There has been no evidence found yet that funds have been stolen from any infected banks.\nhttps://www.symantec.com/connect/blogs/attackers-target-dozens-global-banks-new-malware-0\r\n**2017**: In this campaign, the group sends spear-phishing emails containing an archived Windows shortcut file. The file names are disguised as security or cryptocurrency related files in order to entice users into executing them.\nhttps://securelist.com/apt-trends-report-q2-2020/97937/\r\n**2017-10**: SWIFT Attack on Far Eastern International Bank (FEIB) in Taiwan\nhttps://baesystemsai.blogspot.com/2017/10/taiwan-heist-lazarus-tools.html\r\n**2018-01**: Attempted heist at Bancomext in Mexico\nhttps://www.bloomberg.com/news/articles/2018-05-29/mexico-foiled-a-110-million-bank-heist-then-kept-it-a-secret\r\n**2018-05**: SWIFT attack on Banco de Chile in Chile\nhttps://threatpost.com/banco-de-chile-wiper-attack-just-a-cover-for-10m-swift-heist/132796/\r\n**2018-08**: SWIFT attack on Cosmos Bank in India\nhttps://www.darkreading.com/attacks-breaches/north-korean-hacking-group-steals-$135-million-from-indian-bank-/d/d-id/1332678\r\n**2018-12**: ATM breach of Redbanc in Chile\nhttps://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/\r\n",
+            "description": "A subgroup of {{Lazarus Group, Hidden Cobra, Labyrinth Chollima}}.\n\n(Kaspersky) The Lazarus Group, a nation-state level of attacker tied to the 2014 attacks on Sony Pictures Entertainment, has splintered off a portion of its operation to concentrate on stealing money to fund itself.",
+            "operations": "**2015-10**: Duuzer backdoor Trojan targets South Korea to take over computers\nSymantec has found that South Korea is being impacted by an active back door Trojan, detected as Backdoor.Duuzer. While the malware attack has not been exclusively targeting the region, it has been focusing on the South Korean manufacturing industry. Duuzer is a well-designed threat that gives attackers remote access to the compromised computer, downloads additional files, and steals data. It\u2019s clearly the work of skilled attackers looking to obtain valuable information.\nhttps://www.symantec.com/connect/blogs/duuzer-back-door-trojan-targets-south-korea-take-over-computers\r\n**2015**: SWIFT Attack on a bank in the Philippines\nhttps://www.symantec.com/connect/blogs/swift-attackers-malware-linked-more-financial-attacks\r\n**2015-12**: Attempted Vietnamese TPBank SWIFT Attack\nhttps://www.bankinfosecurity.com/vietnamese-bank-blocks-1-million-online-heist-a-9105\r\n**2016-05**: SWIFT Attack on Banco del Austro in Ecuador\nhttps://www.reuters.com/article/us-cyber-heist-swift-specialreport-idUSKCN0YB0DD\r\n**2016-10**: Mexican and Polish Financial Attack\nOrganizations in 31 countries have been targeted in a new wave of attacks which has been underway since at least October 2016. The attackers used compromised websites or \u201cwatering holes\u201d to infect pre-selected targets with previously unknown malware. There has been no evidence found yet that funds have been stolen from any infected banks.\nhttps://www.symantec.com/connect/blogs/attackers-target-dozens-global-banks-new-malware-0\r\n**2017**: In this campaign, the group sends spear-phishing emails containing an archived Windows shortcut file. The file names are disguised as security or cryptocurrency related files in order to entice users into executing them.\nhttps://securelist.com/apt-trends-report-q2-2020/97937/\r\n**2017-10**: SWIFT Attack on Far Eastern International Bank (FEIB) in Taiwan\nhttps://baesystemsai.blogspot.com/2017/10/taiwan-heist-lazarus-tools.html\r\n**2018-01**: Attempted heist at Bancomext in Mexico\nhttps://www.bloomberg.com/news/articles/2018-05-29/mexico-foiled-a-110-million-bank-heist-then-kept-it-a-secret\r\n**2018-05**: SWIFT attack on Banco de Chile in Chile\nhttps://threatpost.com/banco-de-chile-wiper-attack-just-a-cover-for-10m-swift-heist/132796/\r\n**2018-08**: SWIFT attack on Cosmos Bank in India\nhttps://www.darkreading.com/attacks-breaches/north-korean-hacking-group-steals-$135-million-from-indian-bank-/d/d-id/1332678\r\n**2018-12**: ATM breach of Redbanc in Chile\nhttps://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/\r\n",
             "information": [
                 "<https://threatpost.com/lazarus-apt-spinoff-linked-to-banking-hacks/124746/>"
             ],
@@ -16803,8 +16973,6 @@
                 "2015",
                 "2015-12",
                 "2016-05",
-                "2016/2018",
-                "2016-02",
                 "2016-10",
                 "2017",
                 "2017-10",
@@ -16817,7 +16985,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0082/>"
             ],
-            "last card change": "2020-07-30",
+            "last card change": "2020-08-27",
             "ioc_domain": [
                 "bitdefs.ignorelist.com",
                 "gphi.site",
@@ -18784,7 +18952,8 @@
                 "signin-secure.tk",
                 "robusted1020.chickenkiller.com",
                 "enreji.gov.tr",
-                "linkupdate.org"
+                "linkupdate.org",
+                "windowsupdate.me"
             ]
         },
         {
@@ -19609,11 +19778,21 @@
                 "<https://attack.mitre.org/groups/G0049/>"
             ],
             "last card change": "2020-07-30",
+            "ioc_ip": [
+                "185.32.178.176:80",
+                "93.177.75.180:80",
+                "95.211.210.55:80",
+                "95.211.213.177:80",
+                "95.211.213.168:80",
+                "95.211.215.225:80",
+                "95.211.104.253:80",
+                "95.211.104.253:443",
+                "95.211.104.253:2255"
+            ],
+            "ioc_url": [
+                "http://185.15.247.154"
+            ],
             "ioc_domain": [
-                "coldflys.com",
-                "shoterup.com",
-                "barsupport.org",
-                "forskys.com",
                 "defender-update.com",
                 "windowspatch.com",
                 "herkhabar.com",
@@ -19699,21 +19878,11 @@
                 "rdmsi.com",
                 "sharjatv.com",
                 "tprs-servers.eu",
-                "wwmal.com"
-            ],
-            "ioc_ip": [
-                "185.32.178.176:80",
-                "93.177.75.180:80",
-                "95.211.210.55:80",
-                "95.211.213.177:80",
-                "95.211.213.168:80",
-                "95.211.215.225:80",
-                "95.211.104.253:80",
-                "95.211.104.253:443",
-                "95.211.104.253:2255"
-            ],
-            "ioc_url": [
-                "http://185.15.247.154"
+                "wwmal.com",
+                "coldflys.com",
+                "shoterup.com",
+                "barsupport.org",
+                "forskys.com"
             ]
         },
         {
@@ -21791,25 +21960,7 @@
                 "pmoae.com",
                 "cgalim.com",
                 "hakproperty.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org",
                 "sync.appchecks.rr.nu",
-                "charley-online.com",
-                "fighiting1013.org",
-                "a7788.1apps.com",
-                "alabamaok0515.1apps.com",
-                "attach10132.1apps.com",
-                "clean.1apps.com",
-                "s8877.1apps.com",
-                "tgbabcrfv.1apps.com",
-                "071790.000webhostapp.com",
-                "881.000webhostapp.com",
-                "hanbosston.000webhostapp.com",
-                "filer1.1apps.com",
-                "filer2.1apps.com",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -21905,14 +22056,32 @@
                 "blockochain.info",
                 "files-downloader.net",
                 "webmail-googie.com",
-                "webmail-gooqle.com"
+                "webmail-gooqle.com",
+                "charley-online.com",
+                "fighiting1013.org",
+                "a7788.1apps.com",
+                "alabamaok0515.1apps.com",
+                "attach10132.1apps.com",
+                "clean.1apps.com",
+                "s8877.1apps.com",
+                "tgbabcrfv.1apps.com",
+                "071790.000webhostapp.com",
+                "881.000webhostapp.com",
+                "hanbosston.000webhostapp.com",
+                "filer1.1apps.com",
+                "filer2.1apps.com",
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org"
+            ],
+            "ioc_url": [
+                "http://72.21.245.117"
             ],
             "ioc_ip": [
                 "5.252.198.93:7337",
                 "103.249.31.159:7777"
-            ],
-            "ioc_url": [
-                "http://72.21.245.117"
             ]
         },
         {
@@ -23495,12 +23664,6 @@
             ],
             "last card change": "2020-08-14",
             "ioc_ip": [
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -23514,7 +23677,13 @@
                 "109.169.15.73",
                 "178.32.251.98",
                 "145.249.106.198:443",
-                "185.236.203.53:443"
+                "185.236.203.53:443",
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -27409,7 +27578,7 @@
                 "SharpHound",
                 "WinSCP"
             ],
-            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n**2020-07**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n**2020-08**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n",
+            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n**2020-07**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n**2020-08**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n**2020-08**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n",
             "information": [
                 "<https://www.proofpoint.com/us/threat-insight/post/ta2101-plays-government-imposter-distribute-malware-german-italian-and-us>",
                 "<https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html>"
@@ -27438,6 +27607,7 @@
                 "2020-06",
                 "2020-06",
                 "2020-07",
+                "2020-08",
                 "2020-08"
             ],
             "targeted countries": [
@@ -27472,7 +27642,7 @@
                 "Real estate"
             ],
             "first seen": "2019",
-            "last card change": "2020-08-20",
+            "last card change": "2020-08-26",
             "ioc_url": [
                 "http://104.168.174.32",
                 "http://104.168.198.208",
@@ -28648,7 +28818,10 @@
                 "near-fast.com",
                 "store-000846-live.com",
                 "store-003774-live.com",
-                "first-destin.com"
+                "first-destin.com",
+                "toppon-studio.com",
+                "dropbox-cdns.com",
+                "groms-dat.com"
             ]
         },
         {
@@ -29378,6 +29551,7 @@
             ],
             "description": "(Proofpoint) Proofpoint researchers recently uncovered evidence of an advanced persistent threat (APT) against Indian diplomatic and military resources. Our investigation began with malicious emails sent to Indian embassies in Saudi Arabia and Kazakstan but turned up connections to watering hole sites focused on Indian military personnel and designed to drop a remote access Trojan (RAT) with a variety of data exfiltration functions. Our analysis shows that many of the campaigns and attacks appear related by common IOCs, vectors, payloads, and language, but the exact nature and attribution associated with this APT remain under investigation.\nAt this time, the background and analysis in this paper provide useful forensics and detail our current thinking on the malware that we have dubbed \u201cMSIL/Crimson\u201d.\n\nTransparent Tribe may be related to {{Gorgon Group}}.\n\nTransparant Tribe has been observed to use the Andromeda botnet (operated by {{Andromeda Spider}}).",
             "tools": [
+                "Android RAT",
                 "beendoor",
                 "Bezigate",
                 "Bozok",
@@ -29386,13 +29560,14 @@
                 "DarkComet",
                 "Luminosity RAT",
                 "njRAT",
+                "ObliqueRAT",
                 "Peppy RAT",
                 "SilentCMD",
                 "Stealth Mango",
                 "UPDATESEE",
                 "USBWorm"
             ],
-            "operations": "**2012**: Operation \u201cTransparent Tribe\u201d\nOn February 11, 2016, we discovered two attacks minutes apart directed towards officials at Indian embassies in both Saudi Arabia and Kazakhstan. Both e-mails (Fig. 1, 2) were sent from the same originating IP address (5.189.145[.]248) belonging to Contabo GmbH, a hosting provider that seems to be currently favored by these threat actors. The e-mails also likely utilized Rackspace\u2019s MailGun service and both of them were carrying the same exact attachment.\nhttps://www.proofpoint.com/sites/default/files/proofpoint-operation-transparent-tribe-threat-insight-en.pdf\r\n**2016-03**: Indian TV station CNN-IBN has discovered that Pakistani officials were collecting data about Indian troop movements using an Android app called SmeshApp.\nhttps://news.softpedia.com/news/smeshapp-removed-from-play-store-because-pakistan-used-it-to-spy-on-indian-army-501936.shtml\r\n**2016-03**: Operation \u201cC-Major\u201d\nTrend Micro is reporting on a third campaign, which they\u2019ve named Operation C-Major. According to the security firm, this campaign targeted Indian military officials via spear-phishing emails, distributing spyware to its victims via an Adobe Reader vulnerability.\nhttps://news.softpedia.com/news/another-case-of-a-pakistani-apt-spying-on-indian-military-personnel-502093.shtml\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/operation-c-major-actors-also-used-android-blackberry-mobile-spyware-targets/\r\n**2017-02**: This blog post describes another attack campaign where attackers impersonated identity of Indian think tank IDSA (Institute for Defence Studies and Analyses) and sent out spear-phishing emails to target officials of the Central Bureau of Investigation (CBI) and possibly the officials of Indian Army.\nhttps://cysinfo.com/cyber-attack-targeting-cbi-and-possibly-indian-army-officials/\r\n**2019-06**: Over the past year, we have seen this group undergo an evolution, stepping up its activities, starting massive infection campaigns, developing new tools and strengthening their focus on Afghanistan.\nhttps://securelist.com/transparent-tribe-part-1/98127/\r\n**2020-01**: Transparent tribe is back with a new campaign after several years of (apparently) inactivity. We can confirm that this campaign is completely new, relying on the registration record of the C2 that dates back to 29 January 2020.\nhttps://blog.yoroi.company/research/transparent-tribe-four-years-later/\r\n**2020 Early**: TransparentTribe started using a new module named USBWorm at the beginning of 2020, as well as improving its custom .NET tool named CrimsonRAT.\nhttps://securelist.com/apt-trends-report-q1-2020/96826/\r\n**2020-03**: APT36 spreads fake coronavirus health advisory\nhttps://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/\r\n**2020-04**: Operation \u201cHoney Trap\u201d\nAPT36 Targets Defense Organizations in India\nhttps://www.seqrite.com/blog/operation-honey-trap-apt36-targets-defense-organizations-in-india/\r\n",
+            "operations": "**2012**: Operation \u201cTransparent Tribe\u201d\nOn February 11, 2016, we discovered two attacks minutes apart directed towards officials at Indian embassies in both Saudi Arabia and Kazakhstan. Both e-mails (Fig. 1, 2) were sent from the same originating IP address (5.189.145[.]248) belonging to Contabo GmbH, a hosting provider that seems to be currently favored by these threat actors. The e-mails also likely utilized Rackspace\u2019s MailGun service and both of them were carrying the same exact attachment.\nhttps://www.proofpoint.com/sites/default/files/proofpoint-operation-transparent-tribe-threat-insight-en.pdf\r\n**2016-03**: Indian TV station CNN-IBN has discovered that Pakistani officials were collecting data about Indian troop movements using an Android app called SmeshApp.\nhttps://news.softpedia.com/news/smeshapp-removed-from-play-store-because-pakistan-used-it-to-spy-on-indian-army-501936.shtml\r\n**2016-03**: Operation \u201cC-Major\u201d\nTrend Micro is reporting on a third campaign, which they\u2019ve named Operation C-Major. According to the security firm, this campaign targeted Indian military officials via spear-phishing emails, distributing spyware to its victims via an Adobe Reader vulnerability.\nhttps://news.softpedia.com/news/another-case-of-a-pakistani-apt-spying-on-indian-military-personnel-502093.shtml\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/operation-c-major-actors-also-used-android-blackberry-mobile-spyware-targets/\r\n**2017-02**: This blog post describes another attack campaign where attackers impersonated identity of Indian think tank IDSA (Institute for Defence Studies and Analyses) and sent out spear-phishing emails to target officials of the Central Bureau of Investigation (CBI) and possibly the officials of Indian Army.\nhttps://cysinfo.com/cyber-attack-targeting-cbi-and-possibly-indian-army-officials/\r\n**2019-06**: Over the past year, we have seen this group undergo an evolution, stepping up its activities, starting massive infection campaigns, developing new tools and strengthening their focus on Afghanistan.\nhttps://securelist.com/transparent-tribe-part-1/98127/\nhttps://securelist.com/transparent-tribe-part-2/98233/\r\n**2020-01**: Transparent tribe is back with a new campaign after several years of (apparently) inactivity. We can confirm that this campaign is completely new, relying on the registration record of the C2 that dates back to 29 January 2020.\nhttps://blog.yoroi.company/research/transparent-tribe-four-years-later/\r\n**2020 Early**: TransparentTribe started using a new module named USBWorm at the beginning of 2020, as well as improving its custom .NET tool named CrimsonRAT.\nhttps://securelist.com/apt-trends-report-q1-2020/96826/\r\n**2020-03**: APT36 spreads fake coronavirus health advisory\nhttps://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/\r\n**2020-04**: Operation \u201cHoney Trap\u201d\nAPT36 Targets Defense Organizations in India\nhttps://www.seqrite.com/blog/operation-honey-trap-apt36-targets-defense-organizations-in-india/\r\n",
             "information": [
                 "<https://www.fireeye.com/blog/threat-research/2016/06/apt_group_sends_spea.html>",
                 "<https://www.crowdstrike.com/blog/adversary-of-the-month-for-may/>"
@@ -29449,7 +29624,7 @@
                 "Government"
             ],
             "first seen": "2013",
-            "last card change": "2020-08-21",
+            "last card change": "2020-08-27",
             "ioc_ip": [
                 "192.99.241.4:4915",
                 "95.168.176.141:4864",
@@ -29475,7 +29650,11 @@
                 "64.188.25.205:3692",
                 "107.175.64.251:6286",
                 "164.68.101.194:3312",
-                "64.188.12.126:4676"
+                "64.188.12.126:4676",
+                "212.8.240.221:5987"
+            ],
+            "ioc_url": [
+                "http://212.8.240.221"
             ],
             "ioc_domain": [
                 "bdrive.club",
@@ -29511,7 +29690,10 @@
                 "fileshare.attachment.biz",
                 "kmcodecs.com",
                 "isroddp.com",
-                "awsyscloud.com"
+                "awsyscloud.com",
+                "sharemydrives.com",
+                "sharingmymedia.com",
+                "tryanotherhorse.com"
             ]
         },
         {
@@ -29583,21 +29765,16 @@
                 "<https://attack.mitre.org/groups/G0081/>"
             ],
             "last card change": "2020-05-15",
+            "ioc_ip": [
+                "68.65.121.44:1883",
+                "68.65.121.44:443",
+                "198.54.117.211:1883",
+                "198.54.117.217:1883",
+                "198.54.117.215:1883",
+                "198.54.117.212:1883",
+                "198.54.117.218:1883"
+            ],
             "ioc_domain": [
-                "tibetvoices.com",
-                "about.jkub.com",
-                "eleven.mypop3.org",
-                "backus.myftp.name",
-                "dpponline.trickip.org",
-                "jupiter.qpoe.com",
-                "mila1314.25u.com",
-                "mila1314.4dq.com",
-                "mila1314.ddns.info",
-                "myinfo.ocry.com",
-                "myzinfo.myz.info",
-                "oldape.25u.com",
-                "oldape.4dq.com",
-                "y5mogzal2w25p6bn.ml",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -29868,16 +30045,21 @@
                 "tstapi.pal4u.net",
                 "linda-callaghan.icu",
                 "nicoledotson.icu",
-                "catchansee.com"
-            ],
-            "ioc_ip": [
-                "68.65.121.44:1883",
-                "68.65.121.44:443",
-                "198.54.117.211:1883",
-                "198.54.117.217:1883",
-                "198.54.117.215:1883",
-                "198.54.117.212:1883",
-                "198.54.117.218:1883"
+                "catchansee.com",
+                "y5mogzal2w25p6bn.ml",
+                "tibetvoices.com",
+                "about.jkub.com",
+                "eleven.mypop3.org",
+                "backus.myftp.name",
+                "dpponline.trickip.org",
+                "jupiter.qpoe.com",
+                "mila1314.25u.com",
+                "mila1314.4dq.com",
+                "mila1314.ddns.info",
+                "myinfo.ocry.com",
+                "myzinfo.myz.info",
+                "oldape.25u.com",
+                "oldape.4dq.com"
             ]
         },
         {
@@ -30174,14 +30356,8 @@
                 "134.209.222.206:15363",
                 "85.222.235.156:8000"
             ],
-            "ioc_url": [
-                "http://169.255.137.203/rss_0.php",
-                "http://217.171.86.137/config.php",
-                "http://217.171.86.137/rss_0.php",
-                "http://185.141.62.32",
-                "http://37.59.60.199"
-            ],
             "ioc_domain": [
+                "news-bbc.podzone.org",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -30456,9 +30632,15 @@
                 "vylys.com",
                 "wekanda.tk",
                 "newshealthsport.com",
-                "news-bbc.podzone.org",
                 "tapok121.jhfree.net",
                 "orl05511cn.temp.swtest.ru"
+            ],
+            "ioc_url": [
+                "http://169.255.137.203/rss_0.php",
+                "http://217.171.86.137/config.php",
+                "http://217.171.86.137/rss_0.php",
+                "http://185.141.62.32",
+                "http://37.59.60.199"
             ]
         },
         {
@@ -31577,6 +31759,129 @@
             "first seen": "2012",
             "counter operations": "**2016-05**: U.S. Accuses 7 Iranians Of Cyberattacks On Banks And Dam\nhttps://www.forbes.com/sites/thomasbrewster/2016/03/24/iran-hackers-charged-bank-ddos-attacks-banks/\r\n",
             "last card change": "2020-04-19"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-Dark-Basin",
+            "actor": "Dark Basin",
+            "names": [
+                "Dark Basin (Citizen Lab)",
+                "Mercenary.Amanda (NortonLifeLock)"
+            ],
+            "country": [
+                "India"
+            ],
+            "sponsor": "BellTroX InfoTech Services",
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(Citizen Lab) We give the name Dark Basin to a hack-for-hire organization that has targeted thousands of individuals and organizations on six continents, including senior politicians, government prosecutors, CEOs, journalists, and human rights defenders. With high confidence, we link Dark Basin to BellTroX InfoTech Services (\u201cBellTroX\u201d), an India-based technology company.\n\nOver the course of our multi-year investigation, we found that Dark Basin likely conducted commercial espionage on behalf of their clients against opponents involved in high profile public events, criminal cases, financial transactions, news stories, and advocacy. This report highlights several clusters of targets. In future reports, we will provide more details about specific clusters of targets and Dark Basin\u2019s activities.",
+            "information": [
+                "<https://citizenlab.ca/2020/06/dark-basin-uncovering-a-massive-hack-for-hire-operation/>",
+                "<https://www.nortonlifelock.com/blogs/security-response/mercenary-amanda-professional-hackers-hire>"
+            ],
+            "uuid": "03011e9d-5ddb-4d43-82a1-bf89a51b5709",
+            "label": "Dark Basin",
+            "targeted countries": [
+                "Austria",
+                "Belgium",
+                "Brazil",
+                "Canada",
+                "Cyprus",
+                "Czech",
+                "France",
+                "Germany",
+                "Iceland",
+                "India",
+                "Israel",
+                "Italy",
+                "Kenya",
+                "Mexico",
+                "Nigeria",
+                "Norway",
+                "Russia",
+                "South Korea",
+                "Sweden",
+                "Switzerland",
+                "UK",
+                "Ukraine",
+                "USA"
+            ],
+            "targeted sectors": [
+                "Financial",
+                "Government",
+                "Manufacturing",
+                "Media",
+                "NGOs",
+                "Non-profit organizations",
+                "Journalists, law and consulting firms"
+            ],
+            "first seen": "2013",
+            "alienvault otx": [
+                "https://otx.alienvault.com/browse/pulses?q=tag:BellTroX"
+            ],
+            "last card change": "2020-08-27"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-Deceptikons",
+            "actor": "Deceptikons, DeathStalker",
+            "names": [
+                "Deceptikons (Kaspersky)",
+                "DeathStalker (Kaspersky)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(Kaspersky) In this blog post, we\u2019ll be focusing on DeathStalker: a unique threat group that appears to target law firms and companies in the financial sector (although we\u2019ve occasionally seen them in other verticals as well). As far as we can tell, this actor isn\u2019t motivated by financial gain. They don\u2019t deploy ransomware, steal payment information to resell it, or engage in any type of activity commonly associated with the cybercrime underworld. Their interest in gathering sensitive business information leads us to believe that DeathStalker is a group of mercenaries offering hacking-for-hire services, or acting as some sort of information broker in financial circles.\n\nDeathStalker first came to our attention through a PowerShell-based implant called Powersing. By unraveling this thread, we were able to identify activities dating back to 2018, and possibly even 2012.",
+            "tools": [
+                "Evilnum",
+                "Janicab",
+                "Powersing"
+            ],
+            "information": [
+                "<https://securelist.com/deathstalker-mercenary-triumvirate/98177/>",
+                "<https://securelist.com/apt-trends-report-q2-2020/97937/>"
+            ],
+            "uuid": "55986798-f21d-4c64-9f5b-57676bf32241",
+            "label": "Deceptikons",
+            "targeted countries": [
+                "Argentina",
+                "China",
+                "Cyprus",
+                "India",
+                "Israel",
+                "Jordan",
+                "Lebanon",
+                "Russia",
+                "Switzerland",
+                "Taiwan",
+                "Turkey",
+                "UAE",
+                "UK"
+            ],
+            "targeted sectors": [
+                "Financial",
+                "Law firms"
+            ],
+            "first seen": "2012",
+            "last card change": "2020-08-27",
+            "ioc_url": [
+                "http://105.104.10.115",
+                "http://54.38.192.174",
+                "http://87.121.52.62",
+                "http://87.121.52.69",
+                "http://91.229.76.153",
+                "http://91.229.76.17",
+                "http://91.229.77.120",
+                "http://91.229.77.240",
+                "http://91.229.79.120",
+                "http://94.156.77.182",
+                "http://95.211.168.10"
+            ]
         },
         {
             "type": "apt_group",
@@ -45165,6 +45470,7 @@
                 "akcspvagzi.duckdns.org",
                 "akdcynirge.duckdns.org",
                 "akghldgnwo.duckdns.org",
+                "akhwvuodhk.duckdns.org",
                 "aklgebitud.duckdns.org",
                 "aknocpmifo.duckdns.org",
                 "akoypiiowo.duckdns.org",
@@ -45391,6 +45697,7 @@
                 "atxbqwcdll.duckdns.org",
                 "aucdldvreh.duckdns.org",
                 "aufieqriho.duckdns.org",
+                "augnfkypkv.duckdns.org",
                 "aunytgpepa.duckdns.org",
                 "auxnbqnvez.duckdns.org",
                 "avbqlfwphf.duckdns.org",
@@ -45523,8 +45830,10 @@
                 "bktrafgkta.duckdns.org",
                 "bkvxtcgoie.duckdns.org",
                 "bkxmjtolad.duckdns.org",
+                "blaprqvmpf.duckdns.org",
                 "blcsnzktgp.duckdns.org",
                 "blcwdqbxwv.duckdns.org",
+                "bldnvlwgrg.duckdns.org",
                 "blseslqzqg.duckdns.org",
                 "blsrconlgg.duckdns.org",
                 "blwqsyswon.duckdns.org",
@@ -45550,6 +45859,7 @@
                 "bqbltbemfj.duckdns.org",
                 "bqcfkmdzrj.duckdns.org",
                 "bqucjzlhwn.duckdns.org",
+                "bqwwiwpufa.duckdns.org",
                 "bqxpduhcoo.duckdns.org",
                 "bqzahtqyxj.duckdns.org",
                 "brgkcaesuj.duckdns.org",
@@ -45563,6 +45873,7 @@
                 "bsgewwyfna.duckdns.org",
                 "bswxa.duckdns.org",
                 "bsxkkhxile.duckdns.org",
+                "btghaeyqvg.duckdns.org",
                 "btmburcrzh.duckdns.org",
                 "btvygszqxz.duckdns.org",
                 "btxdgjrrou.duckdns.org",
@@ -45590,6 +45901,7 @@
                 "bxnwnmdzxw.duckdns.org",
                 "bxovpypnsi.duckdns.org",
                 "bxpvwbzqov.duckdns.org",
+                "bxqybjbycr.duckdns.org",
                 "bxtudikhhn.duckdns.org",
                 "byiaaorwys.duckdns.org",
                 "bytudhzqyc.duckdns.org",
@@ -45645,6 +45957,7 @@
                 "clruzdfwsw.duckdns.org",
                 "cmhaufwplb.duckdns.org",
                 "cmjmllggpw.duckdns.org",
+                "cmndticosq.duckdns.org",
                 "cmtihaioql.duckdns.org",
                 "cnagigzrpx.duckdns.org",
                 "coafzieohs.duckdns.org",
@@ -45684,6 +45997,7 @@
                 "cvnbdft87.duckdns.org",
                 "cvppfllwkf.duckdns.org",
                 "cvzqmyesdm.duckdns.org",
+                "cvzxgmtmzx.duckdns.org",
                 "cwaqycdbgj.duckdns.org",
                 "cwbjdgyaty.duckdns.org",
                 "cwphmadzys.duckdns.org",
@@ -45831,6 +46145,7 @@
                 "dsjgmdhehx.duckdns.org",
                 "dsrlzxauwc.duckdns.org",
                 "dsvopwsjdz.duckdns.org",
+                "dtbhitfyjw.duckdns.org",
                 "dtcubqwbio.duckdns.org",
                 "dtekitqqmq.duckdns.org",
                 "dtibzripkf.duckdns.org",
@@ -45897,6 +46212,7 @@
                 "efcceebluu.duckdns.org",
                 "efearzitve.duckdns.org",
                 "efmqglqztf.duckdns.org",
+                "efomukwlpa.duckdns.org",
                 "efubzypwqc.duckdns.org",
                 "efzumyfzet.duckdns.org",
                 "egdwkariqn.duckdns.org",
@@ -46044,6 +46360,7 @@
                 "favkvbzdxe.duckdns.org",
                 "faxibsalwl.duckdns.org",
                 "fbfcrxabgh.duckdns.org",
+                "fbivqgceoe.duckdns.org",
                 "fbjdpymksb.duckdns.org",
                 "fbrqzgejip.duckdns.org",
                 "fcjpdlsyhj.duckdns.org",
@@ -46137,6 +46454,7 @@
                 "fxwnqbyyqs.duckdns.org",
                 "fxzpzlcmbh.duckdns.org",
                 "fyakdnslay.duckdns.org",
+                "fycrjftdpc.duckdns.org",
                 "fydgitbgol.duckdns.org",
                 "fyftyldnpp.duckdns.org",
                 "fykcyatkpf.duckdns.org",
@@ -46384,6 +46702,7 @@
                 "hdgeiuqclm.duckdns.org",
                 "hdgferchds.duckdns.org",
                 "hdkixeeghj.duckdns.org",
+                "hdlqfziplr.duckdns.org",
                 "hdnuyvrryp.duckdns.org",
                 "hdogsiysvi.duckdns.org",
                 "hdrjdtfgyu.duckdns.org",
@@ -46446,6 +46765,7 @@
                 "hjsagfwed.duckdns.org",
                 "hjsdgfercx.duckdns.org",
                 "hjuqhrxhlp.duckdns.org",
+                "hjxjgbakte.duckdns.org",
                 "hjyhxlkhel.duckdns.org",
                 "hkbdbaijrr.duckdns.org",
                 "hkgksmkoko.duckdns.org",
@@ -46632,6 +46952,7 @@
                 "ihpcgplcqq.duckdns.org",
                 "iihpeodkfu.duckdns.org",
                 "iiriwprgkm.duckdns.org",
+                "iiucxfyqai.duckdns.org",
                 "iiwisisyfl.duckdns.org",
                 "ijrocmzzyt.duckdns.org",
                 "ijscssawri.duckdns.org",
@@ -46761,6 +47082,7 @@
                 "jjsmkterbo.duckdns.org",
                 "jjtnrezcal.duckdns.org",
                 "jjurljsszy.duckdns.org",
+                "jjvtdfzmko.duckdns.org",
                 "jkqgdtfqsm.duckdns.org",
                 "jktkvdqsby.duckdns.org",
                 "jlhjwvkhxa.duckdns.org",
@@ -46840,6 +47162,7 @@
                 "kajkbzqivq.duckdns.org",
                 "kapdzfayhm.duckdns.org",
                 "karlhwabod.duckdns.org",
+                "kauyqahmvc.duckdns.org",
                 "kbstueisox.duckdns.org",
                 "kcrzdhtjnp.duckdns.org",
                 "kcumrapztv.duckdns.org",
@@ -46920,6 +47243,7 @@
                 "konvhopemx.duckdns.org",
                 "kovpqcjntw.duckdns.org",
                 "kpufolyuqt.duckdns.org",
+                "kpztzyogwy.duckdns.org",
                 "kqakjyzabz.duckdns.org",
                 "kqbkcpdcwu.duckdns.org",
                 "kqdmdfxncl.duckdns.org",
@@ -46946,6 +47270,7 @@
                 "ktbljbjvgh.duckdns.org",
                 "ktekwfamcc.duckdns.org",
                 "ktmmrbztqy.duckdns.org",
+                "ktxhhrhqvm.duckdns.org",
                 "kubgiwcnbm.duckdns.org",
                 "kuefwqzngt.duckdns.org",
                 "kufejdsoyk.duckdns.org",
@@ -47005,6 +47330,7 @@
                 "lejhphigmy.duckdns.org",
                 "lekhtbdayq.duckdns.org",
                 "lelnfxrtxc.duckdns.org",
+                "lemejepmzk.duckdns.org",
                 "leolrskuzk.duckdns.org",
                 "lerkabrqtk.duckdns.org",
                 "lfckgjbxpj.duckdns.org",
@@ -47123,6 +47449,7 @@
                 "mdgehytmau.duckdns.org",
                 "mdppwozjil.duckdns.org",
                 "meefuukczb.duckdns.org",
+                "meewepkqlh.duckdns.org",
                 "mengatxswu.duckdns.org",
                 "merhqvjajo.duckdns.org",
                 "meurygluoi.duckdns.org",
@@ -47347,6 +47674,7 @@
                 "nsheg324.duckdns.org",
                 "nsmbn.duckdns.org",
                 "nsphqchskf.duckdns.org",
+                "nsrqqneinb.duckdns.org",
                 "nsrvtecsys.duckdns.org",
                 "ntakkwyyxa.duckdns.org",
                 "ntemhswhrm.duckdns.org",
@@ -47389,6 +47717,7 @@
                 "oaulqnoaqv.duckdns.org",
                 "oavskrlsqr.duckdns.org",
                 "oayuopajdi.duckdns.org",
+                "oceuesodjk.duckdns.org",
                 "ocrqvfwzwt.duckdns.org",
                 "ocsilgzldm.duckdns.org",
                 "ocvngwoklj.duckdns.org",
@@ -47401,6 +47730,7 @@
                 "oeobcmzqxi.duckdns.org",
                 "oethvcmstl.duckdns.org",
                 "oevwzkdftv.duckdns.org",
+                "ofuvxyasho.duckdns.org",
                 "ofwxfbqdcc.duckdns.org",
                 "ogbonuqkkf.duckdns.org",
                 "oghpobvwag.duckdns.org",
@@ -47580,6 +47910,7 @@
                 "pnjboluejx.duckdns.org",
                 "pnmrpalkew.duckdns.org",
                 "pnqwhmlkxm.duckdns.org",
+                "pnrrmvibin.duckdns.org",
                 "pnrsqrdrmu.duckdns.org",
                 "pnweb35.duckdns.org",
                 "pnxnejwcaz.duckdns.org",
@@ -47835,6 +48166,7 @@
                 "rrhkpckjfb.duckdns.org",
                 "rrsewwusoj.duckdns.org",
                 "rrthgcchzn.duckdns.org",
+                "rruazdynbi.duckdns.org",
                 "rruvjcmobr.duckdns.org",
                 "rrwaibyijz.duckdns.org",
                 "rsapftmcrz.duckdns.org",
@@ -48337,6 +48669,7 @@
                 "utqqgftskk.duckdns.org",
                 "utrovlwkjl.duckdns.org",
                 "uubuwxblqx.duckdns.org",
+                "uugqyvrgvi.duckdns.org",
                 "uuouaqspur.duckdns.org",
                 "uupuqmntbc.duckdns.org",
                 "uurmzjyudp.duckdns.org",
@@ -48824,6 +49157,7 @@
                 "wymbbpxmxz.duckdns.org",
                 "wywjeycrgz.duckdns.org",
                 "wzbnfvuiwm.duckdns.org",
+                "wzbpltchwq.duckdns.org",
                 "wzepgpucwx.duckdns.org",
                 "wzijvpjrjk.duckdns.org",
                 "wziywrfkjj.duckdns.org",
@@ -49156,6 +49490,7 @@
                 "zdaurdvygn.duckdns.org",
                 "zdcykuprkn.duckdns.org",
                 "zdjidwldxq.duckdns.org",
+                "zdubbdggjx.duckdns.org",
                 "zduybuidvw.duckdns.org",
                 "zdwdbciynr.duckdns.org",
                 "zecfdxzpag.duckdns.org",
@@ -49476,7 +49811,10 @@
                 "singpost.top",
                 "net-bkuses.com",
                 "netupdata.com",
-                "narsone.com"
+                "narsone.com",
+                "caleii.kokoweill.vip",
+                "us028.kokoweill.vip",
+                "waishic.suulook.info"
             ]
         },
         {
@@ -49986,6 +50324,7 @@
                 "BazarBackdoor",
                 "BloodHound",
                 "Cobalt Strike",
+                "Conti",
                 "Dyre",
                 "Gophe",
                 "Invoke-SMBAutoBrute",
@@ -49998,7 +50337,7 @@
                 "TrickMo",
                 "Upatre"
             ],
-            "operations": "**2019-04**: Cybercriminals Spoof Major Accounting and Payroll Firms in Tax Season Malware Campaigns\nhttps://securityintelligence.com/cybercriminals-spoof-major-accounting-and-payroll-firms-in-tax-season-malware-campaigns/\r\n**2019-06**: During June and July, F5 researchers first noticed Trickbot campaigns aimed at a smaller set of geographically oriented targets and did not use redirection attacks\u2014a divergence from previous Trickbot characteristics.\nhttps://www.f5.com/labs/articles/threat-intelligence/tricky-trickbot-runs-campaigns-without-redirection\r\n**2019-08**: In a recent analysis in our cybercrime research labs, we noticed changes in the deployment of the TrickBot Trojan. At the time, the change we observed only applied to infection attempts on Windows 10 64-bit operating systems (OSs). In those cases, TrickBot ran the payload, but did not save its typical modules and configurations to disk.\nhttps://securityintelligence.com/posts/the-curious-case-of-a-fileless-trickbot-infection/\r\n**2019-10**: Computers at the DCH Regional Medical Center in Tuscaloosa, Fayette Medical Center and Northport Medical Center were infected with ransomware.\nhttps://www.bbc.com/news/technology-49905226\r\n**2019-10**: Shipping giant Pitney Bowes hit by ransomware\nhttps://techcrunch.com/2019/10/14/pitney-bowes-ransomware-attack/\r\n**2019-11**: Louisiana was hit by Ryuk, triggering another cyber-emergency\nhttps://arstechnica.com/information-technology/2019/11/louisiana-was-hit-by-ryuk-triggering-another-cyber-emergency/\r\n**2019-12**: TrickBot Widens Infection Campaigns in Japan Ahead of Holiday Season\nhttps://securityintelligence.com/posts/trickbot-widens-infection-campaigns-in-japan-ahead-of-holiday-season/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2019-12**: The cyberattack that took down public-access computers at Volusia County, Fla., libraries last month involved ransomware that has elicited millions of dollars in ransom payments from governments and large businesses.\nhttps://www.govtech.com/security/Ryuk-Ransomware-behind-Attack-on-Florida-Library-System.html\r\n**2019-12**: New Orleans latest apparent victim of Ryuk ransomware\nhttps://statescoop.com/new-orleans-latest-apparent-victim-of-ryuk-ransomware/\r\n**2019-12**: An infection with the Ryuk ransomware took down a maritime facility for more than 30 hours; the US Coast Guard said in a security bulletin it published before Christmas.\nhttps://www.zdnet.com/article/us-coast-guard-discloses-ryuk-ransomware-infection-at-maritime-facility/\r\n**2019-12**: Suspected Ryuk ransomware attack locks down Adelaide's City of Onkaparinga council\nhttps://www.abc.net.au/news/2020-01-06/city-of-onkaparinga-hit-by-ryuk-ransomware/11843598\r\n**2020-01**: On the heels of a Ryuk ransomware attack on the Tampa Bay Times, researchers reported a new variant of the Ryuk stealer being aimed at government, financial and law enforcement targets.\nhttps://www.scmagazine.com/home/security-news/tampa-bay-times-hit-by-ryuk-new-variant-of-stealer-aimed-at-govt-finance/\r\n**2020-01**: Electronic Warfare Associates (EWA), a 40-year-old electronics company and a well-known US government contractor, has suffered a ransomware infection, ZDNet has learned.\nhttps://www.zdnet.com/article/dod-contractor-suffers-ransomware-infection/\r\n**2020-01**: Top-Tier Russian Organized Cybercrime Group Unveils Fileless Stealthy \u201cPowerTrick\u201d Backdoor for High-Value Targets\nhttps://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/\r\n**2020-02**: Ryuk Ransomware Campaign Targets Port Lavaca City Hall\nhttps://www.cisomag.com/ryuk-ransomware-campaign-targets-port-lavaca-city-hall/\r\n**2020-02**: EMCOR Group, a US-based Fortune 500 company specialized in engineering and industrial construction services, disclosed last month a ransomware incident that took down some of its IT systems.\nhttps://www.zdnet.com/article/ryuk-ransomware-hits-fortune-500-company-emcor/\r\n**2020-02**: Epiq Global, an international e-discovery and managed services company, has taken its systems offline globally after detecting unauthorized activity.\nhttps://www.lawsitesblog.com/2020/03/epiq-global-down-as-company-investigates-unauthorized-activity-on-systems.html\r\n**2020-03**: Trickbot campaign targets Coronavirus fears in Italy\nhttps://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/\r\n**2020-03**: EVRAZ, one of the world's largest steel manufacturers and mining operations, has been hit by ransomware, a source inside the company told ZDNet today.\nhttps://www.zdnet.com/article/one-of-roman-abramovichs-companies-got-hit-by-ransomware/\r\n**2020-03**: The City of Durham, North Carolina has shut down its network after suffering a cyberattack by the Ryuk Ransomware this weekend.\nhttps://www.bleepingcomputer.com/news/security/ryuk-ransomware-behind-durham-north-carolina-cyberattack/\r\n**2020-03**: New Variant of TrickBot Being Spread by Word Document\nhttps://www.fortinet.com/blog/threat-research/new-variant-of-trickbot-being-spread-by-word-document.html\r\n**2020-03**: New TrickBot Module Bruteforces RDP Connections, Targets Select Telecommunication Services in US and Hong Kong\nhttps://labs.bitdefender.com/2020/03/new-trickbot-module-bruteforces-rdp-connections-targets-select-telecommunication-services-in-us-and-hong-kong/\r\n**2020-03**: TrickBot Pushing a 2FA Bypass App to Bank Customers in Germany\nhttps://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/\r\n**2020-04**: BazarBackdoor: TrickBot gang\u2019s new stealthy network-hacking malware\nhttps://www.bleepingcomputer.com/news/security/bazarbackdoor-trickbot-gang-s-new-stealthy-network-hacking-malware/\r\n**2020-04**: TrickBot Campaigns Targeting Users via Department of Labor FMLA Spam\nhttps://securityintelligence.com/posts/trickbot-campaigns-targeting-users-via-department-of-labor-fmla-spam/\r\n**2020-04**: As early as April 2020, TrickBot updated one of its propagation modules known as \u201cmworm\u201d to a new module called \u201cnworm.\u201d Infections caused through nworm leave no artifacts on an infected DC, and they disappear after a reboot or shutdown.\nhttps://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/\r\n**2020-07**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n",
+            "operations": "**2019-04**: Cybercriminals Spoof Major Accounting and Payroll Firms in Tax Season Malware Campaigns\nhttps://securityintelligence.com/cybercriminals-spoof-major-accounting-and-payroll-firms-in-tax-season-malware-campaigns/\r\n**2019-06**: During June and July, F5 researchers first noticed Trickbot campaigns aimed at a smaller set of geographically oriented targets and did not use redirection attacks\u2014a divergence from previous Trickbot characteristics.\nhttps://www.f5.com/labs/articles/threat-intelligence/tricky-trickbot-runs-campaigns-without-redirection\r\n**2019-08**: In a recent analysis in our cybercrime research labs, we noticed changes in the deployment of the TrickBot Trojan. At the time, the change we observed only applied to infection attempts on Windows 10 64-bit operating systems (OSs). In those cases, TrickBot ran the payload, but did not save its typical modules and configurations to disk.\nhttps://securityintelligence.com/posts/the-curious-case-of-a-fileless-trickbot-infection/\r\n**2019-10**: Computers at the DCH Regional Medical Center in Tuscaloosa, Fayette Medical Center and Northport Medical Center were infected with ransomware.\nhttps://www.bbc.com/news/technology-49905226\r\n**2019-10**: Shipping giant Pitney Bowes hit by ransomware\nhttps://techcrunch.com/2019/10/14/pitney-bowes-ransomware-attack/\r\n**2019-11**: Louisiana was hit by Ryuk, triggering another cyber-emergency\nhttps://arstechnica.com/information-technology/2019/11/louisiana-was-hit-by-ryuk-triggering-another-cyber-emergency/\r\n**2019-12**: TrickBot Widens Infection Campaigns in Japan Ahead of Holiday Season\nhttps://securityintelligence.com/posts/trickbot-widens-infection-campaigns-in-japan-ahead-of-holiday-season/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2019-12**: The cyberattack that took down public-access computers at Volusia County, Fla., libraries last month involved ransomware that has elicited millions of dollars in ransom payments from governments and large businesses.\nhttps://www.govtech.com/security/Ryuk-Ransomware-behind-Attack-on-Florida-Library-System.html\r\n**2019-12**: New Orleans latest apparent victim of Ryuk ransomware\nhttps://statescoop.com/new-orleans-latest-apparent-victim-of-ryuk-ransomware/\r\n**2019-12**: An infection with the Ryuk ransomware took down a maritime facility for more than 30 hours; the US Coast Guard said in a security bulletin it published before Christmas.\nhttps://www.zdnet.com/article/us-coast-guard-discloses-ryuk-ransomware-infection-at-maritime-facility/\r\n**2019-12**: Suspected Ryuk ransomware attack locks down Adelaide's City of Onkaparinga council\nhttps://www.abc.net.au/news/2020-01-06/city-of-onkaparinga-hit-by-ryuk-ransomware/11843598\r\n**2020-01**: On the heels of a Ryuk ransomware attack on the Tampa Bay Times, researchers reported a new variant of the Ryuk stealer being aimed at government, financial and law enforcement targets.\nhttps://www.scmagazine.com/home/security-news/tampa-bay-times-hit-by-ryuk-new-variant-of-stealer-aimed-at-govt-finance/\r\n**2020-01**: Electronic Warfare Associates (EWA), a 40-year-old electronics company and a well-known US government contractor, has suffered a ransomware infection, ZDNet has learned.\nhttps://www.zdnet.com/article/dod-contractor-suffers-ransomware-infection/\r\n**2020-01**: Top-Tier Russian Organized Cybercrime Group Unveils Fileless Stealthy \u201cPowerTrick\u201d Backdoor for High-Value Targets\nhttps://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/\r\n**2020-02**: Ryuk Ransomware Campaign Targets Port Lavaca City Hall\nhttps://www.cisomag.com/ryuk-ransomware-campaign-targets-port-lavaca-city-hall/\r\n**2020-02**: EMCOR Group, a US-based Fortune 500 company specialized in engineering and industrial construction services, disclosed last month a ransomware incident that took down some of its IT systems.\nhttps://www.zdnet.com/article/ryuk-ransomware-hits-fortune-500-company-emcor/\r\n**2020-02**: Epiq Global, an international e-discovery and managed services company, has taken its systems offline globally after detecting unauthorized activity.\nhttps://www.lawsitesblog.com/2020/03/epiq-global-down-as-company-investigates-unauthorized-activity-on-systems.html\r\n**2020-03**: Trickbot campaign targets Coronavirus fears in Italy\nhttps://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/\r\n**2020-03**: EVRAZ, one of the world's largest steel manufacturers and mining operations, has been hit by ransomware, a source inside the company told ZDNet today.\nhttps://www.zdnet.com/article/one-of-roman-abramovichs-companies-got-hit-by-ransomware/\r\n**2020-03**: The City of Durham, North Carolina has shut down its network after suffering a cyberattack by the Ryuk Ransomware this weekend.\nhttps://www.bleepingcomputer.com/news/security/ryuk-ransomware-behind-durham-north-carolina-cyberattack/\r\n**2020-03**: New Variant of TrickBot Being Spread by Word Document\nhttps://www.fortinet.com/blog/threat-research/new-variant-of-trickbot-being-spread-by-word-document.html\r\n**2020-03**: New TrickBot Module Bruteforces RDP Connections, Targets Select Telecommunication Services in US and Hong Kong\nhttps://labs.bitdefender.com/2020/03/new-trickbot-module-bruteforces-rdp-connections-targets-select-telecommunication-services-in-us-and-hong-kong/\r\n**2020-03**: TrickBot Pushing a 2FA Bypass App to Bank Customers in Germany\nhttps://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/\r\n**2020-04**: BazarBackdoor: TrickBot gang\u2019s new stealthy network-hacking malware\nhttps://www.bleepingcomputer.com/news/security/bazarbackdoor-trickbot-gang-s-new-stealthy-network-hacking-malware/\r\n**2020-04**: TrickBot Campaigns Targeting Users via Department of Labor FMLA Spam\nhttps://securityintelligence.com/posts/trickbot-campaigns-targeting-users-via-department-of-labor-fmla-spam/\r\n**2020-04**: As early as April 2020, TrickBot updated one of its propagation modules known as \u201cmworm\u201d to a new module called \u201cnworm.\u201d Infections caused through nworm leave no artifacts on an infected DC, and they disappear after a reboot or shutdown.\nhttps://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/\r\n**2020-07**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n**2020-08**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n**2020-08**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n",
             "information": [
                 "<https://www.crowdstrike.com/blog/sin-ful-spiders-wizard-spider-and-lunar-spider-sharing-the-same-web/>",
                 "<https://www.crowdstrike.com/blog/wizard-spider-lunar-spider-shared-proxy-module/>",
@@ -50036,7 +50375,9 @@
                 "2020-04",
                 "2020-04",
                 "2020-04",
-                "2020-07"
+                "2020-07",
+                "2020-08",
+                "2020-08"
             ],
             "targeted countries": [
                 "Worldwide"
@@ -50049,7 +50390,7 @@
             ],
             "first seen": "2014",
             "counter operations": "**2015-11**: Russia\u2019s FSB quietly led an operation to take down the world\u2019s most active cybercriminal groups, the operators of the banking malware Dyre\nhttps://www.forbes.com/sites/thomasbrewster/2016/02/08/russia-arrests-dyre-malware-masterminds/\r\n",
-            "last card change": "2020-07-03"
+            "last card change": "2020-08-26"
         },
         {
             "type": "apt_group",
@@ -50179,7 +50520,7 @@
                 "**OilRig**: [W]e identified three new malware families and a reappearance of PICKPOCKET, malware exclusively observed in use by APT34. The new malware families, which we will examine later in this post, show APT34 relying on their PowerShell development capabilities, as well as trying their hand at Golang.\nhttps://www.fireeye.com/blog/threat-research/2019/07/hard-pass-declining-apt34-invite-to-join-their-professional-network.html\r\n",
                 "**TA505**: In June 2019, TA505 appears to have introduced yet another new downloader malware, AndroMut, which has some similarities in code and behavior to Andromeda, a long-established malware family.\nhttps://www.proofpoint.com/us/threat-insight/post/ta505-begins-summer-campaigns-new-pet-malware-downloader-andromut-uae-south\r\n",
                 "**TA505**: Latest Spam Campaigns from TA505 Now Using New Malware Tools Gelup and FlowerPippi\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/latest-spam-campaigns-from-ta505-now-using-new-malware-tools-gelup-and-flowerpippi/\r\n",
-                "**Transparent Tribe**: Over the past year, we have seen this group undergo an evolution, stepping up its activities, starting massive infection campaigns, developing new tools and strengthening their focus on Afghanistan.\nhttps://securelist.com/transparent-tribe-part-1/98127/\r\n",
+                "**Transparent Tribe**: Over the past year, we have seen this group undergo an evolution, stepping up its activities, starting massive infection campaigns, developing new tools and strengthening their focus on Afghanistan.\nhttps://securelist.com/transparent-tribe-part-1/98127/\nhttps://securelist.com/transparent-tribe-part-2/98233/\r\n",
                 "**Monty Spider**: Necurs Spam uses DNS TXT Records for Redirection\nhttps://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/necurs-spam-uses-dns-txt-records-for-redirection/\r\n",
                 "**Pinchy Spider**: Yesterday night, a source in the malware community has told ZDNet that the GandCrab RaaS operator formally announced plans to shut down their service within a month.\nThe announcement was made in an official thread on a well-known hacking forum, where the GandCrab RaaS has advertised its service since January 2018, when it formally launched.\nhttps://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/\r\n",
                 "**Roaming Mantis**: Roaming Mantis: a new phishing method targets a Japanese MNO\nhttps://hackmd.io/@ninoseki/Bkw66OhAN\r\n",
@@ -51902,6 +52243,7 @@
             "type": "operation_dates",
             "activities": [
                 "**Cobalt Group**: Spear-phishing attacks to Russian banks\nThe emails were sent in the name of a large European bank in an attempt to social engineer the receiver into trusting the email. The emails were quite plain with only a single question in the body and an attachment with the name once.rtf. In other cases, we saw a file with the name \u0417\u0430\u044f\u0432\u043b\u0435\u043d\u0438\u0435.rtf attached to an email that was also written in Russian.\nhttps://www.riskiq.com/blog/labs/cobalt-group-spear-phishing-russian-banks/\r\n",
+                "**Lazarus Group**: F-Secure\u2019s investigation revealed that a system administrator from the target organization received a phishing document via their personal LinkedIn account. The document masqueraded as a legitimate job advert for a role in a blockchain technology company that matched the employee\u2019s skills.\nhttps://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf\r\n",
                 "**Bluenoroff**: Attempted heist at Bancomext in Mexico\nhttps://www.bloomberg.com/news/articles/2018-05-29/mexico-foiled-a-110-million-bank-heist-then-kept-it-a-secret\r\n",
                 "**Lotus Blossom**: Attacks on Association of South East Asian Nations (ASEAN) countries\nDuring the last weeks of January (2018), nation state actors from Lotus Blossom conducted a targeted malware spam campaign against the Association of South East Asian Nations (ASEAN) countries.\nhttps://community.rsa.com/community/products/netwitness/blog/2018/02/13/lotus-blossom-continues-asean-targeting\nhttps://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf\r\n",
                 "**Lotus Blossom**: Back in January 2018, TAA triggered an alert at a large telecoms operator in Southeast Asia.\nhttps://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets\r\n",
@@ -52218,8 +52560,11 @@
             "activities": [
                 "**Lazarus Group**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
                 "**TA2101**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n",
+                "**TA2101**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n",
                 "**Mummy Spider**: Emotet malware strikes U.S. businesses with COVID-19 spam\nhttps://www.bleepingcomputer.com/news/security/emotet-malware-strikes-us-businesses-with-covid-19-spam/\r\n",
-                "**Pinchy Spider**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n"
+                "**Pinchy Spider**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n",
+                "**Wizard Spider**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n",
+                "**Wizard Spider**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n"
             ]
         },
         {
@@ -52230,7 +52575,7 @@
             ],
             "type": "operation_dates",
             "activities": [
-                "**Bluenoroff**: Operation \u201cFASTCash\u201d\nOn October 2, 2018, an alert was issued by US-CERT, the Department of Homeland Security, the Department of the Treasury, and the FBI. According to this new alert, Hidden Cobra (the U.S. government\u2019s code name for Lazarus) has been conducting \u201cFASTCash\u201d attacks, stealing money from Automated Teller Machines (ATMs) from banks in Asia and Africa since at least 2016.\nhttps://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware\r\n"
+                "**BeagleBoyz**: Operation \u201cFASTCash\u201d\nOn October 2, 2018, an alert was issued by US-CERT, the Department of Homeland Security, the Department of the Treasury, and the FBI. According to this new alert, Hidden Cobra (the U.S. government\u2019s code name for Lazarus) has been conducting \u201cFASTCash\u201d attacks, stealing money from Automated Teller Machines (ATMs) from banks in Asia and Africa since at least 2016.\nhttps://www.symantec.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware\r\n"
             ]
         },
         {
@@ -52241,7 +52586,7 @@
             ],
             "type": "operation_dates",
             "activities": [
-                "**Bluenoroff**: Bangladeshi Bank Attack\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/what-we-can-learn-from-the-bangladesh-central-bank-cyber-heist/\r\n",
+                "**BeagleBoyz**: Bangladeshi Bank Attack\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/what-we-can-learn-from-the-bangladesh-central-bank-cyber-heist/\r\n",
                 "**Rocket Kitten**: In late February 2016, a University website in Iran stood out for thoroughly vetting its current and potential students and staff. The University\u2019s web site served repackaged content from the Browser Exploitation Framework (BeEF) with embedded JavaScript content.\nhttps://securelist.com/freezer-paper-around-free-meat/74503/\r\n",
                 "**Winnti Group**: Breach of German Steelmaker ThyssenKrupp\nhttps://www.dw.com/en/thyssenkrupp-victim-of-cyber-attack/a-36695341\r\n",
                 "**Dungeon Spider**: A cyberattack launched against the Hollywood Presbyterian Medical Center has forced staff to declare an \u201cinternal emergency\u201d and left employees unable to access patient files.\nhttps://www.zdnet.com/article/hollywood-hospital-becomes-ransomware-victim/\r\n",
@@ -53587,6 +53932,13 @@
             "direction": "directed"
         },
         {
+            "id": "Deceptikons-to-China",
+            "from": "Deceptikons",
+            "to": "China",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-China",
             "from": "Fxmsp",
             "to": "China",
@@ -54357,6 +54709,20 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Russia",
+            "from": "Dark Basin",
+            "to": "Russia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Russia",
+            "from": "Deceptikons",
+            "to": "Russia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-Russia",
             "from": "Fxmsp",
             "to": "Russia",
@@ -54759,6 +55125,12 @@
             "id": "Unknown-to-Boson-Spider",
             "from": "Unknown",
             "to": "Boson Spider",
+            "type": "attribution"
+        },
+        {
+            "id": "Unknown-to-Deceptikons",
+            "from": "Unknown",
+            "to": "Deceptikons",
             "type": "attribution"
         },
         {
@@ -55427,6 +55799,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Austria",
+            "from": "Dark Basin",
+            "to": "Austria",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Retefe-Gang-to-Austria",
             "from": "Retefe Gang",
             "to": "Austria",
@@ -55566,6 +55945,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Brazil",
+            "from": "BeagleBoyz",
+            "to": "Brazil",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Comando-to-Brazil",
             "from": "Operation Comando",
             "to": "Brazil",
@@ -55659,6 +56045,13 @@
         {
             "id": "Bamboo-Spider-to-Brazil",
             "from": "Bamboo Spider",
+            "to": "Brazil",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Brazil",
+            "from": "Dark Basin",
             "to": "Brazil",
             "type": "target",
             "direction": "directed"
@@ -56023,6 +56416,13 @@
         {
             "id": "Boson-Spider-to-Canada",
             "from": "Boson Spider",
+            "to": "Canada",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Canada",
+            "from": "Dark Basin",
             "to": "Canada",
             "type": "target",
             "direction": "directed"
@@ -56510,6 +56910,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-France",
+            "from": "Dark Basin",
+            "to": "France",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Roaming-Mantis-to-France",
             "from": "Roaming Mantis",
             "to": "France",
@@ -56958,6 +57365,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Germany",
+            "from": "Dark Basin",
+            "to": "Germany",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-Germany",
             "from": "Fxmsp",
             "to": "Germany",
@@ -57007,6 +57421,12 @@
             "id": "India-to-SideWinder",
             "from": "India",
             "to": "SideWinder",
+            "type": "attribution"
+        },
+        {
+            "id": "India-to-Dark-Basin",
+            "from": "India",
+            "to": "Dark Basin",
             "type": "attribution"
         },
         {
@@ -57166,6 +57586,13 @@
         {
             "id": "Lazarus-Group-to-India",
             "from": "Lazarus Group",
+            "to": "India",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-India",
+            "from": "BeagleBoyz",
             "to": "India",
             "type": "target",
             "direction": "directed"
@@ -57432,6 +57859,20 @@
         {
             "id": "Unnamed-group-Iran-to-India",
             "from": "[Unnamed group Iran]",
+            "to": "India",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-India",
+            "from": "Dark Basin",
+            "to": "India",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-India",
+            "from": "Deceptikons",
             "to": "India",
             "type": "target",
             "direction": "directed"
@@ -57751,6 +58192,20 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Israel",
+            "from": "Dark Basin",
+            "to": "Israel",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Israel",
+            "from": "Deceptikons",
+            "to": "Israel",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Italy-to-Hacking-Team",
             "from": "Italy",
             "to": "Hacking Team",
@@ -57953,6 +58408,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Italy",
+            "from": "Dark Basin",
+            "to": "Italy",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-Italy",
             "from": "Fxmsp",
             "to": "Italy",
@@ -58144,6 +58606,13 @@
         {
             "id": "Lazarus-Group-to-Japan",
             "from": "Lazarus Group",
+            "to": "Japan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Japan",
+            "from": "BeagleBoyz",
             "to": "Japan",
             "type": "target",
             "direction": "directed"
@@ -58438,6 +58907,13 @@
         {
             "id": "TeamSpy-Crew-to-Norway",
             "from": "TeamSpy Crew",
+            "to": "Norway",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Norway",
+            "from": "Dark Basin",
             "to": "Norway",
             "type": "target",
             "direction": "directed"
@@ -58980,6 +59456,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Spain",
+            "from": "BeagleBoyz",
+            "to": "Spain",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Magic-Hound-to-Spain",
             "from": "Magic Hound",
             "to": "Spain",
@@ -59220,6 +59703,13 @@
         {
             "id": "Wicked-Spider-to-Sweden",
             "from": "Wicked Spider",
+            "to": "Sweden",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Sweden",
+            "from": "Dark Basin",
             "to": "Sweden",
             "type": "target",
             "direction": "directed"
@@ -59812,6 +60302,20 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-UK",
+            "from": "Dark Basin",
+            "to": "UK",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-UK",
+            "from": "Deceptikons",
+            "to": "UK",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-UK",
             "from": "Fxmsp",
             "to": "UK",
@@ -60100,6 +60604,13 @@
         {
             "id": "Unnamed-group-Iran-to-UAE",
             "from": "[Unnamed group Iran]",
+            "to": "UAE",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-UAE",
+            "from": "Deceptikons",
             "to": "UAE",
             "type": "target",
             "direction": "directed"
@@ -61000,6 +61511,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-USA",
+            "from": "Dark Basin",
+            "to": "USA",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Doppel-Spider-to-USA",
             "from": "Doppel Spider",
             "to": "USA",
@@ -61546,6 +62064,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Belgium",
+            "from": "Dark Basin",
+            "to": "Belgium",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "APT-3-to-Hong-Kong",
             "from": "APT 3",
             "to": "Hong Kong",
@@ -61917,6 +62442,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Philippines",
+            "from": "BeagleBoyz",
+            "to": "Philippines",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Leviathan-to-Philippines",
             "from": "Leviathan",
             "to": "Philippines",
@@ -62094,6 +62626,13 @@
         {
             "id": "Lazarus-Group-to-Vietnam",
             "from": "Lazarus Group",
+            "to": "Vietnam",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Vietnam",
+            "from": "BeagleBoyz",
             "to": "Vietnam",
             "type": "target",
             "direction": "directed"
@@ -62407,6 +62946,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Taiwan",
+            "from": "BeagleBoyz",
+            "to": "Taiwan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Lotus-Blossom-to-Taiwan",
             "from": "Lotus Blossom",
             "to": "Taiwan",
@@ -62535,6 +63081,13 @@
         {
             "id": "Winnti-Group-to-Taiwan",
             "from": "Winnti Group",
+            "to": "Taiwan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Taiwan",
+            "from": "Deceptikons",
             "to": "Taiwan",
             "type": "target",
             "direction": "directed"
@@ -62934,6 +63487,13 @@
         {
             "id": "Ke3chang-to-Indonesia",
             "from": "Ke3chang",
+            "to": "Indonesia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Indonesia",
+            "from": "BeagleBoyz",
             "to": "Indonesia",
             "type": "target",
             "direction": "directed"
@@ -63443,6 +64003,20 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Switzerland",
+            "from": "Dark Basin",
+            "to": "Switzerland",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Switzerland",
+            "from": "Deceptikons",
+            "to": "Switzerland",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Retefe-Gang-to-Switzerland",
             "from": "Retefe Gang",
             "to": "Switzerland",
@@ -63533,6 +64107,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Mexico",
+            "from": "BeagleBoyz",
+            "to": "Mexico",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "leetMX-to-Mexico",
             "from": "leetMX",
             "to": "Mexico",
@@ -63577,6 +64158,13 @@
         {
             "id": "Vendetta-to-Mexico",
             "from": "Vendetta",
+            "to": "Mexico",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Mexico",
+            "from": "Dark Basin",
             "to": "Mexico",
             "type": "target",
             "direction": "directed"
@@ -63910,6 +64498,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Bulgaria",
+            "from": "BeagleBoyz",
+            "to": "Bulgaria",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Safe-to-Bulgaria",
             "from": "Safe",
             "to": "Bulgaria",
@@ -64008,6 +64603,20 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Cyprus",
+            "from": "Dark Basin",
+            "to": "Cyprus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Cyprus",
+            "from": "Deceptikons",
+            "to": "Cyprus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-Cyprus",
             "from": "Fxmsp",
             "to": "Cyprus",
@@ -64059,6 +64668,13 @@
         {
             "id": "Transparent-Tribe-to-Czech",
             "from": "Transparent Tribe",
+            "to": "Czech",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Czech",
+            "from": "Dark Basin",
             "to": "Czech",
             "type": "target",
             "direction": "directed"
@@ -64627,6 +65243,13 @@
             "direction": "directed"
         },
         {
+            "id": "Deceptikons-to-Lebanon",
+            "from": "Deceptikons",
+            "to": "Lebanon",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "APT-29-to-Lithuania",
             "from": "APT 29",
             "to": "Lithuania",
@@ -65066,6 +65689,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-South-Korea",
+            "from": "BeagleBoyz",
+            "to": "South Korea",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Molerats-to-South-Korea",
             "from": "Molerats",
             "to": "South Korea",
@@ -65255,6 +65885,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-South-Korea",
+            "from": "Dark Basin",
+            "to": "South Korea",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Fxmsp-to-South-Korea",
             "from": "Fxmsp",
             "to": "South Korea",
@@ -65433,6 +66070,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Turkey",
+            "from": "BeagleBoyz",
+            "to": "Turkey",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Mabna-Institute-to-Turkey",
             "from": "Mabna Institute",
             "to": "Turkey",
@@ -65594,6 +66238,13 @@
             "direction": "directed"
         },
         {
+            "id": "Deceptikons-to-Turkey",
+            "from": "Deceptikons",
+            "to": "Turkey",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Retefe-Gang-to-Turkey",
             "from": "Retefe Gang",
             "to": "Turkey",
@@ -65617,6 +66268,13 @@
         {
             "id": "Inception-Framework-to-Uganda",
             "from": "Inception Framework",
+            "to": "Uganda",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Uganda",
+            "from": "BeagleBoyz",
             "to": "Uganda",
             "type": "target",
             "direction": "directed"
@@ -65901,6 +66559,13 @@
         {
             "id": "Vicious-Panda-to-Ukraine",
             "from": "Vicious Panda",
+            "to": "Ukraine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Ukraine",
+            "from": "Dark Basin",
             "to": "Ukraine",
             "type": "target",
             "direction": "directed"
@@ -66318,6 +66983,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Malaysia",
+            "from": "BeagleBoyz",
+            "to": "Malaysia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Leviathan-to-Malaysia",
             "from": "Leviathan",
             "to": "Malaysia",
@@ -66563,6 +67235,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Nepal",
+            "from": "BeagleBoyz",
+            "to": "Nepal",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Mustang-Panda-to-Nepal",
             "from": "Mustang Panda",
             "to": "Nepal",
@@ -66710,6 +67389,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Singapore",
+            "from": "BeagleBoyz",
+            "to": "Singapore",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Lotus-Blossom-to-Singapore",
             "from": "Lotus Blossom",
             "to": "Singapore",
@@ -66845,6 +67531,13 @@
         {
             "id": "Lazarus-Group-to-Bangladesh",
             "from": "Lazarus Group",
+            "to": "Bangladesh",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Bangladesh",
+            "from": "BeagleBoyz",
             "to": "Bangladesh",
             "type": "target",
             "direction": "directed"
@@ -67347,6 +68040,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-South-Africa",
+            "from": "BeagleBoyz",
+            "to": "South Africa",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Promethium-to-South-Africa",
             "from": "Promethium",
             "to": "South Africa",
@@ -67822,6 +68522,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Pakistan",
+            "from": "BeagleBoyz",
+            "to": "Pakistan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Madi-to-Pakistan",
             "from": "Madi",
             "to": "Pakistan",
@@ -68172,6 +68879,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Jordan",
+            "from": "BeagleBoyz",
+            "to": "Jordan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Magic-Hound-to-Jordan",
             "from": "Magic Hound",
             "to": "Jordan",
@@ -68256,6 +68970,13 @@
             "direction": "directed"
         },
         {
+            "id": "Deceptikons-to-Jordan",
+            "from": "Deceptikons",
+            "to": "Jordan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Libya-to-Libyan-Scorpions",
             "from": "Libya",
             "to": "Libyan Scorpions",
@@ -68334,6 +69055,20 @@
         {
             "id": "Equation-Group-to-Nigeria",
             "from": "Equation Group",
+            "to": "Nigeria",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Nigeria",
+            "from": "BeagleBoyz",
+            "to": "Nigeria",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Nigeria",
+            "from": "Dark Basin",
             "to": "Nigeria",
             "type": "target",
             "direction": "directed"
@@ -68652,6 +69387,13 @@
             "direction": "directed"
         },
         {
+            "id": "Dark-Basin-to-Iceland",
+            "from": "Dark Basin",
+            "to": "Iceland",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Carbanak-to-Morocco",
             "from": "Carbanak",
             "to": "Morocco",
@@ -68836,6 +69578,13 @@
         {
             "id": "Ke3chang-to-Kuwait",
             "from": "Ke3chang",
+            "to": "Kuwait",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Kuwait",
+            "from": "BeagleBoyz",
             "to": "Kuwait",
             "type": "target",
             "direction": "directed"
@@ -69117,6 +69866,12 @@
             "type": "attribution"
         },
         {
+            "id": "North-Korea-to-BeagleBoyz",
+            "from": "North Korea",
+            "to": "BeagleBoyz",
+            "type": "attribution"
+        },
+        {
             "id": "North-Korea-to-Bluenoroff",
             "from": "North Korea",
             "to": "Bluenoroff",
@@ -69190,6 +69945,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Argentina",
+            "from": "BeagleBoyz",
+            "to": "Argentina",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "leetMX-to-Argentina",
             "from": "leetMX",
             "to": "Argentina",
@@ -69220,6 +69982,13 @@
         {
             "id": "Sowbug-to-Argentina",
             "from": "Sowbug",
+            "to": "Argentina",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Deceptikons-to-Argentina",
+            "from": "Deceptikons",
             "to": "Argentina",
             "type": "target",
             "direction": "directed"
@@ -69381,6 +70150,13 @@
         {
             "id": "El-Machete-to-Peru",
             "from": "El Machete",
+            "to": "Peru",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Peru",
+            "from": "BeagleBoyz",
             "to": "Peru",
             "type": "target",
             "direction": "directed"
@@ -69690,6 +70466,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Mozambique",
+            "from": "BeagleBoyz",
+            "to": "Mozambique",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Madi-to-Mozambique",
             "from": "Madi",
             "to": "Mozambique",
@@ -69755,6 +70538,13 @@
         {
             "id": "Inception-Framework-to-Tanzania",
             "from": "Inception Framework",
+            "to": "Tanzania",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Tanzania",
+            "from": "BeagleBoyz",
             "to": "Tanzania",
             "type": "target",
             "direction": "directed"
@@ -69886,6 +70676,13 @@
         {
             "id": "Desert-Falcons-to-Bosnia-and-Herzegovina",
             "from": "Desert Falcons",
+            "to": "Bosnia and Herzegovina",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Bosnia-and-Herzegovina",
+            "from": "BeagleBoyz",
             "to": "Bosnia and Herzegovina",
             "type": "target",
             "direction": "directed"
@@ -70192,6 +70989,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Ecuador",
+            "from": "BeagleBoyz",
+            "to": "Ecuador",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Madi-to-Ecuador",
             "from": "Madi",
             "to": "Ecuador",
@@ -70262,6 +71066,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Nicaragua",
+            "from": "BeagleBoyz",
+            "to": "Nicaragua",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "EmpireMonkey-to-Malta",
             "from": "EmpireMonkey",
             "to": "Malta",
@@ -70278,6 +71089,13 @@
         {
             "id": "GhostNet-to-Malta",
             "from": "GhostNet",
+            "to": "Malta",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Malta",
+            "from": "BeagleBoyz",
             "to": "Malta",
             "type": "target",
             "direction": "directed"
@@ -70402,6 +71220,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Kenya",
+            "from": "BeagleBoyz",
+            "to": "Kenya",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Silence-to-Kenya",
             "from": "Silence",
             "to": "Kenya",
@@ -70432,6 +71257,13 @@
         {
             "id": "Unnamed-group-Iran-to-Kenya",
             "from": "[Unnamed group Iran]",
+            "to": "Kenya",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Dark-Basin-to-Kenya",
+            "from": "Dark Basin",
             "to": "Kenya",
             "type": "target",
             "direction": "directed"
@@ -70563,6 +71395,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Chile",
+            "from": "BeagleBoyz",
+            "to": "Chile",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Molerats-to-Chile",
             "from": "Molerats",
             "to": "Chile",
@@ -70675,6 +71514,13 @@
             "direction": "directed"
         },
         {
+            "id": "BeagleBoyz-to-Costa-Rica",
+            "from": "BeagleBoyz",
+            "to": "Costa Rica",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "leetMX-to-Costa-Rica",
             "from": "leetMX",
             "to": "Costa Rica",
@@ -70706,6 +71552,76 @@
             "id": "TeamSpy-Crew-to-Costa-Rica",
             "from": "TeamSpy Crew",
             "to": "Costa Rica",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Ghana",
+            "from": "BeagleBoyz",
+            "to": "Ghana",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Silence-to-Ghana",
+            "from": "Silence",
+            "to": "Ghana",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Fxmsp-to-Ghana",
+            "from": "Fxmsp",
+            "to": "Ghana",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Panama",
+            "from": "BeagleBoyz",
+            "to": "Panama",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-HangOver-to-Panama",
+            "from": "Operation HangOver",
+            "to": "Panama",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Silence-to-Panama",
+            "from": "Silence",
+            "to": "Panama",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Togo",
+            "from": "BeagleBoyz",
+            "to": "Togo",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Uruguay",
+            "from": "BeagleBoyz",
+            "to": "Uruguay",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Turla-to-Uruguay",
+            "from": "Turla",
+            "to": "Uruguay",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "BeagleBoyz-to-Zambia",
+            "from": "BeagleBoyz",
+            "to": "Zambia",
             "type": "target",
             "direction": "directed"
         },
@@ -70797,20 +71713,6 @@
             "id": "Silence-to-Gibraltar",
             "from": "Silence",
             "to": "Gibraltar",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Operation-HangOver-to-Panama",
-            "from": "Operation HangOver",
-            "to": "Panama",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Silence-to-Panama",
-            "from": "Silence",
-            "to": "Panama",
             "type": "target",
             "direction": "directed"
         },
@@ -70923,20 +71825,6 @@
             "id": "Silence-to-Belize",
             "from": "Silence",
             "to": "Belize",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Silence-to-Ghana",
-            "from": "Silence",
-            "to": "Ghana",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Fxmsp-to-Ghana",
-            "from": "Fxmsp",
-            "to": "Ghana",
             "type": "target",
             "direction": "directed"
         },
@@ -71077,13 +71965,6 @@
             "id": "Turla-to-Botswana",
             "from": "Turla",
             "to": "Botswana",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "Turla-to-Uruguay",
-            "from": "Turla",
-            "to": "Uruguay",
             "type": "target",
             "direction": "directed"
         },
