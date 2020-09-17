@@ -144,6 +144,7 @@
                 "Naikon",
                 "NetTraveler",
                 "Nitro",
+                "Operation Epic Manchego",
                 "Operation Ghoul",
                 "Operation HangOver",
                 "Orangeworm",
@@ -345,6 +346,7 @@
                 "LookBack",
                 "Operation Black Atlas",
                 "Operation Comando",
+                "Operation Epic Manchego",
                 "Operation Ghoul",
                 "Operation Parliament",
                 "Operation Potao Express",
@@ -573,6 +575,7 @@
                 "Nitro",
                 "OilRig",
                 "Operation Black Atlas",
+                "Operation Epic Manchego",
                 "Operation Ghoul",
                 "Operation HangOver",
                 "Operation Parliament",
@@ -657,6 +660,7 @@
                 "APT 3",
                 "APT 30",
                 "APT 32",
+                "APT 41",
                 "Cobalt Group",
                 "Dark Caracal",
                 "DarkHotel",
@@ -670,6 +674,7 @@
                 "Madi",
                 "Mustang Panda",
                 "Naikon",
+                "Operation Epic Manchego",
                 "Operation Shady RAT",
                 "PKPLUG",
                 "Platinum",
@@ -1043,6 +1048,7 @@
                 "Nitro",
                 "OilRig",
                 "Operation Black Atlas",
+                "Operation Epic Manchego",
                 "Operation Ghoul",
                 "Operation HangOver",
                 "Operation Parliament",
@@ -1143,6 +1149,7 @@
                 "Mabna Institute",
                 "NetTraveler",
                 "Nitro",
+                "Operation Epic Manchego",
                 "Operation Shady RAT",
                 "Patchwork",
                 "RATicate",
@@ -1197,6 +1204,7 @@
                 "MuddyWater",
                 "NetTraveler",
                 "Operation BugDrop",
+                "Operation Epic Manchego",
                 "Operation Groundbait",
                 "Operation Potao Express",
                 "PowerPool",
@@ -1485,6 +1493,7 @@
                 "NetTraveler",
                 "Nitro",
                 "OnionDog",
+                "Operation Epic Manchego",
                 "Operation Parliament",
                 "Operation Red Signature",
                 "Operation Shady RAT",
@@ -1615,6 +1624,7 @@
             "Targeted by": [
                 "GhostNet",
                 "Inception Framework",
+                "Operation Epic Manchego",
                 "Operation Ghoul",
                 "Operation HangOver",
                 "RATicate",
@@ -4774,18 +4784,22 @@
             ],
             "targeted countries": [
                 "Australia",
+                "Brazil",
                 "Canada",
+                "Chile",
                 "Denmark",
                 "Finland",
                 "France",
                 "Hong Kong",
                 "India",
+                "Indonesia",
                 "Italy",
                 "Japan",
                 "Malaysia",
                 "Mexico",
                 "Myanmar",
                 "Netherlands",
+                "Pakistan",
                 "Philippines",
                 "Poland",
                 "Qatar",
@@ -4795,11 +4809,13 @@
                 "South Africa",
                 "Sweden",
                 "Switzerland",
+                "Taiwan",
                 "Thailand",
                 "Turkey",
                 "UAE",
                 "UK",
-                "USA"
+                "USA",
+                "Vietnam"
             ],
             "targeted sectors": [
                 "Construction",
@@ -4822,10 +4838,11 @@
                 "Online video game companies"
             ],
             "first seen": "2012",
+            "counter operations": "**2020-08**: Seven International Cyber Defendants, Including \u201cApt41\u201d Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally\nhttps://www.justice.gov/opa/pr/seven-international-cyber-defendants-including-apt41-actors-charged-connection-computer\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0096/>"
             ],
-            "last card change": "2020-05-26"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -9599,16 +9616,16 @@
             ],
             "last card change": "2020-09-03",
             "ioc_ip": [
-                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782"
+                "91.235.116.147:9782",
+                "45.76.6.149:443"
+            ],
+            "ioc_url": [
+                "http://134.119.220.118",
+                "http://185.198.56.191"
             ],
             "ioc_domain": [
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -9918,11 +9935,11 @@
                 "bigfile-download.net",
                 "fenrmi.eu.pn",
                 "fenrix.yaahosting.info",
-                "fenraw.northgeremy.info"
-            ],
-            "ioc_url": [
-                "http://134.119.220.118",
-                "http://185.198.56.191"
+                "fenraw.northgeremy.info",
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com"
             ]
         },
         {
@@ -11259,11 +11276,12 @@
                 "MailPassView",
                 "More_eggs",
                 "ProduKey",
+                "PyVil RAT",
                 "TerraPreter",
                 "TerraStealer",
                 "TerraTV"
             ],
-            "operations": "**2020-05**: Operation \u201cPhantom in the [Command] Shell\u201d\nPrevailion\u2019s Tailored Intelligence Team has detected two new criminal campaigns targeting the global financial industry with the EVILNUM malware, one of which became active on May 3rd 2020.\nhttps://blog.prevailion.com/2020/05/phantom-in-command-shell5.html\r\n",
+            "operations": "**2020-05**: Operation \u201cPhantom in the [Command] Shell\u201d\nPrevailion\u2019s Tailored Intelligence Team has detected two new criminal campaigns targeting the global financial industry with the EVILNUM malware, one of which became active on May 3rd 2020.\nhttps://blog.prevailion.com/2020/05/phantom-in-command-shell5.html\r\n**2020-08**: In recent weeks, the Nocturnus team has observed new activity by the group, including several notable changes from tactics observed previously.\nhttps://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat\r\n",
             "information": [
                 "<https://unit42.paloaltonetworks.com/cardinal-rat-sins-again-targets-israeli-fin-tech-firms/>",
                 "<https://www.welivesecurity.com/2020/07/09/more-evil-deep-look-evilnum-toolset/>",
@@ -11272,7 +11290,8 @@
             "uuid": "e5ad7790-80c8-4319-a52e-469e20c95573",
             "label": "Evilnum",
             "operation dates": [
-                "2020-05"
+                "2020-05",
+                "2020-08"
             ],
             "targeted countries": [
                 "Albania",
@@ -11288,7 +11307,7 @@
                 "Financial"
             ],
             "first seen": "2018",
-            "last card change": "2020-07-10",
+            "last card change": "2020-09-17",
             "ioc_domain": [
                 "wikipeldia.org",
                 "corpxtech.com",
@@ -14496,7 +14515,8 @@
                 "<https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20(3).pdf>",
                 "<https://exchange.xforce.ibmcloud.com/threat-group/0c0c39d309b5c7f00a0a7edd54bb025e>",
                 "<https://www.sentinelone.com/blog/four-distinct-families-of-lazarus-malware-target-apples-macos-platform/>",
-                "<http://www.documentcloud.org/documents/7038686-US-Army-report-on-North-Korean-military.html>"
+                "<http://www.documentcloud.org/documents/7038686-US-Army-report-on-North-Korean-military.html>",
+                "<https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/>"
             ],
             "uuid": "41dcfaff-d5f0-484d-8649-ef8c61588eec",
             "label": "Lazarus Group",
@@ -14579,7 +14599,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0032/>"
             ],
-            "last card change": "2020-08-27"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -17622,7 +17642,9 @@
                 "rdmsi.com",
                 "sharjatv.com",
                 "tprs-servers.eu",
-                "wwmal.com"
+                "wwmal.com",
+                "greenkeyllc-projects.com",
+                "infopulsejobs.com"
             ],
             "ioc_ip": [
                 "185.32.178.176:80",
@@ -17867,6 +17889,57 @@
             ],
             "first seen": "2019",
             "last card change": "2020-04-15"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-Operation-Epic-Manchego",
+            "actor": "Operation Epic Manchego",
+            "names": [
+                "Operation Epic Manchego (NVISO)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(NVISIO) In July 2020, NVISO detected a set of malicious Excel documents, also known as \u201cmaldocs\u201d, that deliver malware through VBA-activated spreadsheets. While the malicious VBA code and the dropped payloads were something we had seen before, it was the specific way in which the Excel documents themselves were created that caught our attention.\n\nThe creators of the malicious Excel documents used a technique that allows them to create macro-laden Excel workbooks, without actually using Microsoft Office. As a side effect of this particular way of working, the detection rate for these documents is typically lower than for standard maldocs.",
+            "tools": [
+                "Agent Tesla",
+                "AZORult",
+                "Formbook",
+                "Matiex",
+                "njRAT"
+            ],
+            "information": [
+                "<https://blog.nviso.eu/2020/09/01/epic-manchego-atypical-maldoc-delivery-brings-flurry-of-infostealers/>"
+            ],
+            "uuid": "f3b26faa-9b21-4401-8448-67b9c636c16f",
+            "label": "Operation Epic Manchego",
+            "targeted countries": [
+                "Bulgaria",
+                "Canada",
+                "China",
+                "Czech",
+                "France",
+                "Germany",
+                "Hungary",
+                "Italy",
+                "Japan",
+                "Malaysia",
+                "Netherlands",
+                "Poland",
+                "Romania",
+                "South Korea",
+                "Sweden",
+                "UK",
+                "Ukraine",
+                "Uruguay",
+                "USA",
+                "Vietnam"
+            ],
+            "first seen": "2020",
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -18532,7 +18605,8 @@
             "names": [
                 "Parisite (Dragos)",
                 "Fox Kitten (ClearSky)",
-                "Pioneer Kitten (Crowdstrike)"
+                "Pioneer Kitten (Crowdstrike)",
+                "UNC757 (?)"
             ],
             "country": [
                 "Iran"
@@ -18554,7 +18628,7 @@
                 "SSHMinion",
                 "STSRCheck"
             ],
-            "operations": "**2019 Late**: \u201cFox Kitten\u201d Campaign\nhttps://www.clearskysec.com/wp-content/uploads/2020/02/ClearSky-Fox-Kitten-Campaign-v1.pdf\r\n**2020-07**: In late July 2020, an actor assessed to be associated with PIONEER KITTEN was identified as advertising to sell access to compromised networks on an underground forum.\nhttps://www.crowdstrike.com/blog/who-is-pioneer-kitten/\r\n",
+            "operations": "**2019 Late**: \u201cFox Kitten\u201d Campaign\nhttps://www.clearskysec.com/wp-content/uploads/2020/02/ClearSky-Fox-Kitten-Campaign-v1.pdf\r\n**2020-07**: In late July 2020, an actor assessed to be associated with PIONEER KITTEN was identified as advertising to sell access to compromised networks on an underground forum.\nhttps://www.crowdstrike.com/blog/who-is-pioneer-kitten/\r\n**2020-09**: This threat actor has been observed exploiting several publicly known Common Vulnerabilities and Exposures (CVEs) dealing with Pulse Secure virtual private network (VPN), Citrix NetScaler, and F5 vulnerabilities.\nhttps://us-cert.cisa.gov/ncas/alerts/aa20-259a\r\n",
             "information": [
                 "<https://dragos.com/blog/industry-news/the-state-of-threats-to-electric-entities-in-north-america/>",
                 "<https://threatpost.com/oil-and-gas-specialist-apt-pivots-to-u-s-power-plants/151699/>",
@@ -18565,7 +18639,8 @@
             "label": "Parisite",
             "operation dates": [
                 "2019 Late",
-                "2020-07"
+                "2020-07",
+                "2020-09"
             ],
             "targeted countries": [
                 "Australia",
@@ -18601,7 +18676,7 @@
                 "Telecommunications"
             ],
             "first seen": "2017",
-            "last card change": "2020-09-02"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -19717,6 +19792,12 @@
             ],
             "last card change": "2020-07-18",
             "ioc_domain": [
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org",
+                "sync.appchecks.rr.nu",
                 "mumbai-m.site",
                 "dns-update.club",
                 "proxycheker.pro",
@@ -19725,7 +19806,6 @@
                 "pmoae.com",
                 "cgalim.com",
                 "hakproperty.com",
-                "sync.appchecks.rr.nu",
                 "charley-online.com",
                 "fighiting1013.org",
                 "a7788.1apps.com",
@@ -19834,12 +19914,7 @@
                 "blockochain.info",
                 "files-downloader.net",
                 "webmail-googie.com",
-                "webmail-gooqle.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org"
+                "webmail-gooqle.com"
             ],
             "ioc_ip": [
                 "5.252.198.93:7337",
@@ -19957,11 +20032,15 @@
                 "PlugX",
                 "Poison Ivy"
             ],
+            "operations": "**2020-08**: RedDelta Resumes Its Targeting of the Vatican and Hong Kong Catholic Diocese\nhttps://go.recordedfuture.com/hubfs/reports/cta-2020-0915.pdf\r\n",
             "information": [
                 "<https://go.recordedfuture.com/hubfs/reports/cta-2020-0728.pdf>"
             ],
             "uuid": "86850f9f-15d7-417a-8345-6fae5223f81a",
             "label": "RedDelta",
+            "operation dates": [
+                "2020-08"
+            ],
             "targeted countries": [
                 "Australia",
                 "Ethiopia",
@@ -19977,7 +20056,7 @@
                 "The Vatican and Catholic Church-related organizations"
             ],
             "first seen": "2020",
-            "last card change": "2020-07-30"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -21376,7 +21455,7 @@
                 "Zebrocy",
                 "Living off the Land"
             ],
-            "operations": "**2011/2012**: Back in 2011-2012, the group used a relatively tiny implant (known as \u201cSofacy\u201d or SOURFACE) as its first stage malware. The implant shared certain similarities with the old Miniduke implants. This led us to believe the two groups were connected, at least to begin with, although it appears they parted ways in 2014, with the original Miniduke group switching to the CosmicDuke implant.\r\n**2013**: At some point during 2013, the Sofacy group expanded its arsenal and added more backdoors and tools, including CORESHELL, SPLM (aka Xagent, aka CHOPSTICK), JHUHUGIT (which is built with code from the Carberp sources), AZZY (aka ADVSTORESHELL, NETUI, EVILTOSS, and spans across four to five generations) and a few others. We\u2019ve seen quite a few versions of these implants and they were relatively widespread for a time.\r\n**2014-10**: Operation \u201cPawn Storm\u201d\nTarget: Several foreign affairs ministries from around the globe.\nMethod:  Spear-phishing e-mails with links leading to an Adobe Flash exploit.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/\r\n**2014-12**: Six-month-long cyberattack on the German parliament\nhttp://www.lse.co.uk/AllNews.asp?code=kwdwehme&headline=Russian_Hackers_Suspected_In_Cyberattack_On_German_Parliament\r\n**2015-02**: U.S. military wives\u2019 death threats\nFive military wives received death threats from a hacker group calling itself \u201c{{Cyber Caliphate Army (CCA), United Cyber Caliphate (UCC)}}\u201d, claiming to be an Islamic State affiliate, on February 10, 2015. This was later discovered to have been a false flag attack by Fancy Bear, when the victims\u2019 email addresses were found to have been in the Fancy Bear phishing target list.\nhttps://www.apnews.com/4d174e45ef5843a0ba82e804f080988f\r\n**2015-04**: Compromise of TV5Monde in France\n\u201cA group calling itself the {{Cyber Caliphate Army (CCA), United Cyber Caliphate (UCC)}}, linked to so-called Islamic State, first claimed responsibility. But an investigation now suggests the attack was in fact carried out by a group of Russian hackers.\u201d\nhttps://www.bbc.com/news/technology-37590375\r\n**2015-04**: Operation \u201cRussian Doll\u201d\nMethod: Adobe Flash 0-day\nhttps://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html\r\n**2015-04**: Compromise of the German Parliament (Bundestag) network\nhttps://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/\r\n**2015-07**: Pawn Storm Update: Trend Micro Discovers New Java Zero-Day Exploit\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-update-trend-micro-discovers-new-java-zero-day-exploit/\r\n**2015-08**: EFF spoof, White House and NATO attack\nMethod: zero-day exploit of Java, spoofing the Electronic Frontier Foundation and launching attacks on the White House and NATO. The hackers used a spear-phishing attack, directing emails to the false url electronicfrontierfoundation.org.\nhttps://www.eff.org/deeplinks/2015/08/new-spear-phishing-campaign-pretends-be-eff\r\n**2015-09**: Bootstrapped Firefox Add-on\nhttps://labsblog.f-secure.com/2015/09/08/sofacy-recycles-carberp-and-metasploit-code/\r\n**2015-10**: Attack on Bellingcat\nEliot Higgins and other journalists associated with Bellingcat, a group researching the shoot down of Malaysia Airlines Flight 17 over Ukraine, were targeted by numerous spear-phishing emails. The messages were fake Gmail security notices with Bit.ly and TinyCC shortened URLs.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/\r\n**2015-10**: Attack on Dutch Safety Board\nThe group targeted the Dutch Safety Board, the body conducting the official investigation into the crash, before and after the release of the board\u2019s final report. They set up fake SFTP and VPN servers to mimic the board\u2019s own servers, likely for the purpose of spear-phishing usernames and passwords.\nhttps://www.msn.com/en-au/news/world/russia-tried-to-hack-mh17-inquiry-system/ar-BBmmuuT\r\n**2015-10**: New Adobe Flash Zero-Day Used in Pawn Storm Campaign Targeting Foreign Affairs Ministries\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/\r\n**2016-01**: Pawn Storm Campaign Adds Turkey To Its List of Targets\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-adds-turkey-list-targets/\r\n**2016-05**: Pawn Storm Targets German Christian Democratic Union\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-german-christian-democratic-union/\r\n**2016-05**: Russian cyber-espionage group hits Sanoma\nhttps://yle.fi/uutiset/osasto/news/russian_cyber-espionage_group_hits_sanoma/8919118\r\n**2016-06**: Breach of Democratic National Committee\nFancy Bear carried out spear-phishing attacks on email addresses associated with the Democratic National Committee in the first quarter of 2016. On March 10, phishing emails that were mainly directed at old email addresses of 2008 Democratic campaign staffers began to arrive. One of these accounts may have yielded up to date contact lists. The next day, phishing attacks expanded to the non-public email addresses of high level Democratic Party officials. Hillaryclinton.com addresses were attacked, but required two factor authentication for access. The attack redirected towards Gmail accounts on March 19th. Podesta\u2019s Gmail account was breached the same day, with 50,000 emails stolen.\nAnother sophisticated hacking group attributed to the Russian Federation, nicknamed {{APT 29, Cozy Bear, The Dukes}} appears to be a different agency, one more interested in traditional long-term espionage.\nhttps://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/\nhttps://www.secureworks.com/research/threat-group-4127-targets-google-accounts\r\n**2016-06**: \u201cExercise Noble Partner 2016\u201d spear-phishing e-mail\nMethod: Spear-phishing e-mail\nTarget: USA government\nhttps://unit42.paloaltonetworks.com/unit42-new-sofacy-attacks-against-us-government-agency/\r\n**2016-08**: Spear-phishing attack members of the Bundestag and multiple political parties such as Linken-faction leader Sahra Wagenknecht, Junge Union and the CDU of Saarland. Authorities feared that sensitive information could be gathered by hackers to later manipulate the public ahead of elections such as Germany\u2019s next federal election which was due in September 2017.\nhttp://www.dw.com/en/hackers-lurking-parliamentarians-told/a-19564630\r\n**2016-08**: World Anti-Doping Agency\nMethod: Phishing emails sent to users of its database claiming to be official WADA communications requesting their login details.\nhttp://www.ibtimes.co.uk/russian-hackers-fancy-bear-likely-breached-olympic-drug-testing-agency-dnc-experts-say-1577508\r\n**2016-09**: Operation \u201cKomplex\u201d\nhttps://unit42.paloaltonetworks.com/unit42-sofacys-komplex-os-x-trojan/\r\n**2016-10**: Operation \u201cDealersChoice\u201d\nhttps://unit42.paloaltonetworks.com/unit42-dealerschoice-sofacys-flash-player-exploit-platform/\nhttps://unit42.paloaltonetworks.com/unit42-let-ride-sofacy-groups-dealerschoice-attacks-continue/\nThe global reach that coincided with this focus on NATO and the Ukraine couldn\u2019t be overstated. Our KSN data showed spear-phishing targets geo-located across the globe into 2017.\nAM, AZ, FR, DE, IQ, IT, KG, MA, CH, UA, US, VN\nDealersChoice emails, like the one above, that we were able to recover from third party sources provided additional targeting insight, and confirmed some of the targeting within our KSN data:\nTR, PL, BA, AZ, KR, LV, GE, LV, AU, SE, BE\r\n**2017 Early**: GAMEFISH backdoor\nTarget: Europe.\nMethod: They took advantage of the Syrian military conflict for thematic content and file naming \u201cTrump\u2019s_Attack_on_Syria_English.docx\u201d. Again, this deployment was likely a part of their focus on NATO targets.\r\n**2017 Early**: LoJax: First UEFI rootkit found in the wild\nhttps://www.welivesecurity.com/2018/09/27/lojax-first-uefi-rootkit-found-wild-courtesy-sednit-group/\r\n**2017-02**: Attack on Dutch ministries\nIn February 2017, the General Intelligence and Security Service (AIVD) of the Netherlands revealed that Fancy Bear and Cozy Bear had made several attempts to hack into Dutch ministries, including the Ministry of General Affairs, over the previous six months. Rob Bertholee, head of the AIVD, said on EenVandaag that the hackers were Russian and had tried to gain access to secret government documents.\nhttps://www.volkskrant.nl/cultuur-media/russen-faalden-bij-hackpogingen-ambtenaren-op-nederlandse-ministeries~b77ff391/\r\n**2017-02**: Russian Hackers \u2018Fancy Bear\u2019 Targeted French Presidential Candidate Macron\nhttps://www.vice.com/en_us/article/ez35p7/russian-hackers-fancy-bear-targeted-french-presidential-candidate-macron\r\n**2017-02**: IAAF Hack\nThe officials of International Association of Athletics Federations (IAAF) stated in April 2017 that its servers had been hacked by the \u201cFancy Bear\u201d group. The attack was detected by cybersecurity firm Context Information Security which identified that an unauthorized remote access to IAAF\u2019s servers had taken place on February 21. IAAF stated that the hackers had accessed the Therapeutic Use Exemption applications, needed to use medications prohibited by WADA.\nhttps://www.voanews.com/a/iaaf-hack-fancy-bears/3793874.html\r\n**2017-04**: German elections\nThey targeted the German Konrad Adenauer Foundation and Friedrich Ebert Foundation, groups that are associated with Angela Merkel\u2019s Christian Democratic Union and opposition Social Democratic Party, respectively. Fancy Bear set up fake email servers in late 2016 to send phishing emails with links to malware.\nhttps://www.handelsblatt.com/today/politics/election-risks-russia-linked-hackers-target-german-political-foundations/23569188.html?ticket=ST-2696734-GRHgtQukDIEXeSOwksXO-ap1\r\n**2017 Early**: SPLM backdoor\nTarget: included defense related commercial and military organizations, and telecommunications.\nTargeting included TR, KZ, AM, KG, JO, UK, UZ\nMethod: SPLM/CHOPSTICK/Xagent\r\n**2017-06**: Heavy Zebrocy deployments\nTargeting profiles, spear-phish filenames, and lures carry thematic content related to visa applications and scanned images, border control administration, and various administrative notes. Targeting appears to be widely spread across the Middle East, Europe, and Asia:\n- Business accounting practices and standards\n- Science and engineering centers\n- Industrial and hydro chemical engineering and standards/certification\n- Ministry of foreign affairs\n- Embassies and consulates\n- National security and intelligence agencies\n- Press services\n- Translation services\n- NGO \u2013 family and social service\n- Ministry of energy and industry\nMethod: the Zebrocy chain follows a pattern: spear-phish attachment -> compiled Autoit script (downloader) -> Zebrocy payload. In some deployments, we observed Sofacy actively developing and deploying a new package to a much smaller, specific subset of targets within the broader set.\r\n**2017-07**: APT28 Targets Hospitality Sector, Presents Threat to Travelers\nhttps://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html\r\n**2017-10**: In this case it capitalized on the recent terrorist attack in New York City. The document itself is blank. Once opened, the document contacts a control server to drop the first stage of the malware, Seduploader, onto a victim\u2019s system.\nhttps://securingtomorrow.mcafee.com/mcafee-labs/apt28-threat-group-adopts-dde-technique-nyc-attack-theme-in-latest-campaign/#sf151634298\r\n**2017-10**: Russische hackers vallen vredesbeweging Pax aan\nhttps://www.human.nl/schimmenspel/russische-hackers-vallen-Nederlandse-vredesbeweging-aan.html\r\n**2018-01**: Breach of the International Olympic Committee\nOn January 10, 2018, the \u201cFancy Bears Hack Team\u201d online persona leaked what appeared to be stolen International Olympic Committee (IOC) and U.S. Olympic Committee emails, dated from late 2016 to early 2017, were leaked in apparent retaliation for the IOC\u2019s banning of Russian athletes from the 2018 Winter Olympics as a sanction for Russia\u2019s systematic doping program. The attack resembles the earlier World Anti-Doping Agency (WADA) leaks. It is not known whether the emails are fully authentic, because of Fancy Bear\u2019s history of salting stolen emails with disinformation. The mode of attack was also not known, but was probably phishing.\nhttps://www.wired.com/story/russian-fancy-bears-hackers-release-apparent-ioc-emails/\r\n**2018-02**: Attacks on Multiple Government Entities\nTarget: Ministries of Foreign Affairs of the USA and Romania.\nMethod: Spear-phishing using the subject line of Upcoming Defense events February 2018 and a sender address claiming to be from Jane\u2019s 360 defense events.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-attacks-multiple-government-entities/\r\n**2018-03**: On March 12 and March 14, we observed the Sofacy group carrying out an attack on a European government agency involving an updated variant of DealersChoice. The updated DealersChoice documents used a similar process to obtain a malicious Flash object from a C2 server, but the inner mechanics of the Flash object contained significant differences in comparison to the original samples we analyzed.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-uses-dealerschoice-target-european-government-agency/\r\n**2018-05**: Breach of the Swedish Sports Confederation\nThe Swedish Sports Confederation reported Fancy Bear was responsible for an attack on its computers, targeting records of athletes\u2019 doping tests.\nhttps://www.reuters.com/article/us-sweden-doping/swedish-sports-body-says-anti-doping-unit-hit-by-hacking-attack-idUSKCN1IG2GN\r\n**2018-05**: VPNFilter IoT botnet\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/9lkeenhveb3xbkq/Whitepaper VPNFilter IoT botnet seized by the FBI.pdf?dl=0\r\n**2018-06**: This third campaign is consistent with two previously reported attack campaigns in terms of targeting: the targets were government organizations dealing with foreign affairs. In this case however the targets were in different geopolitical regions.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/\r\n**2018-08**: Attacks on United States Conservative Groups\nThe software company Microsoft reported in August 2018 that the group had attempted to steal data from political organizations such as the International Republican Institute and the Hudson Institute think tanks. The attacks were thwarted when Microsoft security staff won control of six net domains. In its announcement Microsoft advised that \u201cwe currently have no evidence these domains were used in any successful attacks before the DCU transferred control of them, nor do we have evidence to indicate the identity of the ultimate targets of any planned attack involving these domains\u201d.\nhttps://www.bbc.co.uk/news/technology-45257081\r\n**2018-10**: Operation \u201cDear Joohn\u201d\nTarget: The weaponized documents targeted several government entities around the globe, including North America, Europe, and a former USSR state.\nMethod: new \u2018Cannon\u2019 Trojan\nhttps://unit42.paloaltonetworks.com/dear-joohn-sofacy-groups-global-campaign/\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/\r\n**2018**: BREXIT-themed lure document\nBrexit-themed bait documents to deliver the Zekapab (also known as Zebrocy) first-stage malware, sent on the same day the UK Prime Minister Theresa May announced the initial BREXIT draft agreement with the European Union (EU). \u201cAs the United Kingdom (UK) Prime Minister Theresa May announced the initial BREXIT draft agreement with the European Union (EU).\nhttps://www.accenture.com/t20181129T203820Z__w__/us-en/_acnmedia/PDF-90/Accenture-snakemackerel-delivers-zekapab-malware.pdf\r\n**2019-02**: 2019 Think Tank Attacks\nIn February 2019, Microsoft announced that it had detected spear-phishing attacks from APT28, aimed at employees of the German Marshall Fund, Aspen Institute Germany, and the German Council on Foreign Relations. Hackers from the group purportedly sent phishing e-mails to 104 email addresses across Europe in an attempt to gain access to employer credentials and infect sites with malware.\nhttps://www.washingtonpost.com/technology/2019/02/20/microsoft-says-it-has-found-another-russian-operation-targeting-prominent-think-tanks/?utm_term=.870ff11468ae\r\n**2019-02**: Threat Campaign Likely Targeting NATO Members, Defense and Military Outlets\niDefense assesses with moderate confidence that the actors may be targeting attendees and sponsors of the upcoming Underwater Defense & Security 2019 event occurring March 5-7, 2019, in Southampton, United Kingdom. This event draws attendees from government, military and private sector entities across the globe.\nhttps://www.accenture.com/t20190213T141124Z__w__/us-en/_acnmedia/PDF-94/Accenture-SNAKEMACKEREL-Threat-Campaign-Likely-Targeting-NATO-Members-Defense-and-Military-Outlets.pdf\r\n**2019-04**: In April, security researchers in the Microsoft Threat Intelligence Center discovered infrastructure of a known adversary communicating to several external devices. Further research uncovered attempts by the actor to compromise popular IoT devices (a VOIP phone, an office printer, and a video decoder) across multiple customer locations.\nhttps://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/\r\n**2019-05**: Since May 2019, Pawn Storm has been abusing compromised email addresses to send credential phishing spam. The majority of the compromised systems were from defense companies in the Middle East. Other targets included organizations in the transportation, utilities, and government sectors.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/probing-pawn-storm-cyberespionage-campaign-through-scanning-credential-phishing-and-more\r\n**2019-08**: On August 20th, 2019, a new campaign was launched by the group targeting their usual victims \u2013 embassies of, and Ministries of Foreign Affairs in, Eastern European and Central Asian countries.\nhttps://www.welivesecurity.com/2019/09/24/no-summer-vacations-zebrocy/\r\n**2019-09**: At least 16 national and international sporting and anti-doping organizations across three continents were targeted in these attacks which began September 16th, just before news reports about new potential action being taken by the World Anti-Doping Agency. Some of these attacks were successful, but the majority were not.\nhttps://blogs.microsoft.com/on-the-issues/2019/10/28/cyberattacks-sporting-anti-doping/\r\n**2019-11**: Beginning in early November of 2019, the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) launched a phishing campaign targeting Burisma Holdings, a holding company of energy exploration and production companies based in Kiev, Ukraine.\nhttps://cdn.area1security.com/reports/Area-1-Security-PhishingBarismaHoldings.pdf\r\n",
+            "operations": "**2011/2012**: Back in 2011-2012, the group used a relatively tiny implant (known as \u201cSofacy\u201d or SOURFACE) as its first stage malware. The implant shared certain similarities with the old Miniduke implants. This led us to believe the two groups were connected, at least to begin with, although it appears they parted ways in 2014, with the original Miniduke group switching to the CosmicDuke implant.\r\n**2013**: At some point during 2013, the Sofacy group expanded its arsenal and added more backdoors and tools, including CORESHELL, SPLM (aka Xagent, aka CHOPSTICK), JHUHUGIT (which is built with code from the Carberp sources), AZZY (aka ADVSTORESHELL, NETUI, EVILTOSS, and spans across four to five generations) and a few others. We\u2019ve seen quite a few versions of these implants and they were relatively widespread for a time.\r\n**2014-10**: Operation \u201cPawn Storm\u201d\nTarget: Several foreign affairs ministries from around the globe.\nMethod:  Spear-phishing e-mails with links leading to an Adobe Flash exploit.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/\r\n**2014-12**: Six-month-long cyberattack on the German parliament\nhttp://www.lse.co.uk/AllNews.asp?code=kwdwehme&headline=Russian_Hackers_Suspected_In_Cyberattack_On_German_Parliament\r\n**2015-02**: U.S. military wives\u2019 death threats\nFive military wives received death threats from a hacker group calling itself \u201c{{Cyber Caliphate Army (CCA), United Cyber Caliphate (UCC)}}\u201d, claiming to be an Islamic State affiliate, on February 10, 2015. This was later discovered to have been a false flag attack by Fancy Bear, when the victims\u2019 email addresses were found to have been in the Fancy Bear phishing target list.\nhttps://www.apnews.com/4d174e45ef5843a0ba82e804f080988f\r\n**2015-04**: Compromise of TV5Monde in France\n\u201cA group calling itself the {{Cyber Caliphate Army (CCA), United Cyber Caliphate (UCC)}}, linked to so-called Islamic State, first claimed responsibility. But an investigation now suggests the attack was in fact carried out by a group of Russian hackers.\u201d\nhttps://www.bbc.com/news/technology-37590375\r\n**2015-04**: Operation \u201cRussian Doll\u201d\nMethod: Adobe Flash 0-day\nhttps://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html\r\n**2015-04**: Compromise of the German Parliament (Bundestag) network\nhttps://netzpolitik.org/2015/digital-attack-on-german-parliament-investigative-report-on-the-hack-of-the-left-party-infrastructure-in-bundestag/\r\n**2015-07**: Pawn Storm Update: Trend Micro Discovers New Java Zero-Day Exploit\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-update-trend-micro-discovers-new-java-zero-day-exploit/\r\n**2015-08**: EFF spoof, White House and NATO attack\nMethod: zero-day exploit of Java, spoofing the Electronic Frontier Foundation and launching attacks on the White House and NATO. The hackers used a spear-phishing attack, directing emails to the false url electronicfrontierfoundation.org.\nhttps://www.eff.org/deeplinks/2015/08/new-spear-phishing-campaign-pretends-be-eff\r\n**2015-09**: Bootstrapped Firefox Add-on\nhttps://labsblog.f-secure.com/2015/09/08/sofacy-recycles-carberp-and-metasploit-code/\r\n**2015-10**: Attack on Bellingcat\nEliot Higgins and other journalists associated with Bellingcat, a group researching the shoot down of Malaysia Airlines Flight 17 over Ukraine, were targeted by numerous spear-phishing emails. The messages were fake Gmail security notices with Bit.ly and TinyCC shortened URLs.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/\r\n**2015-10**: Attack on Dutch Safety Board\nThe group targeted the Dutch Safety Board, the body conducting the official investigation into the crash, before and after the release of the board\u2019s final report. They set up fake SFTP and VPN servers to mimic the board\u2019s own servers, likely for the purpose of spear-phishing usernames and passwords.\nhttps://www.msn.com/en-au/news/world/russia-tried-to-hack-mh17-inquiry-system/ar-BBmmuuT\r\n**2015-10**: New Adobe Flash Zero-Day Used in Pawn Storm Campaign Targeting Foreign Affairs Ministries\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/\r\n**2016-01**: Pawn Storm Campaign Adds Turkey To Its List of Targets\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-adds-turkey-list-targets/\r\n**2016-05**: Pawn Storm Targets German Christian Democratic Union\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-german-christian-democratic-union/\r\n**2016-05**: Russian cyber-espionage group hits Sanoma\nhttps://yle.fi/uutiset/osasto/news/russian_cyber-espionage_group_hits_sanoma/8919118\r\n**2016-06**: Breach of Democratic National Committee\nFancy Bear carried out spear-phishing attacks on email addresses associated with the Democratic National Committee in the first quarter of 2016. On March 10, phishing emails that were mainly directed at old email addresses of 2008 Democratic campaign staffers began to arrive. One of these accounts may have yielded up to date contact lists. The next day, phishing attacks expanded to the non-public email addresses of high level Democratic Party officials. Hillaryclinton.com addresses were attacked, but required two factor authentication for access. The attack redirected towards Gmail accounts on March 19th. Podesta\u2019s Gmail account was breached the same day, with 50,000 emails stolen.\nAnother sophisticated hacking group attributed to the Russian Federation, nicknamed {{APT 29, Cozy Bear, The Dukes}} appears to be a different agency, one more interested in traditional long-term espionage.\nhttps://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/\nhttps://www.secureworks.com/research/threat-group-4127-targets-google-accounts\r\n**2016-06**: \u201cExercise Noble Partner 2016\u201d spear-phishing e-mail\nMethod: Spear-phishing e-mail\nTarget: USA government\nhttps://unit42.paloaltonetworks.com/unit42-new-sofacy-attacks-against-us-government-agency/\r\n**2016-08**: Spear-phishing attack members of the Bundestag and multiple political parties such as Linken-faction leader Sahra Wagenknecht, Junge Union and the CDU of Saarland. Authorities feared that sensitive information could be gathered by hackers to later manipulate the public ahead of elections such as Germany\u2019s next federal election which was due in September 2017.\nhttp://www.dw.com/en/hackers-lurking-parliamentarians-told/a-19564630\r\n**2016-08**: World Anti-Doping Agency\nMethod: Phishing emails sent to users of its database claiming to be official WADA communications requesting their login details.\nhttp://www.ibtimes.co.uk/russian-hackers-fancy-bear-likely-breached-olympic-drug-testing-agency-dnc-experts-say-1577508\r\n**2016-09**: Operation \u201cKomplex\u201d\nhttps://unit42.paloaltonetworks.com/unit42-sofacys-komplex-os-x-trojan/\r\n**2016-10**: Operation \u201cDealersChoice\u201d\nhttps://unit42.paloaltonetworks.com/unit42-dealerschoice-sofacys-flash-player-exploit-platform/\nhttps://unit42.paloaltonetworks.com/unit42-let-ride-sofacy-groups-dealerschoice-attacks-continue/\nThe global reach that coincided with this focus on NATO and the Ukraine couldn\u2019t be overstated. Our KSN data showed spear-phishing targets geo-located across the globe into 2017.\nAM, AZ, FR, DE, IQ, IT, KG, MA, CH, UA, US, VN\nDealersChoice emails, like the one above, that we were able to recover from third party sources provided additional targeting insight, and confirmed some of the targeting within our KSN data:\nTR, PL, BA, AZ, KR, LV, GE, LV, AU, SE, BE\r\n**2017 Early**: GAMEFISH backdoor\nTarget: Europe.\nMethod: They took advantage of the Syrian military conflict for thematic content and file naming \u201cTrump\u2019s_Attack_on_Syria_English.docx\u201d. Again, this deployment was likely a part of their focus on NATO targets.\r\n**2017 Early**: LoJax: First UEFI rootkit found in the wild\nhttps://www.welivesecurity.com/2018/09/27/lojax-first-uefi-rootkit-found-wild-courtesy-sednit-group/\r\n**2017-02**: Attack on Dutch ministries\nIn February 2017, the General Intelligence and Security Service (AIVD) of the Netherlands revealed that Fancy Bear and Cozy Bear had made several attempts to hack into Dutch ministries, including the Ministry of General Affairs, over the previous six months. Rob Bertholee, head of the AIVD, said on EenVandaag that the hackers were Russian and had tried to gain access to secret government documents.\nhttps://www.volkskrant.nl/cultuur-media/russen-faalden-bij-hackpogingen-ambtenaren-op-nederlandse-ministeries~b77ff391/\r\n**2017-02**: Russian Hackers \u2018Fancy Bear\u2019 Targeted French Presidential Candidate Macron\nhttps://www.vice.com/en_us/article/ez35p7/russian-hackers-fancy-bear-targeted-french-presidential-candidate-macron\r\n**2017-02**: IAAF Hack\nThe officials of International Association of Athletics Federations (IAAF) stated in April 2017 that its servers had been hacked by the \u201cFancy Bear\u201d group. The attack was detected by cybersecurity firm Context Information Security which identified that an unauthorized remote access to IAAF\u2019s servers had taken place on February 21. IAAF stated that the hackers had accessed the Therapeutic Use Exemption applications, needed to use medications prohibited by WADA.\nhttps://www.voanews.com/a/iaaf-hack-fancy-bears/3793874.html\r\n**2017-04**: German elections\nThey targeted the German Konrad Adenauer Foundation and Friedrich Ebert Foundation, groups that are associated with Angela Merkel\u2019s Christian Democratic Union and opposition Social Democratic Party, respectively. Fancy Bear set up fake email servers in late 2016 to send phishing emails with links to malware.\nhttps://www.handelsblatt.com/today/politics/election-risks-russia-linked-hackers-target-german-political-foundations/23569188.html?ticket=ST-2696734-GRHgtQukDIEXeSOwksXO-ap1\r\n**2017 Early**: SPLM backdoor\nTarget: included defense related commercial and military organizations, and telecommunications.\nTargeting included TR, KZ, AM, KG, JO, UK, UZ\nMethod: SPLM/CHOPSTICK/Xagent\r\n**2017-06**: Heavy Zebrocy deployments\nTargeting profiles, spear-phish filenames, and lures carry thematic content related to visa applications and scanned images, border control administration, and various administrative notes. Targeting appears to be widely spread across the Middle East, Europe, and Asia:\n- Business accounting practices and standards\n- Science and engineering centers\n- Industrial and hydro chemical engineering and standards/certification\n- Ministry of foreign affairs\n- Embassies and consulates\n- National security and intelligence agencies\n- Press services\n- Translation services\n- NGO \u2013 family and social service\n- Ministry of energy and industry\nMethod: the Zebrocy chain follows a pattern: spear-phish attachment -> compiled Autoit script (downloader) -> Zebrocy payload. In some deployments, we observed Sofacy actively developing and deploying a new package to a much smaller, specific subset of targets within the broader set.\r\n**2017-07**: APT28 Targets Hospitality Sector, Presents Threat to Travelers\nhttps://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html\r\n**2017-10**: In this case it capitalized on the recent terrorist attack in New York City. The document itself is blank. Once opened, the document contacts a control server to drop the first stage of the malware, Seduploader, onto a victim\u2019s system.\nhttps://securingtomorrow.mcafee.com/mcafee-labs/apt28-threat-group-adopts-dde-technique-nyc-attack-theme-in-latest-campaign/#sf151634298\r\n**2017-10**: Russische hackers vallen vredesbeweging Pax aan\nhttps://www.human.nl/schimmenspel/russische-hackers-vallen-Nederlandse-vredesbeweging-aan.html\r\n**2018-01**: Breach of the International Olympic Committee\nOn January 10, 2018, the \u201cFancy Bears Hack Team\u201d online persona leaked what appeared to be stolen International Olympic Committee (IOC) and U.S. Olympic Committee emails, dated from late 2016 to early 2017, were leaked in apparent retaliation for the IOC\u2019s banning of Russian athletes from the 2018 Winter Olympics as a sanction for Russia\u2019s systematic doping program. The attack resembles the earlier World Anti-Doping Agency (WADA) leaks. It is not known whether the emails are fully authentic, because of Fancy Bear\u2019s history of salting stolen emails with disinformation. The mode of attack was also not known, but was probably phishing.\nhttps://www.wired.com/story/russian-fancy-bears-hackers-release-apparent-ioc-emails/\r\n**2018-02**: Attacks on Multiple Government Entities\nTarget: Ministries of Foreign Affairs of the USA and Romania.\nMethod: Spear-phishing using the subject line of Upcoming Defense events February 2018 and a sender address claiming to be from Jane\u2019s 360 defense events.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-attacks-multiple-government-entities/\r\n**2018-03**: On March 12 and March 14, we observed the Sofacy group carrying out an attack on a European government agency involving an updated variant of DealersChoice. The updated DealersChoice documents used a similar process to obtain a malicious Flash object from a C2 server, but the inner mechanics of the Flash object contained significant differences in comparison to the original samples we analyzed.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-uses-dealerschoice-target-european-government-agency/\r\n**2018-05**: Breach of the Swedish Sports Confederation\nThe Swedish Sports Confederation reported Fancy Bear was responsible for an attack on its computers, targeting records of athletes\u2019 doping tests.\nhttps://www.reuters.com/article/us-sweden-doping/swedish-sports-body-says-anti-doping-unit-hit-by-hacking-attack-idUSKCN1IG2GN\r\n**2018-05**: VPNFilter IoT botnet\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/9lkeenhveb3xbkq/Whitepaper VPNFilter IoT botnet seized by the FBI.pdf?dl=0\r\n**2018-06**: This third campaign is consistent with two previously reported attack campaigns in terms of targeting: the targets were government organizations dealing with foreign affairs. In this case however the targets were in different geopolitical regions.\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-groups-parallel-attacks/\r\n**2018-08**: Attacks on United States Conservative Groups\nThe software company Microsoft reported in August 2018 that the group had attempted to steal data from political organizations such as the International Republican Institute and the Hudson Institute think tanks. The attacks were thwarted when Microsoft security staff won control of six net domains. In its announcement Microsoft advised that \u201cwe currently have no evidence these domains were used in any successful attacks before the DCU transferred control of them, nor do we have evidence to indicate the identity of the ultimate targets of any planned attack involving these domains\u201d.\nhttps://www.bbc.co.uk/news/technology-45257081\r\n**2018-10**: Operation \u201cDear Joohn\u201d\nTarget: The weaponized documents targeted several government entities around the globe, including North America, Europe, and a former USSR state.\nMethod: new \u2018Cannon\u2019 Trojan\nhttps://unit42.paloaltonetworks.com/dear-joohn-sofacy-groups-global-campaign/\nhttps://unit42.paloaltonetworks.com/unit42-sofacy-continues-global-attacks-wheels-new-cannon-trojan/\r\n**2018**: BREXIT-themed lure document\nBrexit-themed bait documents to deliver the Zekapab (also known as Zebrocy) first-stage malware, sent on the same day the UK Prime Minister Theresa May announced the initial BREXIT draft agreement with the European Union (EU). \u201cAs the United Kingdom (UK) Prime Minister Theresa May announced the initial BREXIT draft agreement with the European Union (EU).\nhttps://www.accenture.com/t20181129T203820Z__w__/us-en/_acnmedia/PDF-90/Accenture-snakemackerel-delivers-zekapab-malware.pdf\r\n**2019-02**: 2019 Think Tank Attacks\nIn February 2019, Microsoft announced that it had detected spear-phishing attacks from APT28, aimed at employees of the German Marshall Fund, Aspen Institute Germany, and the German Council on Foreign Relations. Hackers from the group purportedly sent phishing e-mails to 104 email addresses across Europe in an attempt to gain access to employer credentials and infect sites with malware.\nhttps://www.washingtonpost.com/technology/2019/02/20/microsoft-says-it-has-found-another-russian-operation-targeting-prominent-think-tanks/?utm_term=.870ff11468ae\r\n**2019-02**: Threat Campaign Likely Targeting NATO Members, Defense and Military Outlets\niDefense assesses with moderate confidence that the actors may be targeting attendees and sponsors of the upcoming Underwater Defense & Security 2019 event occurring March 5-7, 2019, in Southampton, United Kingdom. This event draws attendees from government, military and private sector entities across the globe.\nhttps://www.accenture.com/t20190213T141124Z__w__/us-en/_acnmedia/PDF-94/Accenture-SNAKEMACKEREL-Threat-Campaign-Likely-Targeting-NATO-Members-Defense-and-Military-Outlets.pdf\r\n**2019-04**: In April, security researchers in the Microsoft Threat Intelligence Center discovered infrastructure of a known adversary communicating to several external devices. Further research uncovered attempts by the actor to compromise popular IoT devices (a VOIP phone, an office printer, and a video decoder) across multiple customer locations.\nhttps://msrc-blog.microsoft.com/2019/08/05/corporate-iot-a-path-to-intrusion/\r\n**2019-05**: Since May 2019, Pawn Storm has been abusing compromised email addresses to send credential phishing spam. The majority of the compromised systems were from defense companies in the Middle East. Other targets included organizations in the transportation, utilities, and government sectors.\nhttps://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/probing-pawn-storm-cyberespionage-campaign-through-scanning-credential-phishing-and-more\r\n**2019-08**: On August 20th, 2019, a new campaign was launched by the group targeting their usual victims \u2013 embassies of, and Ministries of Foreign Affairs in, Eastern European and Central Asian countries.\nhttps://www.welivesecurity.com/2019/09/24/no-summer-vacations-zebrocy/\r\n**2019-09**: At least 16 national and international sporting and anti-doping organizations across three continents were targeted in these attacks which began September 16th, just before news reports about new potential action being taken by the World Anti-Doping Agency. Some of these attacks were successful, but the majority were not.\nhttps://blogs.microsoft.com/on-the-issues/2019/10/28/cyberattacks-sporting-anti-doping/\r\n**2019-11**: Beginning in early November of 2019, the Main Intelligence Directorate of the General Staff of the Russian Army (GRU) launched a phishing campaign targeting Burisma Holdings, a holding company of energy exploration and production companies based in Kiev, Ukraine.\nhttps://cdn.area1security.com/reports/Area-1-Security-PhishingBarismaHoldings.pdf\r\n**2020-04**: Microsoft has tied STRONTIUM to a newly uncovered pattern of Office365 credential harvesting activity aimed at US and UK organizations directly involved in political elections.\nhttps://www.microsoft.com/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/\r\n",
             "information": [
                 "<https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/>",
                 "<http://download.bitdefender.com/resources/media/materials/white-papers/en/Bitdefender_In-depth_analysis_of_APT28%E2%80%93The_Political_Cyber-Espionage.pdf>",
@@ -21446,7 +21525,8 @@
                 "2019-05",
                 "2019-08",
                 "2019-09",
-                "2019-11"
+                "2019-11",
+                "2020-04"
             ],
             "targeted countries": [
                 "Armenia",
@@ -21525,14 +21605,8 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0007/>"
             ],
-            "last card change": "2020-08-28",
+            "last card change": "2020-09-17",
             "ioc_ip": [
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -21546,7 +21620,13 @@
                 "109.169.15.73",
                 "178.32.251.98",
                 "145.249.106.198:443",
-                "185.236.203.53:443"
+                "185.236.203.53:443",
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -25360,6 +25440,13 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
+            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -25367,13 +25454,6 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
-            ],
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
             ]
         },
         {
@@ -25445,7 +25525,7 @@
                 "SharpHound",
                 "WinSCP"
             ],
-            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n**2020-07**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n**2020-08**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n**2020-08**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n",
+            "operations": "**2019-11**: Allied Universal Breached by Maze Ransomware, Stolen Data Leaked\nhttps://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/\r\n**2019-12**: Maze Ransomware Demands $6 Million Ransom From Southwire\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/\r\n**2020-01**: Maze ransomware operators have infected computers from Medical Diagnostic Laboratories (MDLab) and are releasing close to 9.5GB of data stolen from infected machines.\nhttps://www.bleepingcomputer.com/news/security/maze-ransomware-not-getting-paid-leaks-data-left-and-right/\r\n**2020-01**: MAZE Relaunches 'Name and Shame' Website\nhttps://www.infosecurity-magazine.com/news/maze-relaunches-name-and-shame/\r\n**2020-02**: Breaking the Ice: A Deep Dive Into the IcedID Banking Trojan\u2019s New Major Version Release\nhttps://securityintelligence.com/posts/breaking-the-ice-a-deep-dive-into-the-icedid-banking-trojans-new-major-version-release/\r\n**2020-03**: Chubb Cyber Insurer Allegedly Hit By Maze Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/chubb-cyber-insurer-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-03**: The Maze ransomware group attacked the computer systems of Hammersmith Medicines Research (HMR), publishing personal details of thousands of former patients after the company declined to pay a ransom.\nhttps://www.computerweekly.com/news/252480425/Cyber-gangsters-hit-UK-medical-research-lorganisation-poised-for-work-on-Coronavirus\r\n**2020-04**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n**2020-04**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n**2020-04**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n**2020-04**: Chipmaker MaxLinear reports data breach after Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/chipmaker-maxlinear-reports-data-breach-after-maze-ransomware-attack/\r\n**2020-05**: According to MAZE, egg producer and supplier Sparboe was cracked into on May 1, 2020. As proof of the attack, the threat group has shared a zip file of data it claims was exfiltrated from Sparboe's systems.\nhttps://www.infosecurity-magazine.com/news/maze-claims-ransomware-attack-on-us/\r\n**2020-05**: Package delivery giant Pitney Bowes confirms second ransomware attack in 7 months\nhttps://www.zdnet.com/article/package-delivery-giant-pitney-bowes-confirms-second-ransomware-attack-in-7-months/\r\n**2020-05**: Ransomware breach of Banco de Costa Rica\nhttps://www.bleepingcomputer.com/news/security/hackers-say-they-stole-millions-of-credit-cards-from-banco-bcr/\nhttps://cybleinc.com/2020/05/22/maze-ransomware-operators-release-the-banco-de-costa-rica-data-leak-part-3/\r\n**2020-06**: Cyber extortionists have stolen sensitive data from a company which supports the US Minuteman III nuclear deterrent.\nhttps://news.sky.com/story/hackers-steal-secrets-from-us-nuclear-missile-contractor-11999442\r\n**2020-06**: The Maze Ransomware operators are claiming to have successfully attacked business services giant Conduent, where they stole unencrypted files and encrypted devices on their network.\nhttps://www.bleepingcomputer.com/news/security/business-services-giant-conduent-hit-by-maze-ransomware/\r\n**2020-06**: MAZE maintains that it has encrypted and exfiltrated data from New York company Threadstone Advisors using ransomware.\nhttps://www.infosecurity-magazine.com/news/maze-attacks-victoria-beckhams/\r\n**2020-06**: LG Electronics allegedly hit by Maze ransomware attack\nhttps://www.bleepingcomputer.com/news/security/lg-electronics-allegedly-hit-by-maze-ransomware-attack/\r\n**2020-06**: Business giant Xerox allegedly suffers Maze Ransomware attack\nhttps://www.bleepingcomputer.com/news/security/business-giant-xerox-allegedly-suffers-maze-ransomware-attack/\r\n**2020-06**: Maze Ransomware Operators Allegedly Targeted National Highways Authority of India (NHAI)\nhttps://cybleinc.com/2020/07/02/maze-ransomware-operators-allegedly-targeted-national-highways-authority-of-india-nhai-data-leak/\r\n**2020-07**: Canon hit by Maze Ransomware attack, 10TB data allegedly stolen\nhttps://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/\r\n**2020-08**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n**2020-08**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n**2020-09**: Fairfax County schools hit by Maze ransomware, student data leaked\nhttps://www.bleepingcomputer.com/news/security/fairfax-county-schools-hit-by-maze-ransomware-student-data-leaked/\r\n",
             "information": [
                 "<https://www.proofpoint.com/us/threat-insight/post/ta2101-plays-government-imposter-distribute-malware-german-italian-and-us>",
                 "<https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html>"
@@ -25475,7 +25555,8 @@
                 "2020-06",
                 "2020-07",
                 "2020-08",
-                "2020-08"
+                "2020-08",
+                "2020-09"
             ],
             "targeted countries": [
                 "Canada",
@@ -25509,7 +25590,7 @@
                 "Real estate"
             ],
             "first seen": "2019",
-            "last card change": "2020-08-26",
+            "last card change": "2020-09-17",
             "ioc_url": [
                 "http://104.168.174.32",
                 "http://104.168.198.208",
@@ -25711,7 +25792,8 @@
                 "<https://e.cyberint.com/hubfs/Report%20Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors%20Tools/CyberInt_Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors\u2019%20Tools_Report.pdf>",
                 "<https://www.cybereason.com/blog/threat-actor-ta505-targets-financial-enterprises-using-lolbins-and-a-new-backdoor-malware>",
                 "<https://threatpost.com/ta505-servhelper-malware/140792/>",
-                "<https://blog.prevailion.com/2020/01/ta-505-global-ransomware-criminals.html>"
+                "<https://blog.prevailion.com/2020/01/ta-505-global-ransomware-criminals.html>",
+                "<https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/>"
             ],
             "uuid": "0ac7cc26-cb85-42f7-a2c1-41762b2e2541",
             "label": "TA505",
@@ -25754,7 +25836,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0092/>"
             ],
-            "last card change": "2020-06-19",
+            "last card change": "2020-09-17",
             "ioc_ip": [
                 "89.144.25.32:5655",
                 "159.69.48.50:5655",
@@ -26755,7 +26837,8 @@
                 "news-37876-mshome.com",
                 "news-389767-mshome.com",
                 "dropbox-cdnt.com",
-                "pssd-ltdgroup.com"
+                "pssd-ltdgroup.com",
+                "der-pallt.com"
             ]
         },
         {
@@ -27980,6 +28063,7 @@
                 "linda-callaghan.icu",
                 "nicoledotson.icu",
                 "catchansee.com",
+                "y5mogzal2w25p6bn.ml",
                 "tibetvoices.com",
                 "about.jkub.com",
                 "eleven.mypop3.org",
@@ -27992,8 +28076,7 @@
                 "myinfo.ocry.com",
                 "myzinfo.myz.info",
                 "oldape.25u.com",
-                "oldape.4dq.com",
-                "y5mogzal2w25p6bn.ml"
+                "oldape.4dq.com"
             ]
         },
         {
@@ -28283,12 +28366,12 @@
             ],
             "last card change": "2020-07-31",
             "ioc_ip": [
+                "134.209.222.206:15363",
+                "85.222.235.156:8000",
                 "203.117.122.51",
                 "178.219.68.239",
                 "104.223.89.145",
-                "212.21.40.220",
-                "134.209.222.206:15363",
-                "85.222.235.156:8000"
+                "212.21.40.220"
             ],
             "ioc_url": [
                 "http://169.255.137.203/rss_0.php",
@@ -28572,9 +28655,9 @@
                 "vylys.com",
                 "wekanda.tk",
                 "newshealthsport.com",
+                "news-bbc.podzone.org",
                 "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru",
-                "news-bbc.podzone.org"
+                "orl05511cn.temp.swtest.ru"
             ]
         },
         {
@@ -29853,7 +29936,7 @@
             "tools": [
                 "DoppelPaymer"
             ],
-            "operations": "**2020-02**: The DoppelPaymer Ransomware is the latest family threatening to sell or publish a victim's stolen files if they do not pay a ransom demand.\nhttps://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-sells-victims-data-on-darknet-if-not-paid/\r\n**2020-03**: Ransomware scumbags leak Boeing, Lockheed Martin, SpaceX documents after contractor refuses to pay\nhttps://www.theregister.co.uk/2020/04/10/lockheed_martin_spacex_ransomware_leak/\r\n**2020-06**: DopplePaymer ransomware gang claims to have breached DMI, a major US IT and cybersecurity provider, and one of NASA IT contractors.\nhttps://www.zdnet.com/article/ransomware-gang-says-it-breached-one-of-nasas-it-contractors/\r\n",
+            "operations": "**2020-02**: The DoppelPaymer Ransomware is the latest family threatening to sell or publish a victim's stolen files if they do not pay a ransom demand.\nhttps://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-sells-victims-data-on-darknet-if-not-paid/\r\n**2020-03**: Ransomware scumbags leak Boeing, Lockheed Martin, SpaceX documents after contractor refuses to pay\nhttps://www.theregister.co.uk/2020/04/10/lockheed_martin_spacex_ransomware_leak/\r\n**2020-06**: DopplePaymer ransomware gang claims to have breached DMI, a major US IT and cybersecurity provider, and one of NASA IT contractors.\nhttps://www.zdnet.com/article/ransomware-gang-says-it-breached-one-of-nasas-it-contractors/\r\n**2020-08**: UK research university Newcastle University says that it will take several weeks to get IT services back online after DoppelPaymer ransomware operators breached its network and took systems offline on the morning of August 30th.\nhttps://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-hits-newcastle-university-leaks-data/\r\n",
             "information": [
                 "<https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/>",
                 "<https://lifars.com/2019/11/from-dridex-to-bitpaymer-ransomware-to-doppelpaymerthe-evolution/>",
@@ -29865,7 +29948,8 @@
             "operation dates": [
                 "2020-02",
                 "2020-03",
-                "2020-06"
+                "2020-06",
+                "2020-08"
             ],
             "targeted countries": [
                 "Chile",
@@ -29875,7 +29959,7 @@
                 "Government"
             ],
             "first seen": "2019",
-            "last card change": "2020-06-04"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -30581,7 +30665,7 @@
                 "GandCrab",
                 "Sodinokibi"
             ],
-            "operations": "**2019-04**: Sodinokibi ransomware exploits WebLogic Server vulnerability\nhttps://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html\r\n**2019-06**: Yesterday night, a source in the malware community has told ZDNet that the GandCrab RaaS operator formally announced plans to shut down their service within a month.\nThe announcement was made in an official thread on a well-known hacking forum, where the GandCrab RaaS has advertised its service since January 2018, when it formally launched.\nhttps://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/\r\n**2019-08**: Over 20 Texas local governments hit in 'coordinated ransomware attack'\nhttps://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/\r\n**2019-12**: CyrusOne, one of the biggest data center providers in the US, has suffered a ransomware attack, ZDNet has learned.\nhttps://www.zdnet.com/article/ransomware-attack-hits-major-us-data-center-provider/\r\n**2019-12**: Sodinokibi Ransomware Behind Travelex Fiasco: Report\nhttps://threatpost.com/sodinokibi-ransomware-travelex-fiasco/151600/\r\n**2019-12**: A crypto virus that attacked the Albany County Airport Authority's computer management provider during the Christmas holiday period ended up infecting the authority's servers as well, encrypting files and demanding a ransom payment.\nhttps://www.timesunion.com/business/article/Ransomware-attack-cripples-airport-authority-s-14963401.php\r\n**2020-01**: New Jersey Synagogue Suffers Sodinokibi Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/\r\n**2020-01**: Sodinokibi Ransomware Publishes Stolen Data for the First Time\nThey claim this data belongs to Artech Information Systems, who describe themselves as a 'minority- and women-owned diversity supplier and one of the largest IT staffing companies in the U.S', and that they will release more if a ransom is not paid.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-publishes-stolen-data-for-the-first-time/\r\n**2020-02**: The operators of the Sodinokibi Ransomware (REvil) have started urging affiliates to copy their victim's data before encrypting computers so it can be used as leverage on a new data leak site that is being launched soon.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-may-tip-nasdaq-on-attacks-to-hurt-stock-prices/\r\n**2020-02**: The operators behind Sodinokibi Ransomware published download links to files containing what they claim is financial and work documents, as well as customers' personal data stolen from giant U.S. fashion house Kenneth Cole Productions.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-posts-alleged-data-of-kenneth-cole-fashion-giant/\r\n**2020-03**: The operators of the Sodinokibi Ransomware are threatening to publicly share a company's 'dirty' financial secrets because they refused to pay the demanded ransom.\nAs organizations decide to restore their data manually or via backups instead of paying ransoms, ransomware operators are escalating their attacks.\nhttps://www.bleepingcomputer.com/news/security/ransomware-threatens-to-reveal-companys-dirty-secrets/\r\n**2020-03**: Recently, the Sodinokibi Ransomware operators published over 12 GB of stolen data allegedly belonging to a company named Brooks International for not paying the ransom.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-data-leaks-now-sold-on-hacker-forums/\r\n**2020-04**: Sodinokibi Ransomware to stop taking Bitcoin to hide money trail\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-to-stop-taking-bitcoin-to-hide-money-trail/\r\n**2020-05**: REvil ransomware threatens to leak A-list celebrities' legal docs\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-threatens-to-leak-a-list-celebrities-legal-docs/\r\n**2020-05**: REvil ransomware gang publishes 'Elexon staff's passports' after UK electrical middleman shrugs off attack\nhttps://www.theregister.com/2020/06/01/elexon_ransomware_was_revil_sodinokibi/\r\n**2020-05**: Here come REvil ransomware operators with another massive data leak. In this instance, they leaked the confidential data of Agromart Group, well-known crop production partners.\nhttps://cybleinc.com/2020/06/02/times-up-for-agromart-group-and-their-data-got-leaked-by-revil-ransomware-operators/\r\n**2020-06**: REvil ransomware creates eBay-like auction site for stolen data\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-creates-ebay-like-auction-site-for-stolen-data/\r\n**2020-06**: REvil ransomware operators have been observed while scanning one of their victim's network for Point of Sale (PoS) servers by researchers with Symantec's Threat Intelligence team.\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-scans-victims-network-for-point-of-sale-systems/\r\n**2020-06**: The threat actor behind the Sodinokibi (REvil) ransomware is demanding a $14 million ransom from Brazilian-based electrical energy company Light S.A.\nhttps://www.securityweek.com/ransomware-operators-demand-14-million-power-company\r\n**2020-07**: A ransomware gang has infected the internal network of Telecom Argentina, one of the country's largest internet service providers, and is now asking for a $7.5 million ransom demand to unlock encrypted files.\nhttps://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/\r\n**2020-07**: Administrador de Infraestructuras Ferroviarias (ADIF), a Spanish state-owned railway infrastructure manager was hit by REVil ransomware operators.\nhttps://securityaffairs.co/wordpress/106304/cyber-crime/adif-revil-ransomware-attack.html\r\n**2020-08**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n",
+            "operations": "**2019-04**: Sodinokibi ransomware exploits WebLogic Server vulnerability\nhttps://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html\r\n**2019-06**: Yesterday night, a source in the malware community has told ZDNet that the GandCrab RaaS operator formally announced plans to shut down their service within a month.\nThe announcement was made in an official thread on a well-known hacking forum, where the GandCrab RaaS has advertised its service since January 2018, when it formally launched.\nhttps://www.zdnet.com/article/gandcrab-ransomware-operation-says-its-shutting-down/\r\n**2019-08**: Over 20 Texas local governments hit in 'coordinated ransomware attack'\nhttps://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/\r\n**2019-12**: CyrusOne, one of the biggest data center providers in the US, has suffered a ransomware attack, ZDNet has learned.\nhttps://www.zdnet.com/article/ransomware-attack-hits-major-us-data-center-provider/\r\n**2019-12**: Sodinokibi Ransomware Behind Travelex Fiasco: Report\nhttps://threatpost.com/sodinokibi-ransomware-travelex-fiasco/151600/\r\n**2019-12**: A crypto virus that attacked the Albany County Airport Authority's computer management provider during the Christmas holiday period ended up infecting the authority's servers as well, encrypting files and demanding a ransom payment.\nhttps://www.timesunion.com/business/article/Ransomware-attack-cripples-airport-authority-s-14963401.php\r\n**2020-01**: New Jersey Synagogue Suffers Sodinokibi Ransomware Attack\nhttps://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/\r\n**2020-01**: Sodinokibi Ransomware Publishes Stolen Data for the First Time\nThey claim this data belongs to Artech Information Systems, who describe themselves as a 'minority- and women-owned diversity supplier and one of the largest IT staffing companies in the U.S', and that they will release more if a ransom is not paid.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-publishes-stolen-data-for-the-first-time/\r\n**2020-02**: The operators of the Sodinokibi Ransomware (REvil) have started urging affiliates to copy their victim's data before encrypting computers so it can be used as leverage on a new data leak site that is being launched soon.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-may-tip-nasdaq-on-attacks-to-hurt-stock-prices/\r\n**2020-02**: The operators behind Sodinokibi Ransomware published download links to files containing what they claim is financial and work documents, as well as customers' personal data stolen from giant U.S. fashion house Kenneth Cole Productions.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-posts-alleged-data-of-kenneth-cole-fashion-giant/\r\n**2020-03**: The operators of the Sodinokibi Ransomware are threatening to publicly share a company's 'dirty' financial secrets because they refused to pay the demanded ransom.\nAs organizations decide to restore their data manually or via backups instead of paying ransoms, ransomware operators are escalating their attacks.\nhttps://www.bleepingcomputer.com/news/security/ransomware-threatens-to-reveal-companys-dirty-secrets/\r\n**2020-03**: Recently, the Sodinokibi Ransomware operators published over 12 GB of stolen data allegedly belonging to a company named Brooks International for not paying the ransom.\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-data-leaks-now-sold-on-hacker-forums/\r\n**2020-04**: Sodinokibi Ransomware to stop taking Bitcoin to hide money trail\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-to-stop-taking-bitcoin-to-hide-money-trail/\r\n**2020-04**: SeaChange video platform allegedly hit by Sodinokibi ransomware\nhttps://www.bleepingcomputer.com/news/security/seachange-video-platform-allegedly-hit-by-sodinokibi-ransomware/\r\n**2020-05**: REvil ransomware threatens to leak A-list celebrities' legal docs\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-threatens-to-leak-a-list-celebrities-legal-docs/\r\n**2020-05**: REvil ransomware gang publishes 'Elexon staff's passports' after UK electrical middleman shrugs off attack\nhttps://www.theregister.com/2020/06/01/elexon_ransomware_was_revil_sodinokibi/\r\n**2020-05**: Here come REvil ransomware operators with another massive data leak. In this instance, they leaked the confidential data of Agromart Group, well-known crop production partners.\nhttps://cybleinc.com/2020/06/02/times-up-for-agromart-group-and-their-data-got-leaked-by-revil-ransomware-operators/\r\n**2020-06**: REvil ransomware creates eBay-like auction site for stolen data\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-creates-ebay-like-auction-site-for-stolen-data/\r\n**2020-06**: REvil ransomware operators have been observed while scanning one of their victim's network for Point of Sale (PoS) servers by researchers with Symantec's Threat Intelligence team.\nhttps://www.bleepingcomputer.com/news/security/revil-ransomware-scans-victims-network-for-point-of-sale-systems/\r\n**2020-06**: The threat actor behind the Sodinokibi (REvil) ransomware is demanding a $14 million ransom from Brazilian-based electrical energy company Light S.A.\nhttps://www.securityweek.com/ransomware-operators-demand-14-million-power-company\r\n**2020-07**: A ransomware gang has infected the internal network of Telecom Argentina, one of the country's largest internet service providers, and is now asking for a $7.5 million ransom demand to unlock encrypted files.\nhttps://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/\r\n**2020-07**: Administrador de Infraestructuras Ferroviarias (ADIF), a Spanish state-owned railway infrastructure manager was hit by REVil ransomware operators.\nhttps://securityaffairs.co/wordpress/106304/cyber-crime/adif-revil-ransomware-attack.html\r\n**2020-08**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n",
             "information": [
                 "<https://www.crowdstrike.com/blog/pinchy-spider-adopts-big-game-hunting/>",
                 "<https://krebsonsecurity.com/2019/07/whos-behind-the-gandcrab-ransomware/>",
@@ -30606,6 +30690,7 @@
                 "2020-03",
                 "2020-03",
                 "2020-04",
+                "2020-04",
                 "2020-05",
                 "2020-05",
                 "2020-05",
@@ -30621,7 +30706,7 @@
             ],
             "first seen": "2018",
             "counter operations": "**2020-07**: GandCrab ransomware operator arrested in Belarus\nhttps://www.bleepingcomputer.com/news/security/gandcrab-ransomware-operator-arrested-in-belarus/\r\n",
-            "last card change": "2020-08-20"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -43433,6 +43518,7 @@
                 "ahpamstzka.duckdns.org",
                 "ahqdtxishk.duckdns.org",
                 "ahrbpkyufg.duckdns.org",
+                "ahsypdnkyi.duckdns.org",
                 "ahtjkueiwm.duckdns.org",
                 "ahvlhplooe.duckdns.org",
                 "ahyer8445.duckdns.org",
@@ -43739,6 +43825,7 @@
                 "awetytsbx3.duckdns.org",
                 "awexdbx33.duckdns.org",
                 "awfftylkat.duckdns.org",
+                "awfzwsglbz.duckdns.org",
                 "awgtsx232.duckdns.org",
                 "awolfjidcm.duckdns.org",
                 "awretydxh3.duckdns.org",
@@ -43753,6 +43840,7 @@
                 "axcde.duckdns.org",
                 "axfcqyxvow.duckdns.org",
                 "axpmgbdmrq.duckdns.org",
+                "axqjurjfto.duckdns.org",
                 "axse.duckdns.org",
                 "ayfcuefmjj.duckdns.org",
                 "ayfpfwwmgj.duckdns.org",
@@ -43803,6 +43891,7 @@
                 "beydtjkyhs.duckdns.org",
                 "bfeizfqlnl.duckdns.org",
                 "bfmigfhxzt.duckdns.org",
+                "bfvjojwiwp.duckdns.org",
                 "bfvqcfypac.duckdns.org",
                 "bfxxkzzzso.duckdns.org",
                 "bfzeltnrsm.duckdns.org",
@@ -43816,6 +43905,7 @@
                 "bhakcawiyx.duckdns.org",
                 "bhalmhppsz.duckdns.org",
                 "bhohrkrhrt.duckdns.org",
+                "bhomopweua.duckdns.org",
                 "bhpjdwrpbr.duckdns.org",
                 "bhpwynmvvf.duckdns.org",
                 "bhyiamaqny.duckdns.org",
@@ -43823,6 +43913,7 @@
                 "bipienryde.duckdns.org",
                 "bipphsovwg.duckdns.org",
                 "biqkndxqgp.duckdns.org",
+                "biuuamjcwq.duckdns.org",
                 "biuwzjlsqg.duckdns.org",
                 "bixtrbnzle.duckdns.org",
                 "bjahcgytiu.duckdns.org",
@@ -43867,6 +43958,7 @@
                 "bmjsklxlvb.duckdns.org",
                 "bmtlitlihj.duckdns.org",
                 "bmwzhlkaiz.duckdns.org",
+                "bmyyfpyqkj.duckdns.org",
                 "bnbxgwbudj.duckdns.org",
                 "bndraahkvg.duckdns.org",
                 "bneoebxtni.duckdns.org",
@@ -43962,6 +44054,7 @@
                 "casrptaysi.duckdns.org",
                 "cavpxcvobe.duckdns.org",
                 "cbeqglrdfv.duckdns.org",
+                "cbrmumghca.duckdns.org",
                 "cbwimkwgdz.duckdns.org",
                 "ccaimgmudp.duckdns.org",
                 "ccfmhitwwv.duckdns.org",
@@ -43979,6 +44072,7 @@
                 "cdvlzwgrdy.duckdns.org",
                 "cdyzeglhmo.duckdns.org",
                 "ceahipsmtl.duckdns.org",
+                "cegakbwyty.duckdns.org",
                 "cehgktwqyl.duckdns.org",
                 "cemsjtgitn.duckdns.org",
                 "cemubcjljc.duckdns.org",
@@ -44002,10 +44096,12 @@
                 "chzpnxzsob.duckdns.org",
                 "cifjmhxfmg.duckdns.org",
                 "cijxqesmvg.duckdns.org",
+                "cilaqehznk.duckdns.org",
                 "cilhqnmdtr.duckdns.org",
                 "ciszhqmzsh.duckdns.org",
                 "cjbgbqzeyb.duckdns.org",
                 "cjviiettlx.duckdns.org",
+                "cjwudydlxb.duckdns.org",
                 "cjyipvfdws.duckdns.org",
                 "ckblfimxkb.duckdns.org",
                 "cklzzeohxc.duckdns.org",
@@ -44077,6 +44173,7 @@
                 "cvzxgmtmzx.duckdns.org",
                 "cwaqycdbgj.duckdns.org",
                 "cwbjdgyaty.duckdns.org",
+                "cwdnkjregn.duckdns.org",
                 "cwphmadzys.duckdns.org",
                 "cwwmomchvg.duckdns.org",
                 "cwwrngukpk.duckdns.org",
@@ -44103,6 +44200,7 @@
                 "daitypwfsm.duckdns.org",
                 "dalqsqyyss.duckdns.org",
                 "danoyiaxrb.duckdns.org",
+                "daqxnenjym.duckdns.org",
                 "dasfger34567.duckdns.org",
                 "dawwxhjhib.duckdns.org",
                 "daytcdsggb.duckdns.org",
@@ -44114,6 +44212,7 @@
                 "dbtrlkiesj.duckdns.org",
                 "dbyojkdvaz.duckdns.org",
                 "dcamzannqv.duckdns.org",
+                "dceuiggoal.duckdns.org",
                 "dcmfrlmubc.duckdns.org",
                 "dcngealims.duckdns.org",
                 "dcrvjxqlfs.duckdns.org",
@@ -44178,6 +44277,7 @@
                 "dhfsde345.duckdns.org",
                 "dhgxc433.duckdns.org",
                 "dhhafshiqo.duckdns.org",
+                "dhioulgyls.duckdns.org",
                 "dhjxfigohi.duckdns.org",
                 "dhkcvuqqpw.duckdns.org",
                 "dhklifogtc.duckdns.org",
@@ -44271,6 +44371,7 @@
                 "dtmxkaptib.duckdns.org",
                 "dtzdcizoeg.duckdns.org",
                 "duatpyuylw.duckdns.org",
+                "dufcjvdpdb.duckdns.org",
                 "dulsgqvjhw.duckdns.org",
                 "dumriosdnp.duckdns.org",
                 "duwkzwiqzk.duckdns.org",
@@ -44327,6 +44428,7 @@
                 "eawewqsueb.duckdns.org",
                 "eawjbsapff.duckdns.org",
                 "eawrtdxh3.duckdns.org",
+                "eaxyjxaaqy.duckdns.org",
                 "eayzefkdzt.duckdns.org",
                 "eazobuslob.duckdns.org",
                 "ebdhfuyjpb.duckdns.org",
@@ -44431,6 +44533,7 @@
                 "eqqvlizpqq.duckdns.org",
                 "ercytujqss.duckdns.org",
                 "erhoguuvvi.duckdns.org",
+                "erkcgxpceq.duckdns.org",
                 "erntqcfpwh.duckdns.org",
                 "eroopujhfo.duckdns.org",
                 "ersdgxsse.duckdns.org",
@@ -44493,6 +44596,7 @@
                 "eumkdbkzlx.duckdns.org",
                 "eumpldkrnz.duckdns.org",
                 "euspvvrdel.duckdns.org",
+                "evbctavqfq.duckdns.org",
                 "evifohahzn.duckdns.org",
                 "evkikclfdf.duckdns.org",
                 "ewarycxh44.duckdns.org",
@@ -44532,6 +44636,7 @@
                 "fabdjbrghz.duckdns.org",
                 "fadfecxtzr.duckdns.org",
                 "faduqzjwkv.duckdns.org",
+                "fadwairits.duckdns.org",
                 "faesuwgxbn.duckdns.org",
                 "fapyaywjzl.duckdns.org",
                 "farwstfqsl.duckdns.org",
@@ -44558,6 +44663,7 @@
                 "fdspfgtalb.duckdns.org",
                 "fdtr.duckdns.org",
                 "fdudqpyagc.duckdns.org",
+                "fdufxnzknm.duckdns.org",
                 "fdvwvhmprt.duckdns.org",
                 "fdyshcagxy.duckdns.org",
                 "fdzbhssiee.duckdns.org",
@@ -44599,12 +44705,15 @@
                 "fjfhpcmqoi.duckdns.org",
                 "fjihjrtnwg.duckdns.org",
                 "fjwfysnnra.duckdns.org",
+                "fkdwoxpgkb.duckdns.org",
                 "fkeopxjiht.duckdns.org",
                 "fkfjxdaumy.duckdns.org",
+                "fkiseycbwk.duckdns.org",
                 "fkobxksuti.duckdns.org",
                 "flaphgzeyw.duckdns.org",
                 "fldwobiaiz.duckdns.org",
                 "flekkfayha.duckdns.org",
+                "fleutjeptl.duckdns.org",
                 "flodrlrlfs.duckdns.org",
                 "flqvbysavh.duckdns.org",
                 "flvupawygb.duckdns.org",
@@ -44658,6 +44767,7 @@
                 "ftieomcicr.duckdns.org",
                 "ftlukfmrzs.duckdns.org",
                 "ftnaevpdoa.duckdns.org",
+                "ftnqsrfppn.duckdns.org",
                 "ftsuxnmzbv.duckdns.org",
                 "ftteuhdjyw.duckdns.org",
                 "ftucjeshwh.duckdns.org",
@@ -44712,6 +44822,7 @@
                 "gawqrnqffm.duckdns.org",
                 "gawwe.duckdns.org",
                 "gbbtljxwii.duckdns.org",
+                "gbetazntyw.duckdns.org",
                 "gbgushobfw.duckdns.org",
                 "gbleciiwng.duckdns.org",
                 "gbubqthrlk.duckdns.org",
@@ -44796,6 +44907,7 @@
                 "gmaknhpthj.duckdns.org",
                 "gmbvbedjdc.duckdns.org",
                 "gmcuftxkvt.duckdns.org",
+                "gmgxtrebtc.duckdns.org",
                 "gmiyuioalt.duckdns.org",
                 "gmjitltpzh.duckdns.org",
                 "gmjmouacne.duckdns.org",
@@ -44806,6 +44918,7 @@
                 "gngjvclxln.duckdns.org",
                 "gnjicvazvf.duckdns.org",
                 "gnlpcqjfwo.duckdns.org",
+                "gnnmdlfolk.duckdns.org",
                 "gnoibsbwrk.duckdns.org",
                 "gnskmmxqry.duckdns.org",
                 "gnuvmhtbmk.duckdns.org",
@@ -44855,11 +44968,14 @@
                 "gunosaltyi.duckdns.org",
                 "gupnjkvhxj.duckdns.org",
                 "gusaeiwgag.duckdns.org",
+                "guwhjsdpsx.duckdns.org",
                 "guybpsrydr.duckdns.org",
+                "gvfkzjfldy.duckdns.org",
                 "gvpbmhpqtq.duckdns.org",
                 "gvtjttzixt.duckdns.org",
                 "gvucsttemq.duckdns.org",
                 "gvwqvqampe.duckdns.org",
+                "gvzoxyrric.duckdns.org",
                 "gwaettsgs.duckdns.org",
                 "gwexs.duckdns.org",
                 "gwhvehxwtx.duckdns.org",
@@ -44869,10 +44985,12 @@
                 "gxmplofixm.duckdns.org",
                 "gxpmcdjemh.duckdns.org",
                 "gxsde354.duckdns.org",
+                "gxuftzbdpm.duckdns.org",
                 "gxxgxhitgs.duckdns.org",
                 "gxxhbhctnw.duckdns.org",
                 "gybejnjest.duckdns.org",
                 "gyfpiphumy.duckdns.org",
+                "gynmahcjta.duckdns.org",
                 "gyoksbiydq.duckdns.org",
                 "gyyjnbbzsy.duckdns.org",
                 "gzbulheals.duckdns.org",
@@ -45023,6 +45141,7 @@
                 "hgjnixucgm.duckdns.org",
                 "hglwvplwdp.duckdns.org",
                 "hgmvpldvjv.duckdns.org",
+                "hgofqhpepm.duckdns.org",
                 "hgsadfwex.duckdns.org",
                 "hgsadfwexs.duckdns.org",
                 "hgsadfxwe.duckdns.org",
@@ -45060,6 +45179,7 @@
                 "hkgksmkoko.duckdns.org",
                 "hkrnhsnpiv.duckdns.org",
                 "hkuqynseib.duckdns.org",
+                "hkxticswqv.duckdns.org",
                 "hlchrdivfo.duckdns.org",
                 "hlgastibke.duckdns.org",
                 "hljphqsnbc.duckdns.org",
@@ -45104,9 +45224,11 @@
                 "houamkwjzs.duckdns.org",
                 "houazgihyt.duckdns.org",
                 "hpkbydbxah.duckdns.org",
+                "hppupqmnbz.duckdns.org",
                 "hpqdxcvkka.duckdns.org",
                 "hpyyfzqoib.duckdns.org",
                 "hqctdhdgcy.duckdns.org",
+                "hqfdmvmbxl.duckdns.org",
                 "hqhbopjqpn.duckdns.org",
                 "hqjwdbgrvf.duckdns.org",
                 "hqnzawfkam.duckdns.org",
@@ -45167,10 +45289,12 @@
                 "hsnxgxlqqi.duckdns.org",
                 "hswe33x.duckdns.org",
                 "hsxccvsw.duckdns.org",
+                "hsxyulzzbs.duckdns.org",
                 "htbhzkjqsn.duckdns.org",
                 "htcobzknoj.duckdns.org",
                 "htdhlixknz.duckdns.org",
                 "htgdbrkjar.duckdns.org",
+                "htguehiisq.duckdns.org",
                 "htkiohujnf.duckdns.org",
                 "htlwnmvplq.duckdns.org",
                 "htspqinvww.duckdns.org",
@@ -45208,6 +45332,7 @@
                 "hxavs3ee.duckdns.org",
                 "hxccpkdjad.duckdns.org",
                 "hxcvsdseew.duckdns.org",
+                "hxhyddnpoo.duckdns.org",
                 "hxjhzjajni.duckdns.org",
                 "hxmxxcvulg.duckdns.org",
                 "hxpgeigzpm.duckdns.org",
@@ -45279,6 +45404,7 @@
                 "iidpeefvnh.duckdns.org",
                 "iihpeodkfu.duckdns.org",
                 "iiicgtmran.duckdns.org",
+                "iijizdllxy.duckdns.org",
                 "iimkwixxux.duckdns.org",
                 "iimohhdwev.duckdns.org",
                 "iiriwprgkm.duckdns.org",
@@ -45310,6 +45436,7 @@
                 "intbdxdzjz.duckdns.org",
                 "inwspkymgb.duckdns.org",
                 "iobbrwbjjp.duckdns.org",
+                "iogcwwqtgg.duckdns.org",
                 "iojzzmxzyp.duckdns.org",
                 "ioposnwnem.duckdns.org",
                 "iozehkuvfr.duckdns.org",
@@ -45343,7 +45470,9 @@
                 "isrkuekejq.duckdns.org",
                 "itctnetaws.duckdns.org",
                 "itlhvfuisl.duckdns.org",
+                "iuahznouku.duckdns.org",
                 "iubrptdxog.duckdns.org",
+                "iugnqymdnw.duckdns.org",
                 "iuhsbfaais.duckdns.org",
                 "ivciyoooqb.duckdns.org",
                 "ivdvcdrcdk.duckdns.org",
@@ -45371,6 +45500,7 @@
                 "iynqhxumoh.duckdns.org",
                 "iyshbxddte.duckdns.org",
                 "iyunkprjqe.duckdns.org",
+                "izaklpykvq.duckdns.org",
                 "izbghgtwwe.duckdns.org",
                 "izlvluioyf.duckdns.org",
                 "iznbijdeuh.duckdns.org",
@@ -45390,6 +45520,7 @@
                 "jasgdwae3.duckdns.org",
                 "jatlntaikb.duckdns.org",
                 "jaycdcpjws.duckdns.org",
+                "jayylxjlvj.duckdns.org",
                 "jbaysbwcgp.duckdns.org",
                 "jboyshyoje.duckdns.org",
                 "jburjdhpgz.duckdns.org",
@@ -45472,8 +45603,10 @@
                 "jmqogfskdu.duckdns.org",
                 "jndtiyrtbg.duckdns.org",
                 "jnhebztfni.duckdns.org",
+                "jnipxdzxge.duckdns.org",
                 "jnjuujuinu.duckdns.org",
                 "jnmxvorooe.duckdns.org",
+                "jnmyufdgsy.duckdns.org",
                 "jnossywtnb.duckdns.org",
                 "jnrieuadas.duckdns.org",
                 "jnrutgqbeh.duckdns.org",
@@ -45492,6 +45625,7 @@
                 "joyiftoszb.duckdns.org",
                 "jpgkdmknqt.duckdns.org",
                 "jpgmtksmol.duckdns.org",
+                "jpgrhikggo.duckdns.org",
                 "jpkevysbrd.duckdns.org",
                 "jpkzlkmztq.duckdns.org",
                 "jpsbckzqrp.duckdns.org",
@@ -45564,6 +45698,7 @@
                 "jyvbhqmisw.duckdns.org",
                 "jzafoktmsi.duckdns.org",
                 "jzdkgzoago.duckdns.org",
+                "jzgkotqzqj.duckdns.org",
                 "jzueyfdlhp.duckdns.org",
                 "jzvdfzfeua.duckdns.org",
                 "jzvtctqhiz.duckdns.org",
@@ -45591,6 +45726,7 @@
                 "keheusdswj.duckdns.org",
                 "keljgfisfo.duckdns.org",
                 "kemsvfdyqo.duckdns.org",
+                "kesuqolmia.duckdns.org",
                 "kevvvtkmen.duckdns.org",
                 "kezrjnrnhc.duckdns.org",
                 "kfetyzuiwv.duckdns.org",
@@ -45621,6 +45757,7 @@
                 "kimavdbimm.duckdns.org",
                 "kimuzhnzcz.duckdns.org",
                 "kiqkrwqrzk.duckdns.org",
+                "kiwldgcfrb.duckdns.org",
                 "kjcgjluvwu.duckdns.org",
                 "kjnhkdgjdd.duckdns.org",
                 "kjqgcfkfjp.duckdns.org",
@@ -45717,6 +45854,7 @@
                 "kulllhddit.duckdns.org",
                 "kunxfcrzio.duckdns.org",
                 "kuoqehrqih.duckdns.org",
+                "kvfmcutfki.duckdns.org",
                 "kvfmxmjsgd.duckdns.org",
                 "kvmwdtokes.duckdns.org",
                 "kvqhmktfkf.duckdns.org",
@@ -45796,13 +45934,18 @@
                 "lfvjcqcbip.duckdns.org",
                 "lgcgvugygv.duckdns.org",
                 "lgdkjjqmvp.duckdns.org",
+                "lgemwjvpyg.duckdns.org",
                 "lghokgjoth.duckdns.org",
+                "lglmgzarub.duckdns.org",
+                "lgnjtutswj.duckdns.org",
                 "lgtvpiopgq.duckdns.org",
                 "lhhacqrecw.duckdns.org",
                 "lhuemhwsqe.duckdns.org",
                 "lhwbqzjezw.duckdns.org",
                 "lhxsjgjwzm.duckdns.org",
+                "lieetkhryy.duckdns.org",
                 "lifsotlrie.duckdns.org",
+                "lijnrmsznl.duckdns.org",
                 "likpdonqzc.duckdns.org",
                 "liqzuhzqkk.duckdns.org",
                 "lirewanltp.duckdns.org",
@@ -45841,6 +45984,7 @@
                 "lllngkejcw.duckdns.org",
                 "lllquvjqcs.duckdns.org",
                 "llnvopvbxa.duckdns.org",
+                "llqmsxyibh.duckdns.org",
                 "llrtjhwsgb.duckdns.org",
                 "lltfdpxhem.duckdns.org",
                 "lluzxlffgx.duckdns.org",
@@ -45873,6 +46017,7 @@
                 "lozstnmqag.duckdns.org",
                 "lpaujiugyk.duckdns.org",
                 "lpehzokfqm.duckdns.org",
+                "lphtspjzpl.duckdns.org",
                 "lprdxxxsbv.duckdns.org",
                 "lpwkwqvehi.duckdns.org",
                 "lpzdpuvxyd.duckdns.org",
@@ -45894,6 +46039,7 @@
                 "lsngkdnxkr.duckdns.org",
                 "lsnxxpeqpf.duckdns.org",
                 "lsodfqykgl.duckdns.org",
+                "lsrakkbxwl.duckdns.org",
                 "ltfqiiagzx.duckdns.org",
                 "ltizwjuysf.duckdns.org",
                 "ltjzmazmmg.duckdns.org",
@@ -45949,6 +46095,7 @@
                 "meefuukczb.duckdns.org",
                 "meewepkqlh.duckdns.org",
                 "mengatxswu.duckdns.org",
+                "merhparepo.duckdns.org",
                 "merhqvjajo.duckdns.org",
                 "metdyizvsi.duckdns.org",
                 "meurygluoi.duckdns.org",
@@ -45995,6 +46142,7 @@
                 "mkgsqmplyh.duckdns.org",
                 "mkjrvdkplt.duckdns.org",
                 "mkjzhddsnp.duckdns.org",
+                "mkkbywafwd.duckdns.org",
                 "mkphkvymoo.duckdns.org",
                 "mkpyiwhrhr.duckdns.org",
                 "mkttdkfoyk.duckdns.org",
@@ -46047,6 +46195,7 @@
                 "mquxolnsnx.duckdns.org",
                 "mqvhhakvtf.duckdns.org",
                 "mqxjnvrmfy.duckdns.org",
+                "mrbpool.xyz",
                 "mrerrhrynk.duckdns.org",
                 "mrkopftbkk.duckdns.org",
                 "mrwainctgr.duckdns.org",
@@ -46082,6 +46231,7 @@
                 "mwfiudyhqg.duckdns.org",
                 "mwfqzxcjok.duckdns.org",
                 "mwiuhapxdn.duckdns.org",
+                "mwkeoyytfg.duckdns.org",
                 "mwnbmdmjur.duckdns.org",
                 "mwntnqpmod.duckdns.org",
                 "mwukiqeoof.duckdns.org",
@@ -46121,6 +46271,7 @@
                 "ncbomqqckc.duckdns.org",
                 "nccqvwtyfz.duckdns.org",
                 "nccvumlgzf.duckdns.org",
+                "ncdzgkrrcd.duckdns.org",
                 "ncgtscmlbx.duckdns.org",
                 "ncnaphbbus.duckdns.org",
                 "ncoohfmjrr.duckdns.org",
@@ -46128,11 +46279,13 @@
                 "ncvbd446.duckdns.org",
                 "ncwxbiyask.duckdns.org",
                 "ncyvfvrbct.duckdns.org",
+                "ndhasfysdg.duckdns.org",
                 "ndhdvvyzkc.duckdns.org",
                 "ndismsympy.duckdns.org",
                 "ndknpgbobz.duckdns.org",
                 "ndmjtpazje.duckdns.org",
                 "ndnokblhth.duckdns.org",
+                "ndnxryfwdt.duckdns.org",
                 "ndqvsjrxlq.duckdns.org",
                 "ndsfgerysw.duckdns.org",
                 "ndsxvtiyld.duckdns.org",
@@ -46233,6 +46386,7 @@
                 "npunguyjah.duckdns.org",
                 "npvunstsmg.duckdns.org",
                 "nqeyzirshr.duckdns.org",
+                "nqgekorcui.duckdns.org",
                 "nqhjfobtgn.duckdns.org",
                 "nqhtgduuqh.duckdns.org",
                 "nqinoolcov.duckdns.org",
@@ -46273,6 +46427,7 @@
                 "nveskkyslq.duckdns.org",
                 "nvldnkmuwc.duckdns.org",
                 "nvmmqirigc.duckdns.org",
+                "nvmoqglnox.duckdns.org",
                 "nvwhzcpzso.duckdns.org",
                 "nvxeikxeug.duckdns.org",
                 "nwbzbzeywo.duckdns.org",
@@ -46376,6 +46531,7 @@
                 "omqtjpqpgh.duckdns.org",
                 "omruylrqrm.duckdns.org",
                 "omsgwusnhy.duckdns.org",
+                "omvxlavjln.duckdns.org",
                 "omxqouelcv.duckdns.org",
                 "onbqgkecwk.duckdns.org",
                 "onlkckorht.duckdns.org",
@@ -46391,6 +46547,7 @@
                 "oouosdjbhz.duckdns.org",
                 "ooxhayfqun.duckdns.org",
                 "opazuboksd.duckdns.org",
+                "opignddwdh.duckdns.org",
                 "opovlcwqyl.duckdns.org",
                 "opswqvnoqy.duckdns.org",
                 "optrqpykly.duckdns.org",
@@ -46413,6 +46570,7 @@
                 "osfoptwzxm.duckdns.org",
                 "oshcimnaqu.duckdns.org",
                 "osikhyzxrg.duckdns.org",
+                "osiswhzpnf.duckdns.org",
                 "osniydgcpt.duckdns.org",
                 "ospbrbdvet.duckdns.org",
                 "osrfsuhrvb.duckdns.org",
@@ -46431,6 +46589,7 @@
                 "ouoktrcjvi.duckdns.org",
                 "ouoozmlvqy.duckdns.org",
                 "oupyqezegb.duckdns.org",
+                "ousonjmpmh.duckdns.org",
                 "ouvugnmzsk.duckdns.org",
                 "ouzpdzudft.duckdns.org",
                 "ovelsfhkmv.duckdns.org",
@@ -46509,6 +46668,7 @@
                 "pdyovloixb.duckdns.org",
                 "pdywzoiqow.duckdns.org",
                 "pebiibyzxd.duckdns.org",
+                "pecwppdezb.duckdns.org",
                 "peicetkzbh.duckdns.org",
                 "pervzjqwlk.duckdns.org",
                 "peyhahltmt.duckdns.org",
@@ -46525,6 +46685,7 @@
                 "pgdqqsqmri.duckdns.org",
                 "pgeiqwclpo.duckdns.org",
                 "pgfbyywnen.duckdns.org",
+                "pglwgvywbn.duckdns.org",
                 "pgzkqeypyf.duckdns.org",
                 "phqrsvmqoq.duckdns.org",
                 "phsavbunhq.duckdns.org",
@@ -46544,6 +46705,7 @@
                 "pjeqojxljj.duckdns.org",
                 "pjgakfrdvs.duckdns.org",
                 "pjhkzkgcse.duckdns.org",
+                "pjkovqbiac.duckdns.org",
                 "pjokjilegh.duckdns.org",
                 "pjspoyswfp.duckdns.org",
                 "pjtgvbvexs.duckdns.org",
@@ -46569,6 +46731,7 @@
                 "pmkdnuwseb.duckdns.org",
                 "pncfjqhlus.duckdns.org",
                 "pndhrqjkxe.duckdns.org",
+                "pngeqvasxg.duckdns.org",
                 "pnhrccwzwk.duckdns.org",
                 "pnjboluejx.duckdns.org",
                 "pnmrpalkew.duckdns.org",
@@ -46620,7 +46783,9 @@
                 "pudraxjbma.duckdns.org",
                 "pudvqqpwup.duckdns.org",
                 "pufhnwxgep.duckdns.org",
+                "pujfxwhond.duckdns.org",
                 "puthcmbxzn.duckdns.org",
+                "putyhthtyd.duckdns.org",
                 "puvryjseyj.duckdns.org",
                 "puyficfhdq.duckdns.org",
                 "pvatfvmzwj.duckdns.org",
@@ -46630,9 +46795,11 @@
                 "pvrwiwksxe.duckdns.org",
                 "pwfxwkymzk.duckdns.org",
                 "pwhzoyukjo.duckdns.org",
+                "pwjmquoxhr.duckdns.org",
                 "pwohnswrzj.duckdns.org",
                 "pwpxfdfdoq.duckdns.org",
                 "pwuoqpuicu.duckdns.org",
+                "pwvqslbkvi.duckdns.org",
                 "pxbjcdxuou.duckdns.org",
                 "pxexdipskg.duckdns.org",
                 "pxfnvelzjz.duckdns.org",
@@ -46645,6 +46812,7 @@
                 "pypgcefyoi.duckdns.org",
                 "pzcffghgzh.duckdns.org",
                 "pzdzcekqvd.duckdns.org",
+                "pzgewkjkaw.duckdns.org",
                 "pzjmcfoxvm.duckdns.org",
                 "pzplwutaqy.duckdns.org",
                 "pzqcwycevu.duckdns.org",
@@ -46681,6 +46849,7 @@
                 "qeziqiaaqm.duckdns.org",
                 "qfamvozidg.duckdns.org",
                 "qfjrltkqkg.duckdns.org",
+                "qfnusdatqf.duckdns.org",
                 "qfoltmdhuf.duckdns.org",
                 "qftjmunvgp.duckdns.org",
                 "qfxaxnyarf.duckdns.org",
@@ -46698,10 +46867,12 @@
                 "qimiwgzccv.duckdns.org",
                 "qitcasolnq.duckdns.org",
                 "qitnfnzxap.duckdns.org",
+                "qivkkpoalk.duckdns.org",
                 "qixsxfkftl.duckdns.org",
                 "qizzeyupfu.duckdns.org",
                 "qjbleqkvcm.duckdns.org",
                 "qjhfqunfuw.duckdns.org",
+                "qjmigxfpqj.duckdns.org",
                 "qkcheisvyd.duckdns.org",
                 "qkhgkvnilq.duckdns.org",
                 "qkkfueyeyq.duckdns.org",
@@ -46720,6 +46891,7 @@
                 "qlycdfrnaz.duckdns.org",
                 "qlzklonhht.duckdns.org",
                 "qmaepgprki.duckdns.org",
+                "qmatvpxlef.duckdns.org",
                 "qmiebcljui.duckdns.org",
                 "qmmotuxzpf.duckdns.org",
                 "qmvangoenc.duckdns.org",
@@ -46739,6 +46911,7 @@
                 "qoxjgyanrb.duckdns.org",
                 "qpaufalgxf.duckdns.org",
                 "qpqwtmrmvx.duckdns.org",
+                "qpxbyrxkye.duckdns.org",
                 "qqcnuxyvyx.duckdns.org",
                 "qqfidzdvdl.duckdns.org",
                 "qqfzptgwxk.duckdns.org",
@@ -46838,6 +47011,7 @@
                 "recrxgnblj.duckdns.org",
                 "refrryzuao.duckdns.org",
                 "reiepwteij.duckdns.org",
+                "rekehyyibq.duckdns.org",
                 "relrnrsovj.duckdns.org",
                 "reobmkhumu.duckdns.org",
                 "retcxbszx3.duckdns.org",
@@ -46847,6 +47021,7 @@
                 "rfeonegyzn.duckdns.org",
                 "rfkzvxweiw.duckdns.org",
                 "rfohedfbqf.duckdns.org",
+                "rgbzinlpfy.duckdns.org",
                 "rgdduikioy.duckdns.org",
                 "rgfzgcbhrt.duckdns.org",
                 "rggaervjhe.duckdns.org",
@@ -46856,6 +47031,7 @@
                 "rgwegjznkm.duckdns.org",
                 "rhdxpgvarn.duckdns.org",
                 "rhjcfuzhqg.duckdns.org",
+                "rhkvzcnxww.duckdns.org",
                 "rhmlqofxhb.duckdns.org",
                 "rhusgovjvm.duckdns.org",
                 "rhvcfwsjrl.duckdns.org",
@@ -47027,12 +47203,14 @@
                 "sbiyrxkmgy.duckdns.org",
                 "sblwkegdna.duckdns.org",
                 "sbmmjuiiks.duckdns.org",
+                "sbnijqmlqs.duckdns.org",
                 "sbtttnxooq.duckdns.org",
                 "sbwdrzsqzm.duckdns.org",
                 "sbxamxvorl.duckdns.org",
                 "sbxxs.duckdns.org",
                 "sbyvfuzzhy.duckdns.org",
                 "scfvwgooyv.duckdns.org",
+                "scgxwhcnkc.duckdns.org",
                 "scimhtdsmo.duckdns.org",
                 "sciqmvvwme.duckdns.org",
                 "scphgrwpqt.duckdns.org",
@@ -47120,9 +47298,11 @@
                 "sigmkhhnqa.duckdns.org",
                 "sikacsxyqo.duckdns.org",
                 "siqvylyomp.duckdns.org",
+                "sisypfebgs.duckdns.org",
                 "siwpafuxpq.duckdns.org",
                 "sixiysdnds.duckdns.org",
                 "siyktscnwt.duckdns.org",
+                "sjfsfsdxfk.duckdns.org",
                 "sjgxafbzvj.duckdns.org",
                 "sjlxyxgxuc.duckdns.org",
                 "sjwjzymkxy.duckdns.org",
@@ -47215,6 +47395,7 @@
                 "szogulnbls.duckdns.org",
                 "tablienefk.duckdns.org",
                 "tafeodqctz.duckdns.org",
+                "tafnmgputd.duckdns.org",
                 "tafswxxaod.duckdns.org",
                 "tajfvantmf.duckdns.org",
                 "takmlivrib.duckdns.org",
@@ -47269,6 +47450,7 @@
                 "tgucjdydzt.duckdns.org",
                 "tgwzbuykpx.duckdns.org",
                 "tgzncanoew.duckdns.org",
+                "thaddivjof.duckdns.org",
                 "thcvyxrfwh.duckdns.org",
                 "thdetyxrfc.duckdns.org",
                 "thecgaxaci.duckdns.org",
@@ -47312,6 +47494,7 @@
                 "tmifftlhqr.duckdns.org",
                 "tmjjlsjvjr.duckdns.org",
                 "tmldrhebsa.duckdns.org",
+                "tmlwzcacuh.duckdns.org",
                 "tmpvwqfrei.duckdns.org",
                 "tmwudnfdmh.duckdns.org",
                 "tmxwkbnodu.duckdns.org",
@@ -47356,6 +47539,7 @@
                 "tscuvhzkkf.duckdns.org",
                 "tsegs.duckdns.org",
                 "tsfaxnjceb.duckdns.org",
+                "tsgilretqp.duckdns.org",
                 "tsijrnulhi.duckdns.org",
                 "tskouyknau.duckdns.org",
                 "tslhvbonqq.duckdns.org",
@@ -47402,6 +47586,7 @@
                 "txpjvxfnps.duckdns.org",
                 "txrbonkyyy.duckdns.org",
                 "txyxrmthop.duckdns.org",
+                "tyaqpmvgxz.duckdns.org",
                 "tyfijdwtvp.duckdns.org",
                 "tyhsadwse.duckdns.org",
                 "tyjoahvvaj.duckdns.org",
@@ -47464,6 +47649,7 @@
                 "ugawfdgjzs.duckdns.org",
                 "ugczptlzrd.duckdns.org",
                 "ugousmfevw.duckdns.org",
+                "ugtexkmxqq.duckdns.org",
                 "ugtqywyebt.duckdns.org",
                 "ugucoomkyi.duckdns.org",
                 "ugvgwsngwj.duckdns.org",
@@ -47578,6 +47764,7 @@
                 "uxpedihjdg.duckdns.org",
                 "uxsmcuznmp.duckdns.org",
                 "uxvcjklgyz.duckdns.org",
+                "uyhkdxacaz.duckdns.org",
                 "uyhlxrsgml.duckdns.org",
                 "uyjueehpzn.duckdns.org",
                 "uykmbwadlc.duckdns.org",
@@ -47641,6 +47828,7 @@
                 "vhbnfbkzym.duckdns.org",
                 "vhcbvxolyb.duckdns.org",
                 "vhdbhjvdxq.duckdns.org",
+                "vhekxhefda.duckdns.org",
                 "vhifghvneg.duckdns.org",
                 "vhoucxcgeb.duckdns.org",
                 "vhowbqaogs.duckdns.org",
@@ -47660,6 +47848,7 @@
                 "vjnrmdjkir.duckdns.org",
                 "vjokbsjnuj.duckdns.org",
                 "vjrmmfmffh.duckdns.org",
+                "vjupmzlazc.duckdns.org",
                 "vjxitiheye.duckdns.org",
                 "vjxnymmbbd.duckdns.org",
                 "vkeoyheffs.duckdns.org",
@@ -47730,8 +47919,10 @@
                 "vucsahcuuy.duckdns.org",
                 "vujwjjmnbo.duckdns.org",
                 "vulkkuafyg.duckdns.org",
+                "vuskgpyaap.duckdns.org",
                 "vuveqnxehl.duckdns.org",
                 "vuwjmcqqcn.duckdns.org",
+                "vuwxhkofew.duckdns.org",
                 "vvasogrena.duckdns.org",
                 "vvdhwtouuw.duckdns.org",
                 "vvfoeperyj.duckdns.org",
@@ -47740,6 +47931,7 @@
                 "vvmvrgzrrb.duckdns.org",
                 "vvsfrbrnwj.duckdns.org",
                 "vvtorburhi.duckdns.org",
+                "vwjfpelgew.duckdns.org",
                 "vxdadrsiwc.duckdns.org",
                 "vxdievrbqk.duckdns.org",
                 "vxewdczcza.duckdns.org",
@@ -48044,6 +48236,7 @@
                 "wmulqdwlnd.duckdns.org",
                 "wmumftcqlt.duckdns.org",
                 "wmuobiovsl.duckdns.org",
+                "wmuvunxotv.duckdns.org",
                 "wmwfkbkssv.duckdns.org",
                 "wmzdxodlce.duckdns.org",
                 "wnkajodzec.duckdns.org",
@@ -48066,6 +48259,7 @@
                 "wpsgotjezz.duckdns.org",
                 "wqasdg3e3.duckdns.org",
                 "wqbohpbabi.duckdns.org",
+                "wqljahcjsz.duckdns.org",
                 "wqnrdpvgyv.duckdns.org",
                 "wqqnnssdzq.duckdns.org",
                 "wqrbmrcker.duckdns.org",
@@ -48173,6 +48367,7 @@
                 "xdhxzlszpw.duckdns.org",
                 "xdntpxgfzs.duckdns.org",
                 "xdunrpbdro.duckdns.org",
+                "xdxtwzinje.duckdns.org",
                 "xeequnzfmu.duckdns.org",
                 "xefsqkjiry.duckdns.org",
                 "xeggyvyuyv.duckdns.org",
@@ -48235,6 +48430,7 @@
                 "xlnlvxmhpl.duckdns.org",
                 "xlrhrplnfs.duckdns.org",
                 "xlufdkfohb.duckdns.org",
+                "xlxkjjrlwp.duckdns.org",
                 "xmbrlrpemv.duckdns.org",
                 "xmjpvpcyyk.duckdns.org",
                 "xmtjmlqhuo.duckdns.org",
@@ -48252,6 +48448,7 @@
                 "xockqjcvky.duckdns.org",
                 "xostbycvjj.duckdns.org",
                 "xoudhevcve.duckdns.org",
+                "xpfcosoqwq.duckdns.org",
                 "xphiclmobg.duckdns.org",
                 "xphrlaritq.duckdns.org",
                 "xpiewszdzc.duckdns.org",
@@ -48296,6 +48493,7 @@
                 "xukoxvvfmd.duckdns.org",
                 "xuvpyrwsyk.duckdns.org",
                 "xuxemossyh.duckdns.org",
+                "xuxgieicty.duckdns.org",
                 "xuzvvctbxo.duckdns.org",
                 "xvanrjmaxz.duckdns.org",
                 "xvawet234.duckdns.org",
@@ -48430,6 +48628,7 @@
                 "yinqtedhxj.duckdns.org",
                 "yiqjlqvrho.duckdns.org",
                 "yiuapqauzt.duckdns.org",
+                "yiurwqxdod.duckdns.org",
                 "yjdlbpnucg.duckdns.org",
                 "yjfnftfiev.duckdns.org",
                 "yjghmcrzbe.duckdns.org",
@@ -48444,6 +48643,7 @@
                 "ykwtnjymcz.duckdns.org",
                 "ykzsgaymdo.duckdns.org",
                 "ylbfapvoim.duckdns.org",
+                "yletnolrqf.duckdns.org",
                 "yleutbvftm.duckdns.org",
                 "ylfsgzfxtw.duckdns.org",
                 "ylikhmirup.duckdns.org",
@@ -48460,6 +48660,7 @@
                 "ynfmvlwcog.duckdns.org",
                 "yngijpwile.duckdns.org",
                 "ynhkgnrcgx.duckdns.org",
+                "ynkgrtpjgp.duckdns.org",
                 "ynlawqtbgd.duckdns.org",
                 "ynliijsyxy.duckdns.org",
                 "ynnweffeaw.duckdns.org",
@@ -48612,6 +48813,7 @@
                 "zkcdnqixoh.duckdns.org",
                 "zkewntlmue.duckdns.org",
                 "zkihwnizig.duckdns.org",
+                "zkirnnfrzn.duckdns.org",
                 "zkrqqvxjtb.duckdns.org",
                 "zlibqnvmps.duckdns.org",
                 "zlkjfenqjj.duckdns.org",
@@ -48620,6 +48822,7 @@
                 "zmsohoptmc.duckdns.org",
                 "zmwjkebqgg.duckdns.org",
                 "zmxzbavjyl.duckdns.org",
+                "zmzlodsydv.duckdns.org",
                 "zncuxsifrc.duckdns.org",
                 "znricamoal.duckdns.org",
                 "zntuwaijpx.duckdns.org",
@@ -48655,6 +48858,7 @@
                 "zroydqjiqr.duckdns.org",
                 "zrpaxuwlfn.duckdns.org",
                 "zrrwaqanty.duckdns.org",
+                "zrshvmzglt.duckdns.org",
                 "zscgapophw.duckdns.org",
                 "zstdmxqtuw.duckdns.org",
                 "zsvzxxfqtk.duckdns.org",
@@ -48705,6 +48909,7 @@
                 "zzmbcpfbip.duckdns.org",
                 "zzmginbxvr.duckdns.org",
                 "zznoaygvxc.duckdns.org",
+                "zzntxlmtac.duckdns.org",
                 "zznwfkpmlk.duckdns.org",
                 "japan-001.xyz",
                 "jnb-sh.com",
@@ -49472,7 +49677,7 @@
                 "TrickMo",
                 "Upatre"
             ],
-            "operations": "**2019-04**: Cybercriminals Spoof Major Accounting and Payroll Firms in Tax Season Malware Campaigns\nhttps://securityintelligence.com/cybercriminals-spoof-major-accounting-and-payroll-firms-in-tax-season-malware-campaigns/\r\n**2019-06**: During June and July, F5 researchers first noticed Trickbot campaigns aimed at a smaller set of geographically oriented targets and did not use redirection attacks\u2014a divergence from previous Trickbot characteristics.\nhttps://www.f5.com/labs/articles/threat-intelligence/tricky-trickbot-runs-campaigns-without-redirection\r\n**2019-08**: In a recent analysis in our cybercrime research labs, we noticed changes in the deployment of the TrickBot Trojan. At the time, the change we observed only applied to infection attempts on Windows 10 64-bit operating systems (OSs). In those cases, TrickBot ran the payload, but did not save its typical modules and configurations to disk.\nhttps://securityintelligence.com/posts/the-curious-case-of-a-fileless-trickbot-infection/\r\n**2019-10**: Computers at the DCH Regional Medical Center in Tuscaloosa, Fayette Medical Center and Northport Medical Center were infected with ransomware.\nhttps://www.bbc.com/news/technology-49905226\r\n**2019-10**: Shipping giant Pitney Bowes hit by ransomware\nhttps://techcrunch.com/2019/10/14/pitney-bowes-ransomware-attack/\r\n**2019-11**: Louisiana was hit by Ryuk, triggering another cyber-emergency\nhttps://arstechnica.com/information-technology/2019/11/louisiana-was-hit-by-ryuk-triggering-another-cyber-emergency/\r\n**2019-12**: TrickBot Widens Infection Campaigns in Japan Ahead of Holiday Season\nhttps://securityintelligence.com/posts/trickbot-widens-infection-campaigns-in-japan-ahead-of-holiday-season/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2019-12**: The cyberattack that took down public-access computers at Volusia County, Fla., libraries last month involved ransomware that has elicited millions of dollars in ransom payments from governments and large businesses.\nhttps://www.govtech.com/security/Ryuk-Ransomware-behind-Attack-on-Florida-Library-System.html\r\n**2019-12**: New Orleans latest apparent victim of Ryuk ransomware\nhttps://statescoop.com/new-orleans-latest-apparent-victim-of-ryuk-ransomware/\r\n**2019-12**: An infection with the Ryuk ransomware took down a maritime facility for more than 30 hours; the US Coast Guard said in a security bulletin it published before Christmas.\nhttps://www.zdnet.com/article/us-coast-guard-discloses-ryuk-ransomware-infection-at-maritime-facility/\r\n**2019-12**: Suspected Ryuk ransomware attack locks down Adelaide's City of Onkaparinga council\nhttps://www.abc.net.au/news/2020-01-06/city-of-onkaparinga-hit-by-ryuk-ransomware/11843598\r\n**2020-01**: On the heels of a Ryuk ransomware attack on the Tampa Bay Times, researchers reported a new variant of the Ryuk stealer being aimed at government, financial and law enforcement targets.\nhttps://www.scmagazine.com/home/security-news/tampa-bay-times-hit-by-ryuk-new-variant-of-stealer-aimed-at-govt-finance/\r\n**2020-01**: Electronic Warfare Associates (EWA), a 40-year-old electronics company and a well-known US government contractor, has suffered a ransomware infection, ZDNet has learned.\nhttps://www.zdnet.com/article/dod-contractor-suffers-ransomware-infection/\r\n**2020-01**: Top-Tier Russian Organized Cybercrime Group Unveils Fileless Stealthy \u201cPowerTrick\u201d Backdoor for High-Value Targets\nhttps://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/\r\n**2020-02**: Ryuk Ransomware Campaign Targets Port Lavaca City Hall\nhttps://www.cisomag.com/ryuk-ransomware-campaign-targets-port-lavaca-city-hall/\r\n**2020-02**: EMCOR Group, a US-based Fortune 500 company specialized in engineering and industrial construction services, disclosed last month a ransomware incident that took down some of its IT systems.\nhttps://www.zdnet.com/article/ryuk-ransomware-hits-fortune-500-company-emcor/\r\n**2020-02**: Epiq Global, an international e-discovery and managed services company, has taken its systems offline globally after detecting unauthorized activity.\nhttps://www.lawsitesblog.com/2020/03/epiq-global-down-as-company-investigates-unauthorized-activity-on-systems.html\r\n**2020-03**: Trickbot campaign targets Coronavirus fears in Italy\nhttps://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/\r\n**2020-03**: EVRAZ, one of the world's largest steel manufacturers and mining operations, has been hit by ransomware, a source inside the company told ZDNet today.\nhttps://www.zdnet.com/article/one-of-roman-abramovichs-companies-got-hit-by-ransomware/\r\n**2020-03**: The City of Durham, North Carolina has shut down its network after suffering a cyberattack by the Ryuk Ransomware this weekend.\nhttps://www.bleepingcomputer.com/news/security/ryuk-ransomware-behind-durham-north-carolina-cyberattack/\r\n**2020-03**: New Variant of TrickBot Being Spread by Word Document\nhttps://www.fortinet.com/blog/threat-research/new-variant-of-trickbot-being-spread-by-word-document.html\r\n**2020-03**: New TrickBot Module Bruteforces RDP Connections, Targets Select Telecommunication Services in US and Hong Kong\nhttps://labs.bitdefender.com/2020/03/new-trickbot-module-bruteforces-rdp-connections-targets-select-telecommunication-services-in-us-and-hong-kong/\r\n**2020-03**: TrickBot Pushing a 2FA Bypass App to Bank Customers in Germany\nhttps://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/\r\n**2020-04**: BazarBackdoor: TrickBot gang\u2019s new stealthy network-hacking malware\nhttps://www.bleepingcomputer.com/news/security/bazarbackdoor-trickbot-gang-s-new-stealthy-network-hacking-malware/\r\n**2020-04**: TrickBot Campaigns Targeting Users via Department of Labor FMLA Spam\nhttps://securityintelligence.com/posts/trickbot-campaigns-targeting-users-via-department-of-labor-fmla-spam/\r\n**2020-04**: As early as April 2020, TrickBot updated one of its propagation modules known as \u201cmworm\u201d to a new module called \u201cnworm.\u201d Infections caused through nworm leave no artifacts on an infected DC, and they disappear after a reboot or shutdown.\nhttps://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/\r\n**2020-07**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n**2020-08**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n**2020-08**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n",
+            "operations": "**2019-04**: Cybercriminals Spoof Major Accounting and Payroll Firms in Tax Season Malware Campaigns\nhttps://securityintelligence.com/cybercriminals-spoof-major-accounting-and-payroll-firms-in-tax-season-malware-campaigns/\r\n**2019-06**: During June and July, F5 researchers first noticed Trickbot campaigns aimed at a smaller set of geographically oriented targets and did not use redirection attacks\u2014a divergence from previous Trickbot characteristics.\nhttps://www.f5.com/labs/articles/threat-intelligence/tricky-trickbot-runs-campaigns-without-redirection\r\n**2019-08**: In a recent analysis in our cybercrime research labs, we noticed changes in the deployment of the TrickBot Trojan. At the time, the change we observed only applied to infection attempts on Windows 10 64-bit operating systems (OSs). In those cases, TrickBot ran the payload, but did not save its typical modules and configurations to disk.\nhttps://securityintelligence.com/posts/the-curious-case-of-a-fileless-trickbot-infection/\r\n**2019-10**: Computers at the DCH Regional Medical Center in Tuscaloosa, Fayette Medical Center and Northport Medical Center were infected with ransomware.\nhttps://www.bbc.com/news/technology-49905226\r\n**2019-10**: Shipping giant Pitney Bowes hit by ransomware\nhttps://techcrunch.com/2019/10/14/pitney-bowes-ransomware-attack/\r\n**2019-11**: Louisiana was hit by Ryuk, triggering another cyber-emergency\nhttps://arstechnica.com/information-technology/2019/11/louisiana-was-hit-by-ryuk-triggering-another-cyber-emergency/\r\n**2019-12**: TrickBot Widens Infection Campaigns in Japan Ahead of Holiday Season\nhttps://securityintelligence.com/posts/trickbot-widens-infection-campaigns-in-japan-ahead-of-holiday-season/\r\n**2019-12**: The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT\nhttps://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/\r\n**2019-12**: The cyberattack that took down public-access computers at Volusia County, Fla., libraries last month involved ransomware that has elicited millions of dollars in ransom payments from governments and large businesses.\nhttps://www.govtech.com/security/Ryuk-Ransomware-behind-Attack-on-Florida-Library-System.html\r\n**2019-12**: New Orleans latest apparent victim of Ryuk ransomware\nhttps://statescoop.com/new-orleans-latest-apparent-victim-of-ryuk-ransomware/\r\n**2019-12**: An infection with the Ryuk ransomware took down a maritime facility for more than 30 hours; the US Coast Guard said in a security bulletin it published before Christmas.\nhttps://www.zdnet.com/article/us-coast-guard-discloses-ryuk-ransomware-infection-at-maritime-facility/\r\n**2019-12**: Suspected Ryuk ransomware attack locks down Adelaide's City of Onkaparinga council\nhttps://www.abc.net.au/news/2020-01-06/city-of-onkaparinga-hit-by-ryuk-ransomware/11843598\r\n**2020-01**: On the heels of a Ryuk ransomware attack on the Tampa Bay Times, researchers reported a new variant of the Ryuk stealer being aimed at government, financial and law enforcement targets.\nhttps://www.scmagazine.com/home/security-news/tampa-bay-times-hit-by-ryuk-new-variant-of-stealer-aimed-at-govt-finance/\r\n**2020-01**: Electronic Warfare Associates (EWA), a 40-year-old electronics company and a well-known US government contractor, has suffered a ransomware infection, ZDNet has learned.\nhttps://www.zdnet.com/article/dod-contractor-suffers-ransomware-infection/\r\n**2020-01**: Top-Tier Russian Organized Cybercrime Group Unveils Fileless Stealthy \u201cPowerTrick\u201d Backdoor for High-Value Targets\nhttps://labs.sentinelone.com/top-tier-russian-organized-cybercrime-group-unveils-fileless-stealthy-powertrick-backdoor-for-high-value-targets/\r\n**2020-02**: Ryuk Ransomware Campaign Targets Port Lavaca City Hall\nhttps://www.cisomag.com/ryuk-ransomware-campaign-targets-port-lavaca-city-hall/\r\n**2020-02**: EMCOR Group, a US-based Fortune 500 company specialized in engineering and industrial construction services, disclosed last month a ransomware incident that took down some of its IT systems.\nhttps://www.zdnet.com/article/ryuk-ransomware-hits-fortune-500-company-emcor/\r\n**2020-02**: Epiq Global, an international e-discovery and managed services company, has taken its systems offline globally after detecting unauthorized activity.\nhttps://www.lawsitesblog.com/2020/03/epiq-global-down-as-company-investigates-unauthorized-activity-on-systems.html\r\n**2020-03**: Trickbot campaign targets Coronavirus fears in Italy\nhttps://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/\r\n**2020-03**: EVRAZ, one of the world's largest steel manufacturers and mining operations, has been hit by ransomware, a source inside the company told ZDNet today.\nhttps://www.zdnet.com/article/one-of-roman-abramovichs-companies-got-hit-by-ransomware/\r\n**2020-03**: The City of Durham, North Carolina has shut down its network after suffering a cyberattack by the Ryuk Ransomware this weekend.\nhttps://www.bleepingcomputer.com/news/security/ryuk-ransomware-behind-durham-north-carolina-cyberattack/\r\n**2020-03**: New Variant of TrickBot Being Spread by Word Document\nhttps://www.fortinet.com/blog/threat-research/new-variant-of-trickbot-being-spread-by-word-document.html\r\n**2020-03**: New TrickBot Module Bruteforces RDP Connections, Targets Select Telecommunication Services in US and Hong Kong\nhttps://labs.bitdefender.com/2020/03/new-trickbot-module-bruteforces-rdp-connections-targets-select-telecommunication-services-in-us-and-hong-kong/\r\n**2020-03**: TrickBot Pushing a 2FA Bypass App to Bank Customers in Germany\nhttps://securityintelligence.com/posts/trickbot-pushing-a-2fa-bypass-app-to-bank-customers-in-germany/\r\n**2020-04**: BazarBackdoor: TrickBot gang\u2019s new stealthy network-hacking malware\nhttps://www.bleepingcomputer.com/news/security/bazarbackdoor-trickbot-gang-s-new-stealthy-network-hacking-malware/\r\n**2020-04**: TrickBot Campaigns Targeting Users via Department of Labor FMLA Spam\nhttps://securityintelligence.com/posts/trickbot-campaigns-targeting-users-via-department-of-labor-fmla-spam/\r\n**2020-04**: As early as April 2020, TrickBot updated one of its propagation modules known as \u201cmworm\u201d to a new module called \u201cnworm.\u201d Infections caused through nworm leave no artifacts on an infected DC, and they disappear after a reboot or shutdown.\nhttps://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/\r\n**2020-07**: The infamous TrickBot trojan has started to check the screen resolutions of victims to detect whether the malware is running in a virtual machine.\nhttps://www.bleepingcomputer.com/news/security/trickbot-malware-now-checks-screen-resolution-to-evade-analysis/\r\n**2020-08**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n**2020-08**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n**2020-09**: US Court Hit by \u201cConti\u201d Ransomware\nhttps://www.cbronline.com/news/conti-ransomware-court\r\n",
             "information": [
                 "<https://www.crowdstrike.com/blog/sin-ful-spiders-wizard-spider-and-lunar-spider-sharing-the-same-web/>",
                 "<https://www.crowdstrike.com/blog/wizard-spider-lunar-spider-shared-proxy-module/>",
@@ -49512,7 +49717,8 @@
                 "2020-04",
                 "2020-07",
                 "2020-08",
-                "2020-08"
+                "2020-08",
+                "2020-09"
             ],
             "targeted countries": [
                 "Worldwide"
@@ -49525,7 +49731,7 @@
             ],
             "first seen": "2014",
             "counter operations": "**2015-11**: Russia\u2019s FSB quietly led an operation to take down the world\u2019s most active cybercriminal groups, the operators of the banking malware Dyre\nhttps://www.forbes.com/sites/thomasbrewster/2016/02/08/russia-arrests-dyre-malware-masterminds/\r\n",
-            "last card change": "2020-08-26"
+            "last card change": "2020-09-17"
         },
         {
             "type": "apt_group",
@@ -49737,6 +49943,7 @@
                 "**Gorgon Group**: Gorgon APT targeting MSME sector in India\nhttps://www.seqrite.com/blog/gorgon-apt-targeting-msme-sector-in-india/\r\n",
                 "**Lazarus Group**: New Mac variant of Lazarus Dacls RAT distributed via Trojanized 2FA app\nhttps://blog.malwarebytes.com/threat-analysis/2020/05/new-mac-variant-of-lazarus-dacls-rat-distributed-via-trojanized-2fa-app/\r\n",
                 "**OilRig**: While analyzing an attack against a Middle Eastern telecommunications organization, we discovered a variant of an OilRig-associated tool we call RDAT using a novel email-based command and control (C2) channel that relied on a technique known as steganography to hide commands and data within bitmap images attached to emails.\nhttps://unit42.paloaltonetworks.com/oilrig-novel-c2-channel-steganography/\r\n",
+                "**Sofacy**: Microsoft has tied STRONTIUM to a newly uncovered pattern of Office365 credential harvesting activity aimed at US and UK organizations directly involved in political elections.\nhttps://www.microsoft.com/security/blog/2020/09/10/strontium-detecting-new-patters-credential-harvesting/\r\n",
                 "**TA2101**: On April 1st, 2020, Berkine became a victim of cyber-attack by the notorious Maze ransomware group that is known for its unique blackmailing practices.\nhttps://www.hackread.com/maze-ransomware-group-hacks-oil-giant-leaks-data/\r\n",
                 "**TA2101**: IT services giant Cognizant suffers Maze Ransomware cyber attack\nhttps://www.bleepingcomputer.com/news/security/it-services-giant-cognizant-suffers-maze-ransomware-cyber-attack/\r\n",
                 "**TA2101**: The Maze Ransomware gang breached and successfully encrypted the systems of VT San Antonio Aerospace, as well as stole and leaked unencrypted files from the company's compromised devices\nhttps://www.bleepingcomputer.com/news/security/us-aerospace-services-provider-breached-by-maze-ransomware/\r\n",
@@ -49745,6 +49952,7 @@
                 "**Transparent Tribe**: Operation \u201cHoney Trap\u201d\nAPT36 Targets Defense Organizations in India\nhttps://www.seqrite.com/blog/operation-honey-trap-apt36-targets-defense-organizations-in-india/\r\n",
                 "**Tropic Trooper**: The Anomali Threat Research Team detected a spear phishing email targeting government employees in the Municipality of Da Nang, Vietnam.\nhttps://www.anomali.com/blog/anomali-suspects-that-china-backed-apt-pirate-panda-may-be-seeking-access-to-vietnam-government-data-center#When:15:00:00Z\r\n",
                 "**Pinchy Spider**: Sodinokibi Ransomware to stop taking Bitcoin to hide money trail\nhttps://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-to-stop-taking-bitcoin-to-hide-money-trail/\r\n",
+                "**Pinchy Spider**: SeaChange video platform allegedly hit by Sodinokibi ransomware\nhttps://www.bleepingcomputer.com/news/security/seachange-video-platform-allegedly-hit-by-sodinokibi-ransomware/\r\n",
                 "**Wizard Spider**: BazarBackdoor: TrickBot gang\u2019s new stealthy network-hacking malware\nhttps://www.bleepingcomputer.com/news/security/bazarbackdoor-trickbot-gang-s-new-stealthy-network-hacking-malware/\r\n",
                 "**Wizard Spider**: TrickBot Campaigns Targeting Users via Department of Labor FMLA Spam\nhttps://securityintelligence.com/posts/trickbot-campaigns-targeting-users-via-department-of-labor-fmla-spam/\r\n",
                 "**Wizard Spider**: As early as April 2020, TrickBot updated one of its propagation modules known as \u201cmworm\u201d to a new module called \u201cnworm.\u201d Infections caused through nworm leave no artifacts on an infected DC, and they disappear after a reboot or shutdown.\nhttps://unit42.paloaltonetworks.com/goodbye-mworm-hello-nworm-trickbot-updates-propagation-module/\r\n"
@@ -51536,6 +51744,26 @@
             ]
         },
         {
+            "id": "date-2020-08",
+            "label": "2020-08",
+            "operation dates": [
+                "2020-08"
+            ],
+            "type": "operation_dates",
+            "activities": [
+                "**Evilnum**: In recent weeks, the Nocturnus team has observed new activity by the group, including several notable changes from tactics observed previously.\nhttps://www.cybereason.com/blog/no-rest-for-the-wicked-evilnum-unleashes-pyvil-rat\r\n",
+                "**Lazarus Group**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
+                "**RedDelta**: RedDelta Resumes Its Targeting of the Vatican and Hong Kong Catholic Diocese\nhttps://go.recordedfuture.com/hubfs/reports/cta-2020-0915.pdf\r\n",
+                "**TA2101**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n",
+                "**TA2101**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n",
+                "**Doppel Spider**: UK research university Newcastle University says that it will take several weeks to get IT services back online after DoppelPaymer ransomware operators breached its network and took systems offline on the morning of August 30th.\nhttps://www.bleepingcomputer.com/news/security/doppelpaymer-ransomware-hits-newcastle-university-leaks-data/\r\n",
+                "**Mummy Spider**: Emotet malware strikes U.S. businesses with COVID-19 spam\nhttps://www.bleepingcomputer.com/news/security/emotet-malware-strikes-us-businesses-with-covid-19-spam/\r\n",
+                "**Pinchy Spider**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n",
+                "**Wizard Spider**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n",
+                "**Wizard Spider**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n"
+            ]
+        },
+        {
             "id": "date-20182019",
             "label": "2018/2019",
             "operation dates": [
@@ -51688,23 +51916,6 @@
             ]
         },
         {
-            "id": "date-2020-08",
-            "label": "2020-08",
-            "operation dates": [
-                "2020-08"
-            ],
-            "type": "operation_dates",
-            "activities": [
-                "**Lazarus Group**: North Korean hackers are targeting Israel's defense sector, Israel Ministry of Defense claims\nhttps://www.cyberscoop.com/north-korea-hackers-lazarus-group-israel-defense/\r\n",
-                "**TA2101**: The Maze hacker gang claims it has infected computer memory maker SK hynix with ransomware and leaked some of the files it stole.\nhttps://www.theregister.com/2020/08/20/maze_crew_sk_hynix/\r\n",
-                "**TA2101**: During the monitoring of deepweb and darkweb leaks, our researchers came across the leak disclosure post in which the Maze ransomware operators allegedly breached Hoa Sen Group and claimed to be in possession of the company\u2019s sensitive data.\nhttps://cybleinc.com/2020/08/17/one-of-the-largest-steel-sheet-companies-in-southeast-asia-got-allegedly-breached-by-maze/\r\n",
-                "**Mummy Spider**: Emotet malware strikes U.S. businesses with COVID-19 spam\nhttps://www.bleepingcomputer.com/news/security/emotet-malware-strikes-us-businesses-with-covid-19-spam/\r\n",
-                "**Pinchy Spider**: Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber attack. The intruders allegedly copied 1TB of confidential data.\nhttps://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/\r\n",
-                "**Wizard Spider**: University of Utah pays $457,000 to ransomware gang\nhttps://www.zdnet.com/article/university-of-utah-pays-457000-to-ransomware-gang/\r\n",
-                "**Wizard Spider**: Conti (Ryuk) joins the ranks of ransomware gangs operating data leak sites\nhttps://www.zdnet.com/article/conti-ryuk-joins-the-ranks-of-ransomware-gangs-operating-data-leak-sites/\r\n"
-            ]
-        },
-        {
             "id": "date-20162018",
             "label": "2016/2018",
             "operation dates": [
@@ -51850,6 +52061,19 @@
             "type": "operation_dates",
             "activities": [
                 "**OilRig**: Shamoon Attacks\nW32.Disttrack is a new threat that is being used in specific targeted attacks against at least one organization in the energy sector.  It is a destructive malware that corrupts files on a compromised computer and overwrites the MBR (Master Boot Record) in an effort to render a computer unusable.\nTarget: Saudi Aramco and Rasgas.\nhttps://www.symantec.com/connect/blogs/shamoon-attacks\r\n"
+            ]
+        },
+        {
+            "id": "date-2020-09",
+            "label": "2020-09",
+            "operation dates": [
+                "2020-09"
+            ],
+            "type": "operation_dates",
+            "activities": [
+                "**Parisite**: This threat actor has been observed exploiting several publicly known Common Vulnerabilities and Exposures (CVEs) dealing with Pulse Secure virtual private network (VPN), Citrix NetScaler, and F5 vulnerabilities.\nhttps://us-cert.cisa.gov/ncas/alerts/aa20-259a\r\n",
+                "**TA2101**: Fairfax County schools hit by Maze ransomware, student data leaked\nhttps://www.bleepingcomputer.com/news/security/fairfax-county-schools-hit-by-maze-ransomware-student-data-leaked/\r\n",
+                "**Wizard Spider**: US Court Hit by \u201cConti\u201d Ransomware\nhttps://www.cbronline.com/news/conti-ransomware-court\r\n"
             ]
         },
         {
@@ -52902,6 +53126,13 @@
         {
             "id": "Nitro-to-China",
             "from": "Nitro",
+            "to": "China",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-Epic-Manchego-to-China",
+            "from": "Operation Epic Manchego",
             "to": "China",
             "type": "target",
             "direction": "directed"
@@ -54094,6 +54325,12 @@
             "id": "Unknown-to-Operation-Comando",
             "from": "Unknown",
             "to": "Operation Comando",
+            "type": "attribution"
+        },
+        {
+            "id": "Unknown-to-Operation-Epic-Manchego",
+            "from": "Unknown",
+            "to": "Operation Epic Manchego",
             "type": "attribution"
         },
         {
@@ -55382,6 +55619,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation-Epic-Manchego-to-USA",
+            "from": "Operation Epic Manchego",
+            "to": "USA",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Ghoul-to-USA",
             "from": "Operation Ghoul",
             "to": "USA",
@@ -55837,6 +56081,13 @@
             "direction": "directed"
         },
         {
+            "id": "APT-41-to-Vietnam",
+            "from": "APT 41",
+            "to": "Vietnam",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Cobalt-Group-to-Vietnam",
             "from": "Cobalt Group",
             "to": "Vietnam",
@@ -55923,6 +56174,13 @@
         {
             "id": "Naikon-to-Vietnam",
             "from": "Naikon",
+            "to": "Vietnam",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-Epic-Manchego-to-Vietnam",
+            "from": "Operation Epic Manchego",
             "to": "Vietnam",
             "type": "target",
             "direction": "directed"
@@ -57726,6 +57984,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation-Epic-Manchego-to-UK",
+            "from": "Operation Epic Manchego",
+            "to": "UK",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Ghoul-to-UK",
             "from": "Operation Ghoul",
             "to": "UK",
@@ -58214,6 +58479,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation-Epic-Manchego-to-Japan",
+            "from": "Operation Epic Manchego",
+            "to": "Japan",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Shady-RAT-to-Japan",
             "from": "Operation Shady RAT",
             "to": "Japan",
@@ -58507,6 +58779,13 @@
         {
             "id": "Operation-BugDrop-to-Ukraine",
             "from": "Operation BugDrop",
+            "to": "Ukraine",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-Epic-Manchego-to-Ukraine",
+            "from": "Operation Epic Manchego",
             "to": "Ukraine",
             "type": "target",
             "direction": "directed"
@@ -59730,6 +60009,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation-Epic-Manchego-to-South-Korea",
+            "from": "Operation Epic Manchego",
+            "to": "South Korea",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Parliament-to-South-Korea",
             "from": "Operation Parliament",
             "to": "South Korea",
@@ -60079,6 +60365,13 @@
         {
             "id": "Inception-Framework-to-Romania",
             "from": "Inception Framework",
+            "to": "Romania",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-Epic-Manchego-to-Romania",
+            "from": "Operation Epic Manchego",
             "to": "Romania",
             "type": "target",
             "direction": "directed"
