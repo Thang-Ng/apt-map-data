@@ -4483,7 +4483,9 @@
                 "accounts.getmyip.com",
                 "feeder.blogdns.com",
                 "salebusinesend.com",
-                "beautifull-font.salebusinesend.com"
+                "beautifull-font.salebusinesend.com",
+                "asia-kotoba.net",
+                "yourrighttocompensation.com"
             ]
         },
         {
@@ -9635,16 +9637,16 @@
             ],
             "last card change": "2020-09-03",
             "ioc_ip": [
-                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782"
+                "91.235.116.147:9782",
+                "45.76.6.149:443"
+            ],
+            "ioc_url": [
+                "http://134.119.220.118",
+                "http://185.198.56.191"
             ],
             "ioc_domain": [
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -9954,11 +9956,11 @@
                 "bigfile-download.net",
                 "fenrmi.eu.pn",
                 "fenrix.yaahosting.info",
-                "fenraw.northgeremy.info"
-            ],
-            "ioc_url": [
-                "http://134.119.220.118",
-                "http://185.198.56.191"
+                "fenraw.northgeremy.info",
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com"
             ]
         },
         {
@@ -13986,32 +13988,6 @@
             ],
             "last card change": "2020-07-02",
             "ioc_domain": [
-                "allshell.net",
-                "attoo1s.com",
-                "kasparsky.net",
-                "kocrmicrosoft.com",
-                "microsoft.org.tw",
-                "microsoftdomainadmin.com",
-                "microsoftsp3.com",
-                "playncs.com",
-                "softwareupdatevmware.com",
-                "windowsnine.net",
-                "cdngoogle.com",
-                "cisco-inc.net",
-                "mremote.biz",
-                "officescan.biz",
-                "oprea.biz",
-                "battle.com.tw",
-                "diablo-iii.mobi",
-                "microsoftupdate.ws",
-                "msftncsl.com",
-                "square-enix.us",
-                "updatamicrosoft.com",
-                "powershell.com.tw",
-                "gefacebook.com",
-                "attoo1s.com",
-                "msnupdate.bz",
-                "googlemapsoftware.com",
                 "memozilla.org",
                 "news.memozilla.org",
                 "video.memozilla.org",
@@ -14062,7 +14038,33 @@
                 "goback.strangled.net",
                 "centrozhlan.com",
                 "thehuguardian.com",
-                "menu.thehuguardian.com"
+                "menu.thehuguardian.com",
+                "allshell.net",
+                "attoo1s.com",
+                "kasparsky.net",
+                "kocrmicrosoft.com",
+                "microsoft.org.tw",
+                "microsoftdomainadmin.com",
+                "microsoftsp3.com",
+                "playncs.com",
+                "softwareupdatevmware.com",
+                "windowsnine.net",
+                "cdngoogle.com",
+                "cisco-inc.net",
+                "mremote.biz",
+                "officescan.biz",
+                "oprea.biz",
+                "battle.com.tw",
+                "diablo-iii.mobi",
+                "microsoftupdate.ws",
+                "msftncsl.com",
+                "square-enix.us",
+                "updatamicrosoft.com",
+                "powershell.com.tw",
+                "gefacebook.com",
+                "attoo1s.com",
+                "msnupdate.bz",
+                "googlemapsoftware.com"
             ]
         },
         {
@@ -15828,6 +15830,12 @@
             ],
             "last card change": "2020-08-28",
             "ioc_domain": [
+                "servicesystem.serveirc.com",
+                "chrome-up.date",
+                "timezone.live",
+                "analytics-google.org",
+                "microsoftsubsystem.com-adm.in",
+                "microsoftexplorerservices.cloud",
                 "jewishjournal.us",
                 "deutcshewelle.org",
                 "deutcshewelle.com",
@@ -16356,13 +16364,7 @@
                 "login-users-account.site",
                 "manage-accounts.info",
                 "recovery-service.site",
-                "us2-mail-login-profile.site",
-                "servicesystem.serveirc.com",
-                "chrome-up.date",
-                "timezone.live",
-                "analytics-google.org",
-                "microsoftsubsystem.com-adm.in",
-                "microsoftexplorerservices.cloud"
+                "us2-mail-login-profile.site"
             ]
         },
         {
@@ -17640,11 +17642,21 @@
                 "<https://attack.mitre.org/groups/G0049/>"
             ],
             "last card change": "2020-07-30",
+            "ioc_ip": [
+                "185.32.178.176:80",
+                "93.177.75.180:80",
+                "95.211.210.55:80",
+                "95.211.213.177:80",
+                "95.211.213.168:80",
+                "95.211.215.225:80",
+                "95.211.104.253:80",
+                "95.211.104.253:443",
+                "95.211.104.253:2255"
+            ],
+            "ioc_url": [
+                "http://185.15.247.154"
+            ],
             "ioc_domain": [
-                "coldflys.com",
-                "shoterup.com",
-                "barsupport.org",
-                "forskys.com",
                 "defender-update.com",
                 "windowspatch.com",
                 "herkhabar.com",
@@ -17733,21 +17745,11 @@
                 "wwmal.com",
                 "greenkeyllc-projects.com",
                 "infopulsejobs.com",
-                "windowscredcity.com"
-            ],
-            "ioc_ip": [
-                "185.32.178.176:80",
-                "93.177.75.180:80",
-                "95.211.210.55:80",
-                "95.211.213.177:80",
-                "95.211.213.168:80",
-                "95.211.215.225:80",
-                "95.211.104.253:80",
-                "95.211.104.253:443",
-                "95.211.104.253:2255"
-            ],
-            "ioc_url": [
-                "http://185.15.247.154"
+                "windowscredcity.com",
+                "coldflys.com",
+                "shoterup.com",
+                "barsupport.org",
+                "forskys.com"
             ]
         },
         {
@@ -18892,6 +18894,20 @@
                 "<https://attack.mitre.org/groups/G0040/>"
             ],
             "last card change": "2020-04-22",
+            "ioc_url": [
+                "http://123.57.158.115",
+                "http://146.185.234.71",
+                "http://149.56.80.64",
+                "http://176.107.182.24",
+                "http://185.203.116.58",
+                "http://185.82.217.200",
+                "http://188.165.124.30",
+                "http://43.249.37.165",
+                "http://46.183.216.222",
+                "http://81.17.30.28",
+                "http://91.229.79.183",
+                "http://94.156.35.204"
+            ],
             "ioc_ip": [
                 "188.241.58.60:21",
                 "188.241.58.61:21",
@@ -18903,20 +18919,6 @@
                 "192.250.236.76:80",
                 "185.193.38.24:443",
                 "185.29.10.117:443"
-            ],
-            "ioc_url": [
-                "http://139.28.38.231",
-                "http://199.101.187.54",
-                "http://45.63.43.29",
-                "http://45.76.33.53",
-                "http://46.165.207.108",
-                "http://5.135.73.109",
-                "http://5.135.73.109",
-                "http://91.210.107.104",
-                "http://94.242.219.205",
-                "http://95.211.38.135/search1.php",
-                "http://185.29.10.117",
-                "http://94.156.35.204"
             ],
             "ioc_domain": [
                 "kielsoservice.net",
@@ -19880,24 +19882,7 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2020-07-18",
-            "ioc_ip": [
-                "5.252.198.93:7337",
-                "103.249.31.159:7777"
-            ],
             "ioc_domain": [
-                "charley-online.com",
-                "fighiting1013.org",
-                "a7788.1apps.com",
-                "alabamaok0515.1apps.com",
-                "attach10132.1apps.com",
-                "clean.1apps.com",
-                "s8877.1apps.com",
-                "tgbabcrfv.1apps.com",
-                "071790.000webhostapp.com",
-                "881.000webhostapp.com",
-                "hanbosston.000webhostapp.com",
-                "filer1.1apps.com",
-                "filer2.1apps.com",
                 "acddesigns.com.au",
                 "buttyfly.000webhostapp.com",
                 "kmbr1.nitesbr1.org",
@@ -20007,10 +19992,28 @@
                 "files-downloader.net",
                 "webmail-googie.com",
                 "webmail-gooqle.com",
-                "sync.appchecks.rr.nu"
+                "busyday.atwebpages.com",
+                "sync.appchecks.rr.nu",
+                "charley-online.com",
+                "fighiting1013.org",
+                "a7788.1apps.com",
+                "alabamaok0515.1apps.com",
+                "attach10132.1apps.com",
+                "clean.1apps.com",
+                "s8877.1apps.com",
+                "tgbabcrfv.1apps.com",
+                "071790.000webhostapp.com",
+                "881.000webhostapp.com",
+                "hanbosston.000webhostapp.com",
+                "filer1.1apps.com",
+                "filer2.1apps.com"
             ],
             "ioc_url": [
                 "http://72.21.245.117"
+            ],
+            "ioc_ip": [
+                "5.252.198.93:7337",
+                "103.249.31.159:7777"
             ]
         },
         {
@@ -27916,8 +27919,16 @@
                 "<https://attack.mitre.org/groups/G0081/>"
             ],
             "last card change": "2020-05-15",
+            "ioc_ip": [
+                "68.65.121.44:1883",
+                "68.65.121.44:443",
+                "198.54.117.211:1883",
+                "198.54.117.217:1883",
+                "198.54.117.215:1883",
+                "198.54.117.212:1883",
+                "198.54.117.218:1883"
+            ],
             "ioc_domain": [
-                "y5mogzal2w25p6bn.ml",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -28206,16 +28217,8 @@
                 "myinfo.ocry.com",
                 "myzinfo.myz.info",
                 "oldape.25u.com",
-                "oldape.4dq.com"
-            ],
-            "ioc_ip": [
-                "68.65.121.44:1883",
-                "68.65.121.44:443",
-                "198.54.117.211:1883",
-                "198.54.117.217:1883",
-                "198.54.117.215:1883",
-                "198.54.117.212:1883",
-                "198.54.117.218:1883"
+                "oldape.4dq.com",
+                "y5mogzal2w25p6bn.ml"
             ]
         },
         {
@@ -28504,22 +28507,10 @@
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
             "last card change": "2020-07-31",
-            "ioc_ip": [
-                "134.209.222.206:15363",
-                "85.222.235.156:8000",
-                "203.117.122.51",
-                "178.219.68.239",
-                "104.223.89.145",
-                "212.21.40.220"
-            ],
-            "ioc_url": [
-                "http://169.255.137.203/rss_0.php",
-                "http://217.171.86.137/config.php",
-                "http://217.171.86.137/rss_0.php",
-                "http://185.141.62.32",
-                "http://37.59.60.199"
-            ],
             "ioc_domain": [
+                "tapok121.jhfree.net",
+                "orl05511cn.temp.swtest.ru",
+                "news-bbc.podzone.org",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -28793,10 +28784,22 @@
                 "vefogy.cf",
                 "vylys.com",
                 "wekanda.tk",
-                "newshealthsport.com",
-                "news-bbc.podzone.org",
-                "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru"
+                "newshealthsport.com"
+            ],
+            "ioc_ip": [
+                "203.117.122.51",
+                "178.219.68.239",
+                "104.223.89.145",
+                "212.21.40.220",
+                "134.209.222.206:15363",
+                "85.222.235.156:8000"
+            ],
+            "ioc_url": [
+                "http://169.255.137.203/rss_0.php",
+                "http://217.171.86.137/config.php",
+                "http://217.171.86.137/rss_0.php",
+                "http://185.141.62.32",
+                "http://37.59.60.199"
             ]
         },
         {
@@ -43649,6 +43652,7 @@
                 "aglylksptu.duckdns.org",
                 "agoybsoyms.duckdns.org",
                 "agqnhtjebt.duckdns.org",
+                "agrdyilfqc.duckdns.org",
                 "agsadwets.duckdns.org",
                 "agscx335s.duckdns.org",
                 "agswerysd.duckdns.org",
@@ -44370,6 +44374,7 @@
                 "csaestwqcm.duckdns.org",
                 "csanostubc.duckdns.org",
                 "csbbkbbueq.duckdns.org",
+                "csfjrmtyhs.duckdns.org",
                 "csitqqmpns.duckdns.org",
                 "cskaelfxet.duckdns.org",
                 "csnufcrqdi.duckdns.org",
@@ -44530,6 +44535,7 @@
                 "dhpuuvrquh.duckdns.org",
                 "dhtaskssoj.duckdns.org",
                 "dhtmwpetwv.duckdns.org",
+                "dhvqifnacj.duckdns.org",
                 "dhvrlffjur.duckdns.org",
                 "dhxepzyrms.duckdns.org",
                 "dhxqrpjfti.duckdns.org",
@@ -44957,6 +44963,7 @@
                 "fdghder57.duckdns.org",
                 "fdhguabxmv.duckdns.org",
                 "fdjhfmlasm.duckdns.org",
+                "fdjstpdenm.duckdns.org",
                 "fdrt.duckdns.org",
                 "fdspfgtalb.duckdns.org",
                 "fdtr.duckdns.org",
@@ -45100,6 +45107,7 @@
                 "fvnbjpeacz.duckdns.org",
                 "fvosrgalxp.duckdns.org",
                 "fvupfephys.duckdns.org",
+                "fvymxsxzho.duckdns.org",
                 "fwcgdtloxt.duckdns.org",
                 "fwpnjrmawu.duckdns.org",
                 "fwvdhpahxj.duckdns.org",
@@ -45186,6 +45194,7 @@
                 "gftrtuhhdd.duckdns.org",
                 "gfusbmbwid.duckdns.org",
                 "gfuuonhvth.duckdns.org",
+                "gfzcdsydkb.duckdns.org",
                 "ggbbrqwfkv.duckdns.org",
                 "ggbzmurpbh.duckdns.org",
                 "ggcqwbtcjp.duckdns.org",
@@ -45216,6 +45225,7 @@
                 "gihfatflbf.duckdns.org",
                 "gilsubmhnj.duckdns.org",
                 "ginntrhjet.duckdns.org",
+                "gioeedqtby.duckdns.org",
                 "giuajnewle.duckdns.org",
                 "giuilrlyze.duckdns.org",
                 "gjhebkzuqi.duckdns.org",
@@ -45511,6 +45521,7 @@
                 "hgwasestsx.duckdns.org",
                 "hhagugcoza.duckdns.org",
                 "hhbegqtswm.duckdns.org",
+                "hhbqhdgidr.duckdns.org",
                 "hhnas.duckdns.org",
                 "hhwcrfdmyl.duckdns.org",
                 "hhybesdpuw.duckdns.org",
@@ -45762,6 +45773,7 @@
                 "ieyfseuuaj.duckdns.org",
                 "ifldrojuvk.duckdns.org",
                 "ifqcqyfvyf.duckdns.org",
+                "ifqkffywic.duckdns.org",
                 "ifufpxutrc.duckdns.org",
                 "ifzsmarkgx.duckdns.org",
                 "iggqwmehoy.duckdns.org",
@@ -45919,6 +45931,7 @@
                 "izzxttaryo.duckdns.org",
                 "jadrkhpdev.duckdns.org",
                 "jadsgwe3.duckdns.org",
+                "jadybbfebg.duckdns.org",
                 "jaecmztuqh.duckdns.org",
                 "jafowztfkn.duckdns.org",
                 "jaiwuimyvt.duckdns.org",
@@ -46383,6 +46396,7 @@
                 "lazugjuhht.duckdns.org",
                 "lbcxgpwjjy.duckdns.org",
                 "lbdtbuogfw.duckdns.org",
+                "lbeicdrtqi.duckdns.org",
                 "lbkwemzjgp.duckdns.org",
                 "lbnrniihhe.duckdns.org",
                 "lbtpjeayep.duckdns.org",
@@ -46674,6 +46688,7 @@
                 "mkjrvdkplt.duckdns.org",
                 "mkjzhddsnp.duckdns.org",
                 "mkkbywafwd.duckdns.org",
+                "mkmhoqebjk.duckdns.org",
                 "mkphkvymoo.duckdns.org",
                 "mkpyiwhrhr.duckdns.org",
                 "mkttdkfoyk.duckdns.org",
@@ -46838,6 +46853,7 @@
                 "ncoohfmjrr.duckdns.org",
                 "ncrblxcmxx.duckdns.org",
                 "ncvbd446.duckdns.org",
+                "ncworyqrze.duckdns.org",
                 "ncwxbiyask.duckdns.org",
                 "ncyvfvrbct.duckdns.org",
                 "ndhasfysdg.duckdns.org",
@@ -47202,6 +47218,7 @@
                 "otzsghlrzr.duckdns.org",
                 "oucdkcfugc.duckdns.org",
                 "oudkkkniyn.duckdns.org",
+                "ouexmpfxtq.duckdns.org",
                 "oukbgtmnrj.duckdns.org",
                 "ouobyedbmg.duckdns.org",
                 "ouoktrcjvi.duckdns.org",
@@ -47223,6 +47240,7 @@
                 "owefbadinf.duckdns.org",
                 "owfzffwjec.duckdns.org",
                 "owlonacxkr.duckdns.org",
+                "owolybnbeo.duckdns.org",
                 "owuzxhdebb.duckdns.org",
                 "owvskfuezj.duckdns.org",
                 "owvvschozf.duckdns.org",
@@ -47373,9 +47391,11 @@
                 "pmkdnuwseb.duckdns.org",
                 "pncfjqhlus.duckdns.org",
                 "pndhrqjkxe.duckdns.org",
+                "pndrjxfgez.duckdns.org",
                 "pngeqvasxg.duckdns.org",
                 "pnhrccwzwk.duckdns.org",
                 "pnjboluejx.duckdns.org",
+                "pnkomnaref.duckdns.org",
                 "pnmrpalkew.duckdns.org",
                 "pnqwhmlkxm.duckdns.org",
                 "pnrrmvibin.duckdns.org",
@@ -47522,6 +47542,7 @@
                 "qeziqiaaqm.duckdns.org",
                 "qfaiwcquup.duckdns.org",
                 "qfamvozidg.duckdns.org",
+                "qfiamkymju.duckdns.org",
                 "qfjrltkqkg.duckdns.org",
                 "qfnusdatqf.duckdns.org",
                 "qfoltmdhuf.duckdns.org",
@@ -47665,6 +47686,7 @@
                 "qwxvpprhsj.duckdns.org",
                 "qwybkleccz.duckdns.org",
                 "qwyzlgfkqz.duckdns.org",
+                "qxgypowpnv.duckdns.org",
                 "qxhwgdncks.duckdns.org",
                 "qxkxrveufx.duckdns.org",
                 "qxmkfjjnwx.duckdns.org",
@@ -47756,6 +47778,7 @@
                 "rhjcfuzhqg.duckdns.org",
                 "rhkvzcnxww.duckdns.org",
                 "rhmlqofxhb.duckdns.org",
+                "rhunuiydja.duckdns.org",
                 "rhusgovjvm.duckdns.org",
                 "rhvcfwsjrl.duckdns.org",
                 "ribbozicdx.duckdns.org",
@@ -47870,6 +47893,7 @@
                 "rxizmmalbx.duckdns.org",
                 "rxlkoewvhg.duckdns.org",
                 "rxndorgcha.duckdns.org",
+                "rxnlwaajoy.duckdns.org",
                 "rxslsipcbk.duckdns.org",
                 "rxvudoklnr.duckdns.org",
                 "rxxmvebcwz.duckdns.org",
@@ -48055,6 +48079,7 @@
                 "sigjhdmpfg.duckdns.org",
                 "sigmkhhnqa.duckdns.org",
                 "sikacsxyqo.duckdns.org",
+                "siolkjhesi.duckdns.org",
                 "siqvylyomp.duckdns.org",
                 "sisypfebgs.duckdns.org",
                 "siwpafuxpq.duckdns.org",
@@ -48103,6 +48128,7 @@
                 "somphebtxr.duckdns.org",
                 "soubcvfupg.duckdns.org",
                 "sowduntuky.duckdns.org",
+                "sowyetgafc.duckdns.org",
                 "soyerlpiad.duckdns.org",
                 "spqhvmjkfs.duckdns.org",
                 "sprmgthuva.duckdns.org",
@@ -48554,6 +48580,7 @@
                 "uqdryfxjan.duckdns.org",
                 "uqebxhviqw.duckdns.org",
                 "uqioempoub.duckdns.org",
+                "uqpxsmqyoo.duckdns.org",
                 "uqrlsjmcjw.duckdns.org",
                 "uqulbdbbho.duckdns.org",
                 "uqvlnismek.duckdns.org",
@@ -48606,6 +48633,7 @@
                 "uviwpdmgbn.duckdns.org",
                 "uvocsttakw.duckdns.org",
                 "uvxlhbyfuy.duckdns.org",
+                "uwaoilknbc.duckdns.org",
                 "uwheng355.duckdns.org",
                 "uwoiwzrtza.duckdns.org",
                 "uwpzlkvtad.duckdns.org",
@@ -48645,6 +48673,7 @@
                 "vaxxzassmq.duckdns.org",
                 "vazhdlprgx.duckdns.org",
                 "vbabpeetlk.duckdns.org",
+                "vbacglasgu.duckdns.org",
                 "vbafndmogr.duckdns.org",
                 "vbeefnlihk.duckdns.org",
                 "vbesabfegz.duckdns.org",
@@ -48957,6 +48986,7 @@
                 "waydfhrrwe.duckdns.org",
                 "wbbacyqlbr.duckdns.org",
                 "wbbxbujdbv.duckdns.org",
+                "wbieufnyeu.duckdns.org",
                 "wblpagmkgy.duckdns.org",
                 "wbpsdtkofu.duckdns.org",
                 "wbqwsngswt.duckdns.org",
@@ -49097,6 +49127,7 @@
                 "wfwwhskwct.duckdns.org",
                 "wfyegmpntl.duckdns.org",
                 "wfzuufeymc.duckdns.org",
+                "wgbwyponso.duckdns.org",
                 "wgdekirmfx.duckdns.org",
                 "wghnzmwynl.duckdns.org",
                 "wgocfvwipb.duckdns.org",
@@ -49513,6 +49544,7 @@
                 "yazyhpruqt.duckdns.org",
                 "ybfyzfzjau.duckdns.org",
                 "ybhagumorv.duckdns.org",
+                "ybincqdbrp.duckdns.org",
                 "ybjhtwrmgy.duckdns.org",
                 "ybjjheqtkx.duckdns.org",
                 "yblnqfrybl.duckdns.org",
@@ -50244,7 +50276,8 @@
                 "l-amazon.top",
                 "n-amazon.top",
                 "p-post.top",
-                "polska-poczta.top"
+                "polska-poczta.top",
+                "jasnomanapa.com"
             ]
         },
         {
