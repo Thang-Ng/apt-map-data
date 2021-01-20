@@ -47,6 +47,7 @@
                 "Bronze Butler",
                 "Calypso",
                 "CardinalLizard",
+                "Chimera",
                 "Comment Crew",
                 "DragonOK",
                 "Dust Storm",
@@ -206,6 +207,7 @@
                 "Lurk",
                 "MoneyTaker",
                 "Operation BugDrop",
+                "Operation Domino",
                 "RTM",
                 "Sandworm Team",
                 "Sofacy",
@@ -338,7 +340,6 @@
                 "The Big Bang",
                 "Callisto Group",
                 "Careto",
-                "Chimera",
                 "Cold River",
                 "CostaRicto",
                 "DarkUniverse",
@@ -364,6 +365,7 @@
                 "Operation Parliament",
                 "Operation Potao Express",
                 "Operation SignSight",
+                "Operation Spalax",
                 "Operation ViceLeaker",
                 "Orangeworm",
                 "PowerPool",
@@ -392,6 +394,7 @@
                 "xHunt",
                 "ZooPark",
                 "Achilles",
+                "ALTDOS",
                 "Bamboo Spider",
                 "Boson Spider",
                 "Deceptikons",
@@ -403,6 +406,7 @@
                 "ShinyHunters",
                 "Smoky Spider",
                 "TA516",
+                "TA551",
                 "TA554",
                 "Tiny Spider",
                 "UNC1878"
@@ -799,6 +803,7 @@
                 "Wicked Spider",
                 "Winnti Group",
                 "[Unnamed group Iran]",
+                "ALTDOS",
                 "Circles",
                 "Fxmsp",
                 "Roaming Mantis",
@@ -932,8 +937,7 @@
                 "Bitter"
             ],
             "Targeted by": [
-                "NineBlog",
-                "SideWinder"
+                "NineBlog"
             ],
             "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/South Asia.json",
             "type": "country/organization",
@@ -1148,6 +1152,7 @@
             "Targeted by": [
                 "Blind Eagle",
                 "El Machete",
+                "Operation Spalax",
                 "Promethium",
                 "[Unnamed group Iran]",
                 "Fxmsp",
@@ -1312,6 +1317,16 @@
             "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Venezuela.json",
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
+        },
+        {
+            "id": "country-Different-geographical-areas",
+            "label": "Different geographical areas",
+            "Attribution to": [],
+            "Targeted by": [
+                "Chimera"
+            ],
+            "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Different geographical areas.json",
+            "type": "country/organization"
         },
         {
             "id": "country-Worldwide",
@@ -1987,6 +2002,29 @@
             "Image": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
         },
         {
+            "id": "country-Belarus",
+            "label": "Belarus",
+            "Attribution to": [
+                "Andromeda Spider"
+            ],
+            "Targeted by": [
+                "Operation Domino",
+                "Operation Potao Express",
+                "Roaming Tiger",
+                "Sandworm Team",
+                "Silence",
+                "Sofacy",
+                "TA459",
+                "Turla",
+                "Vicious Panda",
+                "Winnti Group",
+                "XDSpy"
+            ],
+            "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Belarus.json",
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+        },
+        {
             "id": "country-Worldwide-except-South-Korea",
             "label": "Worldwide except South Korea",
             "Attribution to": [],
@@ -2064,6 +2102,7 @@
             "Attribution to": [],
             "Targeted by": [
                 "Patchwork",
+                "SideWinder",
                 "Silence",
                 "TeamSpy Crew",
                 "Roaming Mantis",
@@ -2110,11 +2149,27 @@
             "Attribution to": [],
             "Targeted by": [
                 "RedDelta",
+                "SideWinder",
                 "Whitefly"
             ],
             "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Myanmar.json",
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg"
+        },
+        {
+            "id": "country-Sri-Lanka",
+            "label": "Sri Lanka",
+            "Attribution to": [],
+            "Targeted by": [
+                "SideWinder",
+                "Silence",
+                "[Unnamed group Iran]",
+                "Fxmsp",
+                "Roaming Mantis"
+            ],
+            "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Sri Lanka.json",
+            "type": "country/organization",
+            "Image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
         },
         {
             "id": "country-This-group-targets-Iranians-in-diaspora",
@@ -2285,17 +2340,6 @@
             "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Kurdistan.json",
             "type": "country/organization",
             "Image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Kurdistan.svg"
-        },
-        {
-            "id": "country-Belarus",
-            "label": "Belarus",
-            "Attribution to": [
-                "Andromeda Spider"
-            ],
-            "Targeted by": [],
-            "MITRE ATT&CK Navigator": "https://mitre-attack.github.io/attack-navigator/enterprise/#layerURL=https://raw.githubusercontent.com/Thang-Ng/mitre-attack-data/master/Belarus.json",
-            "type": "country/organization",
-            "Image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
         },
         {
             "id": "country-Other",
@@ -4246,14 +4290,14 @@
             ],
             "last card change": "2021-01-07",
             "ioc_ip": [
-                "85.206.175.252",
                 "139.59.30.109:8090",
                 "195.12.50.172:46405",
                 "202.59.10.170:46405",
                 "43.254.132.212:46405",
                 "43.254.132.117:46405",
                 "45.63.123.237:46405",
-                "45.61.139.211:443"
+                "45.61.139.211:443",
+                "85.206.175.252"
             ],
             "ioc_url": [
                 "http://167.88.180.198"
@@ -4941,7 +4985,8 @@
                 "<http://content.fireeye.com/apt41/rpt-apt41>",
                 "<https://arstechnica.com/information-technology/2018/05/researchers-link-a-decade-of-potent-hacks-to-chinese-intelligence-group/>",
                 "<https://www.kaspersky.com/about/press-releases/2019_operation-shadowhammer-new-supply-chain-attack>",
-                "<https://www.welivesecurity.com/wp-content/uploads/2019/10/ESET_Winnti.pdf>"
+                "<https://www.welivesecurity.com/wp-content/uploads/2019/10/ESET_Winnti.pdf>",
+                "<https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/higaisa-or-winnti-apt-41-backdoors-old-and-new/>"
             ],
             "uuid": "2fe6ac14-796b-4d63-b136-2c20b88bdd9e",
             "label": "APT 41",
@@ -5018,7 +5063,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0096/>"
             ],
-            "last card change": "2021-01-07"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -5930,8 +5975,6 @@
             "first seen": "2010",
             "last card change": "2021-01-07",
             "ioc_domain": [
-                "asiainfo.hpcloudnews.com",
-                "loop.microsoftmse.com",
                 "em.totalpople.info",
                 "gstrap.jkub.com",
                 "office.panasocin.com",
@@ -5940,7 +5983,9 @@
                 "office.panasocin.com",
                 "okinawas.ssl443.org",
                 "update.panasocin.com",
-                "harb.bbsindex.com"
+                "harb.bbsindex.com",
+                "asiainfo.hpcloudnews.com",
+                "loop.microsoftmse.com"
             ]
         },
         {
@@ -6801,7 +6846,7 @@
                 "Chimera (CyCraft)"
             ],
             "country": [
-                "Unknown"
+                "China"
             ],
             "motivation": [
                 "Information theft and espionage"
@@ -6811,23 +6856,26 @@
                 "Cobalt Strike",
                 "SkeletonKeyInjector"
             ],
-            "operations": "**2018 Late**: Operation \u201cSkeleton Key\u201d\nhttps://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf\r\n",
+            "operations": "**2018 Late**: Operation \u201cSkeleton Key\u201d\nhttps://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf\r\n**2019-10**: NCC Group and Fox-IT have been tracking a threat group with a wide set of interests, from intellectual property (IP) from victims in the semiconductors industry through to passenger data from the airline industry.\nhttps://blog.fox-it.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/\r\n",
             "information": [
                 "<https://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf>"
             ],
             "uuid": "1b8fc69c-574a-4c14-9603-0c3a0de08b6f",
             "label": "Chimera",
             "operation dates": [
-                "2018 Late"
+                "2018 Late",
+                "2019-10"
             ],
             "targeted countries": [
-                "Taiwan"
+                "Taiwan",
+                "Different geographical areas"
             ],
             "targeted sectors": [
+                "Aviation",
                 "High-Tech"
             ],
             "first seen": "2018",
-            "last card change": "2020-04-19"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -7001,7 +7049,7 @@
                 "Cobalt Spider (CrowdStrike)",
                 "Gold Kingswood (SecureWorks)",
                 "ATK 67 (Thales)",
-                "TAG-CR3 (?)"
+                "TAG-CR3 (Google)"
             ],
             "country": [
                 "Russia"
@@ -7098,7 +7146,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0080/>"
             ],
-            "last card change": "2020-04-22"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -9812,7 +9860,7 @@
                 "United Cyber Caliphate (UCC) (self given)",
                 "Islamic State Hacking Division (self given)",
                 "ATK 133 (Thales)",
-                "TAG-CT6 (?)"
+                "TAG-CT6 (Google)"
             ],
             "country": [
                 "ISIS"
@@ -9847,7 +9895,7 @@
                 "Government"
             ],
             "first seen": "2014",
-            "last card change": "2020-04-20"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -9856,7 +9904,7 @@
             "names": [
                 "Dark Caracal (Lookout)",
                 "ATK 27 (Thales)",
-                "TAG-CT3 (?)"
+                "TAG-CT3 (Google)"
             ],
             "country": [
                 "Lebanon"
@@ -9921,7 +9969,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0070/>"
             ],
-            "last card change": "2021-01-06"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -10545,7 +10593,7 @@
                 "Two-tailed Scorpion (Qihoo 360)",
                 "AridViper (Palo Alto)",
                 "ATK 66 (Thales)",
-                "TAG-CT1 (?)"
+                "TAG-CT1 (Google)"
             ],
             "country": [
                 "Gaza"
@@ -10645,7 +10693,7 @@
             ],
             "first seen": "2011",
             "counter operations": "**2020-02**: Operation \u201cRebound\u201d\nIDF (Israel Defense Force) and ISA (Israel Security Agency AKA \u201cShin Bet\u201d) conducted a joint operation to take down a Hamas operation targeting IDF soldiers.\nhttps://research.checkpoint.com/2020/hamas-android-malware-on-idf-soldiers-this-is-how-it-happened/\r\n",
-            "last card change": "2021-01-07",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "213.184.123.144:8080"
             ],
@@ -11052,7 +11100,7 @@
                 "TEMP.Andromeda (FireEye)",
                 "APT-C-43 (Qihooo 360)",
                 "ATK 97 (Thales)",
-                "TAG-NS1 (?)"
+                "TAG-NS1 (Google)"
             ],
             "country": [
                 "Unknown"
@@ -11117,7 +11165,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0095/>"
             ],
-            "last card change": "2020-10-19"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -11959,7 +12007,7 @@
                 "White Giant (PWC)",
                 "ITG08 (IBM)",
                 "ATK 88 (Thales)",
-                "TAG-CR2 (?)"
+                "TAG-CR2 (Google)"
             ],
             "country": [
                 "Unknown"
@@ -12018,7 +12066,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0037/>"
             ],
-            "last card change": "2021-01-07",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "104.237.131.29:443",
                 "185.135.157.138:8080",
@@ -12104,7 +12152,7 @@
                 "ATK 32 (Thales)",
                 "APT-C-11 (Qihoo 360)",
                 "ITG14 (IBM)",
-                "TAG-CR1 (?)"
+                "TAG-CR1 (Google)"
             ],
             "country": [
                 "Russia"
@@ -12184,7 +12232,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0046/>"
             ],
-            "last card change": "2021-01-07",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "185.162.131.25:222",
                 "185.156.177.132:443",
@@ -13698,7 +13746,7 @@
                 "Gorgon Group (Palo Alto)",
                 "Subaat (Palo Alto)",
                 "ATK 92 (Thales)",
-                "TAG-CR5 (?)"
+                "TAG-CR5 (Google)"
             ],
             "country": [
                 "Pakistan"
@@ -13747,7 +13795,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0078/>"
             ],
-            "last card change": "2020-08-13"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -14319,16 +14367,16 @@
             ],
             "first seen": "2012",
             "last card change": "2020-04-22",
-            "ioc_domain": [
-                "haarmannsi.cz",
-                "sanygroup.co.uk",
-                "ecolines.es",
-                "blackberry-support.herokuapp.com",
-                "newoffice-template.com"
-            ],
             "ioc_url": [
                 "http://144.217.174.57",
                 "http://176.31.59.232"
+            ],
+            "ioc_domain": [
+                "newoffice-template.com",
+                "haarmannsi.cz",
+                "sanygroup.co.uk",
+                "ecolines.es",
+                "blackberry-support.herokuapp.com"
             ]
         },
         {
@@ -16996,6 +17044,8 @@
                 "ulibr.xyz",
                 "ezproxy.hkr.se.liblog.info",
                 "liblog.info",
+                "login.proxy1.dom1.nhtv.nl.liblog.info",
+                "rps.hva.nl.liblog.info",
                 "innsida.ntnu.srrn.me",
                 "srrn.me"
             ]
@@ -17096,7 +17146,7 @@
                 "sqlmap",
                 "TDTESS"
             ],
-            "operations": "**2014 Mid**: Operation \u201cThamar Reservoir\u201d\nThis report reviews an ongoing cyber-attack campaign dating back to mid-2014. Additional sources indicate it may date as far back as 2011. We call this campaign Thamar Reservoir, named after one of the targets, Thamar E. Gindin, who exposed new information about the attack and is currently assisting with the investigation.\nhttps://www.clearskysec.com/thamar-reservoir/\r\n**2016**: Unit 42 has discovered a persistent attack campaign operating primarily in the Middle East dating back to at least mid-2016 which we have named Magic Hound. This appears to be an attack campaign focused on espionage. Based upon our visibility it has primarily targeted organizations in the energy, government, and technology sectors that are either based or have business interests in Saudi Arabia. The adversaries appear to have evolved their tactics and techniques throughout the tracked time-period, iterating through a diverse toolset across different waves of attacks.\nhttps://unit42.paloaltonetworks.com/unit42-magic-hound-campaign-attacks-saudi-targets/\r\n**2017-01**: PupyRAT campaign\nSecureWorks Counter Threat Unit (CTU) researchers analyzed a phishing campaign that targeted a Middle Eastern organization in early January 2017. Some of messages were sent from legitimate email addresses belonging to several Middle Eastern organizations.\nhttps://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations\r\n**2017**: In early 2017, SecureWorks Counter Threat Unit (CTU) researchers observed phishing campaigns targeting several entities in the Middle East and North Africa (MENA), with a focus on Saudi Arabian organizations. The campaigns delivered PupyRAT, an open-source cross-platform remote access Trojan.\nhttps://www.secureworks.com/research/the-curious-case-of-mia-ash\r\n**2018-06**: Impersonating ClearSky, the security firm that uncovered its campaigns\nIranian cyberespionage group Charming Kitten, which has been operating since 2014, has impersonated the cybersecurity firm that exposed its operations and campaigns. Israeli firm ClearSky Security said the group managed to copy its official website hosted on a similar-looking domain \u2013 clearskysecurity[.]net.\nClearSky\u2019s actual website is Clearskysec.com.\nhttps://cyware.com/news/iranian-apt-charming-kitten-impersonates-clearsky-the-security-firm-that-uncovered-its-campaigns-7fea0b4f\r\n**2017-08**: Breach of HBO\nOn August 7 a small treasure trove of HBO content was posted publicly to the web by a hacker who is now demanding a $6 million payment to stop any further release of data. The hacker who goes by Mr. Smith posted five scripts for Game of Thrones and a month\u2019s worth of email from HBO Vice President for Film Programming Leslie Cohen along with some other corporate information, according to the Associated Press.\nhttps://www.scmagazine.com/home/security-news/cybercrime/hbo-breach-accomplished-with-hard-work-by-hacker-poor-security-practices-by-victim/\r\n**2018-10**: The Return of The Charming Kitten\nIn this campaign, hackers have targeted individuals who are involved in economic and military sanctions against the Islamic Republic of Iran as well as politicians, civil and human rights activists and journalists around the world.\nOur review in Certfa demonstrates that the hackers \u2013 knowing that their victims use two-step verification \u2013 target verification codes and also their email accounts such as Yahoo! And Gmail.\nhttps://blog.certfa.com/posts/the-return-of-the-charming-kitten/\r\n**2019-07**: In August, the campaign has progressed, and unlike July, it seems like the APT group is now expanding its activities toward influential public figures around the world, rather than academic researchers state organizations.\nhttps://www.clearskysec.com/the-kittens-are-back-in-town/\r\n**2019-08**: In a 30-day period between August and September, the Microsoft Threat Intelligence Center (MSTIC) observed Phosphorus making more than 2,700 attempts to identify consumer email accounts belonging to specific Microsoft customers and then attack 241 of those accounts.\nhttps://blogs.microsoft.com/on-the-issues/2019/10/04/recent-cyberattacks-require-us-all-to-be-vigilant/\nhttps://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2.pdf\r\n**2020-01**: Fake Interview: The New Activity of Charming Kitten\nhttps://blog.certfa.com/posts/fake-interview-the-new-activity-of-charming-kitten/\r\n**2020-07**: Starting July 2020, we have identified a new TTP of the group, impersonating \u201cDeutscheWelle\u201d and the \u201cJewish Journal\u201d using emails alongside WhatsApp messages as their main platform to approach the target and convince them to open a malicious link.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/The-Kittens-are-Back-in-Town-3.pdf\r\n",
+            "operations": "**2014 Mid**: Operation \u201cThamar Reservoir\u201d\nThis report reviews an ongoing cyber-attack campaign dating back to mid-2014. Additional sources indicate it may date as far back as 2011. We call this campaign Thamar Reservoir, named after one of the targets, Thamar E. Gindin, who exposed new information about the attack and is currently assisting with the investigation.\nhttps://www.clearskysec.com/thamar-reservoir/\r\n**2016**: Unit 42 has discovered a persistent attack campaign operating primarily in the Middle East dating back to at least mid-2016 which we have named Magic Hound. This appears to be an attack campaign focused on espionage. Based upon our visibility it has primarily targeted organizations in the energy, government, and technology sectors that are either based or have business interests in Saudi Arabia. The adversaries appear to have evolved their tactics and techniques throughout the tracked time-period, iterating through a diverse toolset across different waves of attacks.\nhttps://unit42.paloaltonetworks.com/unit42-magic-hound-campaign-attacks-saudi-targets/\r\n**2017-01**: PupyRAT campaign\nSecureWorks Counter Threat Unit (CTU) researchers analyzed a phishing campaign that targeted a Middle Eastern organization in early January 2017. Some of messages were sent from legitimate email addresses belonging to several Middle Eastern organizations.\nhttps://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations\r\n**2017**: In early 2017, SecureWorks Counter Threat Unit (CTU) researchers observed phishing campaigns targeting several entities in the Middle East and North Africa (MENA), with a focus on Saudi Arabian organizations. The campaigns delivered PupyRAT, an open-source cross-platform remote access Trojan.\nhttps://www.secureworks.com/research/the-curious-case-of-mia-ash\r\n**2018-06**: Impersonating ClearSky, the security firm that uncovered its campaigns\nIranian cyberespionage group Charming Kitten, which has been operating since 2014, has impersonated the cybersecurity firm that exposed its operations and campaigns. Israeli firm ClearSky Security said the group managed to copy its official website hosted on a similar-looking domain \u2013 clearskysecurity[.]net.\nClearSky\u2019s actual website is Clearskysec.com.\nhttps://cyware.com/news/iranian-apt-charming-kitten-impersonates-clearsky-the-security-firm-that-uncovered-its-campaigns-7fea0b4f\r\n**2017-08**: Breach of HBO\nOn August 7 a small treasure trove of HBO content was posted publicly to the web by a hacker who is now demanding a $6 million payment to stop any further release of data. The hacker who goes by Mr. Smith posted five scripts for Game of Thrones and a month\u2019s worth of email from HBO Vice President for Film Programming Leslie Cohen along with some other corporate information, according to the Associated Press.\nhttps://www.scmagazine.com/home/security-news/cybercrime/hbo-breach-accomplished-with-hard-work-by-hacker-poor-security-practices-by-victim/\r\n**2018-10**: The Return of The Charming Kitten\nIn this campaign, hackers have targeted individuals who are involved in economic and military sanctions against the Islamic Republic of Iran as well as politicians, civil and human rights activists and journalists around the world.\nOur review in Certfa demonstrates that the hackers \u2013 knowing that their victims use two-step verification \u2013 target verification codes and also their email accounts such as Yahoo! And Gmail.\nhttps://blog.certfa.com/posts/the-return-of-the-charming-kitten/\r\n**2019-07**: In August, the campaign has progressed, and unlike July, it seems like the APT group is now expanding its activities toward influential public figures around the world, rather than academic researchers state organizations.\nhttps://www.clearskysec.com/the-kittens-are-back-in-town/\r\n**2019-08**: In a 30-day period between August and September, the Microsoft Threat Intelligence Center (MSTIC) observed Phosphorus making more than 2,700 attempts to identify consumer email accounts belonging to specific Microsoft customers and then attack 241 of those accounts.\nhttps://blogs.microsoft.com/on-the-issues/2019/10/04/recent-cyberattacks-require-us-all-to-be-vigilant/\nhttps://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2.pdf\r\n**2020-01**: Fake Interview: The New Activity of Charming Kitten\nhttps://blog.certfa.com/posts/fake-interview-the-new-activity-of-charming-kitten/\r\n**2020-07**: Starting July 2020, we have identified a new TTP of the group, impersonating \u201cDeutscheWelle\u201d and the \u201cJewish Journal\u201d using emails alongside WhatsApp messages as their main platform to approach the target and convince them to open a malicious link.\nhttps://www.clearskysec.com/wp-content/uploads/2020/08/The-Kittens-are-Back-in-Town-3.pdf\r\n**2020-12**: During the Christmas holidays and the beginning of the new year, the Charming Kitten group, the Iranian state-backed hackers, have begun a targeted phishing campaign of espionage against different individuals to collect information.\nhttps://blog.certfa.com/posts/charming-kitten-christmas-gift/\r\n",
             "information": [
                 "<https://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf>",
                 "<https://en.wikipedia.org/wiki/Charming_Kitten>"
@@ -17114,7 +17164,8 @@
                 "2019-07",
                 "2019-08",
                 "2020-01",
-                "2020-07"
+                "2020-07",
+                "2020-12"
             ],
             "targeted countries": [
                 "Afghanistan",
@@ -17154,7 +17205,7 @@
                 "<https://attack.mitre.org/groups/G0058/>",
                 "<https://attack.mitre.org/groups/G0059/>"
             ],
-            "last card change": "2020-08-28",
+            "last card change": "2021-01-20",
             "ioc_domain": [
                 "servicesystem.serveirc.com",
                 "chrome-up.date",
@@ -17860,7 +17911,7 @@
                 "Gaza Hackers Team (Kaspersky)",
                 "Aluminum Saratoga (SecureWorks)",
                 "ATK 89 (Thales)",
-                "TAG-CT5 (?)"
+                "TAG-CT5 (Google)"
             ],
             "country": [
                 "Gaza"
@@ -17969,7 +18020,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0021/>"
             ],
-            "last card change": "2021-01-07"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -19418,6 +19469,37 @@
         },
         {
             "type": "apt_group",
+            "id": "apt-Operation-Domino",
+            "actor": "Operation Domino, Operation Kremlin",
+            "names": [
+                "Operation Domino (Hunting Shadow Lab)",
+                "Operation Kremlin (Clearsky)"
+            ],
+            "country": [
+                "Russia"
+            ],
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(Clearsky) ClearSky researchers identified a malicious \u201c.docx\u201d file that was uploaded to VirusTotal from Russia in mid-December. The file contains an obfuscated URL to a remote template which contains malicious VBA, eventually leading to the execution of VBS on the infected machine. The attack\u2019s purpose is to stealthily exfiltrate information without running any external executables on the system.\n\nNotably, the process is escalated on a certain day of the week, suggesting a possible familiarity with the intended victim or victims.\n\nWe estimate with medium confidence that the same threat actor responsible for the attacks described in this paper also conducted an attack named \u201cOperation Domino\u201d that occurred earlier in 2020.\n\nWe decided to name the operation \u201cKremlin\u201d due to the use of a parameter named \u201ckreml\u201d in the \u201cposlai\u201d (meaning send in Russian) function that exfiltrates the data.",
+            "operations": "**2020-09**: Operation \u201cDomino\u201d\nhttps://ti.dbappsecurity.com.cn/blog/index.php/2020/09/18/operation-domino/\r\n**2020-12**: Operation \u201cKremlin\u201d\nhttps://www.clearskysec.com/operation-kremlin/\r\n",
+            "information": [
+                "<https://www.clearskysec.com/operation-kremlin/>"
+            ],
+            "uuid": "99a751ba-5585-44b1-b9d3-993fc2ddc8fc",
+            "label": "Operation Domino",
+            "operation dates": [
+                "2020-09",
+                "2020-12"
+            ],
+            "targeted countries": [
+                "Belarus"
+            ],
+            "first seen": "2019",
+            "last card change": "2021-01-20"
+        },
+        {
+            "type": "apt_group",
             "id": "apt-Operation-DRBControl",
             "actor": "Operation DRBControl",
             "names": [
@@ -20047,6 +20129,40 @@
         },
         {
             "type": "apt_group",
+            "id": "apt-Operation-Spalax",
+            "actor": "Operation Spalax",
+            "names": [
+                "Operation Spalax (ESET)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Information theft and espionage"
+            ],
+            "description": "(ESET) In 2020 ESET saw several attacks targeting Colombian entities exclusively. These attacks are still ongoing at the time of writing and are focused on both government institutions and private companies. For the latter, the most targeted sectors are energy and metallurgical. The attackers rely on the use of remote access trojans, most likely to spy on their victims. They have a large network infrastructure for command and control: ESET observed at least 24 different IP addresses in use in the second half of 2020. These are probably compromised devices that act as proxies for their C&C servers. This, combined with the use of dynamic DNS services, means that their infrastructure never stays still. We have seen at least 70 domain names active in this timeframe and they register new ones on a regular basis.",
+            "tools": [
+                "AsyncRAT",
+                "njRAT",
+                "RemcosRAT"
+            ],
+            "information": [
+                "<https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/>"
+            ],
+            "uuid": "c8512d7d-ea72-48c1-b7ed-a25735b9a094",
+            "label": "Operation Spalax",
+            "targeted countries": [
+                "Colombia"
+            ],
+            "targeted sectors": [
+                "Energy",
+                "Government"
+            ],
+            "first seen": "2020",
+            "last card change": "2021-01-20"
+        },
+        {
+            "type": "apt_group",
             "id": "apt-Operation-Titan-Rain",
             "actor": "Operation Titan Rain",
             "names": [
@@ -20461,6 +20577,20 @@
                 "<https://attack.mitre.org/groups/G0040/>"
             ],
             "last card change": "2021-01-07",
+            "ioc_url": [
+                "http://123.57.158.115",
+                "http://146.185.234.71",
+                "http://149.56.80.64",
+                "http://176.107.182.24",
+                "http://185.203.116.58",
+                "http://185.82.217.200",
+                "http://188.165.124.30",
+                "http://43.249.37.165",
+                "http://46.183.216.222",
+                "http://81.17.30.28",
+                "http://91.229.79.183",
+                "http://94.156.35.204"
+            ],
             "ioc_ip": [
                 "188.241.58.60:21",
                 "188.241.58.61:21",
@@ -20472,21 +20602,6 @@
                 "192.250.236.76:80",
                 "185.193.38.24:443",
                 "185.29.10.117:443"
-            ],
-            "ioc_url": [
-                "http://139.28.38.231",
-                "http://199.101.187.54",
-                "http://45.63.43.29",
-                "http://45.76.33.53",
-                "http://46.165.207.108",
-                "http://5.135.73.109",
-                "http://5.135.73.109",
-                "http://91.210.107.104",
-                "http://94.242.219.205",
-                "http://95.211.38.135/search1.php",
-                "http://185.29.10.117",
-                "http://94.156.35.204",
-                "http://176.107.181.213"
             ],
             "ioc_domain": [
                 "kielsoservice.net",
@@ -21509,8 +21624,10 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2021-01-07",
+            "ioc_url": [
+                "http://72.21.245.117"
+            ],
             "ioc_domain": [
-                "sync.appchecks.rr.nu",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -21607,11 +21724,7 @@
                 "webmail-googie.com",
                 "webmail-gooqle.com",
                 "busyday.atwebpages.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org",
+                "sync.appchecks.rr.nu",
                 "charley-online.com",
                 "fighiting1013.org",
                 "a7788.1apps.com",
@@ -21632,10 +21745,12 @@
                 "anyportals.com",
                 "pmoae.com",
                 "cgalim.com",
-                "hakproperty.com"
-            ],
-            "ioc_url": [
-                "http://72.21.245.117"
+                "hakproperty.com",
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org"
             ],
             "ioc_ip": [
                 "5.252.198.93:7337",
@@ -22643,7 +22758,8 @@
                 "<https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/fireeye-sidewinder-targeted-attack.pdf>",
                 "<https://medium.com/@Sebdraven/apt-sidewinder-tricks-powershell-anti-forensics-and-execution-side-loading-5bc1a7e7c84c>",
                 "<https://s.tencent.com/research/report/479.html>",
-                "<https://s.tencent.com/research/report/659.html>"
+                "<https://s.tencent.com/research/report/659.html>",
+                "<https://cdn-cybersecurity.att.com/docs/global-perspective-of-the-sidewinder-apt.pdf>"
             ],
             "uuid": "4e925967-099e-4708-9bca-ade4890d847b",
             "label": "SideWinder",
@@ -22651,16 +22767,21 @@
                 "2019-03"
             ],
             "targeted countries": [
+                "Afghanistan",
+                "Bangladesh",
                 "China",
+                "Myanmar",
+                "Nepal",
                 "Pakistan",
-                "South Asia"
+                "Qatar",
+                "Sri Lanka"
             ],
             "targeted sectors": [
                 "Defense",
                 "Government"
             ],
             "first seen": "2012",
-            "last card change": "2020-04-29",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "185.225.17.239:443",
                 "110.10.176.193:4443",
@@ -22855,7 +22976,7 @@
                 "Whisper Spider (CrowdStrike)",
                 "TEMP.TruthTeller (FireEye)",
                 "ATK 86 (Thales)",
-                "TAG-CR8 (?)"
+                "TAG-CR8 (Google)"
             ],
             "country": [
                 "Unknown"
@@ -22972,7 +23093,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0091/>"
             ],
-            "last card change": "2020-05-15",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "185.20.187.89:443"
             ],
@@ -23219,7 +23340,7 @@
                 "ATK 5 (Thales)",
                 "T-APT-12 (Tencent)",
                 "ITG05 (IBM)",
-                "TAG-0700 (?)",
+                "TAG-0700 (Google)",
                 "Grizzly Steppe (US Government)"
             ],
             "country": [
@@ -23417,7 +23538,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0007/>"
             ],
-            "last card change": "2021-01-07",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "130.211.96.168",
                 "54.147.199.149",
@@ -25201,8 +25322,6 @@
             ],
             "last card change": "2020-04-22",
             "ioc_domain": [
-                "shelves-design.com",
-                "weekendstrips.net",
                 "adlinkmetric.com",
                 "adlinkmetrics.com",
                 "bestairlinepricetags.com",
@@ -25287,7 +25406,9 @@
                 "footballtimes.info",
                 "upnpdiscover.org",
                 "vegetableportfolio.com",
-                "windowsearchcache.com"
+                "windowsearchcache.com",
+                "shelves-design.com",
+                "weekendstrips.net"
             ]
         },
         {
@@ -25432,7 +25553,6 @@
             ],
             "last card change": "2021-01-07",
             "ioc_ip": [
-                "185.117.88.80:8088",
                 "93.171.216.129",
                 "144.168.45.116",
                 "109.248.222.85",
@@ -25447,7 +25567,8 @@
                 "185.117.88.77",
                 "185.117.88.82",
                 "109.237.111.175",
-                "83.217.26.203"
+                "83.217.26.203",
+                "185.117.88.80:8088"
             ],
             "ioc_domain": [
                 "dick.ccfchrist.com",
@@ -27213,7 +27334,7 @@
                 "Syria Malware Team (self give)",
                 "Deadeye Jackal (CrowdStrike)",
                 "ATK 196 (Thales)",
-                "TAG-CT2 (?)"
+                "TAG-CT2 (Google)"
             ],
             "country": [
                 "Syria"
@@ -27258,7 +27379,7 @@
             ],
             "first seen": "2011",
             "counter operations": "**2018-05**: Two Members of Syrian Electronic Army Indicted for Conspiracy\nhttps://www.justice.gov/usao-edva/pr/two-members-syrian-electronic-army-indicted-conspiracy\r\n",
-            "last card change": "2020-04-20"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -27296,6 +27417,13 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
+            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -27303,13 +27431,6 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
-            ],
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
             ]
         },
         {
@@ -28820,7 +28941,9 @@
                 "oca-telemetry-microsoft.com",
                 "statsfe1-ws-microsoft.com",
                 "store-077864-live.com",
-                "xbox-ms-store-debug.com"
+                "xbox-ms-store-debug.com",
+                "cdn-098636-metrics-mozilla.com",
+                "cdn-738276555-us-akamai.com"
             ]
         },
         {
@@ -29799,19 +29922,8 @@
                 "<https://attack.mitre.org/groups/G0081/>"
             ],
             "last card change": "2021-01-07",
-            "ioc_ip": [
-                "68.65.121.44:1883",
-                "68.65.121.44:443",
-                "198.54.117.211:1883",
-                "198.54.117.217:1883",
-                "198.54.117.215:1883",
-                "198.54.117.212:1883",
-                "198.54.117.218:1883"
-            ],
-            "ioc_url": [
-                "http://198.54.115.130"
-            ],
             "ioc_domain": [
+                "y5mogzal2w25p6bn.ml",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -30115,8 +30227,19 @@
                 "myinfo.ocry.com",
                 "myzinfo.myz.info",
                 "oldape.25u.com",
-                "oldape.4dq.com",
-                "y5mogzal2w25p6bn.ml"
+                "oldape.4dq.com"
+            ],
+            "ioc_ip": [
+                "68.65.121.44:1883",
+                "68.65.121.44:443",
+                "198.54.117.211:1883",
+                "198.54.117.217:1883",
+                "198.54.117.215:1883",
+                "198.54.117.212:1883",
+                "198.54.117.218:1883"
+            ],
+            "ioc_url": [
+                "http://198.54.115.130"
             ]
         },
         {
@@ -30221,7 +30344,7 @@
                 "Belugasturgeon (Accenture)",
                 "Popeye (?)",
                 "Wraith (?)",
-                "TAG-0530 (?)"
+                "TAG-0530 (Google)"
             ],
             "country": [
                 "Russia"
@@ -30411,23 +30534,10 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
-            "last card change": "2021-01-07",
-            "ioc_ip": [
-                "134.209.222.206:15363",
-                "85.222.235.156:8000",
-                "203.117.122.51",
-                "178.219.68.239",
-                "104.223.89.145",
-                "212.21.40.220"
-            ],
-            "ioc_url": [
-                "http://169.255.137.203/rss_0.php",
-                "http://217.171.86.137/config.php",
-                "http://217.171.86.137/rss_0.php",
-                "http://185.141.62.32",
-                "http://37.59.60.199"
-            ],
+            "last card change": "2021-01-20",
             "ioc_domain": [
+                "tapok121.jhfree.net",
+                "orl05511cn.temp.swtest.ru",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -30706,9 +30816,22 @@
                 "highcolumn.webredirect.org",
                 "hotspot.accesscam.org",
                 "theguardian.webredirect.org",
-                "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru",
                 "news-bbc.podzone.org"
+            ],
+            "ioc_ip": [
+                "134.209.222.206:15363",
+                "85.222.235.156:8000",
+                "203.117.122.51",
+                "178.219.68.239",
+                "104.223.89.145",
+                "212.21.40.220"
+            ],
+            "ioc_url": [
+                "http://169.255.137.203/rss_0.php",
+                "http://217.171.86.137/config.php",
+                "http://217.171.86.137/rss_0.php",
+                "http://185.141.62.32",
+                "http://37.59.60.199"
             ]
         },
         {
@@ -30759,9 +30882,11 @@
             ],
             "description": "Security organization FireEye was hit by a security breach in early December. Analyzing how the breach happened, they found it was done through a malicious software update of the SolarWinds Orion platform \u2013 i.e. a supply-chain attack.\n\nFollowing the malicious infrastructure, they then found they were only one instance in a massive breach at many more organizations, many of which are government and military agencies.\n\nSolarWinds is an IT (asset) management platform that is used by around 300,000 customers worldwide, of which around 425 of the Fortune 500, as well as many critical infrastructure organizations.\n\nAs for attribution, FireEye tracks this threat actor under the neutral name \u201cUNC2452\u201d. In the media, however, unconfirmed sources point to a well-known APT called {{APT 29, Cozy Bear, The Dukes}}, believed to be a Russian government sponsored group. Kaspersky\u2019s findings may link this breach to another Russian APT group, {{Turla, Waterbug, Venomous Bear}}.\n\n<b>The investigation is still in active progress. You can follow the news in our extensive (almost) daily updated whitepaper listed below.</b>",
             "tools": [
+                "7-Zip",
                 "AdFind",
                 "Cobalt Strike",
                 "Mimikatz",
+                "RAINDROP",
                 "SUNBURST",
                 "SUNSPOT",
                 "SUPERNOVA",
@@ -30773,9 +30898,10 @@
             "uuid": "8823ab67-aed0-4dd0-8425-b72db5f13952",
             "label": "UNC2452",
             "first seen": "2019",
-            "last card change": "2021-01-13",
+            "last card change": "2021-01-20",
             "ioc_domain": [
                 "avsvmcloud.com",
+                "bigtopweb.com",
                 "databasegalore.com",
                 "deftsecurity.com",
                 "digitalcollege.org",
@@ -31553,13 +31679,18 @@
             ],
             "description": "(Palo Alto) Between May and June 2019, Unit 42 observed previously unknown tools used in the targeting of transportation and shipping organizations based in Kuwait.\n\nThe first known attack in this campaign targeted a Kuwait transportation and shipping company in which the actors installed a backdoor tool named Hisoka. Several custom tools were later downloaded to the system in order to carry out post-exploitation activities. All of these tools appear to have been created by the same developer. We were able to collect several variations of these tools including one dating back to July 2018.\n\nThe developer of the collected tools used character names from the anime series Hunter x Hunter, which is the basis for the campaign name \u201cxHunt.\u201d The names of the tools collected include backdoor tools Sakabota, Hisoka, Netero and Killua. These tools not only use HTTP for their command and control (C2) channels, but certain variants of these tools use DNS tunneling or emails to communicate with their C2 as well. While DNS tunneling as a C2 channel is fairly common, the specific method in which this group used email to facilitate C2 communications has not been observed by Unit 42 in quite some time. This method uses Exchange Web Services (EWS) and stolen credentials to create email \u201cdrafts\u201d to communicate between the actor and the tool. In addition to the aforementioned backdoor tools, we also observed tools referred to as Gon and EYE, which provide the backdoor access and the ability to carry out post-exploitation activities.",
             "tools": [
+                "BumbleBee",
+                "CASHY200",
                 "Gon",
                 "EYE",
                 "Hisoka",
                 "Killua",
                 "Netero",
-                "Sakabota"
+                "Sakabota",
+                "Snugy",
+                "TriFive"
             ],
+            "operations": "**2018-05**: On May 1 and June 3, 2018, we first saw executables that installed and executed CASHY200 PowerShell scripts\nhttps://unit42.paloaltonetworks.com/more-xhunt-new-powershell-backdoor-blocked-through-dns-tunnel-detection/\r\n**2019-08**: Newly Discovered Backdoors Using Deleted Email Drafts and DNS Tunneling for Command and Control\nhttps://unit42.paloaltonetworks.com/xhunt-campaign-backdoors/\nhttps://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/\r\n",
             "information": [
                 "<https://unit42.paloaltonetworks.com/xhunt-campaign-attacks-on-kuwait-shipping-and-transportation-organizations/>"
             ],
@@ -31568,6 +31699,10 @@
             ],
             "uuid": "3a8ec920-4dfd-4a06-81e7-7be8ee639b73",
             "label": "xHunt",
+            "operation dates": [
+                "2018-05",
+                "2019-08"
+            ],
             "targeted countries": [
                 "Kuwait"
             ],
@@ -31575,7 +31710,7 @@
                 "Shipping and Logistics"
             ],
             "first seen": "2018",
-            "last card change": "2020-05-13",
+            "last card change": "2021-01-20",
             "ioc_ip": [
                 "142.11.211.79:8080",
                 "142.11.211.79:8081",
@@ -31746,6 +31881,33 @@
             ],
             "first seen": "2018",
             "last card change": "2020-04-15"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-ALTDOS",
+            "actor": "ALTDOS",
+            "names": [
+                "ALTDOS (self given)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Financial gain"
+            ],
+            "description": "Not much is known about this person or group, other than the breach reports.",
+            "operations": "**2020-12**: \u201cALTDOS,\u201d as they call themselves, contacted a number of news outlets in Thailand and online news sites to announce that they had attacked CGSEC on December 4.\nhttps://www.databreaches.net/thai-securities-trading-firm-goes-offline-after-cyberattack/\r\n**2021-01**: The same hacking group that hit Country Group Securities (CGSEC) in Thailand has revealed a recent attack on Mono Next Public Company Limited, a media and content conglomerate in Thailand.\nhttps://www.databreaches.net/thai-media-and-content-conglomerate-mono-next-public-company-hit-by-altdos-hackers/\r\n",
+            "uuid": "0d49b800-c289-48a6-a2f9-c9cfba116e21",
+            "label": "ALTDOS",
+            "operation dates": [
+                "2020-12",
+                "2021-01"
+            ],
+            "targeted countries": [
+                "Thailand"
+            ],
+            "first seen": "2020",
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -32371,7 +32533,7 @@
             "names": [
                 "Fxmsp (self given)",
                 "ATK 134 (Thales)",
-                "TAG-CR17 (?)"
+                "TAG-CR17 (Google)"
             ],
             "country": [
                 "Kazakhstan"
@@ -32449,7 +32611,7 @@
             ],
             "first seen": "2016",
             "counter operations": "**2020-07**: Feds indict 'fxmsp' in connection with million-dollar hacking operation\nhttps://www.cyberscoop.com/fxmsp-andrey-turchin-indictment-fraud-stolen-data/\r\n",
-            "last card change": "2020-07-08"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -32907,7 +33069,7 @@
             "names": [
                 "OurMine (real name)",
                 "ATK 128 (Thales)",
-                "TAG-HA10 (?)"
+                "TAG-HA10 (Google)"
             ],
             "country": [
                 "Saudi Arabia"
@@ -32949,7 +33111,7 @@
                 "Telecommunications"
             ],
             "first seen": "2016",
-            "last card change": "2020-04-20"
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -48307,6 +48469,7 @@
                 "drxodkvjzi.duckdns.org",
                 "dsatr.duckdns.org",
                 "dschtidaev.duckdns.org",
+                "dsepgqayoz.ddns.net",
                 "dseqbjsbmw.ddns.net",
                 "dseybithxf.duckdns.org",
                 "dsfg3346.duckdns.org",
@@ -48919,6 +49082,7 @@
                 "ercdldvjnz.duckdns.org",
                 "ercytujqss.duckdns.org",
                 "erdalwyigf.ddns.net",
+                "erfbhofpur.ddns.net",
                 "erfcrcvqum.duckdns.org",
                 "erffffskwj.duckdns.org",
                 "erhjopwbyj.duckdns.org",
@@ -54701,6 +54865,7 @@
                 "nxmlycqorv.duckdns.org",
                 "nxmtgtguij.duckdns.org",
                 "nxnwrgywow.duckdns.org",
+                "nxomjfcyuj.ddns.net",
                 "nxpavglful.duckdns.org",
                 "nxpavhwaom.duckdns.org",
                 "nxqcmjnnwh.ddns.net",
@@ -55091,6 +55256,7 @@
                 "ooocbcbcob.duckdns.org",
                 "ooofiemfsm.duckdns.org",
                 "oopochldlh.duckdns.org",
+                "ooqbohisuk.ddns.net",
                 "oorzgkqmoh.duckdns.org",
                 "oouosdjbhz.duckdns.org",
                 "oowmxzsdwf.duckdns.org",
@@ -55371,6 +55537,7 @@
                 "pasuefoqtl.duckdns.org",
                 "pasuvnfwyj.duckdns.org",
                 "paucthchor.duckdns.org",
+                "paugeydkmx.duckdns.org",
                 "pavvvizhct.duckdns.org",
                 "pawiiedqyo.duckdns.org",
                 "paxlnhnjrg.duckdns.org",
@@ -55535,6 +55702,7 @@
                 "pgvqfgehsa.duckdns.org",
                 "pgvvvvvivi.duckdns.org",
                 "pgyjckekre.duckdns.org",
+                "pgykiuetuf.duckdns.org",
                 "pgzkletzkk.duckdns.org",
                 "pgzkqeypyf.duckdns.org",
                 "phbcxiuiwk.duckdns.org",
@@ -55939,6 +56107,7 @@
                 "pzjumkyjec.duckdns.org",
                 "pzmrrqddqq.duckdns.org",
                 "pzncdujsgz.duckdns.org",
+                "pzokyipxmy.duckdns.org",
                 "pzpaoinwjd.duckdns.org",
                 "pzplwutaqy.duckdns.org",
                 "pzqcwycevu.duckdns.org",
@@ -57455,6 +57624,7 @@
                 "skydqhuuxn.duckdns.org",
                 "skzjhdyyma.duckdns.org",
                 "slbnfuabee.duckdns.org",
+                "sldenhjdjs.duckdns.org",
                 "slditoegnl.duckdns.org",
                 "slfbxvnoda.duckdns.org",
                 "slgbgnfjvx.duckdns.org",
@@ -57466,6 +57636,7 @@
                 "slnohryfts.duckdns.org",
                 "sloilhbqtd.duckdns.org",
                 "slpudmprma.duckdns.org",
+                "slqwlwusza.duckdns.org",
                 "slrjyuurdz.duckdns.org",
                 "slsxxrfemc.duckdns.org",
                 "sltgucqwcz.duckdns.org",
@@ -57483,6 +57654,7 @@
                 "smehpusnwg.duckdns.org",
                 "smgepvfkuk.duckdns.org",
                 "smgitbqlzk.duckdns.org",
+                "smhceymvhw.duckdns.org",
                 "smhjcddfqd.duckdns.org",
                 "smjnprgeqs.duckdns.org",
                 "smjujualcl.duckdns.org",
@@ -57595,6 +57767,7 @@
                 "squhhuuhgg.duckdns.org",
                 "squhttfrrr.duckdns.org",
                 "sqvvxtrfnc.duckdns.org",
+                "sqwuwluwiv.duckdns.org",
                 "sqwvzcjxed.duckdns.org",
                 "srbmxueusd.duckdns.org",
                 "srdpqqpcpc.duckdns.org",
@@ -57650,6 +57823,7 @@
                 "stacqnmvmi.duckdns.org",
                 "stbapxinop.duckdns.org",
                 "stbgbojlwd.duckdns.org",
+                "sthggxmtiw.duckdns.org",
                 "sthtynknwy.duckdns.org",
                 "stnxwemdoq.duckdns.org",
                 "stsgfckbih.duckdns.org",
@@ -57722,6 +57896,7 @@
                 "swsetggad.duckdns.org",
                 "swsetsgx3.duckdns.org",
                 "swtgs.duckdns.org",
+                "swunytrkea.duckdns.org",
                 "swvnstxspb.duckdns.org",
                 "swwkkxyyzm.duckdns.org",
                 "swwmvgnkqv.duckdns.org",
@@ -57746,6 +57921,7 @@
                 "sxugtuhmmj.duckdns.org",
                 "sxvaet335.duckdns.org",
                 "sxvijmqfef.duckdns.org",
+                "sxwxykfpfk.duckdns.org",
                 "sxwylojvtm.duckdns.org",
                 "sxxljbwwmb.duckdns.org",
                 "sxyeqjlept.duckdns.org",
@@ -57779,6 +57955,7 @@
                 "szohsatgqt.duckdns.org",
                 "szpdfdbcac.duckdns.org",
                 "szpulmaduf.duckdns.org",
+                "szrfvparxc.duckdns.org",
                 "szubzjtago.duckdns.org",
                 "szvqcaiwcp.duckdns.org",
                 "szwfptuusb.duckdns.org",
@@ -57850,6 +58027,7 @@
                 "tcticcqixr.duckdns.org",
                 "tcutfezehj.duckdns.org",
                 "tcxkmyefxx.duckdns.org",
+                "tcxocxygos.duckdns.org",
                 "tdbclvnozk.duckdns.org",
                 "tdbljhehrb.ddns.net",
                 "tddhaposgl.duckdns.org",
@@ -58318,6 +58496,7 @@
                 "twuwhfzxsk.duckdns.org",
                 "twxjdmrbvo.duckdns.org",
                 "twzcsdklfl.duckdns.org",
+                "twzhqidydm.duckdns.org",
                 "txavexskgo.duckdns.org",
                 "txbmnltbpx.duckdns.org",
                 "txbqywewmk.duckdns.org",
@@ -58502,6 +58681,7 @@
                 "uerjtnpljy.duckdns.org",
                 "ueroxkbfbd.duckdns.org",
                 "uervzunres.duckdns.org",
+                "uesdsjrbtk.ddns.net",
                 "uesgoumgyi.duckdns.org",
                 "ueswhgw33.duckdns.org",
                 "uevpuuvmrs.duckdns.org",
@@ -59570,6 +59750,7 @@
                 "vyxfkxlidd.duckdns.org",
                 "vyxxlyzlyz.duckdns.org",
                 "vyxxyllkxx.duckdns.org",
+                "vzaijumubz.duckdns.org",
                 "vzaiksktbq.duckdns.org",
                 "vzbcsvbhre.duckdns.org",
                 "vzckotsalo.duckdns.org",
@@ -60122,6 +60303,7 @@
                 "wohiwtgjcs.duckdns.org",
                 "wohlgiheck.duckdns.org",
                 "woicyzkspk.duckdns.org",
+                "wojxbgdffe.ddns.net",
                 "wokdpitvqa.duckdns.org",
                 "womctjtjni.duckdns.org",
                 "wonfqythqg.duckdns.org",
@@ -60314,6 +60496,7 @@
                 "wwlwqelnss.duckdns.org",
                 "wwmtywvbrb.duckdns.org",
                 "wwnzmhemnf.duckdns.org",
+                "wwpxsgdfme.duckdns.org",
                 "wwrprmewxn.duckdns.org",
                 "wwsdpsmjav.duckdns.org",
                 "wwtldnnyrq.duckdns.org",
@@ -60609,6 +60792,7 @@
                 "xiriwcupzt.duckdns.org",
                 "xispdethmb.ddns.net",
                 "xispdethmb.duckdns.org",
+                "xiumkiqvea.duckdns.org",
                 "xiummlyxkk.duckdns.org",
                 "xiummzzmzz.duckdns.org",
                 "xiurogglab.duckdns.org",
@@ -61011,6 +61195,7 @@
                 "xymumvdyqf.duckdns.org",
                 "xypdcbkjpn.duckdns.org",
                 "xysqxflqzj.duckdns.org",
+                "xytezxsehf.duckdns.org",
                 "xyttvzgcao.duckdns.org",
                 "xyxianbrhw.duckdns.org",
                 "xyxncyzlqb.duckdns.org",
@@ -61205,6 +61390,7 @@
                 "yhseufrdcx.duckdns.org",
                 "yhsne.duckdns.org",
                 "yhtfpjfkbt.duckdns.org",
+                "yhtlxesggd.duckdns.org",
                 "yhvzhvhrae.duckdns.org",
                 "yhwaetsdx.duckdns.org",
                 "yhxfgearqa.duckdns.org",
@@ -61455,6 +61641,7 @@
                 "yrzzivtila.duckdns.org",
                 "ysaythvdch.duckdns.org",
                 "ysbmhmuimu.duckdns.org",
+                "yschzxtecn.duckdns.org",
                 "ysclfvfhir.duckdns.org",
                 "ysdlxqrfay.duckdns.org",
                 "ysepzpsbeh.duckdns.org",
@@ -61512,6 +61699,7 @@
                 "yuxtgkmvhe.duckdns.org",
                 "yvamzmzlly.duckdns.org",
                 "yvbbomrand.duckdns.org",
+                "yvcefwhcfg.duckdns.org",
                 "yvcyjdmitm.duckdns.org",
                 "yvgvmyyvki.duckdns.org",
                 "yvhdzbqstg.duckdns.org",
@@ -61551,6 +61739,7 @@
                 "ywjyiupjem.duckdns.org",
                 "ywklwydhwa.duckdns.org",
                 "ywldpujlzf.duckdns.org",
+                "ywlqfcelrj.duckdns.org",
                 "ywqcmcobyq.duckdns.org",
                 "ywretysdx3.duckdns.org",
                 "ywtctuypst.duckdns.org",
@@ -61915,6 +62104,7 @@
                 "znoiwhdrpa.duckdns.org",
                 "znokzsnwya.duckdns.org",
                 "znozlguvqh.duckdns.org",
+                "znpnoethpb.duckdns.org",
                 "znqtuxzvfs.duckdns.org",
                 "znricamoal.duckdns.org",
                 "znrzdoidxm.duckdns.org",
@@ -61990,6 +62180,7 @@
                 "zqntfzqqfu.duckdns.org",
                 "zqpokcojfv.duckdns.org",
                 "zqrjjltplg.duckdns.org",
+                "zqvbwrcqbp.duckdns.org",
                 "zqwyumhsht.duckdns.org",
                 "zqzelzbtba.duckdns.org",
                 "zqzihqepax.duckdns.org",
@@ -62600,6 +62791,7 @@
                 "auznw.com",
                 "aeoxq.com",
                 "aeockr.com",
+                "aeozk.com",
                 "kuronekoyamato-b.top",
                 "correos-apli.com",
                 "correos-apli.net",
@@ -62629,14 +62821,21 @@
                 "correos-b.com",
                 "correos-1.com",
                 "correos-2.com",
+                "correos-3.com",
                 "appidsecurity.info",
                 "iiuvv.com",
                 "rakutensupport.info",
                 "vjiir.com",
                 "securityjp.info",
                 "viofrr.com",
+                "jpsecurity.info",
+                "jappnve.com",
                 "contactjp.info",
-                "xkdee.com"
+                "xkdee.com",
+                "smbc-cardg.com",
+                "smbc-cardn.com",
+                "smbc-cardm.net",
+                "smbc-cardo.com"
             ]
         },
         {
@@ -62963,6 +63162,36 @@
             ],
             "first seen": "2016",
             "last card change": "2020-04-14"
+        },
+        {
+            "type": "apt_group",
+            "id": "apt-TA551",
+            "actor": "TA551, Shathak",
+            "names": [
+                "TA551 (Proofpoint)",
+                "Shathak (?)"
+            ],
+            "country": [
+                "Unknown"
+            ],
+            "motivation": [
+                "Financial gain"
+            ],
+            "description": "(Palo Alto) TA551 (also known as Shathak) is an email-based malware distribution campaign that often targets English-speaking victims. The campaign discussed in this blog has targeted German, Italian and Japanese speakers. TA551 has historically pushed different families of information-stealing malware like Ursnif and Valak. After mid-July 2020, this campaign has exclusively pushed IcedID malware, another information stealer.",
+            "tools": [
+                "BokBot",
+                "Gozi",
+                "Valak"
+            ],
+            "information": [
+                "<https://unit42.paloaltonetworks.com/ta551-shathak-icedid/>",
+                "<https://unit42.paloaltonetworks.com/valak-evolution/>",
+                "<https://github.com/pan-unit42/iocs/tree/master/TA551>"
+            ],
+            "uuid": "269da320-1b20-4721-9bd6-17e0a355fe7d",
+            "label": "TA551",
+            "first seen": "2019",
+            "last card change": "2021-01-20"
         },
         {
             "type": "apt_group",
@@ -63736,6 +63965,7 @@
                 "**Sofacy**: On August 20th, 2019, a new campaign was launched by the group targeting their usual victims \u2013 embassies of, and Ministries of Foreign Affairs in, Eastern European and Central Asian countries.\nhttps://www.welivesecurity.com/2019/09/24/no-summer-vacations-zebrocy/\r\n",
                 "**Sofacy**: APT28, one of Russia's military hacking units, was most likely responsible for hacking the email accounts of the Norwegian Parliament, the Norwegian police secret service (PST) said today.\nhttps://www.zdnet.com/article/norway-says-russian-hacking-group-apt28-is-behind-august-2020-parliament-hack/\r\n",
                 "**TA505**: Given the group\u2019s active campaigns since our updates in June and July, we continued following their latest campaigns. Just like in previous operations, they continue to make small changes, such as targeting other countries, entities, or the combination of techniques used for deployment, for each campaign.\nhttps://blog.trendmicro.com/trendlabs-security-intelligence/ta505-at-it-again-variety-is-the-spice-of-servhelper-and-flawedammyy/\r\n",
+                "**xHunt**: Newly Discovered Backdoors Using Deleted Email Drafts and DNS Tunneling for Command and Control\nhttps://unit42.paloaltonetworks.com/xhunt-campaign-backdoors/\nhttps://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/\r\n",
                 "**Indrik Spider**: Apple Zero-Day Exploited in New BitPaymer Campaign\nhttps://blog.morphisec.com/apple-zero-day-exploited-in-bitpaymer-campaign\r\n",
                 "**Pinchy Spider**: Over 20 Texas local governments hit in 'coordinated ransomware attack'\nhttps://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/\r\n",
                 "**Roaming Mantis**: The McAfee mobile research team has found a new type of Android malware for the MoqHao phishing campaign (a.k.a. XLoader and Roaming Mantis) targeting Korean and Japanese users. A series of attack campaigns are still active, mainly targeting Japanese users. The new spyware has very different payloads from the existing MoqHao samples.\nhttps://www.mcafee.com/blogs/other-blogs/mcafee-labs/moqhao-related-android-spyware-targeting-japan-and-korea-found-on-google-play/\r\n",
@@ -64475,6 +64705,7 @@
                 "**Sofacy**: Breach of the Swedish Sports Confederation\nThe Swedish Sports Confederation reported Fancy Bear was responsible for an attack on its computers, targeting records of athletes\u2019 doping tests.\nhttps://www.reuters.com/article/us-sweden-doping/swedish-sports-body-says-anti-doping-unit-hit-by-hacking-attack-idUSKCN1IG2GN\r\n",
                 "**Sofacy**: VPNFilter IoT botnet\nThaiCERT's whitepaper:\nhttps://www.dropbox.com/s/9lkeenhveb3xbkq/Whitepaper VPNFilter IoT botnet seized by the FBI.pdf?dl=0\r\n",
                 "**Sweed**: In May 2018, campaigns being conducted by SWEED began leveraging another vulnerability in Microsoft Office: CVE-2017-11882, a remote code execution bug in Microsoft Office that is commonly observed being leveraged in malicious documents used in commodity malware distribution.\r\n",
+                "**xHunt**: On May 1 and June 3, 2018, we first saw executables that installed and executed CASHY200 PowerShell scripts\nhttps://unit42.paloaltonetworks.com/more-xhunt-new-powershell-backdoor-blocked-through-dns-tunnel-detection/\r\n",
                 "**Roaming Mantis**: In May, while monitoring Roaming Mantis, aka MoqHao and XLoader, we observed significant changes in their M.O. The group\u2019s activity expanded geographically and they broadened their attack/evasion methods. Their landing pages and malicious apk files now support 27 languages covering Europe and the Middle East. In addition, the criminals added a phishing option for iOS devices, and crypto-mining capabilities for the PC.\nhttps://securelist.com/roaming-mantis-dabbles-in-mining-and-phishing-multilingually/85607/\r\n"
             ]
         },
@@ -64804,6 +65035,7 @@
             "type": "operation_dates",
             "activities": [
                 "**APT 41**: Winnti Group\u2019s skip\u20112.0: A Microsoft SQL Server backdoor\nhttps://www.welivesecurity.com/2019/10/21/winnti-group-skip2-0-microsoft-sql-server-backdoor/\r\n",
+                "**Chimera**: NCC Group and Fox-IT have been tracking a threat group with a wide set of interests, from intellectual property (IP) from victims in the semiconductors industry through to passenger data from the airline industry.\nhttps://blog.fox-it.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/\r\n",
                 "**Cobalt Group**: Magecart Group 4: A link with Cobalt Group?\nhttps://blog.malwarebytes.com/threat-analysis/2019/10/magecart-group-4-a-link-with-cobalt-group/\r\n",
                 "**FIN7**: In this blog, we reveal two of FIN7\u2019s new tools that we have called BOOSTWRITE and RDFSNIFFER.\nhttps://www.fireeye.com/blog/threat-research/2019/10/mahalo-fin7-responding-to-new-tools-and-techniques.html\r\n",
                 "**Gamaredon Group**: Lure documents observed appear to target Ukrainian entities such as diplomats, government employees, military officials, and more.\nhttps://www.anomali.com/blog/malicious-activity-aligning-with-gamaredon-ttps-targets-ukraine#When:15:00:00Z\r\n",
@@ -65316,8 +65548,11 @@
                 "**Desert Falcons**: PyMICROPSIA: New Information-Stealing Trojan from AridViper\nhttps://unit42.paloaltonetworks.com/pymicropsia/\r\n",
                 "**FIN7**: This report presents an attack chain that was intercepted and prevented within a customer\u2019s network in December 2020, then will focus on a component from a typical FIN7 attack chain - JSSLoader.\nhttps://blog.morphisec.com/the-evolution-of-the-fin7-jssloader\r\n",
                 "**Lazarus Group**: As the COVID-19 crisis grinds on, some threat actors are trying to speed up vaccine development by any means available. We have found evidence that actors, such as the Lazarus group, are going after intelligence that could help these efforts by attacking entities related to COVID-19 research.\nhttps://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/\r\n",
+                "**Magic Hound**: During the Christmas holidays and the beginning of the new year, the Charming Kitten group, the Iranian state-backed hackers, have begun a targeted phishing campaign of espionage against different individuals to collect information.\nhttps://blog.certfa.com/posts/charming-kitten-christmas-gift/\r\n",
                 "**MuddyWater**: GitHub-hosted malware calculates Cobalt Strike payload from Imgur pic\nhttps://www.bleepingcomputer.com/news/security/github-hosted-malware-calculates-cobalt-strike-payload-from-imgur-pic/\r\n",
+                "**Operation Domino**: Operation \u201cKremlin\u201d\nhttps://www.clearskysec.com/operation-kremlin/\r\n",
                 "**Reaper**: North Korean software supply chain attack targets stock investors\nhttps://www.bleepingcomputer.com/news/security/north-korean-software-supply-chain-attack-targets-stock-investors/\nhttps://blog.alyac.co.kr/3489\r\n",
+                "**ALTDOS**: \u201cALTDOS,\u201d as they call themselves, contacted a number of news outlets in Thailand and online news sites to announce that they had attacked CGSEC on December 4.\nhttps://www.databreaches.net/thai-securities-trading-firm-goes-offline-after-cyberattack/\r\n",
                 "**Doppel Spider**: Foxconn electronics giant hit by ransomware, $34 million ransom\nhttps://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/\r\n",
                 "**Mummy Spider**: Emotet malware hits Lithuania's National Public Health Center\nhttps://www.bleepingcomputer.com/news/security/emotet-malware-hits-lithuanias-national-public-health-center/\r\n"
             ]
@@ -65395,6 +65630,7 @@
                 "**Energetic Bear**: The Russian state-sponsored APT actor has targeted dozens of SLTT government and aviation networks, attempted intrusions at several SLTT organizations, successfully compromised network infrastructure, and as of October 1, 2020, exfiltrated data from at least two victim servers.\nhttps://us-cert.cisa.gov/ncas/alerts/aa20-296a\r\n",
                 "**Mabna Institute**: In mid-September, we were tipped off by one of our customers about a new active campaign from this APT group. Based off a number of intended victims, we can tell that Silent Librarian does not limit itself to specific countries but tries to get wider coverage.\nhttps://blog.malwarebytes.com/malwarebytes-news/2020/10/silent-librarian-apt-phishing-attack/\r\n",
                 "**MuddyWater**: Operation \u201cQuicksand\u201d\nDuring September 2020, weidentified a new campaign targeting many prominent Israeli organizations.\nhttps://www.clearskysec.com/wp-content/uploads/2020/10/Operation-Quicksand.pdf\r\n",
+                "**Operation Domino**: Operation \u201cDomino\u201d\nhttps://ti.dbappsecurity.com.cn/blog/index.php/2020/09/18/operation-domino/\r\n",
                 "**Parisite**: This threat actor has been observed exploiting several publicly known Common Vulnerabilities and Exposures (CVEs) dealing with Pulse Secure virtual private network (VPN), Citrix NetScaler, and F5 vulnerabilities.\nhttps://us-cert.cisa.gov/ncas/alerts/aa20-259a\r\n",
                 "**RedDelta**: Following the Chinese National Day holiday in September, Proofpoint researchers observed a resumption of activity by the APT actor TA416.\nhttps://www.proofpoint.com/us/blog/threat-insight/ta416-goes-ground-and-returns-golang-plugx-malware-loader\r\n",
                 "**TA2101**: Fairfax County schools hit by Maze ransomware, student data leaked\nhttps://www.bleepingcomputer.com/news/security/fairfax-county-schools-hit-by-maze-ransomware-student-data-leaked/\r\n",
@@ -65852,6 +66088,17 @@
             ]
         },
         {
+            "id": "date-2021-01",
+            "label": "2021-01",
+            "operation dates": [
+                "2021-01"
+            ],
+            "type": "operation_dates",
+            "activities": [
+                "**ALTDOS**: The same hacking group that hit Country Group Securities (CGSEC) in Thailand has revealed a recent attack on Mono Next Public Company Limited, a media and content conglomerate in Thailand.\nhttps://www.databreaches.net/thai-media-and-content-conglomerate-mono-next-public-company-hit-by-altdos-hackers/\r\n"
+            ]
+        },
+        {
             "id": "date-2010-05",
             "label": "2010-05",
             "operation dates": [
@@ -66153,6 +66400,12 @@
             "id": "China-to-CardinalLizard",
             "from": "China",
             "to": "CardinalLizard",
+            "type": "attribution"
+        },
+        {
+            "id": "China-to-Chimera",
+            "from": "China",
+            "to": "Chimera",
             "type": "attribution"
         },
         {
@@ -67106,6 +67359,12 @@
             "type": "attribution"
         },
         {
+            "id": "Russia-to-Operation-Domino",
+            "from": "Russia",
+            "to": "Operation Domino",
+            "type": "attribution"
+        },
+        {
             "id": "Russia-to-RTM",
             "from": "Russia",
             "to": "RTM",
@@ -67911,12 +68170,6 @@
             "type": "attribution"
         },
         {
-            "id": "Unknown-to-Chimera",
-            "from": "Unknown",
-            "to": "Chimera",
-            "type": "attribution"
-        },
-        {
             "id": "Unknown-to-Cold-River",
             "from": "Unknown",
             "to": "Cold River",
@@ -68064,6 +68317,12 @@
             "id": "Unknown-to-Operation-SignSight",
             "from": "Unknown",
             "to": "Operation SignSight",
+            "type": "attribution"
+        },
+        {
+            "id": "Unknown-to-Operation-Spalax",
+            "from": "Unknown",
+            "to": "Operation Spalax",
             "type": "attribution"
         },
         {
@@ -68235,6 +68494,12 @@
             "type": "attribution"
         },
         {
+            "id": "Unknown-to-ALTDOS",
+            "from": "Unknown",
+            "to": "ALTDOS",
+            "type": "attribution"
+        },
+        {
             "id": "Unknown-to-Bamboo-Spider",
             "from": "Unknown",
             "to": "Bamboo Spider",
@@ -68298,6 +68563,12 @@
             "id": "Unknown-to-TA516",
             "from": "Unknown",
             "to": "TA516",
+            "type": "attribution"
+        },
+        {
+            "id": "Unknown-to-TA551",
+            "from": "Unknown",
+            "to": "TA551",
             "type": "attribution"
         },
         {
@@ -70456,6 +70727,13 @@
             "direction": "directed"
         },
         {
+            "id": "ALTDOS-to-Thailand",
+            "from": "ALTDOS",
+            "to": "Thailand",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Circles-to-Thailand",
             "from": "Circles",
             "to": "Thailand",
@@ -71012,13 +71290,6 @@
         {
             "id": "NineBlog-to-South-Asia",
             "from": "NineBlog",
-            "to": "South Asia",
-            "type": "target",
-            "direction": "directed"
-        },
-        {
-            "id": "SideWinder-to-South-Asia",
-            "from": "SideWinder",
             "to": "South Asia",
             "type": "target",
             "direction": "directed"
@@ -72154,6 +72425,13 @@
             "direction": "directed"
         },
         {
+            "id": "Operation-Spalax-to-Colombia",
+            "from": "Operation Spalax",
+            "to": "Colombia",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Promethium-to-Colombia",
             "from": "Promethium",
             "to": "Colombia",
@@ -72909,6 +73187,13 @@
             "id": "Turla-to-Venezuela",
             "from": "Turla",
             "to": "Venezuela",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Chimera-to-Different-geographical-areas",
+            "from": "Chimera",
+            "to": "Different geographical areas",
             "type": "target",
             "direction": "directed"
         },
@@ -75394,6 +75679,89 @@
             "direction": "directed"
         },
         {
+            "id": "Belarus-to-Andromeda-Spider",
+            "from": "Belarus",
+            "to": "Andromeda Spider",
+            "type": "attribution"
+        },
+        {
+            "id": "Operation-Domino-to-Belarus",
+            "from": "Operation Domino",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Operation-Potao-Express-to-Belarus",
+            "from": "Operation Potao Express",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Roaming-Tiger-to-Belarus",
+            "from": "Roaming Tiger",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Sandworm-Team-to-Belarus",
+            "from": "Sandworm Team",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Silence-to-Belarus",
+            "from": "Silence",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Sofacy-to-Belarus",
+            "from": "Sofacy",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "TA459-to-Belarus",
+            "from": "TA459",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Turla-to-Belarus",
+            "from": "Turla",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Vicious-Panda-to-Belarus",
+            "from": "Vicious Panda",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Winnti-Group-to-Belarus",
+            "from": "Winnti Group",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "XDSpy-to-Belarus",
+            "from": "XDSpy",
+            "to": "Belarus",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Operation-Earth-Kitsune-to-Worldwide-except-South-Korea",
             "from": "Operation Earth Kitsune",
             "to": "Worldwide except South Korea",
@@ -75630,6 +75998,13 @@
             "direction": "directed"
         },
         {
+            "id": "SideWinder-to-Bangladesh",
+            "from": "SideWinder",
+            "to": "Bangladesh",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Silence-to-Bangladesh",
             "from": "Silence",
             "to": "Bangladesh",
@@ -75693,9 +76068,51 @@
             "direction": "directed"
         },
         {
+            "id": "SideWinder-to-Myanmar",
+            "from": "SideWinder",
+            "to": "Myanmar",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
             "id": "Whitefly-to-Myanmar",
             "from": "Whitefly",
             "to": "Myanmar",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "SideWinder-to-Sri-Lanka",
+            "from": "SideWinder",
+            "to": "Sri Lanka",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Silence-to-Sri-Lanka",
+            "from": "Silence",
+            "to": "Sri Lanka",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Unnamed-group-Iran-to-Sri-Lanka",
+            "from": "[Unnamed group Iran]",
+            "to": "Sri Lanka",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Fxmsp-to-Sri-Lanka",
+            "from": "Fxmsp",
+            "to": "Sri Lanka",
+            "type": "target",
+            "direction": "directed"
+        },
+        {
+            "id": "Roaming-Mantis-to-Sri-Lanka",
+            "from": "Roaming Mantis",
+            "to": "Sri Lanka",
             "type": "target",
             "direction": "directed"
         },
@@ -76005,12 +76422,6 @@
             "to": "Kurdistan",
             "type": "target",
             "direction": "directed"
-        },
-        {
-            "id": "Belarus-to-Andromeda-Spider",
-            "from": "Belarus",
-            "to": "Andromeda Spider",
-            "type": "attribution"
         },
         {
             "id": "Bamboo-Spider-to-Other",
