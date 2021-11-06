@@ -7670,11 +7670,11 @@
                 "Hospitality"
             ],
             "first seen": "2013",
-            "counter operations": "**2018-03**: Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain\r\n**2018-08**: Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested\r\n**2021-05**: Darkside ransomware gang says it lost control of its servers & money a day after Biden threat\nhttps://therecord.media/darkside-ransomware-gang-says-it-lost-control-of-its-servers-money-a-day-after-biden-threat/\r\n**2021-07**: Dutch police confiscate DarkSide server\nhttps://cyberthreatintelligence.com/news/dutch-police-confiscate-darkside-server/\r\n**2021-11**: BlackMatter ransomware says its shutting down due to pressure from local authorities\nhttps://therecord.media/blackmatter-ransomware-says-its-shutting-down-due-to-pressure-from-local-authorities/\r\n",
+            "counter operations": "**2018-03**: Mastermind behind EUR 1 billion cyber bank robbery arrested in Spain\nhttps://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain\r\n**2018-08**: Three Carbanak cyber heist gang members arrested\nhttps://www.computerweekly.com/news/252446153/Three-Carbanak-cyber-heist-gang-members-arrested\r\n**2021-05**: Darkside ransomware gang says it lost control of its servers & money a day after Biden threat\nhttps://therecord.media/darkside-ransomware-gang-says-it-lost-control-of-its-servers-money-a-day-after-biden-threat/\r\n**2021-07**: Dutch police confiscate DarkSide server\nhttps://cyberthreatintelligence.com/news/dutch-police-confiscate-darkside-server/\r\n**2021-11**: BlackMatter ransomware says its shutting down due to pressure from local authorities\nhttps://therecord.media/blackmatter-ransomware-says-its-shutting-down-due-to-pressure-from-local-authorities/\r\n**2021-11**: US offers $10 million reward for info on Darkside ransomware group\nhttps://therecord.media/us-offers-10-million-reward-for-info-on-darkside-ransomware-group/\r\n",
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0008/>"
             ],
-            "last card change": "2021-11-04"
+            "last card change": "2021-11-06"
         },
         {
             "type": "apt_group",
@@ -15003,8 +15003,8 @@
                 "Transportation"
             ],
             "first seen": "2016",
-            "counter operations": "**2021-06**: Ukraine arrests Clop ransomware gang members, seizes servers\nhttps://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/\r\n",
-            "last card change": "2021-08-08"
+            "counter operations": "**2021-06**: Operation \u201cCyclone\u201d\nUkraine arrests Clop ransomware gang members, seizes servers\nhttps://www.bleepingcomputer.com/news/security/ukraine-arrests-clop-ransomware-gang-members-seizes-servers/\nhttps://www.interpol.int/News-and-Events/News/2021/INTERPOL-led-operation-takes-down-prolific-cybercrime-ring\r\n",
+            "last card change": "2021-11-06"
         },
         {
             "type": "apt_group",
@@ -15265,7 +15265,10 @@
                 "Primitive Bear (CrowdStrike)",
                 "BlueAlpha (Recorded Future)",
                 "Blue Otso (PWC)",
-                "Iron Tilden (SecureWorks)"
+                "Iron Tilden (SecureWorks)",
+                "Armageddon (SSU)",
+                "SectorC08 (ThreatRecon)",
+                "Callisto (NATO Association of Canada)"
             ],
             "country": [
                 "Russia"
@@ -15293,7 +15296,8 @@
                 "<https://www.welivesecurity.com/2020/06/11/gamaredon-group-grows-its-game/>",
                 "<https://www.recordedfuture.com/bluealpha-iranian-apts/>",
                 "<https://www.ria.ee/sites/default/files/js/tale_of_gamaredon_infection.pdf>",
-                "<https://blog.talosintelligence.com/2021/02/gamaredonactivities.html>"
+                "<https://blog.talosintelligence.com/2021/02/gamaredonactivities.html>",
+                "<https://ssu.gov.ua/uploads/files/DKIB/Technical%20report%20Armagedon.pdf>"
             ],
             "uuid": "a48ab06b-092a-481d-ae0b-c4050ed281f7",
             "label": "Gamaredon Group",
@@ -15362,7 +15366,7 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0047/>"
             ],
-            "last card change": "2021-08-10"
+            "last card change": "2021-11-06"
         },
         {
             "type": "apt_group",
@@ -17408,6 +17412,31 @@
             ],
             "last card change": "2021-01-07",
             "ioc_domain": [
+                "allshell.net",
+                "attoo1s.com",
+                "kasparsky.net",
+                "kocrmicrosoft.com",
+                "microsoft.org.tw",
+                "microsoftdomainadmin.com",
+                "microsoftsp3.com",
+                "softwareupdatevmware.com",
+                "windowsnine.net",
+                "cdngoogle.com",
+                "cisco-inc.net",
+                "mremote.biz",
+                "officescan.biz",
+                "oprea.biz",
+                "battle.com.tw",
+                "diablo-iii.mobi",
+                "microsoftupdate.ws",
+                "msftncsl.com",
+                "square-enix.us",
+                "updatamicrosoft.com",
+                "powershell.com.tw",
+                "gefacebook.com",
+                "attoo1s.com",
+                "msnupdate.bz",
+                "googlemapsoftware.com",
                 "memozilla.org",
                 "news.memozilla.org",
                 "video.memozilla.org",
@@ -17458,32 +17487,7 @@
                 "goback.strangled.net",
                 "centrozhlan.com",
                 "thehuguardian.com",
-                "menu.thehuguardian.com",
-                "allshell.net",
-                "attoo1s.com",
-                "kasparsky.net",
-                "kocrmicrosoft.com",
-                "microsoft.org.tw",
-                "microsoftdomainadmin.com",
-                "microsoftsp3.com",
-                "softwareupdatevmware.com",
-                "windowsnine.net",
-                "cdngoogle.com",
-                "cisco-inc.net",
-                "mremote.biz",
-                "officescan.biz",
-                "oprea.biz",
-                "battle.com.tw",
-                "diablo-iii.mobi",
-                "microsoftupdate.ws",
-                "msftncsl.com",
-                "square-enix.us",
-                "updatamicrosoft.com",
-                "powershell.com.tw",
-                "gefacebook.com",
-                "attoo1s.com",
-                "msnupdate.bz",
-                "googlemapsoftware.com"
+                "menu.thehuguardian.com"
             ]
         },
         {
@@ -20243,12 +20247,6 @@
             ],
             "last card change": "2021-11-03",
             "ioc_domain": [
-                "servicesystem.serveirc.com",
-                "chrome-up.date",
-                "timezone.live",
-                "analytics-google.org",
-                "microsoftsubsystem.com-adm.in",
-                "microsoftexplorerservices.cloud",
                 "jewishjournal.us",
                 "deutcshewelle.org",
                 "deutcshewelle.com",
@@ -20859,7 +20857,13 @@
                 "jamaat-ul-islam.com",
                 "jamatapplication.com",
                 "jamaatforummah.com",
-                "jamaatforallah.com"
+                "jamaatforallah.com",
+                "servicesystem.serveirc.com",
+                "chrome-up.date",
+                "timezone.live",
+                "analytics-google.org",
+                "microsoftsubsystem.com-adm.in",
+                "microsoftexplorerservices.cloud"
             ]
         },
         {
@@ -23236,7 +23240,7 @@
                 "Information theft and espionage",
                 "Sabotage and destruction"
             ],
-            "description": "(The New York Times) From his first months in office, President Obama secretly ordered increasingly sophisticated attacks on the computer systems that run Iran\u2019s main nuclear enrichment facilities, significantly expanding America\u2019s first sustained use of cyberweapons, according to participants in the program.\n\nMr. Obama decided to accelerate the attacks \u2014 begun in the Bush administration and code-named Olympic Games \u2014 even after an element of the program accidentally became public in the summer of 2010 because of a programming error that allowed it to escape Iran\u2019s Natanz plant and sent it around the world on the Internet. Computer security experts who began studying the worm, which had been developed by the United States and Israel, gave it a name: Stuxnet.",
+            "description": "The events have been described in detail in the 2015 book Countdown to Zero Day and the 2016 documentary Zero Days. The piece of crucial information that was missing from both sources, how the malware was actually brought inside the facility, was documented in an investigative report in 2019.\n\n(The New York Times) From his first months in office, President Obama secretly ordered increasingly sophisticated attacks on the computer systems that run Iran\u2019s main nuclear enrichment facilities, significantly expanding America\u2019s first sustained use of cyberweapons, according to participants in the program.\n\nMr. Obama decided to accelerate the attacks \u2014 begun in the Bush administration and code-named Olympic Games \u2014 even after an element of the program accidentally became public in the summer of 2010 because of a programming error that allowed it to escape Iran\u2019s Natanz plant and sent it around the world on the Internet. Computer security experts who began studying the worm, which had been developed by the United States and Israel, gave it a name: Stuxnet.",
             "tools": [
                 "Stuxnet"
             ],
@@ -23253,7 +23257,7 @@
                 "Energy"
             ],
             "first seen": "2007",
-            "last card change": "2020-06-16"
+            "last card change": "2021-11-06"
         },
         {
             "type": "apt_group",
@@ -25240,10 +25244,29 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2021-11-01",
-            "ioc_url": [
-                "http://72.21.245.117"
+            "ioc_ip": [
+                "5.252.198.93:7337",
+                "103.249.31.159:7777"
             ],
             "ioc_domain": [
+                "charley-online.com",
+                "fighiting1013.org",
+                "a7788.1apps.com",
+                "alabamaok0515.1apps.com",
+                "attach10132.1apps.com",
+                "clean.1apps.com",
+                "s8877.1apps.com",
+                "tgbabcrfv.1apps.com",
+                "071790.000webhostapp.com",
+                "881.000webhostapp.com",
+                "hanbosston.000webhostapp.com",
+                "filer1.1apps.com",
+                "filer2.1apps.com",
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -25352,11 +25375,6 @@
                 "nid-naver.servehttp.com",
                 "mobile-analytics-d0558.web.app",
                 "tksrpdl.atwebpages.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org",
                 "mumbai-m.site",
                 "dns-update.club",
                 "proxycheker.pro",
@@ -25365,24 +25383,10 @@
                 "pmoae.com",
                 "cgalim.com",
                 "hakproperty.com",
-                "sync.appchecks.rr.nu",
-                "charley-online.com",
-                "fighiting1013.org",
-                "a7788.1apps.com",
-                "alabamaok0515.1apps.com",
-                "attach10132.1apps.com",
-                "clean.1apps.com",
-                "s8877.1apps.com",
-                "tgbabcrfv.1apps.com",
-                "071790.000webhostapp.com",
-                "881.000webhostapp.com",
-                "hanbosston.000webhostapp.com",
-                "filer1.1apps.com",
-                "filer2.1apps.com"
+                "sync.appchecks.rr.nu"
             ],
-            "ioc_ip": [
-                "5.252.198.93:7337",
-                "103.249.31.159:7777"
+            "ioc_url": [
+                "http://72.21.245.117"
             ]
         },
         {
@@ -27628,6 +27632,12 @@
             ],
             "last card change": "2021-11-02",
             "ioc_ip": [
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -27642,13 +27652,7 @@
                 "178.32.251.98",
                 "145.249.106.198:443",
                 "185.236.203.53:443",
-                "23.200.147.10:80",
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25"
+                "23.200.147.10:80"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -29504,8 +29508,6 @@
             ],
             "last card change": "2020-04-22",
             "ioc_domain": [
-                "shelves-design.com",
-                "weekendstrips.net",
                 "adlinkmetric.com",
                 "adlinkmetrics.com",
                 "bestairlinepricetags.com",
@@ -29590,7 +29592,9 @@
                 "footballtimes.info",
                 "upnpdiscover.org",
                 "vegetableportfolio.com",
-                "windowsearchcache.com"
+                "windowsearchcache.com",
+                "shelves-design.com",
+                "weekendstrips.net"
             ]
         },
         {
@@ -29739,11 +29743,25 @@
                 "<https://attack.mitre.org/groups/G0093/>"
             ],
             "last card change": "2021-04-20",
+            "ioc_ip": [
+                "93.171.216.129",
+                "144.168.45.116",
+                "109.248.222.85",
+                "78.153.151.222",
+                "78.153.149.130",
+                "23.89.193.34",
+                "178.62.125.244",
+                "103.208.86.129",
+                "219.117.249.102",
+                "185.133.40.63",
+                "185.117.88.78",
+                "185.117.88.77",
+                "185.117.88.82",
+                "109.237.111.175",
+                "83.217.26.203",
+                "185.117.88.80:8088"
+            ],
             "ioc_domain": [
-                "firefoxcomt.arkouowi.com",
-                "update.arkouowi.com",
-                "friendlysupport.giize.com",
-                "algorithm.ddnsgeek.com",
                 "dick.ccfchrist.com",
                 "trout.belowto.com",
                 "sakai.unhamj.com",
@@ -31334,25 +31352,11 @@
                 "yandex2unitedstated.dns05.com",
                 "yandex2unitedstated.dynamic-dns.net",
                 "zebra.wthelpdesk.com",
-                "rare-coisns.com"
-            ],
-            "ioc_ip": [
-                "93.171.216.129",
-                "144.168.45.116",
-                "109.248.222.85",
-                "78.153.151.222",
-                "78.153.149.130",
-                "23.89.193.34",
-                "178.62.125.244",
-                "103.208.86.129",
-                "219.117.249.102",
-                "185.133.40.63",
-                "185.117.88.78",
-                "185.117.88.77",
-                "185.117.88.82",
-                "109.237.111.175",
-                "83.217.26.203",
-                "185.117.88.80:8088"
+                "rare-coisns.com",
+                "firefoxcomt.arkouowi.com",
+                "update.arkouowi.com",
+                "friendlysupport.giize.com",
+                "algorithm.ddnsgeek.com"
             ]
         },
         {
@@ -31640,13 +31644,6 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
-            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -31654,6 +31651,13 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
+            ],
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
             ]
         },
         {
@@ -35542,7 +35546,6 @@
                 "lxsecurity.com",
                 "peterabernathy.online",
                 "howard-maria.me",
-                "y5mogzal2w25p6bn.ml",
                 "tibetvoices.com",
                 "about.jkub.com",
                 "eleven.mypop3.org",
@@ -35555,7 +35558,8 @@
                 "myinfo.ocry.com",
                 "myzinfo.myz.info",
                 "oldape.25u.com",
-                "oldape.4dq.com"
+                "oldape.4dq.com",
+                "y5mogzal2w25p6bn.ml"
             ]
         },
         {
@@ -35731,7 +35735,7 @@
                 "WITCHCOVEN",
                 "Living off the Land"
             ],
-            "operations": "**1996**: Operation \u201cMoonlight Maze\u201d\nThat is why our experts, aided by researchers from King\u2019s College London, have carefully studied Moonlight Maze \u2014 one of the first widely known cyberespionage campaigns, active since at least 1996. It is of particular interest because several independent experts from countries have voiced the proposition that it is associated with a much more modern \u2014 and still active \u2014 group, the authors of the Turla APT attack.\nhttps://www.kaspersky.com/blog/moonlight-maze-the-lessons/6713/\r\n**2008-11**: Breach of the US Department of Defense\nhttps://www.nytimes.com/2010/08/26/technology/26cyber.html\r\n**2013**: Operation \u201cEpic Turla\u201d\nOver the last 10 months, Kaspersky Lab researchers have analyzed a massive cyber-espionage operation which we call \u201cEpic Turla\u201d. The attackers behind Epic Turla have infected several hundred computers in more than 45 countries, including government institutions, embassies, military, education, research and pharmaceutical companies.\nhttps://securelist.com/the-epic-turla-operation/65545/\r\n**2014**: Breach of the Swiss military firm RUAG\nhttps://www.melani.admin.ch/melani/en/home/dokumentation/reports/technical-reports/technical-report_apt_case_ruag.html\r\n**2014-12**: Operation \u201cPenguin Turla\u201d\nThe Turla APT campaigns have a broader reach than initially anticipated after the recent discovery of two modules built to infect servers running Linux. Until now, every Turla sample in captivity was designed for either 32- or 64-bit Windows systems, but researchers at Kaspersky Lab have discovered otherwise.\nhttps://threatpost.com/linux-modules-connected-to-turla-apt-discovered/109765/\r\n**2015**: Operation \u201cSatellite Turla\u201d\nObviously, such incredibly apparent and large-scale attacks have little chance of surviving for long periods of time, which is one of the key requirements for running an APT operation. It is therefore not very feasible to perform the attack through MitM traffic hijacking, unless the attackers have direct control over some high-traffic network points, such as backbone routers or fiber optics. There are signs that such attacks are becoming more common, but there is a much simpler way to hijack satellite-based Internet traffic.\nhttps://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/\r\n**2015**: Operation \u201cWITCHCOVEN\u201d\nWhen an unsuspecting user visits any of the over 100 compromised websites, a small piece of inserted code\u2014embedded in the site\u2019s HTML and invisible to casual visitors\u2014quietly redirects the user\u2019s browser to a second compromised website without the user\u2019s knowledge. This second website hosts the WITCHCOVEN script, which uses profiling techniques to collect technical information on the user\u2019s computer. As of early November 2015, we identified a total of 14 websites hosting the WITCHCOVEN profiling script.\nhttps://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf\r\n**2015**: ESET researchers found a previously undocumented backdoor and document stealer. Dubbed Crutch by its developers, we were able to attribute it to the infamous Turla APT group. According to our research, it was used from 2015 to, at least, early 2020.\nhttps://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/\r\n**2016-11**: Operation \u201cSkipper Turla\u201d\nOn 28 January 2017, John Lambert of Microsoft (@JohnLaTwC) tweeted about a malicious document that dropped a \u201cvery interesting .JS backdoor\u201c. Since the end of November 2016, Kaspersky Lab has observed Turla using this new JavaScript payload and specific macro variant.\nhttps://securelist.com/kopiluwak-a-new-javascript-payload-from-turla/77429/\nhttps://securelist.com/introducing-whitebear/81638/\r\n**2017**: Operation \u201cTurla Mosquito\u201d\nESET researchers have observed a significant change in the campaign of the infamous espionage group\nhttps://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/\r\n**2017-03**: New versions of Carbon\nThe Turla espionage group has been targeting various institutions for many years. Recently, we found several new versions of Carbon, a second stage backdoor in the Turla group arsenal.\nhttps://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/\r\n**2017-05**: New backdoor Kazuar\nhttps://unit42.paloaltonetworks.com/unit42-kazuar-multiplatform-espionage-backdoor-api-access/\r\n**2017-06**: Some of the tactics used in APT attacks die hard. A good example is provided by Turla\u2019s watering hole campaigns. Turla, which has been targeting governments, government officials and diplomats for years \u2013 see, as an example, this recent paper \u2013 is still using watering hole techniques to redirect potentially interesting victims to their C&C infrastructure. In fact, they have been using them since at least 2014 with very few variations in their modus operandi.\nhttps://www.welivesecurity.com/2017/06/06/turlas-watering-hole-campaign-updated-firefox-extension-abusing-instagram/\r\n**2017-07**: Russian malware link hid in a comment on Britney Spears\u2019 Instagram\nThe Slovak IT security company ESET Security released a report yesterday detailing a cleverly hidden example of such a post. And its hideout? A Britney Spears photo. Among the nearly 7,000 comments written on the performer\u2019s post (shown below) was one that could easily pass as spam.\nhttps://www.engadget.com/2017/06/07/russian-malware-hidden-britney-spears-instagram/\r\n**2017-08**: New backdoor Gazer\nhttps://www.welivesecurity.com/wp-content/uploads/2017/08/eset-gazer.pdf\r\n**2017-08**: In this case, the dropper is being delivered with a benign and possibly stolen decoy document inviting recipients to a G20 task force meeting on the \u201cDigital Economy\u201d. The Digital Economy event is actually scheduled for October of this year in Hamburg, Germany.\nhttps://www.proofpoint.com/us/threat-insight/post/turla-apt-actor-refreshes-kopiluwak-javascript-backdoor-use-g20-themed-attack\r\n**2018-01**: A notorious hacking group is targeting the UK with an updated version of malware designed to embed itself into compromised networks and stealthily conduct espionage.\nBoth the Neuron and Nautilus malware variants have previously been attributed to the Turla advanced persistent threat group, which regularly carries out cyber-espionage against a range of targets, including government, military, technology, energy, and other commercial organisations.\nhttps://www.zdnet.com/article/this-hacking-gang-just-updated-the-malware-it-uses-against-uk-targets/\r\n**2018-01**: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments\nWaterbug may have hijacked a separate espionage group\u2019s infrastructure during one attack against a Middle Eastern target.\nhttps://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments\r\n**2018-03**: Starting in March 2018, we observed a significant change in the campaign: it now leverages the open source exploitation framework Metasploit before dropping the custom Mosquito backdoor.\nhttps://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/\r\n**2018**: Much of our 2018 research focused on Turla\u2019s KopiLuwak javascript backdoor, new variants of the Carbon framework and meterpreter delivery techniques. Also interesting was Mosquito\u2019s changing delivery techniques, customized PoshSec-Mod open-source powershell use, and borrowed injector code. We tied some of this activity together with infrastructure and data points from WhiteBear and Mosquito infrastructure and activity in 2017 and 2018.\nhttps://securelist.com/shedding-skin-turlas-fresh-faces/88069/\r\n**2019 Early**: 2019 has seen the Turla actor actively renew its arsenal. Its developers are still using a familiar coding style, but they\u2019re creating new tools. Here we\u2019ll tell you about several of them, namely \u201cTopinambour\u201d (aka Sunchoke \u2013 the Jerusalem artichoke) and its related modules. We didn\u2019t choose to name it after a vegetable; the .NET malware developers named it Topinambour themselves.\nhttps://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/\r\n**2019-04**: COMpfun successor Reductor infects files on the fly to compromise TLS traffic\nhttps://securelist.com/compfun-successor-reductor/93633/\r\n**2019-05**: Turla, also known as Snake, is an infamous espionage group recognized for its complex malware. To confound detection, its operators recently started using PowerShell scripts that provide direct, in-memory loading and execution of malware executables and libraries. This allows them to bypass detection that can trigger when a malicious executable is dropped on disk.\nhttps://www.welivesecurity.com/2019/05/29/turla-powershell-usage/\r\n**2019**: Turla accessed and used the Command and Control (C2) infrastructure of Iranian APTs to deploy their own tools to victims of interest. Turla directly accessed \u2018Poison Frog\u2019 C2 panels from their own infrastructure and used this access to task victims to download additional tools.\nhttps://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims\r\n**2019-09**: ESET researchers found a watering hole (aka strategic web compromise) operation targeting several high-profile Armenian websites. It relies on a fake Adobe Flash update lure and delivers two previously undocumented pieces of malware we have dubbed NetFlash and PyFlash.\nhttps://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/\r\n**2019-11**: COMpfun authors spoof visa application with HTTP status-based Trojan\nhttps://securelist.com/compfun-http-status-based-trojan/96874/\r\n**2020-01**: During our investigation, we were able to identify three different targets where ComRAT v4 has been used:\n\u2022 Two Ministries of Foreign Affairs in Eastern Europe\n\u2022 One national parliament in the Caucasus region\nhttps://www.welivesecurity.com/wp-content/uploads/2020/05/ESET_Turla_ComRAT.pdf\r\n**2020-06**: At the best of our knowledge, this time the hacking group used a previously unseen implant, that we internally named \u201cNewPass\u201c as one of the parameters used to send exfiltrated data to the command and control.\nhttps://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/\r\n**2020-06**: Accenture Cyber Threat Intelligence researchers identified a Turla compromise of a European government organization. During this compromise Turla utilized a combination of remote procedure call (RPC)-based backdoors, such as HyperStack and remote administration trojans (RATs), such as Kazuar and Carbon, which ACTI researchers analyzed between June and October 2020.\nhttps://www.accenture.com/us-en/blogs/cyber-defense/turla-belugasturgeon-compromises-government-entity\r\n**2021-02**: IronNetInjector: Turla\u2019s New Malware Loading Tool\nhttps://unit42.paloaltonetworks.com/ironnetinjector/\r\n**2021-09**: TinyTurla - Turla deploys new malware to keep a secret backdoor on victim machines\nhttps://blog.talosintelligence.com/2021/09/tinyturla.html\r\n",
+            "operations": "**1996**: Operation \u201cMoonlight Maze\u201d\nThat is why our experts, aided by researchers from King\u2019s College London, have carefully studied Moonlight Maze \u2014 one of the first widely known cyberespionage campaigns, active since at least 1996. It is of particular interest because several independent experts from countries have voiced the proposition that it is associated with a much more modern \u2014 and still active \u2014 group, the authors of the Turla APT attack.\nhttps://www.kaspersky.com/blog/moonlight-maze-the-lessons/6713/\r\n**2008-11**: Breach of the US Department of Defense\nhttps://www.nytimes.com/2010/08/26/technology/26cyber.html\nThe investigation was called \u201cOperation Buckshot Yankee\u201d and led to the establishment of U.S. Cyber Command.\r\n**2013**: Operation \u201cEpic Turla\u201d\nOver the last 10 months, Kaspersky Lab researchers have analyzed a massive cyber-espionage operation which we call \u201cEpic Turla\u201d. The attackers behind Epic Turla have infected several hundred computers in more than 45 countries, including government institutions, embassies, military, education, research and pharmaceutical companies.\nhttps://securelist.com/the-epic-turla-operation/65545/\r\n**2014**: Breach of the Swiss military firm RUAG\nhttps://www.melani.admin.ch/melani/en/home/dokumentation/reports/technical-reports/technical-report_apt_case_ruag.html\r\n**2014-12**: Operation \u201cPenguin Turla\u201d\nThe Turla APT campaigns have a broader reach than initially anticipated after the recent discovery of two modules built to infect servers running Linux. Until now, every Turla sample in captivity was designed for either 32- or 64-bit Windows systems, but researchers at Kaspersky Lab have discovered otherwise.\nhttps://threatpost.com/linux-modules-connected-to-turla-apt-discovered/109765/\r\n**2015**: Operation \u201cSatellite Turla\u201d\nObviously, such incredibly apparent and large-scale attacks have little chance of surviving for long periods of time, which is one of the key requirements for running an APT operation. It is therefore not very feasible to perform the attack through MitM traffic hijacking, unless the attackers have direct control over some high-traffic network points, such as backbone routers or fiber optics. There are signs that such attacks are becoming more common, but there is a much simpler way to hijack satellite-based Internet traffic.\nhttps://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/\r\n**2015**: Operation \u201cWITCHCOVEN\u201d\nWhen an unsuspecting user visits any of the over 100 compromised websites, a small piece of inserted code\u2014embedded in the site\u2019s HTML and invisible to casual visitors\u2014quietly redirects the user\u2019s browser to a second compromised website without the user\u2019s knowledge. This second website hosts the WITCHCOVEN script, which uses profiling techniques to collect technical information on the user\u2019s computer. As of early November 2015, we identified a total of 14 websites hosting the WITCHCOVEN profiling script.\nhttps://www2.fireeye.com/rs/848-DID-242/images/rpt-witchcoven.pdf\r\n**2015**: ESET researchers found a previously undocumented backdoor and document stealer. Dubbed Crutch by its developers, we were able to attribute it to the infamous Turla APT group. According to our research, it was used from 2015 to, at least, early 2020.\nhttps://www.welivesecurity.com/2020/12/02/turla-crutch-keeping-back-door-open/\r\n**2016-11**: Operation \u201cSkipper Turla\u201d\nOn 28 January 2017, John Lambert of Microsoft (@JohnLaTwC) tweeted about a malicious document that dropped a \u201cvery interesting .JS backdoor\u201c. Since the end of November 2016, Kaspersky Lab has observed Turla using this new JavaScript payload and specific macro variant.\nhttps://securelist.com/kopiluwak-a-new-javascript-payload-from-turla/77429/\nhttps://securelist.com/introducing-whitebear/81638/\r\n**2017**: Operation \u201cTurla Mosquito\u201d\nESET researchers have observed a significant change in the campaign of the infamous espionage group\nhttps://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/\r\n**2017-03**: New versions of Carbon\nThe Turla espionage group has been targeting various institutions for many years. Recently, we found several new versions of Carbon, a second stage backdoor in the Turla group arsenal.\nhttps://www.welivesecurity.com/2017/03/30/carbon-paper-peering-turlas-second-stage-backdoor/\r\n**2017-05**: New backdoor Kazuar\nhttps://unit42.paloaltonetworks.com/unit42-kazuar-multiplatform-espionage-backdoor-api-access/\r\n**2017-06**: Some of the tactics used in APT attacks die hard. A good example is provided by Turla\u2019s watering hole campaigns. Turla, which has been targeting governments, government officials and diplomats for years \u2013 see, as an example, this recent paper \u2013 is still using watering hole techniques to redirect potentially interesting victims to their C&C infrastructure. In fact, they have been using them since at least 2014 with very few variations in their modus operandi.\nhttps://www.welivesecurity.com/2017/06/06/turlas-watering-hole-campaign-updated-firefox-extension-abusing-instagram/\r\n**2017-07**: Russian malware link hid in a comment on Britney Spears\u2019 Instagram\nThe Slovak IT security company ESET Security released a report yesterday detailing a cleverly hidden example of such a post. And its hideout? A Britney Spears photo. Among the nearly 7,000 comments written on the performer\u2019s post (shown below) was one that could easily pass as spam.\nhttps://www.engadget.com/2017/06/07/russian-malware-hidden-britney-spears-instagram/\r\n**2017-08**: New backdoor Gazer\nhttps://www.welivesecurity.com/wp-content/uploads/2017/08/eset-gazer.pdf\r\n**2017-08**: In this case, the dropper is being delivered with a benign and possibly stolen decoy document inviting recipients to a G20 task force meeting on the \u201cDigital Economy\u201d. The Digital Economy event is actually scheduled for October of this year in Hamburg, Germany.\nhttps://www.proofpoint.com/us/threat-insight/post/turla-apt-actor-refreshes-kopiluwak-javascript-backdoor-use-g20-themed-attack\r\n**2018-01**: A notorious hacking group is targeting the UK with an updated version of malware designed to embed itself into compromised networks and stealthily conduct espionage.\nBoth the Neuron and Nautilus malware variants have previously been attributed to the Turla advanced persistent threat group, which regularly carries out cyber-espionage against a range of targets, including government, military, technology, energy, and other commercial organisations.\nhttps://www.zdnet.com/article/this-hacking-gang-just-updated-the-malware-it-uses-against-uk-targets/\r\n**2018-01**: Espionage Group Rolls Out Brand-New Toolset in Attacks Against Governments\nWaterbug may have hijacked a separate espionage group\u2019s infrastructure during one attack against a Middle Eastern target.\nhttps://www.symantec.com/blogs/threat-intelligence/waterbug-espionage-governments\r\n**2018-03**: Starting in March 2018, we observed a significant change in the campaign: it now leverages the open source exploitation framework Metasploit before dropping the custom Mosquito backdoor.\nhttps://www.welivesecurity.com/2018/05/22/turla-mosquito-shift-towards-generic-tools/\r\n**2018**: Much of our 2018 research focused on Turla\u2019s KopiLuwak javascript backdoor, new variants of the Carbon framework and meterpreter delivery techniques. Also interesting was Mosquito\u2019s changing delivery techniques, customized PoshSec-Mod open-source powershell use, and borrowed injector code. We tied some of this activity together with infrastructure and data points from WhiteBear and Mosquito infrastructure and activity in 2017 and 2018.\nhttps://securelist.com/shedding-skin-turlas-fresh-faces/88069/\r\n**2019 Early**: 2019 has seen the Turla actor actively renew its arsenal. Its developers are still using a familiar coding style, but they\u2019re creating new tools. Here we\u2019ll tell you about several of them, namely \u201cTopinambour\u201d (aka Sunchoke \u2013 the Jerusalem artichoke) and its related modules. We didn\u2019t choose to name it after a vegetable; the .NET malware developers named it Topinambour themselves.\nhttps://securelist.com/turla-renews-its-arsenal-with-topinambour/91687/\r\n**2019-04**: COMpfun successor Reductor infects files on the fly to compromise TLS traffic\nhttps://securelist.com/compfun-successor-reductor/93633/\r\n**2019-05**: Turla, also known as Snake, is an infamous espionage group recognized for its complex malware. To confound detection, its operators recently started using PowerShell scripts that provide direct, in-memory loading and execution of malware executables and libraries. This allows them to bypass detection that can trigger when a malicious executable is dropped on disk.\nhttps://www.welivesecurity.com/2019/05/29/turla-powershell-usage/\r\n**2019**: Turla accessed and used the Command and Control (C2) infrastructure of Iranian APTs to deploy their own tools to victims of interest. Turla directly accessed \u2018Poison Frog\u2019 C2 panels from their own infrastructure and used this access to task victims to download additional tools.\nhttps://www.ncsc.gov.uk/news/turla-group-exploits-iran-apt-to-expand-coverage-of-victims\r\n**2019-09**: ESET researchers found a watering hole (aka strategic web compromise) operation targeting several high-profile Armenian websites. It relies on a fake Adobe Flash update lure and delivers two previously undocumented pieces of malware we have dubbed NetFlash and PyFlash.\nhttps://www.welivesecurity.com/2020/03/12/tracking-turla-new-backdoor-armenian-watering-holes/\r\n**2019-11**: COMpfun authors spoof visa application with HTTP status-based Trojan\nhttps://securelist.com/compfun-http-status-based-trojan/96874/\r\n**2020-01**: During our investigation, we were able to identify three different targets where ComRAT v4 has been used:\n\u2022 Two Ministries of Foreign Affairs in Eastern Europe\n\u2022 One national parliament in the Caucasus region\nhttps://www.welivesecurity.com/wp-content/uploads/2020/05/ESET_Turla_ComRAT.pdf\r\n**2020-06**: At the best of our knowledge, this time the hacking group used a previously unseen implant, that we internally named \u201cNewPass\u201c as one of the parameters used to send exfiltrated data to the command and control.\nhttps://www.telsy.com/turla-venomous-bear-updates-its-arsenal-newpass-appears-on-the-apt-threat-scene/\r\n**2020-06**: Accenture Cyber Threat Intelligence researchers identified a Turla compromise of a European government organization. During this compromise Turla utilized a combination of remote procedure call (RPC)-based backdoors, such as HyperStack and remote administration trojans (RATs), such as Kazuar and Carbon, which ACTI researchers analyzed between June and October 2020.\nhttps://www.accenture.com/us-en/blogs/cyber-defense/turla-belugasturgeon-compromises-government-entity\r\n**2021-02**: IronNetInjector: Turla\u2019s New Malware Loading Tool\nhttps://unit42.paloaltonetworks.com/ironnetinjector/\r\n**2021-09**: TinyTurla - Turla deploys new malware to keep a secret backdoor on victim machines\nhttps://blog.talosintelligence.com/2021/09/tinyturla.html\r\n",
             "information": [
                 "<https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/waterbug-attack-group.pdf>",
                 "<https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-march-venomous-bear/>",
@@ -35854,11 +35858,9 @@
             "mitre attack": [
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
-            "last card change": "2021-11-02",
+            "last card change": "2021-11-06",
             "ioc_domain": [
                 "news-bbc.podzone.org",
-                "tapok121.jhfree.net",
-                "orl05511cn.temp.swtest.ru",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -36137,15 +36139,17 @@
                 "highcolumn.webredirect.org",
                 "hotspot.accesscam.org",
                 "theguardian.webredirect.org",
-                "worldnews.ath.cx"
+                "worldnews.ath.cx",
+                "tapok121.jhfree.net",
+                "orl05511cn.temp.swtest.ru"
             ],
             "ioc_ip": [
+                "134.209.222.206:15363",
+                "85.222.235.156:8000",
                 "203.117.122.51",
                 "178.219.68.239",
                 "104.223.89.145",
-                "212.21.40.220",
-                "134.209.222.206:15363",
-                "85.222.235.156:8000"
+                "212.21.40.220"
             ],
             "ioc_url": [
                 "http://169.255.137.203/rss_0.php",
@@ -44390,7 +44394,7 @@
             ],
             "type": "operation_dates",
             "activities": [
-                "**Turla**: Breach of the US Department of Defense\nhttps://www.nytimes.com/2010/08/26/technology/26cyber.html\r\n"
+                "**Turla**: Breach of the US Department of Defense\nhttps://www.nytimes.com/2010/08/26/technology/26cyber.html\nThe investigation was called \u201cOperation Buckshot Yankee\u201d and led to the establishment of U.S. Cyber Command.\r\n"
             ]
         },
         {
