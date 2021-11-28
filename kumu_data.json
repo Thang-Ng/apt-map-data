@@ -6651,7 +6651,8 @@
                 "webmailcgwip.com",
                 "windiagnosticsvc.net",
                 "youxiangxiezhu.com",
-                "olmajhnservice.com"
+                "olmajhnservice.com",
+                "snsrsvchost.net"
             ]
         },
         {
@@ -11450,16 +11451,16 @@
             ],
             "last card change": "2021-01-07",
             "ioc_ip": [
-                "45.76.6.149:443",
                 "193.29.187.178:51217",
                 "193.29.187.178:51218",
-                "91.235.116.147:9782"
+                "91.235.116.147:9782",
+                "45.76.6.149:443"
+            ],
+            "ioc_url": [
+                "http://134.119.220.118",
+                "http://185.198.56.191"
             ],
             "ioc_domain": [
-                "comcleanner.info",
-                "goodhk.azurewebsites.net",
-                "sixindent.epizy.com",
-                "zeplin.atwebpages.com",
                 "163pics.net",
                 "163services.com",
                 "42world.net",
@@ -11769,11 +11770,11 @@
                 "bigfile-download.net",
                 "fenrmi.eu.pn",
                 "fenrix.yaahosting.info",
-                "fenraw.northgeremy.info"
-            ],
-            "ioc_url": [
-                "http://134.119.220.118",
-                "http://185.198.56.191"
+                "fenraw.northgeremy.info",
+                "comcleanner.info",
+                "goodhk.azurewebsites.net",
+                "sixindent.epizy.com",
+                "zeplin.atwebpages.com"
             ]
         },
         {
@@ -12711,91 +12712,26 @@
                 "<https://attack.mitre.org/groups/G0027/>"
             ],
             "last card change": "2021-11-01",
+            "ioc_ip": [
+                "115.214.104.26:81",
+                "185.12.45.134:443",
+                "27.124.26.136:1943",
+                "27.124.26.136:59486",
+                "35.187.148.253:443",
+                "35.220.135.85:443",
+                "47.75.49.32:443",
+                "85.204.74.143:443",
+                "89.35.178.105:443"
+            ],
+            "ioc_url": [
+                "http://103.75.190.28",
+                "http://213.109.87.58",
+                "http://139.180.208.225/ajax",
+                "http://192.167.4.10",
+                "http://43.242.75.228",
+                "http://103.253.25.73"
+            ],
             "ioc_domain": [
-                "american.blackcmd.com",
-                "api.apigmail.com",
-                "apigmail.com",
-                "backup.darkhero.org",
-                "bel.updatawindows.com",
-                "binary.update-onlines.org",
-                "blackcmd.com",
-                "castle.blackcmd.com",
-                "ctcb.blackcmd.com",
-                "darkhero.org",
-                "dav.local-test.com",
-                "test.local-test.com",
-                "dev.local-test.com",
-                "ocean.local-test.com",
-                "ga.blackcmd.com",
-                "helpdesk.blackcmd.com",
-                "helpdesk.csc-na.com",
-                "helpdesk.hotmail-onlines.com",
-                "helpdesk.lnip.org",
-                "hotmail-onlines.com",
-                "jobs.hotmail-onlines.com",
-                "justufogame.com",
-                "lnip.org",
-                "local-test.com",
-                "login.hansoftupdate.com",
-                "long.update-onlines.org",
-                "longlong.update-onlines.org",
-                "longshadow.dyndns.org",
-                "longshadow.update-onlines.org",
-                "longykcai.update-onlines.org",
-                "lostself.update-onlines.org",
-                "mac.navydocument.com",
-                "mail.csc-na.com",
-                "mantech.updatawindows.com",
-                "micr0soft.org",
-                "microsoft-outlook.org",
-                "mtc.navydocument.com",
-                "navydocument.com",
-                "mtc.update-onlines.org",
-                "news.hotmail-onlines.com",
-                "oac.3322.org",
-                "ocean.apigmail.com",
-                "pchomeserver.com",
-                "registre.organiccrap.com",
-                "security.pomsys.org",
-                "services.darkhero.org",
-                "sgl.updatawindows.com",
-                "shadow.update-onlines.org",
-                "sonoco.blackcmd.com",
-                "test.logmastre.com",
-                "up.gtalklite.com",
-                "updatawindows.com",
-                "update-onlines.org",
-                "update.deepsoftupdate.com",
-                "update.hancominc.com",
-                "update.micr0soft.org",
-                "update.pchomeserver.com",
-                "urs.blackcmd.com",
-                "wang.darkhero.org",
-                "webs.local-test.com",
-                "word.apigmail.com",
-                "wordpress.blackcmd.com",
-                "working.blackcmd.com",
-                "working.darkhero.org",
-                "working.hotmail-onlines.com",
-                "www.trendmicro-update.org",
-                "www.update-onlines.org",
-                "x.apigmail.com",
-                "ykcai.update-onlines.org",
-                "ykcailostself.dyndns-free.com",
-                "ykcainobody.dyndns.org",
-                "zj.blackcmd.com",
-                "laxness-lab.com",
-                "google-ana1ytics.com",
-                "www.google-ana1ytics.com",
-                "ftp.google-ana1ytics.com",
-                "hotmailcontact.net",
-                "down.pzchao.com",
-                "up.pzchao.com",
-                "dll.pzchao.com",
-                "rat.pzchao.com",
-                "centuriosa.info",
-                "zll855.no-ip.info",
-                "zll855.gicp.net",
                 "bbs.sonypsps.com",
                 "update.iaacstudio.com",
                 "wh0am1.itbaydns.com",
@@ -12929,26 +12865,91 @@
                 "phong.giaitrinuoc.com",
                 "cloud.cutepaty.com",
                 "static.phongay.com",
-                "settings-win.dyndns-office.com"
-            ],
-            "ioc_ip": [
-                "115.214.104.26:81",
-                "185.12.45.134:443",
-                "27.124.26.136:1943",
-                "27.124.26.136:59486",
-                "35.187.148.253:443",
-                "35.220.135.85:443",
-                "47.75.49.32:443",
-                "85.204.74.143:443",
-                "89.35.178.105:443"
-            ],
-            "ioc_url": [
-                "http://103.75.190.28",
-                "http://213.109.87.58",
-                "http://139.180.208.225/ajax",
-                "http://192.167.4.10",
-                "http://43.242.75.228",
-                "http://103.253.25.73"
+                "settings-win.dyndns-office.com",
+                "american.blackcmd.com",
+                "api.apigmail.com",
+                "apigmail.com",
+                "backup.darkhero.org",
+                "bel.updatawindows.com",
+                "binary.update-onlines.org",
+                "blackcmd.com",
+                "castle.blackcmd.com",
+                "ctcb.blackcmd.com",
+                "darkhero.org",
+                "dav.local-test.com",
+                "test.local-test.com",
+                "dev.local-test.com",
+                "ocean.local-test.com",
+                "ga.blackcmd.com",
+                "helpdesk.blackcmd.com",
+                "helpdesk.csc-na.com",
+                "helpdesk.hotmail-onlines.com",
+                "helpdesk.lnip.org",
+                "hotmail-onlines.com",
+                "jobs.hotmail-onlines.com",
+                "justufogame.com",
+                "lnip.org",
+                "local-test.com",
+                "login.hansoftupdate.com",
+                "long.update-onlines.org",
+                "longlong.update-onlines.org",
+                "longshadow.dyndns.org",
+                "longshadow.update-onlines.org",
+                "longykcai.update-onlines.org",
+                "lostself.update-onlines.org",
+                "mac.navydocument.com",
+                "mail.csc-na.com",
+                "mantech.updatawindows.com",
+                "micr0soft.org",
+                "microsoft-outlook.org",
+                "mtc.navydocument.com",
+                "navydocument.com",
+                "mtc.update-onlines.org",
+                "news.hotmail-onlines.com",
+                "oac.3322.org",
+                "ocean.apigmail.com",
+                "pchomeserver.com",
+                "registre.organiccrap.com",
+                "security.pomsys.org",
+                "services.darkhero.org",
+                "sgl.updatawindows.com",
+                "shadow.update-onlines.org",
+                "sonoco.blackcmd.com",
+                "test.logmastre.com",
+                "up.gtalklite.com",
+                "updatawindows.com",
+                "update-onlines.org",
+                "update.deepsoftupdate.com",
+                "update.hancominc.com",
+                "update.micr0soft.org",
+                "update.pchomeserver.com",
+                "urs.blackcmd.com",
+                "wang.darkhero.org",
+                "webs.local-test.com",
+                "word.apigmail.com",
+                "wordpress.blackcmd.com",
+                "working.blackcmd.com",
+                "working.darkhero.org",
+                "working.hotmail-onlines.com",
+                "www.trendmicro-update.org",
+                "www.update-onlines.org",
+                "x.apigmail.com",
+                "ykcai.update-onlines.org",
+                "ykcailostself.dyndns-free.com",
+                "ykcainobody.dyndns.org",
+                "zj.blackcmd.com",
+                "laxness-lab.com",
+                "google-ana1ytics.com",
+                "www.google-ana1ytics.com",
+                "ftp.google-ana1ytics.com",
+                "hotmailcontact.net",
+                "down.pzchao.com",
+                "up.pzchao.com",
+                "dll.pzchao.com",
+                "rat.pzchao.com",
+                "centuriosa.info",
+                "zll855.no-ip.info",
+                "zll855.gicp.net"
             ]
         },
         {
@@ -13947,7 +13948,8 @@
                 "195.123.243.169:443",
                 "108.170.20.89:443",
                 "195.123.240.46:443",
-                "37.252.4.131:443"
+                "37.252.4.131:443",
+                "185.130.104.174:443"
             ],
             "ioc_url": [
                 "https://185.159.82.237/odrivers/update-9367.php",
@@ -20110,7 +20112,9 @@
                 "newcatalog.library.cornell.ulibc.xyz",
                 "onesearch.library.rice.ulibc.xyz",
                 "lezpro.xyz",
-                "login.ezproxy.uwc.ac.za.lezpro.xyz"
+                "login.ezproxy.uwc.ac.za.lezpro.xyz",
+                "edcu.me",
+                "udun.me"
             ]
         },
         {
@@ -25276,10 +25280,16 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2021-11-01",
-            "ioc_url": [
-                "http://72.21.245.117"
-            ],
             "ioc_domain": [
+                "mumbai-m.site",
+                "dns-update.club",
+                "proxycheker.pro",
+                "hpserver.online",
+                "anyportals.com",
+                "pmoae.com",
+                "cgalim.com",
+                "hakproperty.com",
+                "sync.appchecks.rr.nu",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -25527,14 +25537,11 @@
                 "upsrv.16mb.com",
                 "vscode-plug.c1.biz",
                 "win10-ms.c1.biz",
-                "mumbai-m.site",
-                "dns-update.club",
-                "proxycheker.pro",
-                "hpserver.online",
-                "anyportals.com",
-                "pmoae.com",
-                "cgalim.com",
-                "hakproperty.com",
+                "acddesigns.com.au",
+                "buttyfly.000webhostapp.com",
+                "kmbr1.nitesbr1.org",
+                "planar-progress.000webhostapp.com",
+                "stjohns-burscough.org",
                 "charley-online.com",
                 "fighiting1013.org",
                 "a7788.1apps.com",
@@ -25547,13 +25554,10 @@
                 "881.000webhostapp.com",
                 "hanbosston.000webhostapp.com",
                 "filer1.1apps.com",
-                "filer2.1apps.com",
-                "acddesigns.com.au",
-                "buttyfly.000webhostapp.com",
-                "kmbr1.nitesbr1.org",
-                "planar-progress.000webhostapp.com",
-                "stjohns-burscough.org",
-                "sync.appchecks.rr.nu"
+                "filer2.1apps.com"
+            ],
+            "ioc_url": [
+                "http://72.21.245.117"
             ],
             "ioc_ip": [
                 "5.252.198.93:7337",
@@ -27803,6 +27807,12 @@
             ],
             "last card change": "2021-11-02",
             "ioc_ip": [
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -27817,13 +27827,7 @@
                 "178.32.251.98",
                 "145.249.106.198:443",
                 "185.236.203.53:443",
-                "23.200.147.10:80",
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25"
+                "23.200.147.10:80"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -29679,6 +29683,8 @@
             ],
             "last card change": "2020-04-22",
             "ioc_domain": [
+                "shelves-design.com",
+                "weekendstrips.net",
                 "adlinkmetric.com",
                 "adlinkmetrics.com",
                 "bestairlinepricetags.com",
@@ -29763,9 +29769,7 @@
                 "footballtimes.info",
                 "upnpdiscover.org",
                 "vegetableportfolio.com",
-                "windowsearchcache.com",
-                "shelves-design.com",
-                "weekendstrips.net"
+                "windowsearchcache.com"
             ]
         },
         {
@@ -29933,10 +29937,6 @@
                 "185.117.88.80:8088"
             ],
             "ioc_domain": [
-                "firefoxcomt.arkouowi.com",
-                "update.arkouowi.com",
-                "friendlysupport.giize.com",
-                "algorithm.ddnsgeek.com",
                 "dick.ccfchrist.com",
                 "trout.belowto.com",
                 "sakai.unhamj.com",
@@ -31527,7 +31527,11 @@
                 "yandex2unitedstated.dns05.com",
                 "yandex2unitedstated.dynamic-dns.net",
                 "zebra.wthelpdesk.com",
-                "rare-coisns.com"
+                "rare-coisns.com",
+                "firefoxcomt.arkouowi.com",
+                "update.arkouowi.com",
+                "friendlysupport.giize.com",
+                "algorithm.ddnsgeek.com"
             ]
         },
         {
@@ -31815,13 +31819,6 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
-            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -31829,6 +31826,13 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
+            ],
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
             ]
         },
         {
@@ -33534,7 +33538,15 @@
                 "microsoft.update-store.com",
                 "cdn03664-dl-fileshare.com",
                 "cdn-wfs-nspod.com",
-                "microsoft-update-ru.com"
+                "microsoft-update-ru.com",
+                "cdn-8846-sharepoint-office.com",
+                "cdnfilesdrop.com",
+                "diarromonico.com",
+                "dropmefilesbox.com",
+                "dzikic-my-sharepoint.com",
+                "dzikics-my-sharepoint.com",
+                "int-onedrive.com",
+                "us-dropbox.com"
             ]
         },
         {
@@ -35236,29 +35248,19 @@
             ],
             "last card change": "2021-04-20",
             "ioc_ip": [
-                "185.20.187.10:443",
                 "68.65.121.44:1883",
                 "68.65.121.44:443",
                 "198.54.117.211:1883",
                 "198.54.117.217:1883",
                 "198.54.117.215:1883",
                 "198.54.117.212:1883",
-                "198.54.117.218:1883"
+                "198.54.117.218:1883",
+                "185.20.187.10:443"
+            ],
+            "ioc_url": [
+                "http://198.54.115.130"
             ],
             "ioc_domain": [
-                "tibetvoices.com",
-                "about.jkub.com",
-                "eleven.mypop3.org",
-                "backus.myftp.name",
-                "dpponline.trickip.org",
-                "jupiter.qpoe.com",
-                "mila1314.25u.com",
-                "mila1314.4dq.com",
-                "mila1314.ddns.info",
-                "myinfo.ocry.com",
-                "myzinfo.myz.info",
-                "oldape.25u.com",
-                "oldape.4dq.com",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -35663,6 +35665,7 @@
                 "magic4smile.com",
                 "magicchat-1f275.firebaseio.com",
                 "magicsmile.fun",
+                "margarita-smith.host",
                 "marty-colvard.top",
                 "marwapetersson.info",
                 "melissa-garcia.site",
@@ -35733,10 +35736,22 @@
                 "peterabernathy.online",
                 "howard-maria.me",
                 "bruce-ess.com",
+                "diego-jackson.org",
+                "donald-grigg.site",
+                "tibetvoices.com",
+                "about.jkub.com",
+                "eleven.mypop3.org",
+                "backus.myftp.name",
+                "dpponline.trickip.org",
+                "jupiter.qpoe.com",
+                "mila1314.25u.com",
+                "mila1314.4dq.com",
+                "mila1314.ddns.info",
+                "myinfo.ocry.com",
+                "myzinfo.myz.info",
+                "oldape.25u.com",
+                "oldape.4dq.com",
                 "y5mogzal2w25p6bn.ml"
-            ],
-            "ioc_url": [
-                "http://198.54.115.130"
             ]
         },
         {
@@ -36036,6 +36051,14 @@
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
             "last card change": "2021-11-06",
+            "ioc_ip": [
+                "203.117.122.51",
+                "178.219.68.239",
+                "104.223.89.145",
+                "212.21.40.220",
+                "134.209.222.206:15363",
+                "85.222.235.156:8000"
+            ],
             "ioc_domain": [
                 "news-bbc.podzone.org",
                 "tapok121.jhfree.net",
@@ -36319,14 +36342,6 @@
                 "hotspot.accesscam.org",
                 "theguardian.webredirect.org",
                 "worldnews.ath.cx"
-            ],
-            "ioc_ip": [
-                "203.117.122.51",
-                "178.219.68.239",
-                "104.223.89.145",
-                "212.21.40.220",
-                "134.209.222.206:15363",
-                "85.222.235.156:8000"
             ],
             "ioc_url": [
                 "http://169.255.137.203/rss_0.php",
