@@ -5096,7 +5096,6 @@
             ],
             "last card change": "2021-04-24",
             "ioc_ip": [
-                "85.206.175.252",
                 "139.59.30.109:8090",
                 "195.12.50.172:46405",
                 "202.59.10.170:46405",
@@ -5105,7 +5104,8 @@
                 "45.63.123.237:46405",
                 "45.61.139.211:443",
                 "185.225.19.100:443",
-                "221.219.213.178:8081"
+                "221.219.213.178:8081",
+                "85.206.175.252"
             ],
             "ioc_url": [
                 "http://167.88.180.198"
@@ -6938,6 +6938,8 @@
             "first seen": "2010",
             "last card change": "2021-11-04",
             "ioc_domain": [
+                "asiainfo.hpcloudnews.com",
+                "loop.microsoftmse.com",
                 "panasocin.com",
                 "totalpople.info",
                 "yasonbin.info",
@@ -6957,9 +6959,7 @@
                 "centosupdates.com",
                 "centosupdate.dynamic-dns.net",
                 "centrosupdate.proxydns.com",
-                "update.centosupdates.com",
-                "asiainfo.hpcloudnews.com",
-                "loop.microsoftmse.com"
+                "update.centosupdates.com"
             ]
         },
         {
@@ -20282,6 +20282,12 @@
             ],
             "last card change": "2021-11-03",
             "ioc_domain": [
+                "servicesystem.serveirc.com",
+                "chrome-up.date",
+                "timezone.live",
+                "analytics-google.org",
+                "microsoftsubsystem.com-adm.in",
+                "microsoftexplorerservices.cloud",
                 "jewishjournal.us",
                 "deutcshewelle.org",
                 "deutcshewelle.com",
@@ -20892,13 +20898,7 @@
                 "jamaat-ul-islam.com",
                 "jamatapplication.com",
                 "jamaatforummah.com",
-                "jamaatforallah.com",
-                "servicesystem.serveirc.com",
-                "chrome-up.date",
-                "timezone.live",
-                "analytics-google.org",
-                "microsoftsubsystem.com-adm.in",
-                "microsoftexplorerservices.cloud"
+                "jamaatforallah.com"
             ]
         },
         {
@@ -22324,11 +22324,21 @@
                 "<https://attack.mitre.org/groups/G0049/>"
             ],
             "last card change": "2021-08-10",
+            "ioc_ip": [
+                "185.32.178.176:80",
+                "93.177.75.180:80",
+                "95.211.210.55:80",
+                "95.211.213.177:80",
+                "95.211.213.168:80",
+                "95.211.215.225:80",
+                "95.211.104.253:80",
+                "95.211.104.253:443",
+                "95.211.104.253:2255"
+            ],
+            "ioc_url": [
+                "http://185.15.247.154"
+            ],
             "ioc_domain": [
-                "coldflys.com",
-                "shoterup.com",
-                "barsupport.org",
-                "forskys.com",
                 "defender-update.com",
                 "windowspatch.com",
                 "herkhabar.com",
@@ -22482,21 +22492,11 @@
                 "yciwztanet1kcpnjds1wepwacqmz6frgxqlzutrxsmuux.defenderlive.com",
                 "yciwfgpmeq5wstpke6psqtahecnue5we.defenderlive.com",
                 "yciwfgroetpwetaletomqtahecq96qca.defenderlive.com",
-                "yciwzbrue66jsbaoespsqtahecnuetwb.defenderlive.com"
-            ],
-            "ioc_ip": [
-                "185.32.178.176:80",
-                "93.177.75.180:80",
-                "95.211.210.55:80",
-                "95.211.213.177:80",
-                "95.211.213.168:80",
-                "95.211.215.225:80",
-                "95.211.104.253:80",
-                "95.211.104.253:443",
-                "95.211.104.253:2255"
-            ],
-            "ioc_url": [
-                "http://185.15.247.154"
+                "yciwzbrue66jsbaoespsqtahecnuetwb.defenderlive.com",
+                "coldflys.com",
+                "shoterup.com",
+                "barsupport.org",
+                "forskys.com"
             ]
         },
         {
@@ -25279,10 +25279,25 @@
                 "<https://attack.mitre.org/groups/G0067/>"
             ],
             "last card change": "2021-11-01",
-            "ioc_url": [
-                "http://72.21.245.117"
+            "ioc_ip": [
+                "5.252.198.93:7337",
+                "103.249.31.159:7777"
             ],
             "ioc_domain": [
+                "charley-online.com",
+                "fighiting1013.org",
+                "a7788.1apps.com",
+                "alabamaok0515.1apps.com",
+                "attach10132.1apps.com",
+                "clean.1apps.com",
+                "s8877.1apps.com",
+                "tgbabcrfv.1apps.com",
+                "071790.000webhostapp.com",
+                "881.000webhostapp.com",
+                "hanbosston.000webhostapp.com",
+                "filer1.1apps.com",
+                "filer2.1apps.com",
+                "sync.appchecks.rr.nu",
                 "adamnews.for.ug",
                 "btcaes2.duckdns.org",
                 "da3da3.duckdns.org",
@@ -25542,25 +25557,10 @@
                 "anyportals.com",
                 "pmoae.com",
                 "cgalim.com",
-                "hakproperty.com",
-                "sync.appchecks.rr.nu",
-                "charley-online.com",
-                "fighiting1013.org",
-                "a7788.1apps.com",
-                "alabamaok0515.1apps.com",
-                "attach10132.1apps.com",
-                "clean.1apps.com",
-                "s8877.1apps.com",
-                "tgbabcrfv.1apps.com",
-                "071790.000webhostapp.com",
-                "881.000webhostapp.com",
-                "hanbosston.000webhostapp.com",
-                "filer1.1apps.com",
-                "filer2.1apps.com"
+                "hakproperty.com"
             ],
-            "ioc_ip": [
-                "5.252.198.93:7337",
-                "103.249.31.159:7777"
+            "ioc_url": [
+                "http://72.21.245.117"
             ]
         },
         {
@@ -27807,12 +27807,6 @@
             ],
             "last card change": "2021-11-02",
             "ioc_ip": [
-                "130.211.96.168",
-                "54.147.199.149",
-                "157.56.161.162",
-                "40.112.210.240",
-                "52.45.178.122",
-                "52.28.203.25",
                 "128.199.199.187:443",
                 "167.114.153.55:443",
                 "31.220.61.251:443",
@@ -27827,7 +27821,13 @@
                 "178.32.251.98",
                 "145.249.106.198:443",
                 "185.236.203.53:443",
-                "23.200.147.10:80"
+                "23.200.147.10:80",
+                "130.211.96.168",
+                "54.147.199.149",
+                "157.56.161.162",
+                "40.112.210.240",
+                "52.45.178.122",
+                "52.28.203.25"
             ],
             "ioc_url": [
                 "http://104.171.117.216",
@@ -29683,8 +29683,6 @@
             ],
             "last card change": "2020-04-22",
             "ioc_domain": [
-                "shelves-design.com",
-                "weekendstrips.net",
                 "adlinkmetric.com",
                 "adlinkmetrics.com",
                 "bestairlinepricetags.com",
@@ -29769,7 +29767,9 @@
                 "footballtimes.info",
                 "upnpdiscover.org",
                 "vegetableportfolio.com",
-                "windowsearchcache.com"
+                "windowsearchcache.com",
+                "shelves-design.com",
+                "weekendstrips.net"
             ]
         },
         {
@@ -29919,6 +29919,7 @@
             ],
             "last card change": "2021-04-20",
             "ioc_ip": [
+                "185.117.88.80:8088",
                 "93.171.216.129",
                 "144.168.45.116",
                 "109.248.222.85",
@@ -29933,8 +29934,7 @@
                 "185.117.88.77",
                 "185.117.88.82",
                 "109.237.111.175",
-                "83.217.26.203",
-                "185.117.88.80:8088"
+                "83.217.26.203"
             ],
             "ioc_domain": [
                 "dick.ccfchrist.com",
@@ -31819,13 +31819,6 @@
             ],
             "first seen": "2014",
             "last card change": "2020-04-20",
-            "ioc_ip": [
-                "82.137.255.56:1921",
-                "82.137.255.56:1940",
-                "82.137.255.56:1994",
-                "82.137.255.56:1740",
-                "82.137.255.56:5602"
-            ],
             "ioc_domain": [
                 "chatsecurelite.us.to",
                 "chatsecurelite.uk.to",
@@ -31833,6 +31826,13 @@
                 "bashalalassad1sea.noip.me",
                 "bbbb4.noip.me",
                 "telgram.strangled.net"
+            ],
+            "ioc_ip": [
+                "82.137.255.56:1921",
+                "82.137.255.56:1940",
+                "82.137.255.56:1994",
+                "82.137.255.56:1740",
+                "82.137.255.56:5602"
             ]
         },
         {
@@ -35247,8 +35247,17 @@
                 "<https://attack.mitre.org/groups/G0081/>"
             ],
             "last card change": "2021-04-20",
+            "ioc_ip": [
+                "185.20.187.10:443",
+                "68.65.121.44:1883",
+                "68.65.121.44:443",
+                "198.54.117.211:1883",
+                "198.54.117.217:1883",
+                "198.54.117.215:1883",
+                "198.54.117.212:1883",
+                "198.54.117.218:1883"
+            ],
             "ioc_domain": [
-                "y5mogzal2w25p6bn.ml",
                 "tibetvoices.com",
                 "about.jkub.com",
                 "eleven.mypop3.org",
@@ -35262,6 +35271,7 @@
                 "myzinfo.myz.info",
                 "oldape.25u.com",
                 "oldape.4dq.com",
+                "y5mogzal2w25p6bn.ml",
                 "1jve.com",
                 "aamir-khan.site",
                 "accaunts-googlc.com",
@@ -35740,16 +35750,6 @@
                 "diego-jackson.org",
                 "donald-grigg.site"
             ],
-            "ioc_ip": [
-                "185.20.187.10:443",
-                "68.65.121.44:1883",
-                "68.65.121.44:443",
-                "198.54.117.211:1883",
-                "198.54.117.217:1883",
-                "198.54.117.215:1883",
-                "198.54.117.212:1883",
-                "198.54.117.218:1883"
-            ],
             "ioc_url": [
                 "http://198.54.115.130"
             ]
@@ -36051,9 +36051,18 @@
                 "<https://attack.mitre.org/groups/G0010/>"
             ],
             "last card change": "2021-11-06",
+            "ioc_ip": [
+                "203.117.122.51",
+                "178.219.68.239",
+                "104.223.89.145",
+                "212.21.40.220",
+                "134.209.222.206:15363",
+                "85.222.235.156:8000"
+            ],
             "ioc_domain": [
                 "tapok121.jhfree.net",
                 "orl05511cn.temp.swtest.ru",
+                "news-bbc.podzone.org",
                 "smallcloud.ga",
                 "fleetwood.tk",
                 "adstore.twilightparadox.com",
@@ -36332,16 +36341,7 @@
                 "highcolumn.webredirect.org",
                 "hotspot.accesscam.org",
                 "theguardian.webredirect.org",
-                "worldnews.ath.cx",
-                "news-bbc.podzone.org"
-            ],
-            "ioc_ip": [
-                "203.117.122.51",
-                "178.219.68.239",
-                "104.223.89.145",
-                "212.21.40.220",
-                "134.209.222.206:15363",
-                "85.222.235.156:8000"
+                "worldnews.ath.cx"
             ],
             "ioc_url": [
                 "http://169.255.137.203/rss_0.php",
